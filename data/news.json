@@ -1,8 +1,129 @@
 {
-  "updated_at": "2026-08-31T14:02:57.813143Z",
-  "updated_label": "2026/08/31 23:02",
-  "count": 73,
+  "updated_at": "2026-08-31T20:38:13.766597Z",
+  "updated_label": "2026/09/01 05:38",
+  "count": 68,
   "items": [
+    {
+      "title": "SOAPを埋めるなら薬剤師らしいA（アセスメント）を書こう",
+      "link": "https://pharmacist.m3.com/column/yakureki/7746?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-08-31T20:38:12.624693Z",
+      "published_label": "2026/09/01 05:38",
+      "summary": "「私の薬局は必ずSOAPで書かないといけないことになっています。プロブレムを書く欄はありません。プロブレムが見つからなかったときに、以前教わった「SとPだけ書く」パターンをやったところ、上司から「SOAPを全部書きなさい」と怒られました。SOAPはめちゃくちゃでも、全部埋めてあれば怒られません。 今回もそれらしくSOAPにしてみました。プロブレムらしきものは見つかったのですが、あまり明確ではないので、本来なら箇条書きにすべきなのかなと思います。」と教わっています。これで薬歴として問題ないでしょうか。」との相談に、服薬ケア研究所所長 岡村祐聡先生がアドバイスします。",
+      "tags": [
+        "薬剤師コラム",
+        "プロブレム",
+        "SOAP",
+        "薬歴"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "三井不動産 総額70億円のライフサイエンス特化型CVCファンド新設 スタートアップを一気通貫で支援",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80802",
+      "source": "ミクスOnline",
+      "published": "2026-08-31T19:52:00Z",
+      "published_label": "2026/09/01 04:52",
+      "summary": "三井不動産は８月31日、アクシル・キャピタル・グループと共同で総額70億円のライフサイエンス領域に特化したCVCファンド「三井リンクファンド」を新設したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "メルク 国内３ラボ拠点を羽田イノベーションシティに集約 事業部間連携の緊密化で提供価値向上へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80801",
+      "source": "ミクスOnline",
+      "published": "2026-08-31T19:51:00Z",
+      "published_label": "2026/09/01 04:51",
+      "summary": "独メルクの日本法人は8月31日、日本のライフサイエンス・ビジネスのラボ機能の新拠点を羽田イノベーションシティ（東京都大田区）に設立すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "明治HD グループ創業110周年記念で歴代商品・資料を本社ビルに記念展示 27年3月31日まで",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80800",
+      "source": "ミクスOnline",
+      "published": "2026-08-31T19:50:00Z",
+      "published_label": "2026/09/01 04:50",
+      "summary": "明治ホールディングス（HD）は8月31日、明治グループ創業110周年を記念して、本社ビル（東京都中央区）1階エントランスホールで歴代商品や資料の記念展示を行うと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "バイエル薬品 非ステロイド型MR拮抗薬・ケレンディア CKD領域の適応拡大を承認申請",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80799",
+      "source": "ミクスOnline",
+      "published": "2026-08-31T19:50:00Z",
+      "published_label": "2026/09/01 04:50",
+      "summary": "バイエル薬品は８月28日、非ステロイド型選択的MR拮抗薬・ケレンディア（一般名：フィネレノン）について、慢性腎臓病（CKD）に係る適応拡大を承認申請したと発表した。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "制吐目的のオランザピン、糖尿病患者にも厳格管理下で投与可能へ／日本癌治療学会",
+      "link": "https://www.carenet.com/news/general/carenet/63494?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-08-31T19:00:00Z",
+      "published_label": "2026/09/01 04:00",
+      "summary": "2026年8月25日、日本癌治療学会制吐薬適正使用ガイドライン改訂ワーキンググループ（以下、WG）は、「制吐目的としてのオランザピン投与時の血糖管理」について、ガイドライン速報版として公開した。同日に厚生労…",
+      "tags": [
+        "学術・エビデンス",
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品＋ウェビナー】製薬業界の競合分析を変えるエージェントAI「Atlas CI」登場【AD】",
+      "link": "https://www.yakuji.co.jp/entry138215.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T15:00:53Z",
+      "published_label": "2026/09/01 00:00",
+      "summary": "Citeline/Evaluate",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "成功の原動力となるシステム：テクノロジーパートナーに治験への理解が求められる理由【AD】",
+      "link": "https://www.yakuji.co.jp/entry138250.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T15:00:24Z",
+      "published_label": "2026/09/01 00:00",
+      "summary": "TRANSPERFECT INTERNATIONAL LLC",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "紹介状の最後の3行で、私は泣いた",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/hirohashi/202609/594380.html",
+      "source": "日経メディカル Online",
+      "published": "2026-08-31T15:00:00Z",
+      "published_label": "2026/09/01 00:00",
+      "summary": "皆さんは、自分の書いた紹介状が、受け取った側にどう読まれているか、知っていますか。 書いた紹介状の感想を教えてくれる人は、まずいません。返書は届いても、そこに「先生の紹介状、正直困りました」とは書かれない。だから今日は、受け取る側から見た風景をお話ししようと思います。そして先にお断りしておくと、これは医師が作成する診療情報提供書だけの話ではありません。看護サマリーも、薬剤師の服薬情報提供書も、全く同じです。 緩和ケア外来の初診でも、在…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "片頭痛に「プロプラノロール」ハイリスク算定は？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7744?promotionCode=op_pcolumn",
@@ -43,19 +164,6 @@
         "学術・エビデンス"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "沖縄・岩手などでインフルが異例の早期流行、急がれるワクチン接種／厚労省",
-      "link": "https://www.carenet.com/hihyomon/310.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-31T01:00:08Z",
-      "published_label": "2026/08/31 10:00",
-      "summary": "「インフル異例の早期流行 新型コロナも増加、同時流行に注意」「OTC類似薬77成分に25％の特別負担 がん・難病患者への配慮を」ほか。先週の医療ニュースのキャッチアップにお役立てください！",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -271,46 +379,6 @@
       "keywords": []
     },
     {
-      "title": "オピオイド処方率、抜き打ち審査が影響／BMJ",
-      "link": "https://www.carenet.com/news/journal/carenet/63511?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-30T19:00:00Z",
-      "published_label": "2026/08/31 04:00",
-      "summary": "米国では1996年、「痛みは第5のバイタルサイン」との概念が導入され、それ以降、疼痛を測定・治療するための体系的な取り組みが、オピオイドの処方行動にどの程度の影響を及ぼすかについて議論がなされてきたが、…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "イサツキシマブ皮下注製剤発売、投与時間の短縮と患者・医療者の負担軽減に／サノフィ",
-      "link": "https://www.carenet.com/news/general/carenet/63504?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-30T19:00:00Z",
-      "published_label": "2026/08/31 04:00",
-      "summary": "サノフィは2026年8月27日、イサツキシマブの皮下注製剤「サークリサ皮下注1400mg」を発売した。本製剤は、多発性骨髄腫に対するポマリドミド・デキサメタゾン併用療法（Pd）、カルフィルゾミブ・デキサメタゾン併…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "2～5歳児にインフルワクチンが有効、米国では秋生まれに感染が少ない",
-      "link": "https://www.carenet.com/news/general/hdn/63408?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-30T19:00:00Z",
-      "published_label": "2026/08/31 04:00",
-      "summary": "2～5歳児において、秋生まれの小児はインフルエンザワクチンの接種を受ける可能性が高く、インフルエンザと診断される可能性が低いという研究結果が、「JAMA Pediatrics」に6月1日掲載された。 米マサチューセ…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "薬局実習、薬学生指導のポイントは【第3週目】",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/practicenavi/202608/594366.html",
       "source": "日経メディカル Online",
@@ -452,32 +520,6 @@
         "感染症・ワクチン"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【薬ゼミ国試対策】医薬品販売規制の改正に注意",
-      "link": "https://www.yakuji.co.jp/entry138588.html",
-      "source": "薬事日報",
-      "published": "2026-08-28T03:15:43Z",
-      "published_label": "2026/08/28 12:15",
-      "summary": "学校法人医学アカデミーグループ薬学ゼミナール 薬剤師国家試験に向けて、夏頃までは基礎系や薬理、苦手な部分にじっくり取り組むという方が多いのではないでしょうか。…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "令和8年度 登録販売者試験 試験日 【西日本】",
-      "link": "https://www.yakuji.co.jp/entry133939.html",
-      "source": "薬事日報",
-      "published": "2026-08-28T02:00:17Z",
-      "published_label": "2026/08/28 11:00",
-      "summary": "情報には万全を期していますが、最終的には各都道府県に確認をお願いいたします。 近畿 試験日 願書受付期間 合格発表 受験手数料 福井県 8/30(日) 6/1(…",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -747,59 +789,6 @@
       "keywords": []
     },
     {
-      "title": "ロキソプロフェン、指定第2類への変更でパブコメ募集開始",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202608/594350.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-26T15:00:00Z",
-      "published_label": "2026/08/27 00:00",
-      "summary": "厚生労働省は2026年9月25日、OTC医薬品で第1類に分類されているロキソプロフェン（商品名ロキソニンSなど）を指定第2類医薬品へリスク区分を変更することについて、パブリックコメントの募集を開始した。募集は9月23日まで。",
-      "tags": [
-        "法令・行政",
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "「薬局はACPを始めるのに最適」その理由は?",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202608/594301.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-26T15:00:00Z",
-      "published_label": "2026/08/27 00:00",
-      "summary": "ACP（アドバンス・ケア・プランニング、人生会議）を、もっと身近なものにできないか──。 滋賀県大津市の多職種連携チーム「チーム大津京」で活躍する医師や薬剤師らは、そんな思いから、家族で「もしものとき」を話し合うきっかけとなる絵本『サイ五郎さんちの人生会議』を制作した。 絵本を読み、対話カードを使って互いの価値観を語り合うというユニークな取り組みは薬剤師の間にも広がり、2026年5月に開催された第10回日本老年薬学会学術大会では、この…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【漫画】キャッシュレス時代の薬局あるある！？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/ganbare/202608/594260.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-26T15:00:00Z",
-      "published_label": "2026/08/27 00:00",
-      "summary": "読者の皆さんの支払い方法は現金派ですか、それともキャッシュレス派ですか。 私はポイントをためるため、キャッシュレスでほぼ支払いをしています。キャッシュレス決済に対応する店舗や施設が増え、ほとんど現金を使わなくなったので、長年使っていた長財布をやめ、カードが取り出しやすい形のミニサイズの財布に今年変えました。子どものお小遣いもキャッシュレスの方が喜ばれます。 医療機関でも総合病院や薬局でも使えるようになり、キャッシュレス派にとっては便利…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "COVID-19による超過死亡率に男女差なし",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/etc/202608/594297.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-26T15:00:00Z",
-      "published_label": "2026/08/27 00:00",
-      "summary": "英国Oxford大学のKatarzyna Doniec氏らは、新型コロナウイルス感染症（COVID-19）パンデミックを3つの期間に分けて、主に高所得の34カ国のデータから超過死亡率を推定したところ、パンデミック当初には多くの国から男性の粗死亡数が多いことが報告されていたものの、性差は主にワクチンの登場前に見られ、やがて減少し、全死因における超過死亡率の相対的な増加幅は、男女間でおおむね同程度だったと報告した。結果は2026年7月23…",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "第67回厚生科学審議会予防接種・ワクチン分科会の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_74952.html",
       "source": "厚生労働省 新着情報",
@@ -914,60 +903,6 @@
       "summary": "第一三共は8月24日、2030年までに予定するがん領域5製品20適応症の上市を見据え、グローバルの商業化体制およびリソースを集約・再編すると発表した。",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "新薬等18製品承認へ ヤンセンの経口乾癬治療薬・イコタイド錠など 薬事審・第二部会が了承",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80747",
-      "source": "ミクスOnline",
-      "published": "2026-08-24T19:50:00Z",
-      "published_label": "2026/08/25 04:50",
-      "summary": "厚生労働省の薬事審議会・医薬品第二部会は８月24日、ヤンセンファーマの経口乾癬治療薬・イコタイド錠（一般名：イコトロキンラ塩酸塩）など新薬８製品の承認の可否を審議し、承認を了承した。",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "厚労省 新薬等23製品を承認 B型肝炎治療薬ヒブサーゴ ナルコレプシータイプ1治療薬オーゼイフルなど",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80745",
-      "source": "ミクスOnline",
-      "published": "2026-08-24T19:50:00Z",
-      "published_label": "2026/08/25 04:50",
-      "summary": "厚生労働省は８月24日、新医薬品など23製品を承認した。",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "MR認定センター・森岡委員長 AI時代に悲観論や楽観論は「停滞」 AI活用でMR価値を「進化」に再定...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80738",
-      "source": "ミクスOnline",
-      "published": "2026-08-23T19:52:00Z",
-      "published_label": "2026/08/24 04:52",
-      "summary": "MR認定センター・教育研修委員・企業委員会の森岡真一委員長（アステラス製薬カスタマーエクセレンス部部長）は8月21日開催の「ＭＲフォーラム2026」で、「ＡＩ時代に問われるＭＲの進化」をテーマに講演した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "住友ファーマ 米国２製品オルゴビクス・ジェムテサがQ1業績を牽引 木村社長「想定を上回る進捗」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80743",
-      "source": "ミクスOnline",
-      "published": "2026-08-23T19:51:00Z",
-      "published_label": "2026/08/24 04:51",
-      "summary": "住友ファーマの木村徹代表取締役社長は８月21日の記者会見で、2026年度第１四半期決算について、「我々の想定を若干上回る進捗を示した」と報告した。",
-      "tags": [
-        "業界動向"
       ],
       "importance": 2,
       "keywords": []
