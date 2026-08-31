@@ -28,6 +28,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
+from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
@@ -367,8 +368,17 @@ def normalize_text(value: Any, max_length: int | None = None) -> str:
     return normalized
 
 
-def normalize_link(link: str) -> str:
-    return str(link or "").strip()
+def normalize_link(link: str, base_url: str = "") -> str:
+    """相対リンクをフィードの URL で絶対化する。
+
+    ミクスOnline の RSS は <link>/tabid55.html?artid=80793</link> のように相対で返す。
+    そのまま Telegram に流すと開けないので、ここで吸収する。
+    """
+    normalized = str(link or "").strip()
+    if not normalized or not base_url:
+        return normalized
+
+    return urljoin(base_url, normalized)
 
 
 def format_datetime(value: datetime | None) -> tuple[str, str, tuple[int, float]]:
@@ -491,7 +501,7 @@ def calc_fallback_importance(title: str, summary: str, tags: list[str]) -> int:
 
 def build_news_item(entry: Any, feed_config: dict[str, Any], tag_rules: dict[str, list[str]]) -> NewsItem | None:
     title = normalize_text(entry.get("title"))
-    link = normalize_link(entry.get("link", ""))
+    link = normalize_link(entry.get("link", ""), feed_config["url"])
 
     if not title or not link:
         return None

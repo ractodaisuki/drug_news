@@ -27,8 +27,13 @@ import urllib.request
 from html import unescape
 from pathlib import Path
 
-NEWS_URL = "https://raw.githubusercontent.com/ractodaisuki/pharma-news/main/data/news.json"
-STATUS_URL = "https://raw.githubusercontent.com/ractodaisuki/pharma-news/main/data/status.json"
+# 検証時はローカルのファイルパスを渡せる（PHARMA_NEWS_URL=./data/news.json など）。
+NEWS_URL = os.environ.get(
+    "PHARMA_NEWS_URL", "https://raw.githubusercontent.com/ractodaisuki/pharma-news/main/data/news.json"
+)
+STATUS_URL = os.environ.get(
+    "PHARMA_STATUS_URL", "https://raw.githubusercontent.com/ractodaisuki/pharma-news/main/data/status.json"
+)
 ENV_PATH = Path("/opt/data/.env")
 STATE_PATH = Path(os.environ.get("PHARMA_DIGEST_STATE", "/opt/data/scripts/.pharma_digest_state.json"))
 TELEGRAM_CHAT_ID = "8713490685"
@@ -39,6 +44,9 @@ STATE_RETENTION = 800
 
 
 def fetch_json(url: str) -> dict:
+    if not url.startswith(("http://", "https://")):
+        return json.loads(Path(url).read_text(encoding="utf-8"))
+
     req = urllib.request.Request(url, headers={"User-Agent": "Hermes-Pharma-Digest/1.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         if resp.status != 200:
