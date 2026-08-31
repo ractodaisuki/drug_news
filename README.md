@@ -20,19 +20,19 @@ hermes-vps 側の `drug_news_digest.py` がそれを読んで未送信分だけ 
   薬の記事が★3に張り付き、朝の digest（★4以上）に乗らない原因がこれ。
 
 このリポジトリでは取得まわりの機械部分だけ移植し、評価軸を薬局実務に振り直している。
-**`importance` は Gemini の判定をそのまま使う。**
+なお **Gemini は既定では使わない**（次節）。使う場合は `importance` を Gemini の判定でそのまま上書きする。
 
 ## 構成
 
 ```
-feeds.json                  RSS フィード定義（include_keywords で絞り込み可）
+feeds.json                  RSS フィード定義（include_keywords / exclude_title_patterns で絞り込み）
 config/tag_rules.json       キーワード → タグ。並び順が実務の緊急度順
 config/watch_sites.json     RSS がないサイトの CSS セレクタ監視
-scripts/fetch_news.py       RSS 取得 + Gemini 解析 → data/news.json
+scripts/fetch_news.py       RSS 取得 + 採点 → data/news.json
 scripts/check_websites.py   Web 監視 → data/news.json に追記
 deploy/drug_news_digest.py     VPS 側。news.json → Telegram（VPS へコピーして使う）
 data/news.json              収集結果（最大200件）
-data/analysis_cache.json    Gemini 解析のキャッシュ。同じ記事を二度解析しない
+data/analysis_cache.json    Gemini 解析のキャッシュ（既定では未使用）
 data/watch_state.json       Web 監視のハッシュ
 data/status.json            最終実行の成否
 ```
@@ -54,9 +54,23 @@ data/status.json            最終実行の成否
 
 m3.com の DI Station と薬剤師掲示板はログイン必須のため取得できない。
 
-## 重要度の基準
+## Gemini は既定で使わない
 
-Gemini に「保険薬局の薬剤師にとって、明日の業務がどれだけ変わるか」で判定させている。
+流量が平日20〜33件しかなく、順位付けをするほどの件数ではないため、**`GEMINI_API_KEY` は設定していない**。
+digest は★で絞らず、その日の新着を全部1通の一覧で流す。
+
+キーワード採点では「ビタジェクトが一時供給停止」と「太陽光・蓄電池で供給を守る」を区別できない。
+だから★は当てにならず、**★で切ると良い記事を落とすリスクの方が大きい**と判断した。
+`importance` の値自体は `data/news.json` に残してあるが、digest では使っていない。
+
+ノイズは収集側で落とす:
+- 医師向けの `日経メディカル` と `CareNet` は `include_keywords` で薬局関連に限定（実測 42件→20件）
+- 薬事日報の索引投稿（行政情報リスト、プレスリリース・タイトルリスト等）は `exclude_title_patterns`
+- タグが「業界動向」だけの記事（筆頭株主・四半期業績・販売提携）は digest 側で落とす
+- 「その他」は落とさない。OTC類似薬の見直し議論など当たりが混ざっていて分離できない
+
+**Secrets に `GEMINI_API_KEY` を入れれば採点が Gemini に切り替わる。** コードは残してある。
+そのときの基準は以下。
 
 | ★ | 基準 |
 |---|---|
@@ -66,14 +80,15 @@ Gemini に「保険薬局の薬剤師にとって、明日の業務がどれだ�
 | 2 | 背景知識どまり。総論的な解説、イベント告知 |
 | 1 | 実務に無関係。広告、PR、決算数値のみ |
 
-`GEMINI_API_KEY` が無いときは `calc_fallback_importance()` の近似スコアになる。
-こちらはタイトルに回収・緊急安全性情報などが出たときだけ★5にして、それ以外は★4止まりにしてある。
+キーが無いときは `calc_fallback_importance()` の近似スコアになる（既定はこちら）。
+★5 は回収・緊急安全性情報などタイトルで確実に判る語だけ、あとはタグが
+「回収／供給・出荷／安全性情報／薬価・制度／一般用医薬品／医療安全／法令・行政」に当たれば +1、
+「学術・エビデンス／業界動向」なら -1 という単純な足し引きで、★4止まり。
 
 ## セットアップ
 
-1. リポジトリの Secrets に `GEMINI_API_KEY` を登録する（`RSS_news` と同じキーで良い）
-2. Actions を有効にする。3時間おきに動く
-3. VPS へ digest と env を置く
+1. Actions を有効にする。3時間おきに動く（Secrets は不要）
+2. VPS へ digest と env を置く
 
 配信は専用ボット **@racto_Drug_bot**。他のボットと token を共有しない。
 

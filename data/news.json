@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-31T10:41:42.203837Z",
-  "updated_label": "2026/08/31 19:41",
-  "count": 105,
+  "updated_at": "2026-08-31T14:02:57.813143Z",
+  "updated_label": "2026/08/31 23:02",
+  "count": 73,
   "items": [
     {
       "title": "片頭痛に「プロプラノロール」ハイリスク算定は？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7744?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-08-31T10:41:41.579528Z",
-      "published_label": "2026/08/31 19:41",
+      "published": "2026-08-31T14:02:57.213027Z",
+      "published_label": "2026/08/31 23:02",
       "summary": "「ハイリスク薬」と呼ばれる「特に安全管理が必要な医薬品」が処方されている場合、要件を満たしていれば「特定薬剤管理指導加算1」を算定できます。では、ハイリスク薬が処方されていても、加算を算定できないケースはあるのでしょうか？",
       "tags": [
         "薬剤師コラム",
@@ -17,59 +17,6 @@
         "診療報酬改定"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "行政情報リスト 2026/08/31",
-      "link": "https://www.yakuji.co.jp/entry138649.html",
-      "source": "薬事日報",
-      "published": "2026-08-31T08:02:46Z",
-      "published_label": "2026/08/31 17:02",
-      "summary": "【厚労省】審議会等 第６８回厚生科学審議会疾病対策部会指定難病検討委員会 【厚労省】統計情報 医療施設動態調査（令和8(2026)年6月末概数） 【厚労省】採用情報 【医系技官採用】令和8年度 後期試験は行います。半日見学会（医師および医学生を対象）の受付を開始しました。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "プレスリリース・タイトルリスト：新製品 2026/08/31",
-      "link": "https://www.yakuji.co.jp/entry138689.html",
-      "source": "薬事日報",
-      "published": "2026-08-31T08:01:58Z",
-      "published_label": "2026/08/31 17:01",
-      "summary": "【第一三共ヘルスケア株式会社】総合かぜ薬「ルルAプレミアム（ビンタイプ・PTPシートタイプ）」を新発売 【第一三共ヘルスケア株式会社】鎮咳去たん薬「ルルダイレクトS錠」を新発売",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "プレスリリース・タイトルリスト 2026/08/31",
-      "link": "https://www.yakuji.co.jp/entry138685.html",
-      "source": "薬事日報",
-      "published": "2026-08-31T08:00:22Z",
-      "published_label": "2026/08/31 17:00",
-      "summary": "【住友ファーマ株式会社】GPIFが採用するESG投資指数の構成銘柄のうち5つに選定 【ロート製薬株式会社】「加齢皮膚」に特化した研究基金「加齢皮膚医学研究基金：ロート賞」第20回受賞者を発表 【株式会社ツムラ】50歳からのフレイルアクションプロジェクト、「50歳からのフレイル川柳」キャンペーンを9月1日より募集開始",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【書籍】保険薬局業務指針 2026年版",
-      "link": "https://www.yakuji.co.jp/entry138657.html",
-      "source": "薬事日報",
-      "published": "2026-08-31T06:35:10Z",
-      "published_label": "2026/08/31 15:35",
-      "summary": "保険調剤業務に伴う調剤報酬請求実務の全体を詳しく解説した保険薬局の必携本！ 2026（令和8）年施行の調剤報酬の改定内容、保険調剤に関する事項を中心に解説し、重…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -82,7 +29,7 @@
       "tags": [
         "その他"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -94,19 +41,6 @@
       "summary": "巻頭言 がん医療の中で、病院・薬局・大学、全ての薬剤師をつなぐ力 一般社団法人日本臨床腫瘍薬学会 理事長 松井 礼子 近年、がん薬物療法は目覚ましい進歩を遂げ、…",
       "tags": [
         "学術・エビデンス"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "在宅医療、従事経験のある医師は何割？／医師1,000人アンケート",
-      "link": "https://www.carenet.com/enquete/drsvoice/cg005915_index.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-31T01:00:10Z",
-      "published_label": "2026/08/31 10:00",
-      "summary": "今後在宅医療ニーズは多くの地域で増加し、とくに85歳以上の在宅医療の需要は大きく増加する見通しとなっています。CareNet.comでは、会員医師約1,000人を対象に、在宅医療への従事状況・従事意向、魅力/ハードルと感じる点についてお聞きしました。",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -125,32 +59,6 @@
       "keywords": []
     },
     {
-      "title": "睡眠時無呼吸症候群の検査、英語でどう言う？",
-      "link": "https://www.carenet.com/series/english/cg005036_073.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-31T01:00:05Z",
-      "published_label": "2026/08/31 10:00",
-      "summary": "「増悪」「熱発」…。医療者が日々使う言葉でも患者さんに使うと「？」となること、ありますよね。英語も同じ。「同じ意味の異なる表現」をまとめて覚えられる、“お得な”コラム。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "同種iPS細胞由来の心筋細胞と間質細胞から成るパッチ型心筋移植片BioVATは心不全治療に有望かも（解説：原田和昌氏）",
-      "link": "https://www.carenet.com/news/clear/journal/63484?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-31T01:00:00Z",
-      "published_label": "2026/08/31 10:00",
-      "summary": "BioVATは同種iPS細胞由来の心筋細胞と間質細胞から成るパッチ型心筋移植片で、LVEFが低下した心不全患者における心筋再筋肉化を目的とする。ドイツ・ゲッチンゲン大学のZimmermann氏らはBioVAT-HF研究において、ド…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "【厚労省】調剤医療費が過去最高更新‐薬剤料増も処方箋枚数減少",
       "link": "https://www.yakuji.co.jp/entry138633.html",
       "source": "薬事日報",
@@ -160,7 +68,7 @@
       "tags": [
         "法令・行政"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -173,7 +81,7 @@
       "tags": [
         "一般用医薬品"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -187,7 +95,7 @@
         "学術・エビデンス",
         "法令・行政"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -197,19 +105,6 @@
       "published": "2026-08-30T22:31:20Z",
       "published_label": "2026/08/31 07:31",
       "summary": "ナリス化粧品は、ドラッグストア・量販店流通で2024年から展開するナリスアップブランドの日焼け止め「by365（バイサンロクゴ）」を2月10日にリニューアル。…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "医療機関の倒産情報 2026年8月19日",
-      "link": "https://www.yakuji.co.jp/entry138607.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T22:30:52Z",
-      "published_label": "2026/08/31 07:30",
-      "summary": "医療法人社団明清会（広島県三原市宮浦6丁目2番1号／清算人山田徹氏）は8月19日午後5時、広島地方裁判所尾道支部より破産手続きの開始決定を受けた。 同法人は…",
       "tags": [
         "その他"
       ],
@@ -278,7 +173,7 @@
       "tags": [
         "一般用医薬品"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -292,7 +187,7 @@
         "承認・新薬",
         "業界動向"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -306,20 +201,7 @@
         "業界動向",
         "供給・出荷"
       ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬事日報 2026/08/31",
-      "link": "https://www.yakuji.co.jp/entry138619.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T21:00:08Z",
-      "published_label": "2026/08/31 06:00",
-      "summary": "きょうの紙面（本号8ページ） プロピベリン指定第2類へ 安全対策調査会：P2 「レケンビ」皮下注追加 医薬品第1：P3 つくば市で実証事業 アルフレッサなど：P6 AI拠点が本格稼働 ツムラなど5社：P7",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -336,19 +218,6 @@
       "keywords": []
     },
     {
-      "title": "日本新薬が初戦突破 第97回都市対抗野球大会 2本のホームラン含む16安打で大勝 2回戦は9月2日",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80797",
-      "source": "ミクスOnline",
-      "published": "2026-08-30T19:52:00Z",
-      "published_label": "2026/08/31 04:52",
-      "summary": "日本新薬（京都市代表）は8月30日、東京ドームで開催された第97回都市対抗野球大会の1回戦で日本製鉄鹿島（鹿嶋市代表）と対戦し、10対４のスコアで初戦を勝利で飾った。",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "塩野義製薬 米政府との契約「Project BioShield」に基づきセフィデロコル調達で3億69...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80795",
       "source": "ミクスOnline",
@@ -359,7 +228,7 @@
         "業界動向",
         "感染症・ワクチン"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -372,7 +241,7 @@
       "tags": [
         "業界動向"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -385,7 +254,7 @@
       "tags": [
         "供給・出荷"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -402,19 +271,6 @@
       "keywords": []
     },
     {
-      "title": "心臓手術時の血小板輸血、長期冷蔵保存血液でも止血効果／JAMA",
-      "link": "https://www.carenet.com/news/journal/carenet/63512?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-30T19:00:00Z",
-      "published_label": "2026/08/31 04:00",
-      "summary": "人工心肺装置（CPB）の使用を伴う心臓手術を受ける患者は、出血に対する血小板輸血を要することが多いという。血小板は通常、室温（20～24℃）で最長5～7日間保存されるが、冷蔵保存（1～6℃）により、止血機能を損な…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "オピオイド処方率、抜き打ち審査が影響／BMJ",
       "link": "https://www.carenet.com/news/journal/carenet/63511?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
@@ -428,65 +284,12 @@
       "keywords": []
     },
     {
-      "title": "スタチンとARBの併用で認知症リスクは低下するのか",
-      "link": "https://www.carenet.com/news/general/carenet/63506?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-30T19:00:00Z",
-      "published_label": "2026/08/31 04:00",
-      "summary": "高血圧と脂質異常症は、認知症の修正可能な危険因子であり、スタチンと降圧薬の併用は保護的な効果をもたらす可能性がある。しかし、特定の薬剤の組み合わせに関するエビデンスは依然として限られている。オース…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "イサツキシマブ皮下注製剤発売、投与時間の短縮と患者・医療者の負担軽減に／サノフィ",
       "link": "https://www.carenet.com/news/general/carenet/63504?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
       "published": "2026-08-30T19:00:00Z",
       "published_label": "2026/08/31 04:00",
       "summary": "サノフィは2026年8月27日、イサツキシマブの皮下注製剤「サークリサ皮下注1400mg」を発売した。本製剤は、多発性骨髄腫に対するポマリドミド・デキサメタゾン併用療法（Pd）、カルフィルゾミブ・デキサメタゾン併…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "卵巣予備能がHR+/HER2-乳がんの術後化学療法ベネフィットを予測／Ann Oncol",
-      "link": "https://www.carenet.com/news/general/carenet/63497?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-30T19:00:00Z",
-      "published_label": "2026/08/31 04:00",
-      "summary": "21遺伝子アッセイ（オンコタイプDX）の再発スコアが25以下のHR+/HER2-乳がん患者を対象に、術後の内分泌療法と内分泌療法＋化学療法（化学内分泌療法）を比較した第III相RxPONDER試験の55歳未満を対象とするバイ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "細菌性腟症の女性、性感染症の検査陽性と関連",
-      "link": "https://www.carenet.com/news/general/hdn/63442?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-30T19:00:00Z",
-      "published_label": "2026/08/31 04:00",
-      "summary": "細菌性腟症（BV）がある女性では、BVがない女性と比べて性感染症（STI）の検査で陽性となる可能性が約3倍高いことが、米Quest Diagnostics社のDamian Alagia氏らの研究で示された。研究グループは、BVの治療を受…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "生活リズムが規則的な高齢者は痛みや抑うつ症状が少ない傾向",
-      "link": "https://www.carenet.com/news/general/hdn/63434?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-30T19:00:00Z",
-      "published_label": "2026/08/31 04:00",
-      "summary": "規則正しい生活リズムを維持することは、心身の健康維持につながるかもしれない。毎日の睡眠や食事、社会的交流などの行動や社会生活のリズム（以下、生活リズム）が規則的な人は、痛みや抑うつ症状が少ない傾向…",
       "tags": [
         "その他"
       ],
@@ -504,20 +307,7 @@
         "感染症・ワクチン",
         "学術・エビデンス"
       ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "MET過剰発現でEGFR変異陽性の未治療NSCLCにsavolitinibとオシメルチニブの併用はオシメルチニブのみよりもPFSを有意に延長、中国のフェーズ3試験",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202608/594390.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-30T15:00:00Z",
-      "published_label": "2026/08/31 00:00",
-      "summary": "香港HUTCHMED社は8月31日、METが過剰発現したEGFR変異陽性の未治療進行非小細胞肺癌（NSCLC）に対して、経口METチロシンキナーゼ阻害薬savolitinibとオシメルチニブの併用は、オシメルチニブの単独投与に比べて無増悪生存期間（PFS）を有意に延長できることが分かったと発表した。中国で行われたフェーズ3試験であるSANOVO試験の結果から示された。savolitinibとオシメルチニブの併用がPFSを延長する効果は…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -556,84 +346,6 @@
       "tags": [
         "学術・エビデンス"
       ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "心房細動患者における左室駆出率の保たれた心不全（HFpEF）の併存を外来でどう判断する？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/academy_ohnishi/202608/593935.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-30T15:00:00Z",
-      "published_label": "2026/08/31 00:00",
-      "summary": "心不全の定義や分類、病態をはじめ、治療のポイント、合併症管理のtipsなど、心不全にまつわる様々なノウハウを解説する大西勝也氏の心不全・心機能アカデミー。今回は、心房細動患者における左室駆出率の保たれた心不全（HFpEF）の併存を外来でどう判断する？について解説します。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "尿検査の硝子円柱から考えられる疾患は？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/anursing/hatenurse/202608/594321.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-30T15:00:00Z",
-      "published_label": "2026/08/31 00:00",
-      "summary": "内科で勤める新人看護師です。受け持ち患者さんの尿沈渣の結果が返ってきたのですが、「硝子円柱」との記載がありました。硝子円柱という言葉自体になじみがなく、難解に思われて困っています。硝子円柱が見られると、どのような疾患が考えられるのかを教えてください。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "患者さんに安心感を与える英語表現は？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/oshimi/202608/594001.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-30T15:00:00Z",
-      "published_label": "2026/08/31 00:00",
-      "summary": "前回ご紹介したように、日本では手術や検査のリスクを説明する際にできるだけ丁寧に説明することが重視されています。一方、英語圏では、要点を整理して分かりやすく簡潔に説明し、患者さんに安心感を与える言葉を添えることが重視されています。では、どんな英語表現を用いれば患者さんに安心感をもたらすのでしょうか。今回は、安心感を与える説明の「型」をご紹介します。音声を聞いて、何度も繰り返し音読してみてください（再生速度も変更できます）",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "肺気腫とCOPDは違うのか？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/moyamoya/202608/594316.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-30T15:00:00Z",
-      "published_label": "2026/08/31 00:00",
-      "summary": "日経メディカル Onlineでは毎月最終週に、「現場のモヤモヤに答えます」と題した連載（ミニ特集）を掲載。気鋭の臨床医監修のもと、コモンな疾患・症状を取り上げ、現場のお悩み解消に向けたヒントをご提供します。 8月のテーマは「COPD（慢性閉塞性肺疾患）」（編集幹事：仁多寅彦）です。全4本から成るミニ特集で、COPDのモヤモヤに答えます。本稿では肺気腫とCOPDの違い、およびCT所見をどう臨床判断につなげるかを解説します。（編集部） 呼…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "カテーテルアブレーションは患者の人生を変えるか？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/odakura3/202608/594319.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-30T15:00:00Z",
-      "published_label": "2026/08/31 00:00",
-      "summary": "前回は、発作性心房細動について、近年のカテーテルアブレーション（以下、アブレーション）を取り巻く状況を説明しました。今回は、Dさんの「ライフストーリー（人生史）」に触れながら、アブレーションの「未来のアウトカム」に対する最新の知見を紹介します。まずは、症例を確認しましょう。研修医 前回は、アブレーションでDさんの動悸や不安を減らし、今の生活を改善する「現在のアウトカム」を考えました。でも、Dさんはまだ59歳です。これから先の人生を考え…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "認定取得後も終わらない、JCIが導入したTouchpointの狙い",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/clinic/nhc/mitsuitqm/202608/594367.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-30T15:00:00Z",
-      "published_label": "2026/08/31 00:00",
-      "summary": "Touchpointへの対応は、米国のJCI本部から届いた日程、担当JCIサーベイヤー名・プロフィール・連絡先が記載されたメールから始まりました。メールを受信したのは本審査終了から2カ月も経たない頃でした。指摘事項や改善事項への対応は始めていたものの、院内はまだ受審疲れから完全に回復していない状態でした。JCIの意図は、常に患者安全・質改善を意識させ、「ほっと一息つかさせない」ことなのでしょう。初回メールはテーマには触れられていなかっ…",
-      "tags": [
-        "その他"
-      ],
       "importance": 2,
       "keywords": []
     },
@@ -661,48 +373,7 @@
         "業界動向",
         "薬価・制度"
       ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "行政情報リスト 2026/08/28",
-      "link": "https://www.yakuji.co.jp/entry138614.html",
-      "source": "薬事日報",
-      "published": "2026-08-28T08:01:58Z",
-      "published_label": "2026/08/28 17:01",
-      "summary": "【厚労省】その他 薬剤師国家試験の施行について 【厚労省】審議会等 第68回厚生科学審議会疾病対策部会指定難病検討委員会の開催について 【厚労省】報道発表 「人を対象とする生命科学・医学系研究に関する倫理指針」の一部改正について 【厚労省】報道発表 新型コロナウイルス感染症に関する報道発表資料を更新しました 【厚労省】その他 インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました 【厚労省】報道発表 インフルエ…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "プレスリリース・タイトルリスト：新製品 2026/08/28",
-      "link": "https://www.yakuji.co.jp/entry138575.html",
-      "source": "薬事日報",
-      "published": "2026-08-28T08:01:03Z",
-      "published_label": "2026/08/28 17:01",
-      "summary": "【常盤薬品工業】ケアベア(TM)デザイン！『サナ ニューボーン』から、0.01mmの超極細筆で大HIT「シューティングリキッドアイブロウ」が限定パッケージで登場 【9月24日発売】 サナ ニューボーン シューティングリキッドアイブロウ ０１～０４（ケアベア(TM)） 1,000 円（税込1,100円）",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "プレスリリース・タイトルリスト 2026/08/28",
-      "link": "https://www.yakuji.co.jp/entry138580.html",
-      "source": "薬事日報",
-      "published": "2026-08-28T08:00:38Z",
-      "published_label": "2026/08/28 17:00",
-      "summary": "【塩野義製薬】米国政府によるグラム陰性菌感染症治療薬セフィデロコルの調達について 【わかもと製薬】主要株主である筆頭株主の異動に関するお知らせ 【大塚ホールディングス】双日と設立した特別目的会社とバーチャルPPAを締結 ～「自己創出再生可能エネルギー」拡充を通じて、カーボンニュートラルの取り組みを推進～",
-      "tags": [
-        "感染症・ワクチン",
-        "業界動向"
-      ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -806,7 +477,7 @@
       "tags": [
         "一般用医薬品"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -871,7 +542,7 @@
       "tags": [
         "業界動向"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -885,34 +556,7 @@
         "感染症・ワクチン",
         "業界動向"
       ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザが全国で流行入り、昨シーズンより約1カ月早まる",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202608/594378.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-27T15:00:00Z",
-      "published_label": "2026/08/28 00:00",
-      "summary": "2026年8月28日、厚生労働省は第34週（8月17～23日）のインフルエンザの定点当たり報告数が1.11（患者報告数4094）となり、流行開始の目安である1.00を上回ったことから、流行シーズンに入ったと発表した（外部リンク：厚労省）。感染症法が施行された1999年以来、2009年に次いで2番目に早い流行入りとなった。 第34週に定点当たり報告数が1.00を超えたのは",
-      "tags": [
-        "感染症・ワクチン",
-        "法令・行政"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "再考、学術集会のサステナビリティー",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/report/Weekly/202608/594363.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-27T15:00:00Z",
-      "published_label": "2026/08/28 00:00",
-      "summary": "「演題が集まらず、締め切り延長を繰り返す学術集会は不要なのではないか」──。そんな声が目立つようになってきました。学術集会の乱立や物価高で参加・運営面での負担が増す一方、医学研究の環境は悪化しています。学術集会の“サステナビリティー”が問われる時代が来ています。 週替わりでお届けしている日経メディカルCOVER STORY、2026年8月28日号は学術集会のサステナビリティーがテーマです。各特集記事は以下のリストからご覧いただけます。…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -925,7 +569,7 @@
       "tags": [
         "学術・エビデンス"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -938,7 +582,7 @@
       "tags": [
         "一般用医薬品"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -968,32 +612,6 @@
       "keywords": []
     },
     {
-      "title": "不登校、うつ…神経発達症の「二次障害」にどう向き合うか",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/kanamorik/202608/594340.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-27T15:00:00Z",
-      "published_label": "2026/08/28 00:00",
-      "summary": "神経発達症の子どもは、周囲と同じように行動することや、場の雰囲気を読み取って人と関わることが苦手な場合があるため、叱責やからかい、いじめの対象になりやすい側面があります1）。 神経発達症の「二次障害」とは、適切な支援が行われなかったり、環境とのミスマッチが続いたりすることで生じる問題で、学業や将来の就労、患者のQOLに強く影響します。そのため、予防すべきものであると同時に、すでに問題が生じている場合には積極的に介入すべき対象です。適切…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "災害時も見据え、NPと共に東京都台東区で訪問看護ステーションを開設",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/anursing/nphukyu/202608/594282.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-27T15:00:00Z",
-      "published_label": "2026/08/28 00:00",
-      "summary": "超高齢社会を背景に、全国各地で訪問看護ステーションが増加している。過去15年間でその数は約3倍となり、現在は2万カ所を超える。一方で、看護師不足により人材確保に悩む事業所も少なくない。こうした中、2023年に東京都台東区で発足した「あしなら訪問看護ステーション」は、診療看護師（NP）を活用して拠点数を拡大している。訪問看護の現場でNPはどのような役割を担い、ステーション運営や看護の質にどのような影響をもたらしているのか。 「事業の拡大…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "GLP-1受容体作動薬は脱毛の発症リスクが高い 他",
       "link": "https://medical.nikkeibp.co.jp/leaf/all/hotnews/podcastpaper/202608/594311.html",
       "source": "日経メディカル Online",
@@ -1003,7 +621,7 @@
       "tags": [
         "学術・エビデンス"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1017,7 +635,7 @@
         "承認・新薬",
         "薬価・制度"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -1059,7 +677,7 @@
         "薬価・制度",
         "業界動向"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -1085,7 +703,7 @@
       "tags": [
         "業界動向"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1112,7 +730,7 @@
       "tags": [
         "業界動向"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1125,7 +743,7 @@
       "tags": [
         "学術・エビデンス"
       ],
-      "importance": 4,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1136,9 +754,10 @@
       "published_label": "2026/08/27 00:00",
       "summary": "厚生労働省は2026年9月25日、OTC医薬品で第1類に分類されているロキソプロフェン（商品名ロキソニンSなど）を指定第2類医薬品へリスク区分を変更することについて、パブリックコメントの募集を開始した。募集は9月23日まで。",
       "tags": [
-        "法令・行政"
+        "法令・行政",
+        "一般用医薬品"
       ],
-      "importance": 3,
+      "importance": 4,
       "keywords": []
     },
     {
@@ -1151,20 +770,7 @@
       "tags": [
         "学術・エビデンス"
       ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "再発リスクが高い筋層浸潤性尿路上皮癌の術後療法で、Dato-DXdとrilvegostomigの併用を評価するフェーズ3が開始",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202608/594355.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-26T15:00:00Z",
-      "published_label": "2026/08/27 00:00",
-      "summary": "第一三共は8月27日、術前療法の有無にかかわらず、根治的切除を受けた再発リスクが高い筋層浸潤性尿路上皮癌（MIUC）の術後療法として、抗TROP2抗体薬物複合体ダトポタマブ デルクステカン（Dato-DXd）とPD-1とTIGITに対する二重特異性抗体rilvegostomigの併用またはDato-DXd単剤と標準療法（デュルバルマブ単剤、ニボルマブ単剤、エンホルツマブ ベドチン＋ペムブロリズマブ）を比較するフェーズ3試験であるTRO…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1189,32 +795,6 @@
       "summary": "英国Oxford大学のKatarzyna Doniec氏らは、新型コロナウイルス感染症（COVID-19）パンデミックを3つの期間に分けて、主に高所得の34カ国のデータから超過死亡率を推定したところ、パンデミック当初には多くの国から男性の粗死亡数が多いことが報告されていたものの、性差は主にワクチンの登場前に見られ、やがて減少し、全死因における超過死亡率の相対的な増加幅は、男女間でおおむね同程度だったと報告した。結果は2026年7月23…",
       "tags": [
         "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "「全体最適」のために、周囲のニーズに応じた役割で貢献する",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t346/202608/594298.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-26T15:00:00Z",
-      "published_label": "2026/08/27 00:00",
-      "summary": "日経メディカル好評シリーズ「ジェネラリストという生き方」の最新記事です。今回は、国立病院機構京都医療センター総合内科の堀田亘馬先生に、ご登壇いただきました。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "学術集会での発表、「内容に重複」が4割弱",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t325/202608/594312.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-26T15:00:00Z",
-      "published_label": "2026/08/27 00:00",
-      "summary": "「学術集会が多すぎる」という声が目立つようになってきている。日本消化器外科学会が行った調査では、学術集会での発表回数が「多い」と感じる医師の存在や、演題不足を理由に上長などから登録依頼がよく行われている実態が報告された（関連記事1、関連記事2）。医師の学会参加に対する意識をさらに明らかにするため、日経メディカル Onlineは医師会員を対象に2026年7月27日～8月2日にかけてインターネット調査を実施。7969人から回答を得た。この…",
-      "tags": [
-        "学術・エビデンス"
       ],
       "importance": 3,
       "keywords": []
@@ -1282,7 +862,7 @@
       "tags": [
         "承認・新薬"
       ],
-      "importance": 4,
+      "importance": 3,
       "keywords": []
     },
     {
@@ -1296,7 +876,7 @@
         "承認・新薬",
         "業界動向"
       ],
-      "importance": 4,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1376,7 +956,7 @@
       "tags": [
         "業界動向"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1389,7 +969,7 @@
       "tags": [
         "業界動向"
       ],
-      "importance": 3,
+      "importance": 2,
       "keywords": []
     }
   ]

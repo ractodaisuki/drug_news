@@ -5,20 +5,24 @@
 配置: hermes-vps:/opt/data/scripts/drug_news_digest.py（hermes ユーザーの cron で毎朝実行）
 元ネタ: /opt/data/scripts/rss_news_importance_digest.py
 
-一般ニュースの digest と違い、重要度の閾値ではなく「まだ送っていないか」で選ぶ。
-薬のフィードは1日の流量が少ないので閾値で切ると何日も無音になり、逆に閾値を下げると
-同じ記事が毎朝並ぶ。送信済みリンクを state に持って差分だけ流すのが実態に合う。
+平日20〜33件しか流れてこないので、★で絞らずその日の新着を全部1通の一覧にする。
+キーワード採点では「ビタジェクトが一時供給停止」と「太陽光・蓄電池で供給を守る」を
+区別できず、当てにならない★で切ると良い記事を落とす方が損。素読みできる件数なら選別しない。
+
+何を出すかは重要度ではなく「まだ送っていないか」で決める。送信済みリンクを state に持つので、
+連休や実行漏れがあっても取りこぼさず、同じ記事が翌朝また並ぶこともない。
 
 使い方:
     drug_news_digest.py                # 未送信の記事を送る（cron 用）
     drug_news_digest.py --no-send      # 送らずに内容だけ表示
-    drug_news_digest.py --min 4        # ★4以上に絞る
+    drug_news_digest.py --min 4        # 絞りたいときだけ（既定は絞らない）
     drug_news_digest.py --resend       # 送信済みを無視して送り直す
 """
 
 from __future__ import annotations
 
 import argparse
+import datetime
 import json
 import os
 import time
@@ -39,9 +43,16 @@ STATUS_URL = os.environ.get(
 ENV_PATH = Path(os.environ.get("DRUG_NEWS_ENV", "/opt/data/household/drugnews.env"))
 STATE_PATH = Path(os.environ.get("DRUG_NEWS_DIGEST_STATE", "/opt/data/scripts/.drug_news_digest_state.json"))
 
-MIN_IMPORTANCE = 3
-MAX_ITEMS = 12
+MIN_IMPORTANCE = 1   # 絞らない。★は当てにならないので順位付けに使わない
+MAX_ITEMS = 60
 STATE_RETENTION = 800
+MESSAGE_CHAR_BUDGET = 3800   # Telegram の上限 4096 に余裕を持たせる
+
+# 「業界動向」しか当たらなかった記事は薬局実務に関係しない（筆頭株主・四半期業績・
+# 販売提携・疾患啓発マンガなど）。データ側には残し、一覧に出すときだけ落とす。
+# 「その他」は落とさない。OTC類似薬の見直し議論や薬局実習の記事が混ざっていて、
+# タグだけでは当たりと外れを分けられないため。
+SKIP_TAG_SETS = ({"業界動向"},)
 
 
 def fetch_json(url: str) -> dict:
@@ -94,49 +105,58 @@ def one_line(text: str, limit: int = 120) -> str:
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
 
-def format_item(idx: int, item: dict) -> str:
-    importance = int(item.get("importance") or 0)
-    tags = item.get("tags") or []
-    keywords = item.get("keywords") or []
+def format_item(item: dict) -> str:
+    """一覧の1件。タイトルと出典とURLだけ。
 
-    lines = [
-        f"{idx}. {'★' * importance} {one_line(item.get('title'), 140)}",
-        f"   {one_line(item.get('source'), 40)} / {item.get('published_label') or '日時不明'}"
-        f" / {' / '.join(str(t) for t in tags[:3]) if tags else 'タグなし'}",
-    ]
-
-    summary = one_line(item.get("summary"), 260)
-    if summary and summary != one_line(item.get("title"), 140):
-        lines.append(f"   {summary}")
-    if keywords:
-        lines.append(f"   🔑 {' · '.join(str(k) for k in keywords[:5])}")
-    if item.get("link"):
-        lines.append(f"   {item['link']}")
-    return "\n".join(lines)
+    ★は付けない。キーワード採点では「ビタジェクト供給停止」と「太陽光・蓄電池で供給を守る」を
+    区別できず、当てにならない順位を添えると読み手が信用してしまうため。
+    """
+    return f"・{one_line(item.get('title'), 60)}\n  {one_line(item.get('source'), 20)} {item.get('link') or ''}"
 
 
 def select_items(news: dict, min_importance: int, sent_links: set[str]) -> list[dict]:
     items = [
         item
         for item in news.get("items", [])
-        if int(item.get("importance") or 0) >= min_importance and item.get("link") not in sent_links
+        if int(item.get("importance") or 0) >= min_importance
+        and item.get("link") not in sent_links
+        and set(item.get("tags") or []) not in SKIP_TAG_SETS
     ]
-    # 重要度が高いものを先に。同点なら新しい順。
-    items.sort(key=lambda it: (int(it.get("importance") or 0), it.get("published") or ""), reverse=True)
+    # 新しい順。絞らずに全部出すので、並べ替えの基準は日付だけでいい。
+    items.sort(key=lambda it: it.get("published") or "", reverse=True)
     return items
 
 
-def format_header(news: dict, status: dict, *, selected: int, total_new: int, min_importance: int) -> str:
-    lines = [
-        f"薬剤師ニュース（★{min_importance}以上の新着）",
-        f"最終更新: {news.get('updated_label') or '不明'}",
-    ]
+def format_header(news: dict, status: dict, *, total_new: int) -> str:
+    today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).date().isoformat()
+    lines = [f"薬剤師ニュース {today}（{total_new}件）"]
     if status.get("state") == "error":
-        lines.append(f"⚠️ 収集状態: {status.get('message') or 'エラー'}")
-    lines.append(f"新着: {total_new}件 / 収集済み {len(news.get('items', []))}件")
-    if selected < total_new:
-        lines.append(f"うち {selected} 件を表示")
+        lines.append(f"⚠️ 収集が失敗しています: {status.get('message') or 'エラー'}")
+    lines.append(f"最終更新: {news.get('updated_label') or '不明'}")
     return "\n".join(lines)
+
+
+def build_messages(header: str, items: list[dict]) -> list[str]:
+    """Telegram の1通あたり4096文字に収まるように分割する。
+
+    平日で20〜33件なので普通は1通で収まるが、連休明けや障害復帰後にまとめて出ると溢れる。
+    """
+    messages: list[str] = []
+    current = [header, ""]
+    length = len(header) + 1
+
+    for item in items:
+        block = format_item(item)
+        if length + len(block) + 1 > MESSAGE_CHAR_BUDGET and len(current) > 2:
+            messages.append("\n".join(current))
+            current = [f"（続き {len(messages) + 1}）", ""]
+            length = len(current[0]) + 1
+
+        current.append(block)
+        length += len(block) + 1
+
+    messages.append("\n".join(current))
+    return messages
 
 
 def send_telegram_message(text: str, *, disable_notification: bool = False) -> bool:
@@ -151,7 +171,7 @@ def send_telegram_message(text: str, *, disable_notification: bool = False) -> b
             "chat_id": chat_id,
             "text": text,
             "disable_web_page_preview": "false",
-            # 記事ごとに1通送るので、通知音は先頭だけ。
+            # 溢れて複数通になったときは、通知音は先頭だけ。
             "disable_notification": "true" if disable_notification else "false",
         }
     ).encode("utf-8")
@@ -174,10 +194,10 @@ def send_telegram_message(text: str, *, disable_notification: bool = False) -> b
 
 
 def build_arg_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Send unsent drug news as Telegram messages.")
+    parser = argparse.ArgumentParser(description="Send unsent drug news as one Telegram list.")
     parser.add_argument("--no-send", action="store_true", help="送らずに内容だけ表示する")
-    parser.add_argument("--min", type=int, default=MIN_IMPORTANCE, help=f"重要度の下限 (既定 {MIN_IMPORTANCE})")
-    parser.add_argument("--max", type=int, default=MAX_ITEMS, help=f"1回に送る最大件数 (既定 {MAX_ITEMS})")
+    parser.add_argument("--min", type=int, default=MIN_IMPORTANCE, help=f"重要度の下限 (既定 {MIN_IMPORTANCE}=絞らない)")
+    parser.add_argument("--max", type=int, default=MAX_ITEMS, help=f"1回に出す最大件数 (既定 {MAX_ITEMS})")
     parser.add_argument("--resend", action="store_true", help="送信済みを無視して送り直す")
     return parser
 
@@ -195,20 +215,14 @@ def main(argv: list[str] | None = None) -> int:
     candidates = select_items(news, args.min, sent_links)
     selected = candidates[: args.max]
 
-    header = format_header(
-        news, status, selected=len(selected), total_new=len(candidates), min_importance=args.min
-    )
-
     if not selected:
-        if args.no_send:
-            print(header + "\n\n新着はありません。")
         # 新着ゼロで毎朝「ありません」を送っても読まないので、黙って終わる。
         print("no new items")
         return 0
 
-    messages = [header] + [format_item(idx, item) for idx, item in enumerate(selected, start=1)]
+    messages = build_messages(format_header(news, status, total_new=len(selected)), selected)
     if len(candidates) > len(selected):
-        messages.append(f"ほか {len(candidates) - len(selected)} 件は次回に回します。")
+        messages[-1] += f"\n\nほか {len(candidates) - len(selected)} 件は次回に回します。"
 
     if args.no_send:
         print("\n\n---MESSAGE---\n\n".join(messages))

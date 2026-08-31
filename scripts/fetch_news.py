@@ -136,7 +136,7 @@ MIN_KEYWORD_LENGTH = 3
 IGNORED_GENERIC_KEYWORDS = {"x"}
 ALLOWED_SHORT_ASCII_KEYWORDS = {"gmp", "otc", "di"}
 
-# Gemini が使えないときのフォールバック用。薬局で「今すぐ動く」必要がある語ほど重い。
+# 既定の採点用。薬局で「今すぐ動く」必要がある語ほど重い。
 CRITICAL_TITLE_KEYWORDS = (
     "自主回収",
     "回収命令",
@@ -148,6 +148,8 @@ CRITICAL_TITLE_KEYWORDS = (
     "販売中止",
     "使用中止",
 )
+# 「承認」を入れていない。海外の抗がん剤承認のような、薬局では動きようがない記事が
+# 大量に引っかかって、制度ネタ（指定第2類への変更など）を押しのけてしまうため。
 STRONG_TITLE_KEYWORDS = (
     "限定出荷",
     "出荷調整",
@@ -155,13 +157,16 @@ STRONG_TITLE_KEYWORDS = (
     "改訂",
     "禁忌",
     "警告",
-    "承認",
     "薬価",
     "改定",
     "算定",
     "事務連絡",
-    "通知",
 )
+
+# タグで実務への近さを測る。tag_rules.json は薬局視点で書いてあるので、
+# タイトルの語より当たりが素直になる。
+ACTIONABLE_TAGS = {"回収", "供給・出荷", "安全性情報", "薬価・制度", "一般用医薬品", "医療安全", "法令・行政"}
+BACKGROUND_TAGS = {"学術・エビデンス", "業界動向"}
 SHORT_SUMMARY_THRESHOLD = 24
 
 
@@ -246,7 +251,18 @@ def load_feed_configs(path: Path) -> list[dict[str, Any]]:
             else []
         )
 
-        valid_configs.append({"name": name, "url": url, "include_keywords": includes})
+        raw_excludes = config.get("exclude_title_patterns")
+        excludes: list[re.Pattern[str]] = []
+        if isinstance(raw_excludes, list):
+            for pattern in raw_excludes:
+                try:
+                    excludes.append(re.compile(str(pattern)))
+                except re.error as error:
+                    logging.warning("Skipping invalid exclude pattern %r for %s: %s", pattern, name, error)
+
+        valid_configs.append(
+            {"name": name, "url": url, "include_keywords": includes, "exclude_title_patterns": excludes}
+        )
 
     return valid_configs
 
@@ -476,17 +492,27 @@ def matches_include_keywords(text: str, include_keywords: list[str]) -> bool:
 
 
 def calc_fallback_importance(title: str, summary: str, tags: list[str]) -> int:
-    """Gemini が使えないときだけ使う近似スコア。
+    """既定の採点。GEMINI_API_KEY を入れたときだけ Gemini の判定で上書きされる。
 
     ★5 は回収・緊急安全性情報などタイトルだけで確実に判る語に限る。要約の長さは薬局実務への
     近さと関係がないので加点材料にしない（長いだけの記事が★5に混ざると digest が信用を失う）。
+
+    加点の主役はタイトルの語ではなくタグ。tag_rules.json が薬局視点で書いてあるので、
+    「回収・供給・制度」に当たったかで測るほうが素直に効く。学術系は背景知識どまりなので下げる。
     """
     title_text = title.casefold()
 
     if any(keyword.casefold() in title_text for keyword in CRITICAL_TITLE_KEYWORDS):
         return 5
 
+    tag_set = set(tags)
     score = 3
+
+    if tag_set & ACTIONABLE_TAGS:
+        score += 1
+    elif tag_set & BACKGROUND_TAGS:
+        score -= 1
+
     if any(keyword.casefold() in title_text for keyword in STRONG_TITLE_KEYWORDS):
         score += 1
 
@@ -504,6 +530,9 @@ def build_news_item(entry: Any, feed_config: dict[str, Any], tag_rules: dict[str
     link = normalize_link(entry.get("link", ""), feed_config["url"])
 
     if not title or not link:
+        return None
+
+    if any(pattern.search(title) for pattern in feed_config["exclude_title_patterns"]):
         return None
 
     summary = extract_summary(entry)
