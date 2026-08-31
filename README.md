@@ -1,9 +1,9 @@
-# pharma-news
+# drug_news
 
 薬剤師の実務向けニュースを収集して、毎朝 Telegram に流すためのデータ生成リポジトリ。
 
 閲覧用の Web UI は持たない。GitHub Actions が3時間おきに記事を集めて `data/news.json` を更新し、
-hermes-vps 側の `pharma_digest.py` がそれを読んで未送信分だけ Telegram に送る。
+hermes-vps 側の `drug_news_digest.py` がそれを読んで未送信分だけ Telegram に送る。
 
 ## なぜ [RSS_news](https://github.com/ractodaisuki/RSS_news) と別なのか
 
@@ -30,7 +30,7 @@ config/tag_rules.json       キーワード → タグ。並び順が実務の�
 config/watch_sites.json     RSS がないサイトの CSS セレクタ監視
 scripts/fetch_news.py       RSS 取得 + Gemini 解析 → data/news.json
 scripts/check_websites.py   Web 監視 → data/news.json に追記
-deploy/pharma_digest.py     VPS 側。news.json → Telegram（VPS へコピーして使う）
+deploy/drug_news_digest.py     VPS 側。news.json → Telegram（VPS へコピーして使う）
 data/news.json              収集結果（最大200件）
 data/analysis_cache.json    Gemini 解析のキャッシュ。同じ記事を二度解析しない
 data/watch_state.json       Web 監視のハッシュ
@@ -73,14 +73,26 @@ Gemini に「保険薬局の薬剤師にとって、明日の業務がどれだ�
 
 1. リポジトリの Secrets に `GEMINI_API_KEY` を登録する（`RSS_news` と同じキーで良い）
 2. Actions を有効にする。3時間おきに動く
-3. VPS へ digest を配置する
+3. VPS へ digest と env を置く
+
+配信は専用ボット **@racto_Drug_bot**。他のボットと token を共有しない。
 
 ```bash
-scp deploy/pharma_digest.py hermes-vps:/tmp/
-ssh hermes-vps 'sudo install -o hermes -g hermes -m 755 /tmp/pharma_digest.py /opt/data/scripts/'
-# 毎朝 8:30 JST
-ssh hermes-vps "sudo crontab -u hermes -l"   # 既存を確認してから追記する
+scp deploy/drug_news_digest.py hermes-vps:/tmp/
+ssh hermes-vps 'sudo install -o hermes -g hermes -m 755 /tmp/drug_news_digest.py /opt/data/scripts/'
 ```
+
+`/opt/data/household/drugnews.env`（hermes 所有・600）:
+
+```
+DRUG_NEWS_BOT_TOKEN=...
+DRUG_NEWS_CHAT_ID=...
+```
+
+`DRUG_NEWS_CHAT_ID` は**自分が一度ボットに話しかけてから** `getUpdates` で拾う。
+新規ボットは相手から話しかけるまで送れず `chat not found` になる。
+
+cron は `sudo crontab -u hermes -e` で毎朝 8:30 JST に追記する。
 
 ## ローカルで試す
 
@@ -88,7 +100,7 @@ ssh hermes-vps "sudo crontab -u hermes -l"   # 既存を確認してから追記
 python3 -m venv .venv && ./.venv/bin/pip install -r requirements.txt
 ./.venv/bin/python scripts/fetch_news.py       # GEMINI_API_KEY 無しでも動く
 ./.venv/bin/python scripts/check_websites.py
-python3 deploy/pharma_digest.py --no-send      # 送らずに内容だけ見る
+python3 deploy/drug_news_digest.py --no-send      # 送らずに内容だけ見る
 ```
 
 ## 情報源を足すとき

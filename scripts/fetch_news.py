@@ -52,7 +52,7 @@ MAX_GEMINI_KEYWORDS = 5
 CACHE_RETENTION = 1500
 
 REQUEST_TIMEOUT = 20
-USER_AGENT = "PharmaNews/1.0 (+https://github.com/ractodaisuki/pharma-news)"
+USER_AGENT = "PharmaNews/1.0 (+https://github.com/ractodaisuki/drug_news)"
 DISPLAY_TIMEZONE = ZoneInfo("Asia/Tokyo")
 SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 

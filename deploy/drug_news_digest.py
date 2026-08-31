@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""pharma-news の news.json から未送信の記事を選んで Telegram へ送る。
+"""drug_news の news.json から未送信の記事を選んで Telegram へ送る。
 
-配置: hermes-vps:/opt/data/scripts/pharma_digest.py（hermes ユーザーの cron で毎朝実行）
+配置: hermes-vps:/opt/data/scripts/drug_news_digest.py（hermes ユーザーの cron で毎朝実行）
 元ネタ: /opt/data/scripts/rss_news_importance_digest.py
 
 一般ニュースの digest と違い、重要度の閾値ではなく「まだ送っていないか」で選ぶ。
@@ -10,10 +10,10 @@
 同じ記事が毎朝並ぶ。送信済みリンクを state に持って差分だけ流すのが実態に合う。
 
 使い方:
-    pharma_digest.py                # 未送信の記事を送る（cron 用）
-    pharma_digest.py --no-send      # 送らずに内容だけ表示
-    pharma_digest.py --min 4        # ★4以上に絞る
-    pharma_digest.py --resend       # 送信済みを無視して送り直す
+    drug_news_digest.py                # 未送信の記事を送る（cron 用）
+    drug_news_digest.py --no-send      # 送らずに内容だけ表示
+    drug_news_digest.py --min 4        # ★4以上に絞る
+    drug_news_digest.py --resend       # 送信済みを無視して送り直す
 """
 
 from __future__ import annotations
@@ -22,21 +22,22 @@ import argparse
 import json
 import os
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from html import unescape
 from pathlib import Path
 
-# 検証時はローカルのファイルパスを渡せる（PHARMA_NEWS_URL=./data/news.json など）。
+# 検証時はローカルのファイルパスを渡せる（DRUG_NEWS_URL=./data/news.json など）。
 NEWS_URL = os.environ.get(
-    "PHARMA_NEWS_URL", "https://raw.githubusercontent.com/ractodaisuki/pharma-news/main/data/news.json"
+    "DRUG_NEWS_URL", "https://raw.githubusercontent.com/ractodaisuki/drug_news/main/data/news.json"
 )
 STATUS_URL = os.environ.get(
-    "PHARMA_STATUS_URL", "https://raw.githubusercontent.com/ractodaisuki/pharma-news/main/data/status.json"
+    "DRUG_NEWS_STATUS_URL", "https://raw.githubusercontent.com/ractodaisuki/drug_news/main/data/status.json"
 )
-ENV_PATH = Path("/opt/data/.env")
-STATE_PATH = Path(os.environ.get("PHARMA_DIGEST_STATE", "/opt/data/scripts/.pharma_digest_state.json"))
-TELEGRAM_CHAT_ID = "8713490685"
+# 専用ボットなので token を他のボットと共有しない。FLEET.md の household/*.env に揃える。
+ENV_PATH = Path(os.environ.get("DRUG_NEWS_ENV", "/opt/data/household/drugnews.env"))
+STATE_PATH = Path(os.environ.get("DRUG_NEWS_DIGEST_STATE", "/opt/data/scripts/.drug_news_digest_state.json"))
 
 MIN_IMPORTANCE = 3
 MAX_ITEMS = 12
@@ -47,7 +48,7 @@ def fetch_json(url: str) -> dict:
     if not url.startswith(("http://", "https://")):
         return json.loads(Path(url).read_text(encoding="utf-8"))
 
-    req = urllib.request.Request(url, headers={"User-Agent": "Hermes-Pharma-Digest/1.0"})
+    req = urllib.request.Request(url, headers={"User-Agent": "Hermes-DrugNews-Digest/1.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         if resp.status != 200:
             raise RuntimeError(f"HTTP {resp.status} for {url}")
@@ -139,9 +140,10 @@ def format_header(news: dict, status: dict, *, selected: int, total_new: int, mi
 
 
 def send_telegram_message(text: str, *, disable_notification: bool = False) -> bool:
-    token = load_env_value("TELEGRAM_BOT_TOKEN")
-    chat_id = load_env_value("PHARMA_NEWS_TELEGRAM_CHAT_ID") or TELEGRAM_CHAT_ID
+    token = load_env_value("DRUG_NEWS_BOT_TOKEN")
+    chat_id = load_env_value("DRUG_NEWS_CHAT_ID")
     if not token or not chat_id:
+        print(f"DRUG_NEWS_BOT_TOKEN / DRUG_NEWS_CHAT_ID が {ENV_PATH} に無い")
         return False
 
     data = urllib.parse.urlencode(
@@ -161,12 +163,18 @@ def send_telegram_message(text: str, *, disable_notification: bool = False) -> b
     try:
         with urllib.request.urlopen(req, timeout=20) as response:
             return 200 <= response.status < 300
-    except Exception:
+    except urllib.error.HTTPError as error:
+        # 新規ボットでは chat not found（本人がまだボットに話しかけていない）が起きやすいので、
+        # 理由を潰さずそのまま出す。
+        print(f"Telegram API error {error.code}: {error.read().decode('utf-8', 'ignore')[:200]}")
+        return False
+    except Exception as error:  # noqa: BLE001
+        print(f"Telegram send failed: {error}")
         return False
 
 
 def build_arg_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Send unsent pharma news as Telegram messages.")
+    parser = argparse.ArgumentParser(description="Send unsent drug news as Telegram messages.")
     parser.add_argument("--no-send", action="store_true", help="送らずに内容だけ表示する")
     parser.add_argument("--min", type=int, default=MIN_IMPORTANCE, help=f"重要度の下限 (既定 {MIN_IMPORTANCE})")
     parser.add_argument("--max", type=int, default=MAX_ITEMS, help=f"1回に送る最大件数 (既定 {MAX_ITEMS})")

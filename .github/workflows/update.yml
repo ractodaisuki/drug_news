@@ -1,4 +1,4 @@
-name: Update pharma news
+name: Update drug news
 
 on:
   workflow_dispatch:
@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: pharma-news-${{ github.ref }}
+  group: drug_news-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -121,7 +121,7 @@ jobs:
             echo "No generated-file changes to commit"
             exit 0
           fi
-          git commit -m "chore: update pharma news data"
+          git commit -m "chore: update drug news data"
           git pull --rebase --autostash
           git push
 

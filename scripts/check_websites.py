@@ -43,7 +43,7 @@ from fetch_news import (
 WATCH_SITES_PATH = ROOT_DIR / "config" / "watch_sites.json"
 WATCH_STATE_PATH = ROOT_DIR / "data" / "watch_state.json"
 REQUEST_TIMEOUT = 20
-USER_AGENT = "PharmaNews/1.0 (+https://github.com/ractodaisuki/pharma-news)"
+USER_AGENT = "PharmaNews/1.0 (+https://github.com/ractodaisuki/drug_news)"
 DEFAULT_WATCH_TAG = "Web更新"
 
 
