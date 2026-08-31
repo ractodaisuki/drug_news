@@ -1,0 +1,6 @@
+certifi
+feedparser
+python-dateutil
+requests
+beautifulsoup4
+google-genai

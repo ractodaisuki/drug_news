@@ -1,0 +1,52 @@
+[
+  {
+    "name": "薬事日報",
+    "url": "https://www.yakuji.co.jp/feed"
+  },
+  {
+    "name": "ミクスOnline",
+    "url": "https://www.mixonline.jp/DesktopModules/MixOnline_Rss/MixOnlinerss.aspx?rssmode=3"
+  },
+  {
+    "name": "日経メディカル Online",
+    "url": "https://medical.nikkeibp.co.jp/all/info/feed/index.rdf"
+  },
+  {
+    "name": "CareNet.com 医療ニュース",
+    "url": "https://www.carenet.com/rss/news/index.xml"
+  },
+  {
+    "name": "厚生労働省 新着情報",
+    "url": "https://www.mhlw.go.jp/stf/news.rdf",
+    "include_keywords": [
+      "医薬品",
+      "薬事",
+      "薬価",
+      "後発医薬品",
+      "ジェネリック",
+      "ワクチン",
+      "予防接種",
+      "副作用",
+      "健康被害",
+      "回収",
+      "薬剤師",
+      "薬局",
+      "調剤",
+      "処方",
+      "麻薬",
+      "向精神薬",
+      "覚醒剤",
+      "毒物",
+      "劇物",
+      "供給",
+      "添付文書",
+      "薬機法",
+      "医療機器",
+      "感染症",
+      "診療報酬",
+      "中央社会保険医療協議会",
+      "中医協",
+      "薬事審議会"
+    ]
+  }
+]
