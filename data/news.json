@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-31T20:38:13.766597Z",
-  "updated_label": "2026/09/01 05:38",
-  "count": 68,
+  "updated_at": "2026-09-01T00:21:45.217309Z",
+  "updated_label": "2026/09/01 09:21",
+  "count": 71,
   "items": [
     {
       "title": "SOAPを埋めるなら薬剤師らしいA（アセスメント）を書こう",
       "link": "https://pharmacist.m3.com/column/yakureki/7746?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-08-31T20:38:12.624693Z",
-      "published_label": "2026/09/01 05:38",
+      "published": "2026-09-01T00:21:43.991067Z",
+      "published_label": "2026/09/01 09:21",
       "summary": "「私の薬局は必ずSOAPで書かないといけないことになっています。プロブレムを書く欄はありません。プロブレムが見つからなかったときに、以前教わった「SとPだけ書く」パターンをやったところ、上司から「SOAPを全部書きなさい」と怒られました。SOAPはめちゃくちゃでも、全部埋めてあれば怒られません。 今回もそれらしくSOAPにしてみました。プロブレムらしきものは見つかったのですが、あまり明確ではないので、本来なら箇条書きにすべきなのかなと思います。」と教わっています。これで薬歴として問題ないでしょうか。」との相談に、服薬ケア研究所所長 岡村祐聡先生がアドバイスします。",
       "tags": [
         "薬剤師コラム",
@@ -17,6 +17,138 @@
         "薬歴"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【西川株式会社】「nishikawa睡眠白書2026」成人の半数超に不眠傾向、若者に社会的時差ボケ目立つ",
+      "link": "https://www.yakuji.co.jp/entry138683.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T22:37:34Z",
+      "published_label": "2026/09/01 07:37",
+      "summary": "寝具メーカー大手の西川株式会社は9月3日の「秋の睡眠の日」に、全国1万人を対象とした「nishikawa睡眠白書2026～日本人の睡眠調査～」をホームページで…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】“ととのえメイク”に特化したPB「nake（ネイク）」から新商品‐目元の印象をととのえるスティックシャドウが登場 マツキヨココカラ＆カンパニー",
+      "link": "https://www.yakuji.co.jp/entry138681.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T22:36:28Z",
+      "published_label": "2026/09/01 07:36",
+      "summary": "マツキヨココカラ＆カンパニーは、“理想のすっぴん”に近づける「ととのえメイク」に特化したプライベートブランドのコスメシリーズ「nake（ネイク）」の新商品とし…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【キヤノンMJ】物流改善ソリューション「LogiChange」を紹介するポータルページを公開",
+      "link": "https://www.yakuji.co.jp/entry138678.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T22:34:09Z",
+      "published_label": "2026/09/01 07:34",
+      "summary": "キヤノンマーケティングジャパン（キヤノンMJ）は8月31日、物流事業者や物流機能を持つ企業に向けて、物流改善ソリューション「LogiChange」を紹介するポ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】CU製AED「CU-SPR」の販売を開始‐設置しやすいAEDのラインアップ拡充 キヤノンMJ キヤノンMJ",
+      "link": "https://www.yakuji.co.jp/entry138676.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T22:33:23Z",
+      "published_label": "2026/09/01 07:33",
+      "summary": "キヤノンマーケティングジャパン（キヤノンMJ）は9月1日、CU社製AED「CU-SPR」の販売を開始する。軽量コンパクトで設置しやすい同装置をラインアップに追…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【ウィーメックス】オンライン診療の試験運用を開始‐鳥羽答志郵便局で「Teladoc HEALTH」を活用",
+      "link": "https://www.yakuji.co.jp/entry138674.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T22:32:35Z",
+      "published_label": "2026/09/01 07:32",
+      "summary": "ウィーメックスは8月31日、同社が提供するリアルタイム遠隔医療システム「Teladoc HEALTH」が、三重県鳥羽市の離島・答志島にある鳥羽答志郵便局内に導…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津製作所】米Q Magnetics社のNMRを日米で販売‐研究開発現場等での化合物構造確認を支援",
+      "link": "https://www.yakuji.co.jp/entry138672.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T22:31:53Z",
+      "published_label": "2026/09/01 07:31",
+      "summary": "島津製作所は8月31日、米国Q Magnetics社製のベンチトップ核磁気共鳴装置（NMR）「QM-125」を日本と米国で販売を開始した。同装置は、ベンチトッ…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【キヤノンS&S】「まかせてIT BXシリーズ」“まかせてIT経営ワークショップサービス”追加",
+      "link": "https://www.yakuji.co.jp/entry138670.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T22:30:10Z",
+      "published_label": "2026/09/01 07:30",
+      "summary": "キヤノンシステムアンドサポート（キヤノンS&S）は8月27日、中小企業のサステナブル経営における課題解決を支援する「まかせてIT BXシリーズ」の新…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【アルフレッサなど3社】食生活改善で実証事業受託‐つくば市民の健康寿命延伸へ",
+      "link": "https://www.yakuji.co.jp/entry138634.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T21:31:20Z",
+      "published_label": "2026/09/01 06:31",
+      "summary": "アルフレッサ、ウエルシア薬局、ライフログテクノロジーは、茨城県つくば市から、PHRのうち主に食事記録データ等を活用した商品提案・健康支援による食生活改善の実証…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚生科学審議会部会】ワクチン十分な供給見込む‐今季のインフル・コロナ",
+      "link": "https://www.yakuji.co.jp/entry138630.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T21:30:02Z",
+      "published_label": "2026/09/01 06:30",
+      "summary": "厚生科学審議会予防接種・ワクチン分科会研究開発および生産・流通部会は8月26日、2026～27年シーズンの季節性インフルエンザワクチンと新型コロナワクチンの供…",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ＣＭ好感度ランキング 富士フイルムの先端技術に支持集まる 参天製薬は人気キャラと子どもの近視啓発",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80803",
+      "source": "ミクスOnline",
+      "published": "2026-08-31T19:55:00Z",
+      "published_label": "2026/09/01 04:55",
+      "summary": "ミクス編集部がまとめた「製薬企業ＣＭ好感度ランキング・2026年４―６月期」（協力：ＣＭ総合研究所）で、医療を支える先端技術にフォーカスした富士フイルムのＣＭシリーズが企業イメージ部門でトップに輝いた。",
+      "tags": [
+        "業界動向",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -109,6 +241,20 @@
         "学術・エビデンス"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "OTC類似薬の追加負担、対象・対象外を処方箋に記載へ",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594368.html",
+      "source": "日経メディカル Online",
+      "published": "2026-08-31T15:00:00Z",
+      "published_label": "2026/09/01 00:00",
+      "summary": "厚生労働省は2026年8月26日、中央社会保険医療協議会を開催し、27年3月施行を想定しているOTC類似薬の一部保険外療養について、院外処方における実務フローを示した（図）。 一部保険外療養は、OTC類似薬の薬剤費の一部（4分の1）を特別の料金として患者に追加負担を求める制度。対象となる医薬品の条件は、いずれもOTC医薬品と成分および投与経路が同一で、1日最大用量も同じ医療用医薬品となっており、77成分の約1100品目が該当する。厚労…",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -259,60 +405,6 @@
       "keywords": []
     },
     {
-      "title": "【IQVIAジャパン】「マンジャロ」が500億円超え‐26年4～6月期国内売上",
-      "link": "https://www.yakuji.co.jp/entry138516.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T21:31:01Z",
-      "published_label": "2026/08/31 06:31",
-      "summary": "IQVIAジャパンがまとめた2026年4～6月期の国内医療用医薬品市場調査結果によると、GIP／GLP-1受容体作動薬で、23年4月の発売から3年を迎えた2型…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【マイボイスコム】「薬剤師の説明聞く必要あり」増加‐市販薬購入に関する調査で",
-      "link": "https://www.yakuji.co.jp/entry138514.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T21:30:44Z",
-      "published_label": "2026/08/31 06:30",
-      "summary": "マイボイスコムは、「医薬品の購入」に関するインターネット調査を実施した結果を公表した。それによると、市販薬購入者のうち「何度も購入している薬でも、薬剤師の説明…",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「ユンケルローヤルG」4種類の生薬を配合",
-      "link": "https://www.yakuji.co.jp/entry138623.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T21:02:05Z",
-      "published_label": "2026/08/31 06:02",
-      "summary": "佐藤製薬は、「ユンケルローヤルG」（指定医薬部外品）を全国のコンビニエンスストア等で新発売した。 同製品は、ローヤルゼリーやオウセイをはじめとした4種類の生…",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "太陽光・蓄電池で供給を守る",
-      "link": "https://www.yakuji.co.jp/entry138618.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T21:01:31Z",
-      "published_label": "2026/08/31 06:01",
-      "summary": "◆大規模地震や豪雨が相次ぐ中、医薬品の安定供給を維持するためにも、製薬企業や物流企業による停電対策の一層の強化が欠かせない。発電機や蓄電池などの導入は進んでいる…",
-      "tags": [
-        "業界動向",
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "厚労省監麻課 25年度販売情報提供活動調査事業・報告書 ６医薬品で広告違反疑い 疑い事案は11項目",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80796",
       "source": "ミクスOnline",
@@ -445,19 +537,6 @@
       "keywords": []
     },
     {
-      "title": "9月5日からオリーブ薬局（東京都墨田区）でAkiTOOON絵画展",
-      "link": "https://www.yakuji.co.jp/entry138611.html",
-      "source": "薬事日報",
-      "published": "2026-08-28T07:24:06Z",
-      "published_label": "2026/08/28 16:24",
-      "summary": "東京都墨田区のオリーブ薬局は9月5日から20日まで、薬剤師として働きながらAkiTOOON名義でアーティスト活動を続ける池下暁人氏の絵画展「くすりと美術の交差…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "調剤医療費（電算処理分）の動向 ～令和7年度版～",
       "link": "https://www.mhlw.go.jp/topics/medias/year/25/gaiyou.html",
       "source": "厚生労働省 新着情報",
@@ -481,19 +560,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "【グラフィックレコーディング～言葉にならない想いを描き、心と未来を繋げる仕事～】第2回 Visualizationでチームビルディングと結束力を生む力 グラフィックレコーダー 吉川観奈",
-      "link": "https://www.yakuji.co.jp/entry138437.html",
-      "source": "薬事日報",
-      "published": "2026-08-28T05:00:39Z",
-      "published_label": "2026/08/28 14:00",
-      "summary": "こんにちは！グラフィックレコーダーの吉川観奈です。2回目のコラムとなります。読者の皆様に「なるほどね」と思って頂けるよう、ヘルスケアでのグラレコ実践者ならではの…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -776,19 +842,6 @@
       "keywords": []
     },
     {
-      "title": "ASCOで注目集めた経口RAS阻害薬daraxonrasib、米国で既治療の転移を有する膵腺癌に承認",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202608/594356.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-26T15:00:00Z",
-      "published_label": "2026/08/27 00:00",
-      "summary": "米Revolution Medicines社は8月26日、少なくとも1ラインの全身療法を受けた、または多剤全身療法の対象とならない転移を有する膵腺癌患者を対象に、RAS（ON）型タンパク質を標的とするマルチ選択的・非共有結合性の経口RAS阻害薬であるdaraxonrasibを米食品医薬品局（FDA）が承認したと発表した。daraxonrasibは、転移を有する膵腺癌患者の2次治療を評価する国際共同無作為化オープンラベルフェーズ3試験の…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "第67回厚生科学審議会予防接種・ワクチン分科会の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_74952.html",
       "source": "厚生労働省 新着情報",
@@ -888,19 +941,6 @@
       "published": "2026-08-24T19:51:00Z",
       "published_label": "2026/08/25 04:51",
       "summary": "MR認定センターは８月24日、MR基礎試験の受験結果表示や、MRの生涯学習を目的とした「基礎教育学習・認定プログラム」で不具合が発生したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "第一三共 ５DXd-ADCグローバル商業化でコマーシャライゼーションユニット新設へ ケラー氏がCCO",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80744",
-      "source": "ミクスOnline",
-      "published": "2026-08-24T19:51:00Z",
-      "published_label": "2026/08/25 04:51",
-      "summary": "第一三共は8月24日、2030年までに予定するがん領域5製品20適応症の上市を見据え、グローバルの商業化体制およびリソースを集約・再編すると発表した。",
       "tags": [
         "その他"
       ],
