@@ -1,8 +1,127 @@
 {
-  "updated_at": "2026-09-01T18:08:26.339298Z",
-  "updated_label": "2026/09/02 03:08",
-  "count": 65,
+  "updated_at": "2026-09-01T22:58:45.339319Z",
+  "updated_label": "2026/09/02 07:58",
+  "count": 66,
   "items": [
+    {
+      "title": "【厚労省】不適切事例が過去最少に‐医療用薬の販売情報提供",
+      "link": "https://www.yakuji.co.jp/entry138724.html",
+      "source": "薬事日報",
+      "published": "2026-09-01T21:31:00Z",
+      "published_label": "2026/09/02 06:31",
+      "summary": "厚生労働省は、2025年度の「医療用医薬品の販売情報提供活動調査事業報告書」を公表した。不適切事例が疑われる事例は前年度から半減した9件で過去最少となった。一…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省】メフィーゴ適正使用徹底を‐講習資料など活用促す",
+      "link": "https://www.yakuji.co.jp/entry138723.html",
+      "source": "薬事日報",
+      "published": "2026-09-01T21:30:22Z",
+      "published_label": "2026/09/02 06:30",
+      "summary": "厚生労働省は8月31日、ラインファーマの経口妊娠中絶薬「メフィーゴパック」（一般名：ミフェプリストン／ミソプロストール）の適正使用の徹底に向け、講習資料や流通…",
+      "tags": [
+        "安全性情報",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】「ジキニンC」をリニューアル‐ビタミンCへのニーズ対応 全薬工業",
+      "link": "https://www.yakuji.co.jp/entry138720.html",
+      "source": "薬事日報",
+      "published": "2026-09-01T21:02:39Z",
+      "published_label": "2026/09/02 06:02",
+      "summary": "全薬工業は1日から、総合かぜ薬「ジキニンC」（指定第2類医薬品）のリニューアル品として、「ジキニンC細粒」（指定第2類医薬品）を発売開始した。 かぜ薬「ジキ…",
+      "tags": [
+        "一般用医薬品",
+        "承認・新薬"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "IBD患者のトイレ問題",
+      "link": "https://www.yakuji.co.jp/entry138719.html",
+      "source": "薬事日報",
+      "published": "2026-09-01T21:01:06Z",
+      "published_label": "2026/09/02 06:01",
+      "summary": "◆症状に伴う急な便意に襲われトイレ探しに困ったとの潰瘍性大腸炎患者の投稿をXで読んだ。それに無季言子が、炎症性腸疾患（IBD）患者のトイレ使用「遠慮なくどうぞ」…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "トランプ大統領 MFNに9社合意 「我々より安い価格があれば、それに合わせる」日本含む参照国を牽制",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80811",
+      "source": "ミクスOnline",
+      "published": "2026-09-01T19:52:00Z",
+      "published_label": "2026/09/02 04:52",
+      "summary": "トランプ米大統領は8月31日（現地時間）、アステラス製薬や協和キリンなど製薬企業9社と最恵国待遇（MFN）価格政策で合意した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "AMED 米ボストンにAMED Global Hubを開設 ベンチャー支援やVC・現地企業との関係構...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80808",
+      "source": "ミクスOnline",
+      "published": "2026-09-01T19:51:00Z",
+      "published_label": "2026/09/02 04:51",
+      "summary": "日本医療研究開発機構（AMED）は9月1日、米国ボストンにAMED Global Hub（Boston）を開設し、活動を開始したと発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "小野薬品 フォシーガ共同販売終了で組織改編 プライマリーからスペシャリティに変更 営業体制も刷新",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80810",
+      "source": "ミクスOnline",
+      "published": "2026-09-01T19:50:00Z",
+      "published_label": "2026/09/02 04:50",
+      "summary": "小野薬品は９月１日、開発本部、営業本部、メディカルアフェアーズ統括部内の組織名称を「プライマリー」から「スペシャリティ」に変更すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "科研製薬 重点製品の戦略立案・推進担う「事業戦略部」新設 研開企画部は改編 10月１日付",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80807",
+      "source": "ミクスOnline",
+      "published": "2026-09-01T19:49:00Z",
+      "published_label": "2026/09/02 04:49",
+      "summary": "科研製薬は９月１日、重点製品の戦略立案や推進を担う専門組織として「事業戦略部」の新設などを含めた組織変更を発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "視覚障害につながるまれな眼疾患とGLP-1受容体作動薬の関連性",
+      "link": "https://www.carenet.com/news/general/hdn/63398?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-01T19:00:00Z",
+      "published_label": "2026/09/02 04:00",
+      "summary": "GLP-1受容体作動薬（GLP-1RA）の使用が、視覚障害につながるまれな眼疾患の発症リスク上昇と関連する可能性があるとする研究結果が報告された。米ラトガース大学のChintan Dave氏らの研究によるもので、詳細は「A…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "百日咳から乳児を守れ 「早急に妊婦への接種体制の整備を」",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/202609/594359.html",
@@ -95,19 +214,6 @@
       "keywords": []
     },
     {
-      "title": "フィネレノンは非糖尿病CKDのeGFR低下を抑制する（解説：栗山哲氏）",
-      "link": "https://www.carenet.com/news/clear/journal/63502?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-01T01:00:00Z",
-      "published_label": "2026/09/01 10:00",
-      "summary": "非ステロイド型ミネラルコルチコイド受容体拮抗薬（non-steroidal mineralocorticoid receptor antagonist：nsMRA）であるフィネレノン（商品名：ケレンディア）の非糖尿病慢性腎臓病（CKD）の腎機能低下抑制効果に…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "令和８年度医薬品等審査迅速化事業費補助金（リアルワールドデータ活用促進事業）公募要領",
       "link": "https://www.mhlw.go.jp/stf/newpage_75749.html",
       "source": "厚生労働省 新着情報",
@@ -118,19 +224,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "免疫性血小板減少症における初のBTK阻害薬「ウェイリズ錠」",
-      "link": "https://www.carenet.com/pharmacist/di/cg004391_070.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-01T00:59:00Z",
-      "published_label": "2026/09/01 09:59",
-      "summary": "今回は、ブルトン型チロシンキナーゼ（BTK）阻害薬「ウェイリズ錠400mg」を紹介します。本剤は免疫性血小板減少症を適応症として世界で初めて承認されたBTK阻害薬です。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -360,20 +453,6 @@
       "keywords": []
     },
     {
-      "title": "制吐目的のオランザピン、糖尿病患者にも厳格管理下で投与可能へ／日本癌治療学会",
-      "link": "https://www.carenet.com/news/general/carenet/63494?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-08-31T19:00:00Z",
-      "published_label": "2026/09/01 04:00",
-      "summary": "2026年8月25日、日本癌治療学会制吐薬適正使用ガイドライン改訂ワーキンググループ（以下、WG）は、「制吐目的としてのオランザピン投与時の血糖管理」について、ガイドライン速報版として公開した。同日に厚生労…",
-      "tags": [
-        "学術・エビデンス",
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "【新製品＋ウェビナー】製薬業界の競合分析を変えるエージェントAI「Atlas CI」登場【AD】",
       "link": "https://www.yakuji.co.jp/entry138215.html",
       "source": "薬事日報",
@@ -453,19 +532,6 @@
         "診療報酬改定"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "米FDA、転移性膵腺がんに対する新規RAS阻害薬を承認",
-      "link": "https://www.yakuji.co.jp/entry138652.html",
-      "source": "薬事日報",
-      "published": "2026-08-31T05:00:53Z",
-      "published_label": "2026/08/31 14:00",
-      "summary": "米食品医薬品局（FDA）は8月26日、転移性膵腺がんの治療薬としてRasonque（一般名：daraxonrasib）を承認した。Rasonqueは、膵腺がん…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -812,59 +878,6 @@
         "法令・行政"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "サンド ペグフィルグラスチムBS皮下注3.6mg「GRP」の販売・販促・流通を担当 Bioconと提...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80751",
-      "source": "ミクスOnline",
-      "published": "2026-08-25T19:50:00Z",
-      "published_label": "2026/08/26 04:50",
-      "summary": "サンドは８月25日、持続型G-CSF製剤・ペグフィルグラスチムBS皮下注3.6mg「GRP」について、日本国内における販売、販売促進活動、流通を担当すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ギリアド CAR-T細胞療法・brexu-celを承認申請 再発又は難治性のMCL及びB-ALLを対...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80750",
-      "source": "ミクスOnline",
-      "published": "2026-08-25T19:49:00Z",
-      "published_label": "2026/08/26 04:49",
-      "summary": "ギリアド・サイエンシズは８月21日、腫瘍細胞に発現するCD19を標的とするCAR-T細胞療法・brexucabtagene autoleucel（以下、brexu-cel）を承認申請したと発表した。",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "中外製薬 抗IL-6抗体・バミキバルトを承認申請 非感染性ぶどう膜炎に伴う黄斑浮腫を対象に",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80749",
-      "source": "ミクスOnline",
-      "published": "2026-08-25T19:49:00Z",
-      "published_label": "2026/08/26 04:49",
-      "summary": "中外製薬は８月25日、抗IL-6モノクローナル抗体・バミキバルトについて、非感染性ぶどう膜炎に伴う黄斑浮腫を予定適応症として承認申請したと発表した。",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "生成AIで薬剤・疾患関連情報を収集 初めて医師の過半数に “Web講演会後に生成AIで確認”が最多",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80725",
-      "source": "ミクスOnline",
-      "published": "2026-08-24T19:52:00Z",
-      "published_label": "2026/08/25 04:52",
-      "summary": "ChatGPT、Gemini、Claudeなどの生成AIを用いて薬剤・疾患関連情報（以下、薬剤情報）を収集した経験のある医師が51.2％と過半数を超えたことがわかった。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     }
   ]
