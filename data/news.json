@@ -1,15 +1,106 @@
 {
-  "updated_at": "2026-09-01T00:21:45.217309Z",
-  "updated_label": "2026/09/01 09:21",
-  "count": 71,
+  "updated_at": "2026-09-01T08:16:24.049141Z",
+  "updated_label": "2026/09/01 17:16",
+  "count": 70,
   "items": [
+    {
+      "title": "29日にZoom Webinar「EMA承認後の医薬品ビジネスを成功へ導く－マーケット＆ペイシェントアクセスの戦略的視点－」開催 アスカコーポレーション",
+      "link": "https://www.yakuji.co.jp/entry138666.html",
+      "source": "薬事日報",
+      "published": "2026-09-01T06:00:54Z",
+      "published_label": "2026/09/01 15:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "昭薬同窓会・平成塾 生涯学習講座 2026/10",
+      "link": "https://www.yakuji.co.jp/entry138684.html",
+      "source": "薬事日報",
+      "published": "2026-09-01T04:00:16Z",
+      "published_label": "2026/09/01 13:00",
+      "summary": "平成塾薬剤師業務支援講座3 開催日時 2026年10月25日(日)13:00～14:30 開催方法 Web(Zoom)による遠隔研修会 受講料 1,000円(昭…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "トランプ大統領 MFN価格政策にアステラス製薬、協和キリンなど9社合意 国内企業では初 総数26社に",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80804",
+      "source": "ミクスOnline",
+      "published": "2026-09-01T02:50:00Z",
+      "published_label": "2026/09/01 11:50",
+      "summary": "トランプ米大統領は8月31日（現地時間）、アルコン、アステラス製薬、ビーワン・メディシンズ、ブリッジバイオ、CSL、協和キリン、サンファーマ、テバ・ファーマシューティカルズ、UCBの9社と最恵国待遇（MFN）価格制度で合意したと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "10月31日に高校生向けイベント『現場で話して、感じて、学び取る！リアル薬剤師職業体験』開催 城西大学、埼玉県、埼玉県薬剤師会、埼玉県病院薬剤師会",
+      "link": "https://www.yakuji.co.jp/entry138664.html",
+      "source": "薬事日報",
+      "published": "2026-09-01T01:30:15Z",
+      "published_label": "2026/09/01 10:30",
+      "summary": "2026年10月31日(土)に2026年第3回「現場で話して、感じて、学び取る！リアル薬剤師」を日本赤十字社深谷赤十字病院にて実施します。 (主催：城西大学 共…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "フィネレノンは非糖尿病CKDのeGFR低下を抑制する（解説：栗山哲氏）",
+      "link": "https://www.carenet.com/news/clear/journal/63502?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-01T01:00:00Z",
+      "published_label": "2026/09/01 10:00",
+      "summary": "非ステロイド型ミネラルコルチコイド受容体拮抗薬（non-steroidal mineralocorticoid receptor antagonist：nsMRA）であるフィネレノン（商品名：ケレンディア）の非糖尿病慢性腎臓病（CKD）の腎機能低下抑制効果に…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "令和８年度医薬品等審査迅速化事業費補助金（リアルワールドデータ活用促進事業）公募要領",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75749.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-01T01:00:00Z",
+      "published_label": "2026/09/01 10:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "免疫性血小板減少症における初のBTK阻害薬「ウェイリズ錠」",
+      "link": "https://www.carenet.com/pharmacist/di/cg004391_070.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-01T00:59:00Z",
+      "published_label": "2026/09/01 09:59",
+      "summary": "今回は、ブルトン型チロシンキナーゼ（BTK）阻害薬「ウェイリズ錠400mg」を紹介します。本剤は免疫性血小板減少症を適応症として世界で初めて承認されたBTK阻害薬です。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "SOAPを埋めるなら薬剤師らしいA（アセスメント）を書こう",
       "link": "https://pharmacist.m3.com/column/yakureki/7746?promotionCode=op_pcolumn",
       "source": "Web監視",
       "published": "2026-09-01T00:21:43.991067Z",
       "published_label": "2026/09/01 09:21",
-      "summary": "「私の薬局は必ずSOAPで書かないといけないことになっています。プロブレムを書く欄はありません。プロブレムが見つからなかったときに、以前教わった「SとPだけ書く」パターンをやったところ、上司から「SOAPを全部書きなさい」と怒られました。SOAPはめちゃくちゃでも、全部埋めてあれば怒られません。 今回もそれらしくSOAPにしてみました。プロブレムらしきものは見つかったのですが、あまり明確ではないので、本来なら箇条書きにすべきなのかなと思います。」と教わっています。これで薬歴として問題ないでしょうか。」との相談に、服薬ケア研究所所長 岡村祐聡先生がアドバイスします。",
+      "summary": "「私の薬局は必ずSOAPで書かないといけないことになっています。プロブレムを書く欄はありません。プロブレムが見つからなかったときに、以前教わった「SとPだけ書く」パターンをやったところ、上司から「SOAPを全部書きなさい」と怒られました。SOAPはめちゃくちゃでも、全部埋めてあれば怒られません。 今回もそれらしくSOAPにしてみました。プロブレムらしきものは見つかったのですが、あまり明確ではないので、本来なら箇条書きにすべきなのかなと…",
       "tags": [
         "薬剤師コラム",
         "プロブレム",
@@ -17,6 +108,32 @@
         "薬歴"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【ツムラなど5社】人型ロボ 産業現場実装へ‐AI学習データ収集拠点開設",
+      "link": "https://www.yakuji.co.jp/entry138636.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T23:31:52Z",
+      "published_label": "2026/09/01 08:31",
+      "summary": "ヒューマノイドロボットの産業現場への実装を目指す製薬企業のツムラなど5社が、業種の垣根を越えて参画するコンソーシアム「J-HRTI（ジェイハーティ）」は26日…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【臨床研究部会】臨中承認要件見直し了承‐5年で2回未達なら取消",
+      "link": "https://www.yakuji.co.jp/entry138631.html",
+      "source": "薬事日報",
+      "published": "2026-08-31T23:30:11Z",
+      "published_label": "2026/09/01 08:30",
+      "summary": "厚生科学審議会臨床研究部会は8月27日、臨床研究中核病院の承認要件見直し案を大筋で了承した。従来の研究件数重視から成果重視へと評価軸を転換し、達成状況に応じて…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -244,6 +361,19 @@
       "keywords": []
     },
     {
+      "title": "特集は「点鼻レスキュー薬、集結。」",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/di/column/premium/202609/594396.html",
+      "source": "日経メディカル Online",
+      "published": "2026-08-31T15:00:00Z",
+      "published_label": "2026/09/01 00:00",
+      "summary": "月刊誌「日経ドラッグインフォメーション プレミアム版」（日経DI プレミアム版）9月号が発売となりました。本号の見どころをご紹介します。 特集は「点鼻レスキュー薬、集結。」です。 重症低血糖、てんかん発作、アナフィラキシーなど、一刻を争う場面で用いられるレスキュー薬。近年、経鼻投与製剤が相次いで登場し、迅速な薬物投与を可能にしています。点鼻薬と聞くと、鼻の症状に使うステロイドや抗アレルギー薬を思い浮かべる方も多いかもしれませんが、いま…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "OTC類似薬の追加負担、対象・対象外を処方箋に記載へ",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594368.html",
       "source": "日経メディカル Online",
@@ -339,65 +469,12 @@
       "keywords": []
     },
     {
-      "title": "生命科学・医学系研究の倫理指針改正、12月から適用",
-      "link": "https://www.yakuji.co.jp/entry138610.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T22:32:36Z",
-      "published_label": "2026/08/31 07:32",
-      "summary": "「人を対象とする生命科学・医学系研究に関する倫理指針の一部を改正する件」（令和8年文部科学省・厚生労働省・経済産業省告示第1号）が27日、告示された。令和8年…",
-      "tags": [
-        "学術・エビデンス",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【ナリス化粧品】日焼け止めブランド「by365」発売半年で前年比257%",
-      "link": "https://www.yakuji.co.jp/entry138608.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T22:31:20Z",
-      "published_label": "2026/08/31 07:31",
-      "summary": "ナリス化粧品は、ドラッグストア・量販店流通で2024年から展開するナリスアップブランドの日焼け止め「by365（バイサンロクゴ）」を2月10日にリニューアル。…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "久坂部羊氏の小説をＴＶドラマ化「連続ドラマW MR –医薬情報担当者-」全配役公開 10月4日スタ...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80798",
       "source": "ミクスOnline",
       "published": "2026-08-30T22:05:00Z",
       "published_label": "2026/08/31 07:05",
       "summary": "医師で小説家の久坂部羊氏の小説をＴＶドラマ化した「連続ドラマW MR –医薬情報担当者-」が10月4日から、WOWOWにて放送・配信がスタートする。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【医療保険部会】生保以外の低所得者配慮を‐OTC類似薬見直し議論",
-      "link": "https://www.yakuji.co.jp/entry138635.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T21:33:38Z",
-      "published_label": "2026/08/31 06:33",
-      "summary": "社会保障審議会医療保険部会は27日、OTC類似薬の保険給付の見直しの実施に向けた技術的検討会の中間取りまとめを踏まえ、来年3月の一部保険外療養制度施行に向けた…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【MR認定センター】MR基礎試験結果を誤表示‐認定プログラムで誤判定も",
-      "link": "https://www.yakuji.co.jp/entry138627.html",
-      "source": "薬事日報",
-      "published": "2026-08-30T21:32:55Z",
-      "published_label": "2026/08/31 06:32",
-      "summary": "MR認定センターは24日、今年度から開始した新MR認定制度において、認定制度運用基幹システムに不具合が起こり、7月に実施した第1回MR基礎試験における試験結果…",
       "tags": [
         "その他"
       ],
@@ -563,45 +640,6 @@
       "keywords": []
     },
     {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-08-28T04:55:00Z",
-      "published_label": "2026/08/28 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-08-28T04:55:00Z",
-      "published_label": "2026/08/28 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師国家試験の施行について",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-08-28T01:00:00Z",
-      "published_label": "2026/08/28 10:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
       "title": "IBD治療薬市場 30年に2000億円台に 抗TL1A抗体製剤「治療方針を大きく変える可能性」 富士...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80771",
       "source": "ミクスOnline",
@@ -733,33 +771,6 @@
       "keywords": []
     },
     {
-      "title": "全身型若年性特発性関節炎および成人発症スチル病に早期から使用可能なIL-1受容体拮抗薬",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202608/594331.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-27T15:00:00Z",
-      "published_label": "2026/08/28 00:00",
-      "summary": "2026年8月20日、インターロイキン1（IL-1）受容体拮抗薬アナキンラ（遺伝子組換え）（商品名キネレット皮下注100mgシリンジ）が発売された。同薬は、6月19日に製造販売承認を取得し、8月13日に薬価収載された。適応は「全身型若年性特発性関節炎、成人発症スチル病」、用法用量は「成人および生後8カ月以上かつ体重10kg以上の小児に、体重に応じて1日1回100mg（体重50kg以上）、または2mg/kg（体重50kg未満）を皮下投与…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師免許の申請手続き等について",
-      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-08-27T03:00:00Z",
-      "published_label": "2026/08/27 12:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
       "title": "米MFNで議論 業界「開発上市に影響」 診療側「即ラグ／ロスはいかがなものか」 中医協薬価専門部会",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80759",
       "source": "ミクスOnline",
@@ -842,19 +853,6 @@
       "keywords": []
     },
     {
-      "title": "第67回厚生科学審議会予防接種・ワクチン分科会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74952.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-08-26T05:00:00Z",
-      "published_label": "2026/08/26 14:00",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "認知症・MCI治療薬市場 27年に1000億円台 35年に3000億円近くに 富士経済調べ",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80748",
       "source": "ミクスOnline",
@@ -928,19 +926,6 @@
       "published": "2026-08-24T19:52:00Z",
       "published_label": "2026/08/25 04:52",
       "summary": "ChatGPT、Gemini、Claudeなどの生成AIを用いて薬剤・疾患関連情報（以下、薬剤情報）を収集した経験のある医師が51.2％と過半数を超えたことがわかった。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "MR認定センター 基礎試験などで不具合 科目ごとの合否表示に誤り 基礎試験の総合合否には影響なし",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80746",
-      "source": "ミクスOnline",
-      "published": "2026-08-24T19:51:00Z",
-      "published_label": "2026/08/25 04:51",
-      "summary": "MR認定センターは８月24日、MR基礎試験の受験結果表示や、MRの生涯学習を目的とした「基礎教育学習・認定プログラム」で不具合が発生したと発表した。",
       "tags": [
         "その他"
       ],
