@@ -1,8 +1,100 @@
 {
-  "updated_at": "2026-09-02T18:24:12.446749Z",
-  "updated_label": "2026/09/03 03:24",
-  "count": 64,
+  "updated_at": "2026-09-02T22:57:51.870358Z",
+  "updated_label": "2026/09/03 07:57",
+  "count": 63,
   "items": [
+    {
+      "title": "【マツキヨココカラ】成田空港に5店舗目出店‐第3ターミナルビル内",
+      "link": "https://www.yakuji.co.jp/entry138731.html",
+      "source": "薬事日報",
+      "published": "2026-09-02T21:31:49Z",
+      "published_label": "2026/09/03 06:31",
+      "summary": "マツキヨココカラ＆カンパニーは8月28日、成田国際空港第3ターミナルビル内の出国手続き後エリアに「マツモトキヨシ成田国際空港第3ターミナル店」をオープンした。…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【文科省】薬学部6校が定員削減申請‐九州医療科学大など",
+      "link": "https://www.yakuji.co.jp/entry138729.html",
+      "source": "薬事日報",
+      "published": "2026-09-02T21:30:57Z",
+      "published_label": "2026/09/03 06:30",
+      "summary": "文部科学省は、2027年度からの私立大学収容定員変更に伴う学則変更認可申請を公表した。薬学部薬学科（6年制）における定員削減の申請は6校で計240人となった。…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "メディパルHD 英機関投資家から渡辺秀一氏の取締役解任含む臨時株主総会招集の請求書受領 慎重に検討",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80814",
+      "source": "ミクスOnline",
+      "published": "2026-09-02T19:51:00Z",
+      "published_label": "2026/09/03 04:51",
+      "summary": "メディパルホールディングスは9月２日、英国の機関投資家シルチェスター・インターナショナル・インベスターズから臨時株主総会招集の請求書を受領したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "DIA日本年会・山本大会長 「新結合」で新たな価値創出 10月18日～20日 東京ビッグサイトで開催",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80816",
+      "source": "ミクスOnline",
+      "published": "2026-09-02T19:50:00Z",
+      "published_label": "2026/09/03 04:50",
+      "summary": "DIA日本年会2026が10月18日から20日まで東京ビッグサイトで開催される。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "小野薬品 米Aitia社と創薬提携 因果AIで神経領域の治療標的を探索 独占的研究開発・商業化で権利...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80813",
+      "source": "ミクスOnline",
+      "published": "2026-09-02T19:50:00Z",
+      "published_label": "2026/09/03 04:50",
+      "summary": "小野薬品は９月２日、ＡＩを活用した創薬プラットフォーム技術を有する米・Aitia社と創薬提携契約を締結したと発表した。",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "クリニックフォア・村丘会長 CPAP治療の保険基準緩和「より治療に進みやすくなったと体感」26年度改...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80812",
+      "source": "ミクスOnline",
+      "published": "2026-09-02T19:49:00Z",
+      "published_label": "2026/09/03 04:49",
+      "summary": "都市部での対面診療やオンライン診療を提供するクリニックフォアグループ会長CMOの村丘寛和医師は９月２日、睡眠時無呼吸症候群（SAS）におけるCPAP（持続陽圧呼吸療法）の保険適用基準の緩和について、「より治療に進みやすくなったと体感している」と強調した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "降圧薬による認知症リスクの低下、ARB vs.Ca拮抗薬～日本人大規模データ",
+      "link": "https://www.carenet.com/news/general/carenet/63476?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-02T19:00:00Z",
+      "published_label": "2026/09/03 04:00",
+      "summary": "降圧薬の「種類」の違いが、血圧低下とは独立して認知症リスクに影響するかについては、十分に明らかになっていなかった。今回、統計数理研究所/総合研究大学院大学の野間 久史氏らが実施した65歳以上を対象とし…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "ウゴービどう使う？SD・MDの違いと服薬指導法",
       "link": "https://pharmacist.m3.com/column/kurumi/7771?promotionCode=op_pcolumn",
@@ -304,19 +396,6 @@
       "keywords": []
     },
     {
-      "title": "視覚障害につながるまれな眼疾患とGLP-1受容体作動薬の関連性",
-      "link": "https://www.carenet.com/news/general/hdn/63398?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-01T19:00:00Z",
-      "published_label": "2026/09/02 04:00",
-      "summary": "GLP-1受容体作動薬（GLP-1RA）の使用が、視覚障害につながるまれな眼疾患の発症リスク上昇と関連する可能性があるとする研究結果が報告された。米ラトガース大学のChintan Dave氏らの研究によるもので、詳細は「A…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "百日咳から乳児を守れ 「早急に妊婦への接種体制の整備を」",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/202609/594359.html",
       "source": "日経メディカル Online",
@@ -434,32 +513,6 @@
         "薬歴"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【ツムラなど5社】人型ロボ 産業現場実装へ‐AI学習データ収集拠点開設",
-      "link": "https://www.yakuji.co.jp/entry138636.html",
-      "source": "薬事日報",
-      "published": "2026-08-31T23:31:52Z",
-      "published_label": "2026/09/01 08:31",
-      "summary": "ヒューマノイドロボットの産業現場への実装を目指す製薬企業のツムラなど5社が、業種の垣根を越えて参画するコンソーシアム「J-HRTI（ジェイハーティ）」は26日…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【臨床研究部会】臨中承認要件見直し了承‐5年で2回未達なら取消",
-      "link": "https://www.yakuji.co.jp/entry138631.html",
-      "source": "薬事日報",
-      "published": "2026-08-31T23:30:11Z",
-      "published_label": "2026/09/01 08:30",
-      "summary": "厚生科学審議会臨床研究部会は8月27日、臨床研究中核病院の承認要件見直し案を大筋で了承した。従来の研究件数重視から成果重視へと評価軸を転換し、達成状況に応じて…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -793,73 +846,6 @@
       "summary": "中医協薬価専門部会が８月26日に開かれ、関係業界からの意見聴取を行った。",
       "tags": [
         "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "塩野義製薬 サスメドとの不眠症治療用アプリの販売提携を終了 「両社で協議を重ねた結果」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80755",
-      "source": "ミクスOnline",
-      "published": "2026-08-26T19:51:00Z",
-      "published_label": "2026/08/27 04:51",
-      "summary": "塩野義製薬は８月26日、不眠症治療用アプリ「サスメド不眠障害用アプリ Medcle」に関するサスメド社との販売提携契約を終了したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "新薬等14製品承認へ エーザイの早期AD治療薬・レケンビ皮下注製剤など 薬事審・第一部会が了承",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80754",
-      "source": "ミクスOnline",
-      "published": "2026-08-26T19:50:00Z",
-      "published_label": "2026/08/27 04:50",
-      "summary": "厚生労働省の薬事審議会・医薬品第一部会は８月26日、エーザイの早期アルツハイマー病治療薬・レケンビの皮下注（SC）製剤など新薬11製品の承認の可否を審議し、承認を了承した。",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "杏林製薬 慢性咳嗽の疾患啓発マンガ動画を公開しメッセージ発信 「長引く咳は治療できる可能性がある」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80753",
-      "source": "ミクスOnline",
-      "published": "2026-08-26T19:49:00Z",
-      "published_label": "2026/08/27 04:49",
-      "summary": "杏林製薬は８月26日、８週間以上続く長引く咳「慢性咳嗽」の疾患啓発を目的としたマンガ動画を、YouTube上で公開したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "認知症・MCI治療薬市場 27年に1000億円台 35年に3000億円近くに 富士経済調べ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80748",
-      "source": "ミクスOnline",
-      "published": "2026-08-25T19:52:00Z",
-      "published_label": "2026/08/26 04:52",
-      "summary": "認知症・MCI（軽度認知障害）治療薬の国内市場が2027年に1000億円台、29年に1500億円台に達し、35年に3000億円近くにまで拡大する――。このような市場予測を富士経済がまとめた。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "オランザピン経口剤 糖尿病患者への抗がん剤に伴う制吐目的投与の禁忌解除 添付文書改訂",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80752",
-      "source": "ミクスOnline",
-      "published": "2026-08-25T19:50:00Z",
-      "published_label": "2026/08/26 04:50",
-      "summary": "抗精神病薬・オランザピン（経口剤）を抗悪性腫瘍剤投与に伴う消化器症状（悪心、嘔吐）に使用する場合について、これまで禁忌とされていた「糖尿病の患者、糖尿病の既往歴のある患者」への投与を可能にするなどの添付文書改訂が行われた。厚生労働省医薬局医薬安全対策課が８月25日、課長名で添付文書改訂を指示した。同剤を糖尿病（既往含む）の患者に制吐目的で投与する際は、投与前及び投与期間中の毎日頻回の血糖値のモニタリング管理などを求める。これにより、糖…",
-      "tags": [
-        "安全性情報",
-        "法令・行政"
       ],
       "importance": 4,
       "keywords": []
