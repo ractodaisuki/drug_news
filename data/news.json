@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-03T18:19:15.465283Z",
-  "updated_label": "2026/09/04 03:19",
-  "count": 66,
+  "updated_at": "2026-09-03T22:57:43.957934Z",
+  "updated_label": "2026/09/04 07:57",
+  "count": 65,
   "items": [
     {
       "title": "なぜ下痢止めが出ない？ロペラミドの禁忌と指導法",
       "link": "https://pharmacist.m3.com/column/knowledge/7773?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-03T18:19:13.782440Z",
-      "published_label": "2026/09/04 03:19",
+      "published": "2026-09-03T22:57:42.635464Z",
+      "published_label": "2026/09/04 07:57",
       "summary": "患者から「以前もらった下痢止めが出ないのはなぜ？」と聞かれ、説明に悩んだ経験はありませんか？感染性下痢への「ロペラミド（ロペミン）」の投与は、原則禁忌です。本記事では、ロペラミドを使ってはいけない理由や血便・抗菌薬歴の確認ポイント、代替案となる適切な服薬指導法をわかりや",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,263 @@
         "副作用"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【米政府】日本企業初のMFN合意‐アステラス、協和キリンと",
+      "link": "https://www.yakuji.co.jp/entry138907.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:33:51Z",
+      "published_label": "2026/09/04 06:33",
+      "summary": "米ホワイトハウスは8月31日（現地時間）、日本のアステラス製薬と協和キリンを含む製薬9社と最恵国待遇（MFN）による米国内での薬価引き下げ契約に合意したと発表…",
+      "tags": [
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省 村上専門官】偽造薬、SNSの監視強化‐GLP-1不正流通に警鐘",
+      "link": "https://www.yakuji.co.jp/entry138912.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:32:47Z",
+      "published_label": "2026/09/04 06:32",
+      "summary": "厚生労働省医薬局監視指導・麻薬対策課の村上明男偽造医薬品等監視専門官は8月28日、オンラインで開かれた第14回医薬品セキュリティ研究会主催のフォーラムで講演し…",
+      "tags": [
+        "法令・行政",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【内山医薬局長】創薬人材と薬剤師確保課題‐審査業務にAI評価必要",
+      "link": "https://www.yakuji.co.jp/entry138908.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:31:40Z",
+      "published_label": "2026/09/04 06:31",
+      "summary": "厚生労働省の内山博之医薬局長は2日、専門紙と共同会見し、人口減少が進む中で薬剤師や創薬に関わる人材などの確保が医薬行政上の大きな課題になるとの認識を示した。ま…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【GE薬協】35年へGE産業ビジョン‐協業で安定供給確保",
+      "link": "https://www.yakuji.co.jp/entry138911.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:30:36Z",
+      "published_label": "2026/09/04 06:30",
+      "summary": "日本ジェネリック製薬協会（GE薬協）は8月31日、医療を支えるインフラ産業としての今後の方向性を示す「ジェネリック医薬品産業ビジョン2035」をまとめ公表した…",
+      "tags": [
+        "供給・出荷",
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】マスク、薬用入浴剤を数量限定発売 白元アース",
+      "link": "https://www.yakuji.co.jp/entry138904.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:07:20Z",
+      "published_label": "2026/09/04 06:07",
+      "summary": "白元アース＝顔にフィットして小顔に魅せるマスク「ビースタイルプリーツタイプふつうサイズ／立体タイプふつうサイズ」にマスク本体のカラーがベージュで4色の耳ひもか…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】「フマキラーアルコール消毒スプレー」を発売 フマキラー",
+      "link": "https://www.yakuji.co.jp/entry138902.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:06:30Z",
+      "published_label": "2026/09/04 06:06",
+      "summary": "フマキラー＝100％天然生まれの医薬部外品の対物消毒剤「フマキラーアルコール消毒スプレー」について、8月20日に全国のドラッグストア、ホームセンター、スーパー…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【人事】11日付 クリエイトエス・ディー",
+      "link": "https://www.yakuji.co.jp/entry138901.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:05:21Z",
+      "published_label": "2026/09/04 06:05",
+      "summary": "〈人事異動〉 執行役員開発統括本部本部長武藤達也、店舗開発三部部長増田孝",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】オールインワンの新製品‐「シュミテクト」ブランドから Haleonジャパン",
+      "link": "https://www.yakuji.co.jp/entry138896.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:04:18Z",
+      "published_label": "2026/09/04 06:04",
+      "summary": "Haleonジャパンは、歯磨きブランド「シュミテクト」から、歯周病ケア成分を最大配合すると共に、知覚過敏ケアやホワイトニングなど10の働きを一つにした新製品「…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】二つの生薬でアプローチ‐「内服ボラギノールPRO」 天藤製薬",
+      "link": "https://www.yakuji.co.jp/entry138894.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:03:54Z",
+      "published_label": "2026/09/04 06:03",
+      "summary": "天藤製薬は8月27日、痔疾用内服薬の新製品「内服ボラギノールPRO」（第2類医薬品）の販売を開始した。いぼ痔、切れ痔、痔出血の症状を緩和し、痔の症状を内側から…",
+      "tags": [
+        "業界動向",
+        "承認・新薬",
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "創薬予算、規模より問われる成果",
+      "link": "https://www.yakuji.co.jp/entry138882.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:02:52Z",
+      "published_label": "2026/09/04 06:02",
+      "summary": "厚生労働省は2027年度予算概算要求で、創薬・先端医療分野の関連施策に1969億円を要求した。創薬力強化に向けた人材育成、治験・臨床試験体制の整備などを柱とす…",
+      "tags": [
+        "学術・エビデンス",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "異種移植と命の重み",
+      "link": "https://www.yakuji.co.jp/entry138874.html",
+      "source": "薬事日報",
+      "published": "2026-09-03T21:01:58Z",
+      "published_label": "2026/09/04 06:01",
+      "summary": "◆旧暦8月15日の夜（十五夜）の月を中秋の名月と呼ぶ。今年は9月25日がその日だ。十五夜お月さまを見て跳ねるうさぎの童謡が思い出される。歌のルーツと見られる話が…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "厚労省保険局 OTC類似薬の給付見直しで論点提示 ステロイド外用薬の給付継続求める患者団体の意見も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80824",
+      "source": "ミクスOnline",
+      "published": "2026-09-03T19:52:00Z",
+      "published_label": "2026/09/04 04:52",
+      "summary": "厚労省保険局は9月３日開催の社会保障審議会医療保険部会に、OTC類似薬の保険給付の見直しの実施にむけた議論の論点を提示した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "UAゼンセン・永島会長 組織拡大や賃上げ、政策実現に注力 定期大会前に決意",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80819",
+      "source": "ミクスOnline",
+      "published": "2026-09-03T19:51:00Z",
+      "published_label": "2026/09/04 04:51",
+      "summary": "UAゼンセンの永島智子会長は9月3日、定期大会を間近に控える中で開いた会見で、「就任から２年間の取り組みを総括するとともに、新たな行動方針の下で次の一歩を踏み出す重要な節目になる」と述べ、組織拡大や賃上げ、政治活動を通じた政策実現に注力する姿勢を示した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インタラクティブソリューションズ AI対話自主トレアプリに提案資料の提示機能 難易度高い面談を想定",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80820",
+      "source": "ミクスOnline",
+      "published": "2026-09-03T19:50:00Z",
+      "published_label": "2026/09/04 04:50",
+      "summary": "インタラクティブソリューションズは９月３日、ＡＩ対話自主トレーニングアプリ「iRolePlay（アイロールプレイ）」に、提案資料をＡＩ医師に提示する新機能を追加したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ニプロ フォシーガAGを９月４日に発売 「先発医薬品と同一設計に基づく品質特性」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80818",
+      "source": "ミクスOnline",
+      "published": "2026-09-03T19:50:00Z",
+      "published_label": "2026/09/04 04:50",
+      "summary": "ニプロは９月４日、SGLT2阻害薬・フォシーガのオーソライズド・ジェネリック（AG）を発売する。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "ブンディブギョ型エボラ出血熱に承認済みワクチンは有効か？／Lancet",
+      "link": "https://www.carenet.com/news/journal/carenet/63541?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-03T19:00:00Z",
+      "published_label": "2026/09/04 04:00",
+      "summary": "米国・カリフォルニア大学ロサンゼルス校のMegan Halbrook氏らは、ブンディブギョ型エボラウイルス（BDBV）によるエボラウイルス病の過去最大の流行（2026 outbreak）が続いているコンゴ（旧ザイール）における縦…",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "急性期統合失調症に対する8つの抗精神病薬とKarXTとの比較～ネットワークメタ解析",
+      "link": "https://www.carenet.com/news/general/carenet/63510?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-03T19:00:00Z",
+      "published_label": "2026/09/04 04:00",
+      "summary": "米国FDAは、xanomelineとtrospiumを配合したKarXTを統合失調症の新たな治療薬として2024年に承認した。KarXTは、成人統合失調症患者を対象とした3つのランダム化比較試験（RCT）において、プラセボに対する優越性…",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "門前薬局を狙い撃ち！？厚労省「立地依存減算」の深層",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594229.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-03T15:00:00Z",
+      "published_label": "2026/09/04 00:00",
+      "summary": "2026年度調剤報酬改定で、特に大きな話題となったのが「門前薬局等立地依存減算」（マイナス15点）の新設だ。病院の前に並ぶ門前薬局や医療モールに新しく開局する薬局などを対象に、調剤基本料を減額する仕組み。チェーン薬局の経営陣からは、この減算制度に憤懣やる方ない声が相次いだ。「到底受け入れられない」「門前薬局は何か悪いことでもしたのか」「夜も眠れない」——などと不満、愚痴がこぼれ出る。では、なぜ厚生労働省は、これほど反発の大きい改定を敢…",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "ハイボンとラリキシンDSの販売中止が決定",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202609/594412.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-03T15:00:00Z",
+      "published_label": "2026/09/04 00:00",
+      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年8月23〜29日のランキングです。",
+      "tags": [
+        "供給・出荷"
+      ],
+      "importance": 5,
       "keywords": []
     },
     {
@@ -60,33 +317,6 @@
       "summary": "製薬企業にとって、リモートMRやデジタルを活用した情報提供は今や欠かせない手段となりました。しかし、その情報は本当に医師の診療・処方選択に影響する価値を届けられ…",
       "tags": [
         "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "膵がんに「1日1回の飲み薬」、生存期間約2倍も1ヵ月600万円",
-      "link": "https://www.carenet.com/hihyothu3/075.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-03T01:00:05Z",
-      "published_label": "2026/09/03 10:00",
-      "summary": "米FDAが転移膵がんの新薬daraxonrasibを承認しました。原因となるRASタンパク質を阻害し生存期間を約2倍に延ばす経口剤です。効果や副作用、月約600万円の費用と日本の現状を解説します。",
-      "tags": [
-        "安全性情報",
-        "承認・新薬"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "妊娠高血圧症候群、処方してよい薬剤は？",
-      "link": "https://www.carenet.com/series/exam/cg005251_067.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-03T01:00:00Z",
-      "published_label": "2026/09/03 10:00",
-      "summary": "CareNeTVの人気番組「内科専門医試験 バーチャル模試」から、毎週1問クイズ形式で紹介。受験予定者も現役医師も楽しみながら知識の確認とスキルアップができる、実力試しコンテンツです。",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -198,19 +428,6 @@
       "keywords": []
     },
     {
-      "title": "降圧薬による認知症リスクの低下、ARB vs.Ca拮抗薬～日本人大規模データ",
-      "link": "https://www.carenet.com/news/general/carenet/63476?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-02T19:00:00Z",
-      "published_label": "2026/09/03 04:00",
-      "summary": "降圧薬の「種類」の違いが、血圧低下とは独立して認知症リスクに影響するかについては、十分に明らかになっていなかった。今回、統計数理研究所/総合研究大学院大学の野間 久史氏らが実施した65歳以上を対象とし…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "子宮体癌・頸癌に続いて卵巣癌にもいよいよ複合がん免疫療法が入ってくる",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/report/202609/594404.html",
       "source": "日経メディカル Online",
@@ -292,153 +509,6 @@
         "薬価・制度"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "日本で治験未実施に懸念‐厚労省 佐々木医政局長、米MFN対応へ意欲示す",
-      "link": "https://www.yakuji.co.jp/entry138725.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T23:30:33Z",
-      "published_label": "2026/09/02 08:30",
-      "summary": "厚生労働省の佐々木昌弘医政局長は8月31日に専門紙と共同会見し、米国の最恵国待遇（MFN）価格政策への対応について「業界関係者と丁寧に意見交換を重ね、革新的医…",
-      "tags": [
-        "学術・エビデンス",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【予防接種法施行規則改正】同意の有無は電磁的記録が原則",
-      "link": "https://www.yakuji.co.jp/entry138750.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T22:35:05Z",
-      "published_label": "2026/09/02 07:35",
-      "summary": "予防接種を行う際の同意の有無について、電磁的記録で記録することを原則とする予防接種法施行規則の一部改正省令（令和8年厚生労働省令第136号）が1日、公布・施行…",
-      "tags": [
-        "法令・行政",
-        "感染症・ワクチン"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「matsukiyo ホットクレンジングジェル」が新登場‐人気の超高圧ビタミンC誘導体配合シリーズ 第7弾 マツキヨココカラ＆カンパニー",
-      "link": "https://www.yakuji.co.jp/entry138748.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T22:34:28Z",
-      "published_label": "2026/09/02 07:34",
-      "summary": "マツキヨココカラ＆カンパニーは、プライベートブランド「matsukiyo」で人気の超高圧ビタミンC誘導体配合シリーズより、毛穴に着目した処方と肌に優しいマンナ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【サクラファインテックジャパン】第19回「サクラ病理技術賞」の公募開始",
-      "link": "https://www.yakuji.co.jp/entry138747.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T22:33:35Z",
-      "published_label": "2026/09/02 07:33",
-      "summary": "病理検査機器・器材のトータルサプライヤーであるサクラファインテックジャパンは9月7日から、第19回「サクラ病理技術賞」の公募を開始する。募集期間は11月27日…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日本マイクロポートCRM】次世代ICD「TALENTIA ICD」を発売‐新たな臨床機能と長寿命を両立",
-      "link": "https://www.yakuji.co.jp/entry138744.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T22:32:29Z",
-      "published_label": "2026/09/02 07:32",
-      "summary": "日本マイクロポートCRMは9月1日、新しい植込み型除細動器「TALENTIA ICD」の販売を開始した。 同装置は、これまでMicroPort CRMが培っ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】新型紫外可視近赤外分光光度計「UH9000シリーズ」発売‐高精度かつ高効率な測定を実現 日立ハイテクアナリシス",
-      "link": "https://www.yakuji.co.jp/entry138742.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T22:31:45Z",
-      "published_label": "2026/09/02 07:31",
-      "summary": "日立ハイテクアナリシスはこのほど、幅広い分野における固体試料の高精度かつ効率的な分光特性の測定を可能とする紫外可視近赤外分光光度計「UH9000シリーズを発売…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】クラウドサービス「Methodintelligence for LC」を発売‐AI活用し文献情報の検索・解析を効率化 島津製作所",
-      "link": "https://www.yakuji.co.jp/entry138739.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T22:30:12Z",
-      "published_label": "2026/09/02 07:30",
-      "summary": "島津製作所は9月1日、液体クロマトグラフ（LC）の分析条件をAIで提案するクラウドサービス「Methodintelligence for LC」の国内発売を開…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】不適切事例が過去最少に‐医療用薬の販売情報提供",
-      "link": "https://www.yakuji.co.jp/entry138724.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T21:31:00Z",
-      "published_label": "2026/09/02 06:31",
-      "summary": "厚生労働省は、2025年度の「医療用医薬品の販売情報提供活動調査事業報告書」を公表した。不適切事例が疑われる事例は前年度から半減した9件で過去最少となった。一…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】メフィーゴ適正使用徹底を‐講習資料など活用促す",
-      "link": "https://www.yakuji.co.jp/entry138723.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T21:30:22Z",
-      "published_label": "2026/09/02 06:30",
-      "summary": "厚生労働省は8月31日、ラインファーマの経口妊娠中絶薬「メフィーゴパック」（一般名：ミフェプリストン／ミソプロストール）の適正使用の徹底に向け、講習資料や流通…",
-      "tags": [
-        "安全性情報",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「ジキニンC」をリニューアル‐ビタミンCへのニーズ対応 全薬工業",
-      "link": "https://www.yakuji.co.jp/entry138720.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T21:02:39Z",
-      "published_label": "2026/09/02 06:02",
-      "summary": "全薬工業は1日から、総合かぜ薬「ジキニンC」（指定第2類医薬品）のリニューアル品として、「ジキニンC細粒」（指定第2類医薬品）を発売開始した。 かぜ薬「ジキ…",
-      "tags": [
-        "一般用医薬品",
-        "承認・新薬"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "IBD患者のトイレ問題",
-      "link": "https://www.yakuji.co.jp/entry138719.html",
-      "source": "薬事日報",
-      "published": "2026-09-01T21:01:06Z",
-      "published_label": "2026/09/02 06:01",
-      "summary": "◆症状に伴う急な便意に襲われトイレ探しに困ったとの潰瘍性大腸炎患者の投稿をXで読んだ。それに無季言子が、炎症性腸疾患（IBD）患者のトイレ使用「遠慮なくどうぞ」…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -641,33 +711,6 @@
       "keywords": []
     },
     {
-      "title": "特集は「点鼻レスキュー薬、集結。」",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/di/column/premium/202609/594396.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-31T15:00:00Z",
-      "published_label": "2026/09/01 00:00",
-      "summary": "月刊誌「日経ドラッグインフォメーション プレミアム版」（日経DI プレミアム版）9月号が発売となりました。本号の見どころをご紹介します。 特集は「点鼻レスキュー薬、集結。」です。 重症低血糖、てんかん発作、アナフィラキシーなど、一刻を争う場面で用いられるレスキュー薬。近年、経鼻投与製剤が相次いで登場し、迅速な薬物投与を可能にしています。点鼻薬と聞くと、鼻の症状に使うステロイドや抗アレルギー薬を思い浮かべる方も多いかもしれませんが、いま…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "OTC類似薬の追加負担、対象・対象外を処方箋に記載へ",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594368.html",
-      "source": "日経メディカル Online",
-      "published": "2026-08-31T15:00:00Z",
-      "published_label": "2026/09/01 00:00",
-      "summary": "厚生労働省は2026年8月26日、中央社会保険医療協議会を開催し、27年3月施行を想定しているOTC類似薬の一部保険外療養について、院外処方における実務フローを示した（図）。 一部保険外療養は、OTC類似薬の薬剤費の一部（4分の1）を特別の料金として患者に追加負担を求める制度。対象となる医薬品の条件は、いずれもOTC医薬品と成分および投与経路が同一で、1日最大用量も同じ医療用医薬品となっており、77成分の約1100品目が該当する。厚労…",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "片頭痛に「プロプラノロール」ハイリスク算定は？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7744?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -838,62 +881,6 @@
         "業界動向"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "製薬企業各社 新型コロナワクチン 2026/27シーズンの流行株対応で一変承認を取得",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80756",
-      "source": "ミクスOnline",
-      "published": "2026-08-27T19:50:00Z",
-      "published_label": "2026/08/28 04:50",
-      "summary": "製薬企業各社が８月26日までに、流行株に対応した新型コロナワクチンの一変承認を相次ぎ取得した。",
-      "tags": [
-        "感染症・ワクチン",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "米MFNで議論 業界「開発上市に影響」 診療側「即ラグ／ロスはいかがなものか」 中医協薬価専門部会",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80759",
-      "source": "ミクスOnline",
-      "published": "2026-08-26T22:31:00Z",
-      "published_label": "2026/08/27 07:31",
-      "summary": "日米欧製薬３団体は８月26日の中医協薬価専門部会で、業界ヒアリングに臨み、米国の最恵国待遇(MFN)価格政策を踏まえ、「2027年度薬価改定においては、特許期間中の製品に対する薬価引き下げや市場実勢価と連動しない薬価引き下げルールは実施すべきではない」と訴えた。",
-      "tags": [
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "日薬連・安川会長 物価高騰・製造原価上昇で投資確保が困難に 施設老朽化で安定供給の将来に懸念表明",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80758",
-      "source": "ミクスOnline",
-      "published": "2026-08-26T22:30:00Z",
-      "published_label": "2026/08/27 07:30",
-      "summary": "日本製薬団体連合会の安川健司会長は８月26日の中医協薬価専門部会で、2027年度薬価改定は、「薬価の引き下げを前提とするのではなく、まずは全ての薬価基準収載医薬品について、物価高騰、製造原価上昇等のインフレ分を上乗せする、すなわちベースアップが必要だ」と訴えた。",
-      "tags": [
-        "供給・出荷",
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【中医協薬価専門部会 ８月26日 議事要旨 関係業界からの意見聴取について】",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80757",
-      "source": "ミクスOnline",
-      "published": "2026-08-26T19:51:00Z",
-      "published_label": "2026/08/27 04:51",
-      "summary": "中医協薬価専門部会が８月26日に開かれ、関係業界からの意見聴取を行った。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     }
   ]
