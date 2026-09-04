@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-04T02:47:45.476716Z",
-  "updated_label": "2026/09/04 11:47",
+  "updated_at": "2026-09-04T07:41:13.550811Z",
+  "updated_label": "2026/09/04 16:41",
   "count": 68,
   "items": [
     {
       "title": "なぜ下痢止めが出ない？ロペラミドの禁忌と指導法",
       "link": "https://pharmacist.m3.com/column/knowledge/7773?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-04T02:47:44.188483Z",
-      "published_label": "2026/09/04 11:47",
+      "published": "2026-09-04T07:41:12.512389Z",
+      "published_label": "2026/09/04 16:41",
       "summary": "患者から「以前もらった下痢止めが出ないのはなぜ？」と聞かれ、説明に悩んだ経験はありませんか？感染性下痢への「ロペラミド（ロペミン）」の投与は、原則禁忌です。本記事では、ロペラミドを使ってはいけない理由や血便・抗菌薬歴の確認ポイント、代替案となる適切な服薬指導法をわかりや",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,45 @@
         "副作用"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-04T04:55:00Z",
+      "published_label": "2026/09/04 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-04T04:55:00Z",
+      "published_label": "2026/09/04 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬学ゼミナール生涯学習センター 薬剤師生涯学習講座 2026/09",
+      "link": "https://www.yakuji.co.jp/entry138839.html",
+      "source": "薬事日報",
+      "published": "2026-09-04T04:00:55Z",
+      "published_label": "2026/09/04 13:00",
+      "summary": "Ph2030プログラム 体験講座 人の心を動かす コミュニケーション技法 ～医療コミュニケーションスキルをアップしよう～ 開催日時 2026年9月27日（日）1…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -39,7 +78,7 @@
       "source": "CareNet.com 医療ニュース",
       "published": "2026-09-04T01:00:08Z",
       "published_label": "2026/09/04 10:00",
-      "summary": "2027年3月のOTC類似薬の選定療養費徴収に向け、厚生労働省がその対象者と非該当の判断基準案を明示しました。中医協総会では適用除外規定の複雑さなど、現場の診察・事務負増への懸念が噴出したようで…。",
+      "summary": "2027年3月のOTC類似薬の選定療養費徴収に向け、厚生労働省がその対象者と非該当の判断基準案を明示しました。中医協総会では適用除外規定の複雑さなど、現場の診察・事務負担増への懸念が噴出したようで…。",
       "tags": [
         "薬価・制度",
         "法令・行政"
@@ -453,19 +492,6 @@
       "keywords": []
     },
     {
-      "title": "10日にオンラインセミナー「現場医師とリモートMR視点から見る必要とされる情報提供のかたち」開催 ベルシステム24",
-      "link": "https://www.yakuji.co.jp/entry138842.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T06:00:38Z",
-      "published_label": "2026/09/03 15:00",
-      "summary": "製薬企業にとって、リモートMRやデジタルを活用した情報提供は今や欠かせない手段となりました。しかし、その情報は本当に医師の診療・処方選択に影響する価値を届けられ…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "メディパルHD 英機関投資家から渡辺秀一氏の取締役解任含む臨時株主総会招集の請求書受領 慎重に検討",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80814",
       "source": "ミクスOnline",
@@ -642,19 +668,6 @@
       "keywords": []
     },
     {
-      "title": "変化の時代、「患者のためになるか」に立ち返る",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594197.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-01T15:00:00Z",
-      "published_label": "2026/09/02 00:00",
-      "summary": "2026年5月、日本保険薬局協会（NPhA）初の女性会長に就任した藤井江美氏。薬局長からマネージャー、経営者へとキャリアを重ねながら、患者第一の姿勢と「まずやってみる」を信条に道を切り開いてきた。その原点にある経験や患者への思い、リーダーとしての信念、医療DXが進む中で求められる薬局・薬剤師の役割について聞いた。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "トランプ大統領 MFN価格政策にアステラス製薬、協和キリンなど9社合意 国内企業では初 総数26社に",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80804",
       "source": "ミクスOnline",
@@ -776,19 +789,6 @@
         "診療報酬改定"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "「令和８年度 第１回 薬事審議会 毒物劇物部会 毒物劇物調査会」を開催します（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75884.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-08-31T01:56:00Z",
-      "published_label": "2026/08/31 10:56",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
