@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-09-04T07:41:13.550811Z",
-  "updated_label": "2026/09/04 16:41",
-  "count": 68,
+  "updated_at": "2026-09-04T13:07:29.794861Z",
+  "updated_label": "2026/09/04 22:07",
+  "count": 69,
   "items": [
+    {
+      "title": "薬事審議会血液事業部会令和８年度第１回適正使用調査会議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75447.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-07T03:00:00Z",
+      "published_label": "2026/09/07 12:00",
+      "summary": "",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "なぜ下痢止めが出ない？ロペラミドの禁忌と指導法",
       "link": "https://pharmacist.m3.com/column/knowledge/7773?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-04T07:41:12.512389Z",
-      "published_label": "2026/09/04 16:41",
+      "published": "2026-09-04T13:07:28.274905Z",
+      "published_label": "2026/09/04 22:07",
       "summary": "患者から「以前もらった下痢止めが出ないのはなぜ？」と聞かれ、説明に悩んだ経験はありませんか？感染性下痢への「ロペラミド（ロペミン）」の投与は、原則禁忌です。本記事では、ロペラミドを使ってはいけない理由や血便・抗菌薬歴の確認ポイント、代替案となる適切な服薬指導法をわかりや",
       "tags": [
         "薬剤師コラム",
