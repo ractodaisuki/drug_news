@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-06T19:57:49.928463Z",
-  "updated_label": "2026/09/07 04:57",
-  "count": 72,
+  "updated_at": "2026-09-06T22:40:20.452071Z",
+  "updated_label": "2026/09/07 07:40",
+  "count": 84,
   "items": [
     {
       "title": "薬事審議会血液事業部会令和８年度第１回適正使用調査会議事録",
@@ -14,6 +14,112 @@
         "安全性情報"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "動脈硬化はあるけど、静脈硬化は無い？",
+      "link": "https://yakuzaic.com/archives/144403",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-06T22:00:00Z",
+      "published_label": "2026/09/07 07:00",
+      "summary": "動脈硬化はあるけど、静脈硬化は無い？ 「動脈硬化」という言葉はよく聞く。 高血圧、脂質異常症、糖尿病、喫煙などによって動脈硬化が進み、心筋梗塞や脳梗塞の原因になる。 しかし、考えてみると不思議だ。 「動脈硬化はあるけど、 […] The post 動脈硬化はあるけど、静脈硬化は無い？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【患者団体や皮膚科学会ら】OTC類似薬に重大な懸念‐緊急声明で見直し案批判",
+      "link": "https://www.yakuji.co.jp/entry138975.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T21:33:46Z",
+      "published_label": "2026/09/07 06:33",
+      "summary": "日本アレルギー友の会など患者団体6団体と日本皮膚科学会、日本臨床皮膚科医会は3日、社会保障審議会医療保険部会の会合後、都内で「OTC類似薬の保険給付見直し案に…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医療保険部会】ステロイド外用薬も配慮必要‐OTC類似薬の別途負担",
+      "link": "https://www.yakuji.co.jp/entry138973.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T21:32:55Z",
+      "published_label": "2026/09/07 06:32",
+      "summary": "社会保障審議会医療保険部会は3日、OTC類似薬の一部保険外療養制度の施行に向けた追加の論点を議論した。厚生労働省は、アトピー性皮膚炎に対するステロイド外用薬の…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "アニマルヘルスケアで提携‐animoなど、動物薬調剤システム開発",
+      "link": "https://www.yakuji.co.jp/entry138917.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T21:31:02Z",
+      "published_label": "2026/09/07 06:31",
+      "summary": "シミックホールディングス（HD）は1日、グループ企業で動物医療事業を展開するanimoが、アルフレッサと、動物病院に特化した調剤薬局サービスを提供する12（ワ…",
+      "tags": [
+        "業界動向",
+        "薬局経営"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【トライアルHD／スギHD】トライアル店舗にスギ薬局‐生活総合サポート拠点へ",
+      "link": "https://www.yakuji.co.jp/entry138914.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T21:30:44Z",
+      "published_label": "2026/09/07 06:30",
+      "summary": "トライアルホールディングスとスギホールディングスは、基本合意した包括的協業の一環として、1日にスーパーセンタートライアル須恵店および同飯塚店の店舗内にスギ薬局…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "事業戦略部を10月新設‐製品戦略の立案・推進担う 科研製薬",
+      "link": "https://www.yakuji.co.jp/entry138966.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T21:03:43Z",
+      "published_label": "2026/09/07 06:03",
+      "summary": "科研製薬は10月1日付の組織改編で、重点製品の戦略立案・推進を専門で担う「事業戦略部」を新設する。これまで事業戦略は、経営企画部、研究開発本部、営業本部、医薬…",
+      "tags": [
+        "業界動向",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "関西地域での事業強化‐京都オフィス営業開始 トライアドジャパン",
+      "link": "https://www.yakuji.co.jp/entry138965.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T21:02:16Z",
+      "published_label": "2026/09/07 06:02",
+      "summary": "SMOのトライアドジャパンは、関西地域でのサービスを強化する。同社として関西地域で初の拠点となる医薬開発本部京都オフィスを開設し、1日に営業を始めた。近年、関…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "刺激の先のしがらみ",
+      "link": "https://www.yakuji.co.jp/entry138967.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T21:01:10Z",
+      "published_label": "2026/09/07 06:01",
+      "summary": "◆最近耳にした「ドパガキ」。ショート動画などの強い刺激に慣れ、次を求める「ドーパミン×ガキ」の俗称だという。身も蓋もない響きだが、SNSから離れられない理由は刺…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -53,6 +159,19 @@
       "published": "2026-09-06T19:50:00Z",
       "published_label": "2026/09/07 04:50",
       "summary": "米アッヴィは9月３日（現地時間）、Apogee Therapeutics, Inc. （アポジー社）の買収を完了したと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "マルホ、科研製薬、久光製薬の３社 中高生向けに「多汗症」の知識普及と理解促進で教育資材を制作",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80828",
+      "source": "ミクスOnline",
+      "published": "2026-09-06T19:49:00Z",
+      "published_label": "2026/09/07 04:49",
+      "summary": "マルホ、科研製薬、久光製薬の３社は9月４日、多汗症に関する正しい知識の普及と理解促進を目的とした中高生向け教育資材を制作したと発表した。",
       "tags": [
         "業界動向"
       ],
@@ -125,6 +244,33 @@
       "keywords": []
     },
     {
+      "title": "薬剤師の平均給与は41万8931円、前年より3万円増",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594433.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-06T15:00:00Z",
+      "published_label": "2026/09/07 00:00",
+      "summary": "人事院が2026年8月に公表した「令和８年職種別民間給与実態調査」によると、2026年4月の薬剤師の平均給与（時間外手当を含む）は41万8931円（平均年齢38.6歳）で、前年の38万8534円（同39.4歳）に比べて3万397円の大幅な増加となった。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "診療報酬で評価されない本当のかかりつけ薬剤師",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202609/594421.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-06T15:00:00Z",
+      "published_label": "2026/09/07 00:00",
+      "summary": "先日、近所の薬局が1店舗、閉局しました。中小規模のいわゆるローカルチェーンの薬局です。詳しい事情は分かりませんが、恐らくは本部主導による店舗再編や採算面での経営判断なのでしょう。その閉局した薬局で管理薬剤師を務めていた薬剤師のAさんを、ご縁があって私の薬局でお迎えすることになりました。Aさんは地元ご出身の方で、長年にわたり地域の患者さんと深い信頼関係を築いてきたベテランです。職場が変わることになり、これまでAさんが担当していた患者さん…",
+      "tags": [
+        "薬価・制度",
+        "薬局経営"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "新規GLP-1経口薬zenagamtide、P2の詳細判明",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/lancet/202609/594382.html",
       "source": "日経メディカル Online",
@@ -180,6 +326,19 @@
       "keywords": []
     },
     {
+      "title": "ビタミンの良し悪し―本当に体に良いのか？",
+      "link": "https://yakuzaic.com/archives/144383",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-05T22:00:00Z",
+      "published_label": "2026/09/06 07:00",
+      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "二日酔いの頭痛に『ロキソニンＳ』は使える？",
       "link": "https://pharmacist.m3.com/column/otc/7783?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -192,6 +351,19 @@
         "OTC医薬品"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "通院してるのに通院困難？",
+      "link": "https://yakuzaic.com/archives/144347",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-04T22:00:00Z",
+      "published_label": "2026/09/05 07:00",
+      "summary": "通院困難とは？ 薬局で在宅患者訪問薬剤管理指導料や居宅療養管理指導を算定するための条件の一つに、「通院が困難」というものがある。 「通院困難」と聞くと、寝たきりで病院にも薬局にも行けない患者をイメージする。 しかし、薬局 […] The post 通院してるのに通院困難？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -381,6 +553,19 @@
       "keywords": []
     },
     {
+      "title": "骨粗鬆症患者は胃食道逆流症になりやすい？",
+      "link": "https://yakuzaic.com/archives/1949",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-03T22:00:00Z",
+      "published_label": "2026/09/04 07:00",
+      "summary": "骨粗鬆症で逆流性食道炎？ 骨粗鬆症の患者に、タケキャブ、ネキシウム、タケプロンなどの胃酸分泌抑制薬が処方されていることは珍しくない。 高齢者だから胃薬を飲んでいるのだろう、と特に気に留めないこともある。 しかし、骨粗鬆症 […] The post 骨粗鬆症患者は胃食道逆流症になりやすい？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "【米政府】日本企業初のMFN合意‐アステラス、協和キリンと",
       "link": "https://www.yakuji.co.jp/entry138907.html",
       "source": "薬事日報",
@@ -434,100 +619,6 @@
         "業界動向"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】マスク、薬用入浴剤を数量限定発売 白元アース",
-      "link": "https://www.yakuji.co.jp/entry138904.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:07:20Z",
-      "published_label": "2026/09/04 06:07",
-      "summary": "白元アース＝顔にフィットして小顔に魅せるマスク「ビースタイルプリーツタイプふつうサイズ／立体タイプふつうサイズ」にマスク本体のカラーがベージュで4色の耳ひもか…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「フマキラーアルコール消毒スプレー」を発売 フマキラー",
-      "link": "https://www.yakuji.co.jp/entry138902.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:06:30Z",
-      "published_label": "2026/09/04 06:06",
-      "summary": "フマキラー＝100％天然生まれの医薬部外品の対物消毒剤「フマキラーアルコール消毒スプレー」について、8月20日に全国のドラッグストア、ホームセンター、スーパー…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【人事】11日付 クリエイトエス・ディー",
-      "link": "https://www.yakuji.co.jp/entry138901.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:05:21Z",
-      "published_label": "2026/09/04 06:05",
-      "summary": "〈人事異動〉 執行役員開発統括本部本部長武藤達也、店舗開発三部部長増田孝",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】オールインワンの新製品‐「シュミテクト」ブランドから Haleonジャパン",
-      "link": "https://www.yakuji.co.jp/entry138896.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:04:18Z",
-      "published_label": "2026/09/04 06:04",
-      "summary": "Haleonジャパンは、歯磨きブランド「シュミテクト」から、歯周病ケア成分を最大配合すると共に、知覚過敏ケアやホワイトニングなど10の働きを一つにした新製品「…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】二つの生薬でアプローチ‐「内服ボラギノールPRO」 天藤製薬",
-      "link": "https://www.yakuji.co.jp/entry138894.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:03:54Z",
-      "published_label": "2026/09/04 06:03",
-      "summary": "天藤製薬は8月27日、痔疾用内服薬の新製品「内服ボラギノールPRO」（第2類医薬品）の販売を開始した。いぼ痔、切れ痔、痔出血の症状を緩和し、痔の症状を内側から…",
-      "tags": [
-        "業界動向",
-        "承認・新薬",
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "創薬予算、規模より問われる成果",
-      "link": "https://www.yakuji.co.jp/entry138882.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:02:52Z",
-      "published_label": "2026/09/04 06:02",
-      "summary": "厚生労働省は2027年度予算概算要求で、創薬・先端医療分野の関連施策に1969億円を要求した。創薬力強化に向けた人材育成、治験・臨床試験体制の整備などを柱とす…",
-      "tags": [
-        "学術・エビデンス",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "異種移植と命の重み",
-      "link": "https://www.yakuji.co.jp/entry138874.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:01:58Z",
-      "published_label": "2026/09/04 06:01",
-      "summary": "◆旧暦8月15日の夜（十五夜）の月を中秋の名月と呼ぶ。今年は9月25日がその日だ。十五夜お月さまを見て跳ねるうさぎの童謡が思い出される。歌のルーツと見られる話が…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -641,6 +732,19 @@
       "keywords": []
     },
     {
+      "title": "水で飲んではいけないOD錠？",
+      "link": "https://yakuzaic.com/archives/144334",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-02T22:00:00Z",
+      "published_label": "2026/09/03 07:00",
+      "summary": "OD錠は水なしで飲まなければいけない？ OD錠とは「口腔内崩壊錠（Orally Disintegrating Tablet）」のことで、口の中で速やかに崩れるように作られた錠剤です。 通常の錠剤はコップ1杯程度の水やぬる […] The post 水で飲んではいけないOD錠？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "メディパルHD 英機関投資家から渡辺秀一氏の取締役解任含む臨時株主総会招集の請求書受領 慎重に検討",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80814",
       "source": "ミクスOnline",
@@ -708,6 +812,19 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "スマート療法とショットガン療法―喘息・長引く咳に対する治療",
+      "link": "https://yakuzaic.com/archives/144328",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-01T22:00:00Z",
+      "published_label": "2026/09/02 07:00",
+      "summary": "SMART療法とショットガン療法 「SMART療法」という治療法がある。「スマート（smart）」という名前から、「賢く治療する方法」という意味なのかと思ってしまうが、SMARTは略語である。 一方、医療では「ショットガ […] The post スマート療法とショットガン療法―喘息・長引く咳に対する治療 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -802,6 +919,19 @@
         "薬歴"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える",
+      "link": "https://yakuzaic.com/archives/144325",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-31T22:00:00Z",
+      "published_label": "2026/09/01 07:00",
+      "summary": "糖尿病治療薬の作用部位 糖尿病治療薬には、SU薬、DPP-4阻害薬、ビグアナイド薬、SGLT2阻害薬など、多くの種類があります。薬効分類だけを覚えようとすると、それぞれの違いがわかりにくくなります。 そこで、「なぜ血糖値 […] The post 糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -900,6 +1030,19 @@
       "keywords": []
     },
     {
+      "title": "太る薬一覧―薬を飲んで体重が増えるのはなぜ？",
+      "link": "https://yakuzaic.com/archives/144321",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-30T22:00:00Z",
+      "published_label": "2026/08/31 07:00",
+      "summary": "太る薬 「この薬を飲み始めてから太った気がする」 患者さんから、このように言われることがある。 薬の副作用というと、眠気、便秘、吐き気などを思い浮かべるが、「体重増加」も薬によって起こり得る副作用の一つである。 体重増加 […] The post 太る薬一覧―薬を飲んで体重が増えるのはなぜ？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "厚労省監麻課 25年度販売情報提供活動調査事業・報告書 ６医薬品で広告違反疑い 疑い事案は11項目",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80796",
       "source": "ミクスOnline",
@@ -966,12 +1109,25 @@
       "keywords": []
     },
     {
-      "title": "IBD治療薬市場 30年に2000億円台に 抗TL1A抗体製剤「治療方針を大きく変える可能性」 富士...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80771",
-      "source": "ミクスOnline",
-      "published": "2026-08-27T19:52:00Z",
-      "published_label": "2026/08/28 04:52",
-      "summary": "炎症性腸疾患（IBD）治療薬の国内市場が2030年に2000億円を超える――。このような市場予測を富士経済がまとめた。",
+      "title": "内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い",
+      "link": "https://yakuzaic.com/archives/144318",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-29T22:00:00Z",
+      "published_label": "2026/08/30 07:00",
+      "summary": "ステロイドの使い分け ステロイドの内服薬といえば、プレドニゾロンが最もよく使われる。 しかし、ステロイド薬にはプレドニゾロン以外にも、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンなどがある。 いずれも副腎皮質ステロイド […] The post 内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "初回・導入時にしか使わない薬の規格・包装一覧",
+      "link": "https://yakuzaic.com/archives/144315",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-28T22:00:00Z",
+      "published_label": "2026/08/29 07:00",
+      "summary": "初回にしか使わない薬 薬局で在庫を発注するとき、前回と同じ薬を次回分として用意しておくことがある。 しかし、「初回に出た規格が、次回も出るとは限らない薬」には注意が必要だ。 例えばアリセプト錠3mg。アリセプトは通常3m […] The post 初回・導入時にしか使わない薬の規格・包装一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
