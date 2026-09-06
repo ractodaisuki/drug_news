@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-06T17:29:40.863718Z",
-  "updated_label": "2026/09/07 02:29",
-  "count": 82,
+  "updated_at": "2026-09-06T19:57:49.928463Z",
+  "updated_label": "2026/09/07 04:57",
+  "count": 72,
   "items": [
     {
       "title": "薬事審議会血液事業部会令和８年度第１回適正使用調査会議事録",
@@ -20,8 +20,8 @@
       "title": "GLP-1とインスリン徹底比較！作用機序・低血糖など",
       "link": "https://pharmacist.m3.com/column/special_feature/7786?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-06T17:29:38.553108Z",
-      "published_label": "2026/09/07 02:29",
+      "published": "2026-09-06T19:57:48.555938Z",
+      "published_label": "2026/09/07 04:57",
       "summary": "インスリン製剤とGLP-1受容体作動薬の根本的な作用機序の違いや、体重への影響、副作用リスクの違いなどこれらの２つの薬を適切に使い分けるための基本を整理します。適応患者の見極め方や、投与切り替え時の注意点、患者指導の工夫など、服薬指導や処方提案に今すぐ使える情報を網羅しました。",
       "tags": [
         "薬剤師コラム",
@@ -31,6 +31,97 @@
         "服薬指導"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "米トランプ大統領のMFN政策 価格だけでないバイオ医薬品のサプライチェーン一極化 対米投資は拡大へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80826",
+      "source": "ミクスOnline",
+      "published": "2026-09-06T19:51:00Z",
+      "published_label": "2026/09/07 04:51",
+      "summary": "トランプ米大統領の最恵国待遇（MFN）価格政策にアステラス製薬や協和キリンなど製薬企業9社が新たに合意したが、その背景には、通商拡大法232条の追加関税に関する例外規定の存在がある。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "米アッヴィ アポジー社の買収完了を発表 免疫領域の臨床開発を加速 ズミロキバートの大型化に期待",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80827",
+      "source": "ミクスOnline",
+      "published": "2026-09-06T19:50:00Z",
+      "published_label": "2026/09/07 04:50",
+      "summary": "米アッヴィは9月３日（現地時間）、Apogee Therapeutics, Inc. （アポジー社）の買収を完了したと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "あすか製薬 「医薬事業統括」新設で営業とＭＡの連携強化 経営戦略の立案・推進強化も 10月１日付",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80825",
+      "source": "ミクスOnline",
+      "published": "2026-09-06T19:49:00Z",
+      "published_label": "2026/09/07 04:49",
+      "summary": "あすか製薬は9月4日、「医薬事業統括」を新設し、傘下に営業本部とメディカルアフェアーズ部、内分泌事業推進室を移管する組織改正を発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アトピー性皮膚炎に、Tregを調節する新規IL-2受容体作動薬が有望／Lancet",
+      "link": "https://www.carenet.com/news/journal/carenet/63554?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-06T19:00:00Z",
+      "published_label": "2026/09/07 04:00",
+      "summary": "中等度～重度のアトピー性皮膚炎患者において、rezpegaldesleukinはプラセボと比較して、重症度評価指標のEczema Area and Severity Index（EASI）スコアの変化率を含む複数の臨床評価項目を有意に改善し、良好な…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "急性期脳梗塞、血栓回収術後の頭位挙上は有効か／BMJ",
+      "link": "https://www.carenet.com/news/journal/carenet/63553?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-06T19:00:00Z",
+      "published_label": "2026/09/07 04:00",
+      "summary": "血栓回収術で再灌流に成功した急性期虚血性脳卒中患者において、頭位挙上は頭位を水平位置に保つ場合と比較して、機能的アウトカムを改善せず、全死因死亡率にも差は示されなかった。中国・西南医科大学のZhengzh…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "卵巣明細胞がん治療薬リソバリシブ使用時の高血糖に関する注意喚起／日本糖尿病学会",
+      "link": "https://www.carenet.com/news/general/carenet/63539?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-06T19:00:00Z",
+      "published_label": "2026/09/07 04:00",
+      "summary": "卵巣明細胞がんの新たな治療薬としてPI3Kα阻害薬リソバリシブ（商品名：ハイツエキシン）が発売された。リソバリシブはその薬剤特性から高い有効性とともに、高血糖リスクが懸念される。日本糖尿病学会は、同薬の…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "がん既往CKM症候群でもフィネレノンの効果は一貫（FINE-HEART）／Eur Heart J",
+      "link": "https://www.carenet.com/news/general/carenet/63501?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-06T19:00:00Z",
+      "published_label": "2026/09/07 04:00",
+      "summary": "心血管・腎・代謝（CKM）症候群では、共通のリスク因子や病態機序を背景にがんを併存する患者が少なくない。しかし、がん既往を有するCKM症候群患者において、非ステロイド型ミネラルコルチコイド受容体拮抗薬フィ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -89,19 +180,6 @@
       "keywords": []
     },
     {
-      "title": "ビタミンの良し悪し―本当に体に良いのか？",
-      "link": "https://yakuzaic.com/archives/144383",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-05T22:00:00Z",
-      "published_label": "2026/09/06 07:00",
-      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "二日酔いの頭痛に『ロキソニンＳ』は使える？",
       "link": "https://pharmacist.m3.com/column/otc/7783?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -114,19 +192,6 @@
         "OTC医薬品"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "通院してるのに通院困難？",
-      "link": "https://yakuzaic.com/archives/144347",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-04T22:00:00Z",
-      "published_label": "2026/09/05 07:00",
-      "summary": "通院困難とは？ 薬局で在宅患者訪問薬剤管理指導料や居宅療養管理指導を算定するための条件の一つに、「通院が困難」というものがある。 「通院困難」と聞くと、寝たきりで病院にも薬局にも行けない患者をイメージする。 しかし、薬局 […] The post 通院してるのに通院困難？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -205,33 +270,6 @@
       "published": "2026-09-04T01:30:30Z",
       "published_label": "2026/09/04 10:30",
       "summary": "第2回 薬剤師スキルアップ講座 薬剤師のフィジカルアセスメント『症状を構造からとらえる視点を学ぶ-バーチャル解剖×シミュレーターによる体験型学習-』 薬剤師スキ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "医師にバトンは渡された、OTC類似薬の保険給付の見直し",
-      "link": "https://www.carenet.com/hihyofri/329.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-04T01:00:08Z",
-      "published_label": "2026/09/04 10:00",
-      "summary": "2027年3月のOTC類似薬の選定療養費徴収に向け、厚生労働省がその対象者と非該当の判断基準案を明示しました。中医協総会では適用除外規定の複雑さなど、現場の診察・事務負担増への懸念が噴出したようで…。",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "第22回 錠剤は何歳から？ 小児用量の考え方と服薬指導",
-      "link": "https://www.carenet.com/pharmacist/ameeminimovie/cg003068_002.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-04T00:59:00Z",
-      "published_label": "2026/09/04 09:59",
-      "summary": "この番組では、最近の国家試験の中から薬局実務に直結する問題をピックアップ。問題を解きながら、現場に即した解説を加えていきます。薬局薬剤師に必要な知識、役立つノウハウが短時間で身につきます。",
       "tags": [
         "その他"
       ],
@@ -336,19 +374,6 @@
       "published": "2026-09-03T22:30:51Z",
       "published_label": "2026/09/04 07:30",
       "summary": "花王は、乾燥性敏感肌を考えた総合スキンケアブランド「Curel（キュレル）」を2026年9月より、新たに北欧4か国で発売する。同社は、「グローバル・シャープト…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "骨粗鬆症患者は胃食道逆流症になりやすい？",
-      "link": "https://yakuzaic.com/archives/1949",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-03T22:00:00Z",
-      "published_label": "2026/09/04 07:00",
-      "summary": "骨粗鬆症で逆流性食道炎？ 骨粗鬆症の患者に、タケキャブ、ネキシウム、タケプロンなどの胃酸分泌抑制薬が処方されていることは珍しくない。 高齢者だから胃薬を飲んでいるのだろう、と特に気に留めないこともある。 しかし、骨粗鬆症 […] The post 骨粗鬆症患者は胃食道逆流症になりやすい？ first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
@@ -558,34 +583,6 @@
       "keywords": []
     },
     {
-      "title": "ブンディブギョ型エボラ出血熱に承認済みワクチンは有効か？／Lancet",
-      "link": "https://www.carenet.com/news/journal/carenet/63541?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-03T19:00:00Z",
-      "published_label": "2026/09/04 04:00",
-      "summary": "米国・カリフォルニア大学ロサンゼルス校のMegan Halbrook氏らは、ブンディブギョ型エボラウイルス（BDBV）によるエボラウイルス病の過去最大の流行（2026 outbreak）が続いているコンゴ（旧ザイール）における縦…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "急性期統合失調症に対する8つの抗精神病薬とKarXTとの比較～ネットワークメタ解析",
-      "link": "https://www.carenet.com/news/general/carenet/63510?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-03T19:00:00Z",
-      "published_label": "2026/09/04 04:00",
-      "summary": "米国FDAは、xanomelineとtrospiumを配合したKarXTを統合失調症の新たな治療薬として2024年に承認した。KarXTは、成人統合失調症患者を対象とした3つのランダム化比較試験（RCT）において、プラセボに対する優越性…",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "門前薬局を狙い撃ち！？厚労省「立地依存減算」の深層",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594229.html",
       "source": "日経メディカル Online",
@@ -641,19 +638,6 @@
         "疾患・病態"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "水で飲んではいけないOD錠？",
-      "link": "https://yakuzaic.com/archives/144334",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-02T22:00:00Z",
-      "published_label": "2026/09/03 07:00",
-      "summary": "OD錠は水なしで飲まなければいけない？ OD錠とは「口腔内崩壊錠（Orally Disintegrating Tablet）」のことで、口の中で速やかに崩れるように作られた錠剤です。 通常の錠剤はコップ1杯程度の水やぬる […] The post 水で飲んではいけないOD錠？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -724,19 +708,6 @@
         "診療報酬改定"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "スマート療法とショットガン療法―喘息・長引く咳に対する治療",
-      "link": "https://yakuzaic.com/archives/144328",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-01T22:00:00Z",
-      "published_label": "2026/09/02 07:00",
-      "summary": "SMART療法とショットガン療法 「SMART療法」という治療法がある。「スマート（smart）」という名前から、「賢く治療する方法」という意味なのかと思ってしまうが、SMARTは略語である。 一方、医療では「ショットガ […] The post スマート療法とショットガン療法―喘息・長引く咳に対する治療 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -831,19 +802,6 @@
         "薬歴"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える",
-      "link": "https://yakuzaic.com/archives/144325",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-31T22:00:00Z",
-      "published_label": "2026/09/01 07:00",
-      "summary": "糖尿病治療薬の作用部位 糖尿病治療薬には、SU薬、DPP-4阻害薬、ビグアナイド薬、SGLT2阻害薬など、多くの種類があります。薬効分類だけを覚えようとすると、それぞれの違いがわかりにくくなります。 そこで、「なぜ血糖値 […] The post 糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -942,19 +900,6 @@
       "keywords": []
     },
     {
-      "title": "太る薬一覧―薬を飲んで体重が増えるのはなぜ？",
-      "link": "https://yakuzaic.com/archives/144321",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-30T22:00:00Z",
-      "published_label": "2026/08/31 07:00",
-      "summary": "太る薬 「この薬を飲み始めてから太った気がする」 患者さんから、このように言われることがある。 薬の副作用というと、眠気、便秘、吐き気などを思い浮かべるが、「体重増加」も薬によって起こり得る副作用の一つである。 体重増加 […] The post 太る薬一覧―薬を飲んで体重が増えるのはなぜ？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "厚労省監麻課 25年度販売情報提供活動調査事業・報告書 ６医薬品で広告違反疑い 疑い事案は11項目",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80796",
       "source": "ミクスOnline",
@@ -1021,45 +966,6 @@
       "keywords": []
     },
     {
-      "title": "内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い",
-      "link": "https://yakuzaic.com/archives/144318",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-29T22:00:00Z",
-      "published_label": "2026/08/30 07:00",
-      "summary": "ステロイドの使い分け ステロイドの内服薬といえば、プレドニゾロンが最もよく使われる。 しかし、ステロイド薬にはプレドニゾロン以外にも、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンなどがある。 いずれも副腎皮質ステロイド […] The post 内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "初回・導入時にしか使わない薬の規格・包装一覧",
-      "link": "https://yakuzaic.com/archives/144315",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-28T22:00:00Z",
-      "published_label": "2026/08/29 07:00",
-      "summary": "初回にしか使わない薬 薬局で在庫を発注するとき、前回と同じ薬を次回分として用意しておくことがある。 しかし、「初回に出た規格が、次回も出るとは限らない薬」には注意が必要だ。 例えばアリセプト錠3mg。アリセプトは通常3m […] The post 初回・導入時にしか使わない薬の規格・包装一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "肥満症治療薬一覧－ウゴービ・ゼップバウンド・サノレックスの違い",
-      "link": "https://yakuzaic.com/archives/144311",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-27T22:00:00Z",
-      "published_label": "2026/08/28 07:00",
-      "summary": "肥満症治療薬の違い 肥満症の治療薬というと、最近では「GLP-1」が有名になった。 ウゴービ、ゼップバウンドなどが相次いで登場し、以前と比べると肥満症に対する薬物療法の選択肢は大きく増えている。 ただし、「太っているから […] The post 肥満症治療薬一覧－ウゴービ・ゼップバウンド・サノレックスの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "IBD治療薬市場 30年に2000億円台に 抗TL1A抗体製剤「治療方針を大きく変える可能性」 富士...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80771",
       "source": "ミクスOnline",
@@ -1068,45 +974,6 @@
       "summary": "炎症性腸疾患（IBD）治療薬の国内市場が2030年に2000億円を超える――。このような市場予測を富士経済がまとめた。",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "サノフィ 多発性骨髄腫治療薬・サークリサ皮下注を発売 投与時間短縮で患者や医療従事者の負担軽減",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80770",
-      "source": "ミクスOnline",
-      "published": "2026-08-27T19:51:00Z",
-      "published_label": "2026/08/28 04:51",
-      "summary": "サノフィは８月27日、多発性骨髄腫治療薬サークリサ皮下注1400mgを発売した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "JETRO 欧州最大「BIO-Europe 2026」 日本発創薬ベンチャー22社支援 ビジネスマッ...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80768",
-      "source": "ミクスOnline",
-      "published": "2026-08-27T19:51:00Z",
-      "published_label": "2026/08/28 04:51",
-      "summary": "日本貿易振興機構（JETRO）は8月25日、欧州最大のバイオ医薬品カンファレンス「BIO-Europe 2026」で、日本の創薬ベンチャーなど22社の参加支援を行うと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "アステラス製薬 One Young World 2027 Tokyo Summitのホストシティパー...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80776",
-      "source": "ミクスOnline",
-      "published": "2026-08-27T19:50:00Z",
-      "published_label": "2026/08/28 04:50",
-      "summary": "アステラス製薬は８月27日、世界最大級の次世代リーダーサミット「One Young World 2027 Tokyo Summit」のホストシティパートナーに就任したと発表した。",
-      "tags": [
-        "業界動向"
       ],
       "importance": 2,
       "keywords": []
