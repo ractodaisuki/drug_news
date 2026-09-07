@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-07T18:58:31.749547Z",
-  "updated_label": "2026/09/08 03:58",
-  "count": 82,
+  "updated_at": "2026-09-07T23:15:57.871091Z",
+  "updated_label": "2026/09/08 08:15",
+  "count": 83,
   "items": [
     {
       "title": "シルバーウィークの新薬処方、日数制限は？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7788?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-07T18:58:30.331072Z",
-      "published_label": "2026/09/08 03:58",
+      "published": "2026-09-07T23:15:56.927596Z",
+      "published_label": "2026/09/08 08:15",
       "summary": "タクロリムスのカプセル剤には「徐放性製剤」と「普通製剤」あり、成分名・剤形・規格が同じであっても、適応や用法が異なるため別の薬です。タクロリムスカプセルの一般名処方を正しく入力するために、どのような点に注意すべきでしょうか？",
       "tags": [
         "薬剤師コラム",
@@ -17,6 +17,195 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」",
+      "link": "https://yakuzaic.com/archives/144414",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-07T22:00:00Z",
+      "published_label": "2026/09/08 07:00",
+      "summary": "骨粗鬆症治療薬は骨を作る？骨が壊れるのを防ぐ？ 骨粗鬆症治療薬には、ビスホスホネート製剤、SERM、デノスマブ、テリパラチド、ロモソズマブ、活性型ビタミンD₃製剤など、さまざまな薬があります。 薬の名前だけを覚えていると […] The post 骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【宮崎保険局長】薬局の声聞き早期成案へ‐十分な準備期間確保を強調",
+      "link": "https://www.yakuji.co.jp/entry138980.html",
+      "source": "薬事日報",
+      "published": "2026-09-07T21:31:14Z",
+      "published_label": "2026/09/08 06:31",
+      "summary": "厚生労働省の宮崎敦文保険局長は2日、専門紙と共同会見し、来年3月開始予定の一部保険外療養制度をめぐる医療機関・薬局の実務負担への対応について、「十分な周知・準…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【経産省 27年度概算要求】医療・健康推進に1837億円‐国内創薬基盤を強化",
+      "link": "https://www.yakuji.co.jp/entry138977.html",
+      "source": "薬事日報",
+      "published": "2026-09-07T21:30:45Z",
+      "published_label": "2026/09/08 06:30",
+      "summary": "経済産業省の2027年度概算要求は7兆7859億円を計上し、このうち「強く豊かな日本投資枠」は6兆3116億円、同投資枠以外の一般会計は4532億円となった。…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "肥満症薬市場 30年に100億円超へ 経口GLP-1受容体作動薬・オルホルグリプロンは注射剤より「優...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80809",
+      "source": "ミクスOnline",
+      "published": "2026-09-07T19:52:00Z",
+      "published_label": "2026/09/08 04:52",
+      "summary": "保険適用下の肥満症治療薬の国内市場は2030年に100億円を超える――。このような市場予測を富士経済がまとめた。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "富士製薬 医療関係者向けに新コンテンツ ＡＩナビゲーターとＡＩ医師が最新医学論文を対話形式で解説",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80835",
+      "source": "ミクスOnline",
+      "published": "2026-09-07T19:51:00Z",
+      "published_label": "2026/09/08 04:51",
+      "summary": "富士製薬は９月７日、医療関係者向けサイトの新たな情報提供コンテンツとして、医学論文を音声で配信する「Fuji Evidence Digest－耳から医学論文－」を公開したと発表した。",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "順天堂大学とケアネット 臨床支援ＡＩエージェントの開発で共同研究 医療情報と臨床知をＡＩでつなぐ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80832",
+      "source": "ミクスOnline",
+      "published": "2026-09-07T19:50:00Z",
+      "published_label": "2026/09/08 04:50",
+      "summary": "学校法人順天堂とケアネットは9月７日、ＡＩエージェントを活用した新しい臨床支援の仕組みを開発する共同研究を行うことで合意したと発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ビライトバイオ スタルガルト病治療薬候補・Tinlarebantを承認申請 先駆的医薬品などに指定",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80831",
+      "source": "ミクスOnline",
+      "published": "2026-09-07T19:50:00Z",
+      "published_label": "2026/09/08 04:50",
+      "summary": "ビライトバイオは９月７日、Tinlarebant（開発コード：LBS-008）について、遺伝性の網膜疾患であるスタルガルト病を対象疾患に日本で承認申請したと発表した。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "塩野義製薬 抗菌薬・セフィデロコルがオーストラリアで承認取得 AMR対策として期待",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80833",
+      "source": "ミクスOnline",
+      "published": "2026-09-07T19:49:00Z",
+      "published_label": "2026/09/08 04:49",
+      "summary": "塩野義製薬は９月７日、グラム陰性菌感染症治療薬セフィデロコルについて、オーストラリア当局から製造販売承認を取得したと発表した。",
+      "tags": [
+        "業界動向",
+        "承認・新薬",
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ステロイド外用薬を「短期使用薬」とするのは誤認、OTC薬給付見直しで声明／日本皮膚科学会ほか",
+      "link": "https://www.carenet.com/news/general/carenet/63567?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-07T19:00:00Z",
+      "published_label": "2026/09/08 04:00",
+      "summary": "日本皮膚科学会、日本臨床皮膚科医会、日本アレルギー友の会は2026年9月3日、3団体共同で「OTC類似薬の保険給付見直し案に関する共同声明」を発表した。声明はステロイド外用薬を「急性増悪時の短期使用薬」とす…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "セマグルチド使用後に食欲が戻ったと感じても摂取量は抑制される",
+      "link": "https://www.carenet.com/news/general/hdn/63436?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-07T19:00:00Z",
+      "published_label": "2026/09/08 04:00",
+      "summary": "肥満症に対してGLP-1受容体作動薬（GLP-1RA）であるセマグルチドによる治療を開始後、しばらくすると食欲が元に戻ったように感じることがあるが、少なくとも60週間は、実際の摂取エネルギー量が有意に少ない状態…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "Grokを使って自己分析をしてみよう！",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/aiaoshima/202609/594393.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-07T15:00:00Z",
+      "published_label": "2026/09/08 00:00",
+      "summary": "就職や転職活動を始める時や、自分のキャリアを見直す際にはよく、自己分析をしなさいと言われます。自己分析は、自分の強みや弱み、実現したいこと、価値観などを客観的に把握する上で有用なアプローチです。しかし、多くの人は自分の判断や行動の理由を、実際の因果関係とは無関係に事後的に構成してしまう傾向があります。その意味では、人間の自己認識には限界があると言えるかもしれません。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ナウゼリン、プリンペランの副作用に「重篤な不整脈」",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/sako/202609/594443.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-07T15:00:00Z",
+      "published_label": "2026/09/08 00:00",
+      "summary": "消化管運動調整薬のナウゼリン（一般名ドンペリドン）、プリンペラン（メトクロプラミド）および各後発品の重大な副作用に「重篤な不整脈」が追加され、あわせて重要な基本的注意に当該副作用における注意事項が追加されました。 漢方薬の葛根湯（一般用医薬品の葛根湯含有製剤も同様）の重大な副作用に「多形紅斑」が追加されました。 抗菌薬のアベロックス錠（モキシフロキサシン塩酸塩）の効能・効果に「多剤耐性肺結核」が追加され、あわせて重要な基本的注意に当該…",
+      "tags": [
+        "安全性情報",
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "アゼルニジピンとクラリスロマイシン、新たな併用禁忌に注意",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594437.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-07T15:00:00Z",
+      "published_label": "2026/09/08 00:00",
+      "summary": "日本医療機能評価機構（以下、機構）は2026年8月25日、薬局ヒヤリ・ハット事例収集・分析事業の共有すべき事例「2026年No.8」を公表した。2026年3月の添付文書改訂で新たに併用禁忌となった、アゼルニジピン含有製剤とクラリスロマイシン含有製剤に関する疑義照会の事例など3件を紹介し、注意を呼び掛けた。 本事例の患者は、カルブロック（一般名アゼルニジピン）とクラリシッド（クラリスロマイシン）を1年以上服用しており、今回も同内容で処方…",
+      "tags": [
+        "安全性情報",
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "オランザピンの禁忌解除を受け、日本癌治療学会が制吐薬適正使用GLの速報を発信",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594468.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-07T15:00:00Z",
+      "published_label": "2026/09/08 00:00",
+      "summary": "日本癌治療学会は2026年8月25日、「制吐薬適正使用ガイドライン 2023年10月改訂第3版」の速報を発信した。同日、厚生労働省医薬局医薬安全対策課が発出した通知で、糖尿病患者・既往者におけるオランザピン（商品名ジプレキサ他）の禁忌が一部解除され、抗悪性腫瘍薬投与に伴う消化器症状に対して使用可能となったことによる。 同ガイドラインでは、高度催吐性リスク抗がん薬に対し、オランザピン、セロトニン（5-HT3）受容体拮抗薬、ニューロキニン…",
+      "tags": [
+        "安全性情報",
+        "学術・エビデンス",
+        "法令・行政"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -86,19 +275,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "生活保護の受診ルール見直しへ、指定外受診に紹介状を検討／厚労省",
-      "link": "https://www.carenet.com/hihyomon/311.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-07T01:00:10Z",
-      "published_label": "2026/09/07 10:00",
-      "summary": "「生活保護の頻回受診対策、指定の医療機関以外は原則紹介へ」「インフルエンザ全国で拡大、8月に流行入り ワクチン前倒しも可能に」ほか。先週の医療ニュースのキャッチアップにお役立てください！",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -295,58 +471,6 @@
       "summary": "あすか製薬は9月4日、「医薬事業統括」を新設し、傘下に営業本部とメディカルアフェアーズ部、内分泌事業推進室を移管する組織改正を発表した。",
       "tags": [
         "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "アトピー性皮膚炎に、Tregを調節する新規IL-2受容体作動薬が有望／Lancet",
-      "link": "https://www.carenet.com/news/journal/carenet/63554?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-06T19:00:00Z",
-      "published_label": "2026/09/07 04:00",
-      "summary": "中等度～重度のアトピー性皮膚炎患者において、rezpegaldesleukinはプラセボと比較して、重症度評価指標のEczema Area and Severity Index（EASI）スコアの変化率を含む複数の臨床評価項目を有意に改善し、良好な…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "急性期脳梗塞、血栓回収術後の頭位挙上は有効か／BMJ",
-      "link": "https://www.carenet.com/news/journal/carenet/63553?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-06T19:00:00Z",
-      "published_label": "2026/09/07 04:00",
-      "summary": "血栓回収術で再灌流に成功した急性期虚血性脳卒中患者において、頭位挙上は頭位を水平位置に保つ場合と比較して、機能的アウトカムを改善せず、全死因死亡率にも差は示されなかった。中国・西南医科大学のZhengzh…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "卵巣明細胞がん治療薬リソバリシブ使用時の高血糖に関する注意喚起／日本糖尿病学会",
-      "link": "https://www.carenet.com/news/general/carenet/63539?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-06T19:00:00Z",
-      "published_label": "2026/09/07 04:00",
-      "summary": "卵巣明細胞がんの新たな治療薬としてPI3Kα阻害薬リソバリシブ（商品名：ハイツエキシン）が発売された。リソバリシブはその薬剤特性から高い有効性とともに、高血糖リスクが懸念される。日本糖尿病学会は、同薬の…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "がん既往CKM症候群でもフィネレノンの効果は一貫（FINE-HEART）／Eur Heart J",
-      "link": "https://www.carenet.com/news/general/carenet/63501?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-06T19:00:00Z",
-      "published_label": "2026/09/07 04:00",
-      "summary": "心血管・腎・代謝（CKM）症候群では、共通のリスク因子や病態機序を背景にがんを併存する患者が少なくない。しかし、がん既往を有するCKM症候群患者において、非ステロイド型ミネラルコルチコイド受容体拮抗薬フィ…",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -584,32 +708,6 @@
       "keywords": []
     },
     {
-      "title": "ヒト由来検体研究を支援‐三井不動産など、創薬や再生医療など後押し",
-      "link": "https://www.yakuji.co.jp/entry138915.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T23:30:53Z",
-      "published_label": "2026/09/04 08:30",
-      "summary": "三井不動産は8月31日、レンタルラボ「三井リンクラボ」の一部で、ヒト組織などの試料の供給などを行うエイチ・エー・ビー研究機構、がん研究会と連携し、研究用ヒト由…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】睡眠起点に美容参入、5年後売上高30億円目指す",
-      "link": "https://www.yakuji.co.jp/entry138892.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T22:35:33Z",
-      "published_label": "2026/09/04 07:35",
-      "summary": "医療・介護用ベッド国内最大手のパラマウントベッド株式会社（東京都江東区、代表取締役社長執行役員：木村友彦）は、睡眠と美容・健康の関係に着目した新ブランド「Sl…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "骨粗鬆症患者は胃食道逆流症になりやすい？",
       "link": "https://yakuzaic.com/archives/1949",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -686,19 +784,6 @@
         "法令・行政"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "ハイボンとラリキシンDSの販売中止が決定",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202609/594412.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-03T15:00:00Z",
-      "published_label": "2026/09/04 00:00",
-      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年8月23〜29日のランキングです。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 5,
       "keywords": []
     },
     {
@@ -1030,78 +1115,12 @@
       "keywords": []
     },
     {
-      "title": "塩野義製薬 米政府との契約「Project BioShield」に基づきセフィデロコル調達で3億69...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80795",
-      "source": "ミクスOnline",
-      "published": "2026-08-30T19:51:00Z",
-      "published_label": "2026/08/31 04:51",
-      "summary": "塩野義製薬は8月28日、米国政府によるグラム陰性菌感染症治療薬セフィデロコルの調達で3億6900万米ドルを受領すると発表した。",
-      "tags": [
-        "業界動向",
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "わかもと製薬 英国の資産運用会社アセット・バリュー・インベスターズが筆頭株主に ロート製薬は第2位",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80794",
-      "source": "ミクスOnline",
-      "published": "2026-08-30T19:50:00Z",
-      "published_label": "2026/08/31 04:50",
-      "summary": "わかもと製薬は8月28日、主要株主の異動に伴い、英国の独立系資産運用会社であるアセット・バリュー・インベスターズ（AVI）が筆頭株主になったと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "メディパル 医薬品Web発注システムに新機能 発注時の在庫可視化と代替品手配のワンストップ化を実現",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80792",
-      "source": "ミクスOnline",
-      "published": "2026-08-30T19:50:00Z",
-      "published_label": "2026/08/31 04:50",
-      "summary": "メディパルホールディングスは８月28日、医薬品Web発注システム「Order-epi」について、発注時に在庫状況を一目で確認でき、欠品時などはスムーズに代替品を選択できる新機能を追加したと発表した。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "ツカイザ錠とソホノスカプセル 併用禁忌に 添付文書改訂",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80793",
-      "source": "ミクスOnline",
-      "published": "2026-08-30T19:49:00Z",
-      "published_label": "2026/08/31 04:49",
-      "summary": "HER2選択的チロシンキナーゼ阻害薬・ツカイザ錠（一般名：ツカチニブ エタノール付加物）とレチノイン酸受容体γ作動薬・ソホノスカプセル（同パロバロテン）を併用禁忌とする添付文書改訂が行われた。",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い",
       "link": "https://yakuzaic.com/archives/144318",
       "source": "くすりの勉強（薬剤師のブログ）",
       "published": "2026-08-29T22:00:00Z",
       "published_label": "2026/08/30 07:00",
       "summary": "ステロイドの使い分け ステロイドの内服薬といえば、プレドニゾロンが最もよく使われる。 しかし、ステロイド薬にはプレドニゾロン以外にも、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンなどがある。 いずれも副腎皮質ステロイド […] The post 内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "初回・導入時にしか使わない薬の規格・包装一覧",
-      "link": "https://yakuzaic.com/archives/144315",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-28T22:00:00Z",
-      "published_label": "2026/08/29 07:00",
-      "summary": "初回にしか使わない薬 薬局で在庫を発注するとき、前回と同じ薬を次回分として用意しておくことがある。 しかし、「初回に出た規格が、次回も出るとは限らない薬」には注意が必要だ。 例えばアリセプト錠3mg。アリセプトは通常3m […] The post 初回・導入時にしか使わない薬の規格・包装一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
