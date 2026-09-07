@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-07T02:46:02.179505Z",
-  "updated_label": "2026/09/07 11:46",
-  "count": 75,
+  "updated_at": "2026-09-07T07:53:54.307525Z",
+  "updated_label": "2026/09/07 16:53",
+  "count": 85,
   "items": [
     {
       "title": "薬事審議会血液事業部会令和８年度第１回適正使用調査会議事録",
@@ -34,6 +34,19 @@
       "keywords": []
     },
     {
+      "title": "石川県薬剤師会 研修会 2026/09",
+      "link": "https://www.yakuji.co.jp/entry138944.html",
+      "source": "薬事日報",
+      "published": "2026-09-07T01:31:13Z",
+      "published_label": "2026/09/07 10:31",
+      "summary": "令和8年度 第6回 薬剤師PS講座プログレス(9月)研修会 今回は、がん薬物療法における副作用への対応をテーマに、地域で患者を支える薬剤師の役割を学びます。皮膚…",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "大阪医科薬科大学 研修会 2026/10",
       "link": "https://www.yakuji.co.jp/entry138840.html",
       "source": "薬事日報",
@@ -44,19 +57,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "石川県薬剤師会 研修会 2026/09",
-      "link": "https://www.yakuji.co.jp/entry138944.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T01:30:13Z",
-      "published_label": "2026/09/07 10:30",
-      "summary": "令和8年度 第6回 薬剤師PS講座プログレス(9月)研修会 今回は、がん薬物療法における副作用への対応をテーマに、地域で患者を支える薬剤師の役割を学びます。皮膚…",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -123,6 +123,19 @@
         "承認・新薬"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "動脈硬化はあるけど、静脈硬化は無い？",
+      "link": "https://yakuzaic.com/archives/144403",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-06T22:00:00Z",
+      "published_label": "2026/09/07 07:00",
+      "summary": "動脈硬化はあるけど、静脈硬化は無い？ 「動脈硬化」という言葉はよく聞く。 高血圧、脂質異常症、糖尿病、喫煙などによって動脈硬化が進み、心筋梗塞や脳梗塞の原因になる。 しかし、考えてみると不思議だ。 「動脈硬化はあるけど、 […] The post 動脈硬化はあるけど、静脈硬化は無い？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -405,6 +418,19 @@
       "keywords": []
     },
     {
+      "title": "ビタミンの良し悪し―本当に体に良いのか？",
+      "link": "https://yakuzaic.com/archives/144383",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-05T22:00:00Z",
+      "published_label": "2026/09/06 07:00",
+      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "二日酔いの頭痛に『ロキソニンＳ』は使える？",
       "link": "https://pharmacist.m3.com/column/otc/7783?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -417,6 +443,19 @@
         "OTC医薬品"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "通院してるのに通院困難？",
+      "link": "https://yakuzaic.com/archives/144347",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-04T22:00:00Z",
+      "published_label": "2026/09/05 07:00",
+      "summary": "通院困難とは？ 薬局で在宅患者訪問薬剤管理指導料や居宅療養管理指導を算定するための条件の一つに、「通院が困難」というものがある。 「通院困難」と聞くと、寝たきりで病院にも薬局にも行けない患者をイメージする。 しかし、薬局 […] The post 通院してるのに通院困難？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -580,6 +619,19 @@
       "keywords": []
     },
     {
+      "title": "骨粗鬆症患者は胃食道逆流症になりやすい？",
+      "link": "https://yakuzaic.com/archives/1949",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-03T22:00:00Z",
+      "published_label": "2026/09/04 07:00",
+      "summary": "骨粗鬆症で逆流性食道炎？ 骨粗鬆症の患者に、タケキャブ、ネキシウム、タケプロンなどの胃酸分泌抑制薬が処方されていることは珍しくない。 高齢者だから胃薬を飲んでいるのだろう、と特に気に留めないこともある。 しかし、骨粗鬆症 […] The post 骨粗鬆症患者は胃食道逆流症になりやすい？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "厚労省保険局 OTC類似薬の給付見直しで論点提示 ステロイド外用薬の給付継続求める患者団体の意見も",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80824",
       "source": "ミクスOnline",
@@ -690,6 +742,19 @@
       "keywords": []
     },
     {
+      "title": "水で飲んではいけないOD錠？",
+      "link": "https://yakuzaic.com/archives/144334",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-02T22:00:00Z",
+      "published_label": "2026/09/03 07:00",
+      "summary": "OD錠は水なしで飲まなければいけない？ OD錠とは「口腔内崩壊錠（Orally Disintegrating Tablet）」のことで、口の中で速やかに崩れるように作られた錠剤です。 通常の錠剤はコップ1杯程度の水やぬる […] The post 水で飲んではいけないOD錠？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "メディパルHD 英機関投資家から渡辺秀一氏の取締役解任含む臨時株主総会招集の請求書受領 慎重に検討",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80814",
       "source": "ミクスOnline",
@@ -757,6 +822,19 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "スマート療法とショットガン療法―喘息・長引く咳に対する治療",
+      "link": "https://yakuzaic.com/archives/144328",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-01T22:00:00Z",
+      "published_label": "2026/09/02 07:00",
+      "summary": "SMART療法とショットガン療法 「SMART療法」という治療法がある。「スマート（smart）」という名前から、「賢く治療する方法」という意味なのかと思ってしまうが、SMARTは略語である。 一方、医療では「ショットガ […] The post スマート療法とショットガン療法―喘息・長引く咳に対する治療 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -851,6 +929,19 @@
         "薬歴"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える",
+      "link": "https://yakuzaic.com/archives/144325",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-31T22:00:00Z",
+      "published_label": "2026/09/01 07:00",
+      "summary": "糖尿病治療薬の作用部位 糖尿病治療薬には、SU薬、DPP-4阻害薬、ビグアナイド薬、SGLT2阻害薬など、多くの種類があります。薬効分類だけを覚えようとすると、それぞれの違いがわかりにくくなります。 そこで、「なぜ血糖値 […] The post 糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -949,6 +1040,19 @@
       "keywords": []
     },
     {
+      "title": "太る薬一覧―薬を飲んで体重が増えるのはなぜ？",
+      "link": "https://yakuzaic.com/archives/144321",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-30T22:00:00Z",
+      "published_label": "2026/08/31 07:00",
+      "summary": "太る薬 「この薬を飲み始めてから太った気がする」 患者さんから、このように言われることがある。 薬の副作用というと、眠気、便秘、吐き気などを思い浮かべるが、「体重増加」も薬によって起こり得る副作用の一つである。 体重増加 […] The post 太る薬一覧―薬を飲んで体重が増えるのはなぜ？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "厚労省監麻課 25年度販売情報提供活動調査事業・報告書 ６医薬品で広告違反疑い 疑い事案は11項目",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80796",
       "source": "ミクスOnline",
@@ -1012,6 +1116,32 @@
         "安全性情報"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い",
+      "link": "https://yakuzaic.com/archives/144318",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-29T22:00:00Z",
+      "published_label": "2026/08/30 07:00",
+      "summary": "ステロイドの使い分け ステロイドの内服薬といえば、プレドニゾロンが最もよく使われる。 しかし、ステロイド薬にはプレドニゾロン以外にも、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンなどがある。 いずれも副腎皮質ステロイド […] The post 内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "初回・導入時にしか使わない薬の規格・包装一覧",
+      "link": "https://yakuzaic.com/archives/144315",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-28T22:00:00Z",
+      "published_label": "2026/08/29 07:00",
+      "summary": "初回にしか使わない薬 薬局で在庫を発注するとき、前回と同じ薬を次回分として用意しておくことがある。 しかし、「初回に出た規格が、次回も出るとは限らない薬」には注意が必要だ。 例えばアリセプト錠3mg。アリセプトは通常3m […] The post 初回・導入時にしか使わない薬の規格・包装一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     }
   ]
