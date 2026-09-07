@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-06T22:40:20.452071Z",
-  "updated_label": "2026/09/07 07:40",
-  "count": 84,
+  "updated_at": "2026-09-07T02:46:02.179505Z",
+  "updated_label": "2026/09/07 11:46",
+  "count": 75,
   "items": [
     {
       "title": "薬事審議会血液事業部会令和８年度第１回適正使用調査会議事録",
@@ -17,16 +17,112 @@
       "keywords": []
     },
     {
-      "title": "動脈硬化はあるけど、静脈硬化は無い？",
-      "link": "https://yakuzaic.com/archives/144403",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-06T22:00:00Z",
-      "published_label": "2026/09/07 07:00",
-      "summary": "動脈硬化はあるけど、静脈硬化は無い？ 「動脈硬化」という言葉はよく聞く。 高血圧、脂質異常症、糖尿病、喫煙などによって動脈硬化が進み、心筋梗塞や脳梗塞の原因になる。 しかし、考えてみると不思議だ。 「動脈硬化はあるけど、 […] The post 動脈硬化はあるけど、静脈硬化は無い？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "title": "GLP-1とインスリン徹底比較！作用機序・低血糖など",
+      "link": "https://pharmacist.m3.com/column/special_feature/7786?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-07T02:46:00.963143Z",
+      "published_label": "2026/09/07 11:46",
+      "summary": "インスリン製剤とGLP-1受容体作動薬の根本的な作用機序の違いや、体重への影響、副作用リスクの違いなどこれらの２つの薬を適切に使い分けるための基本を整理します。適応患者の見極め方や、投与切り替え時の注意点、患者指導の工夫など、服薬指導や処方提案に今すぐ使える情報を網羅しました。",
+      "tags": [
+        "薬剤師コラム",
+        "医薬品情報・DI",
+        "糖尿病",
+        "薬物療法・作用機序",
+        "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "大阪医科薬科大学 研修会 2026/10",
+      "link": "https://www.yakuji.co.jp/entry138840.html",
+      "source": "薬事日報",
+      "published": "2026-09-07T01:30:27Z",
+      "published_label": "2026/09/07 10:30",
+      "summary": "認知症サポーター養成講座 詳細はこちら 開催日時 2026年10月4日（日）13時00分～15時20分 開催場所 大阪医科薬科大学薬学部 阿武山キャンパス 講義…",
       "tags": [
         "その他"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "石川県薬剤師会 研修会 2026/09",
+      "link": "https://www.yakuji.co.jp/entry138944.html",
+      "source": "薬事日報",
+      "published": "2026-09-07T01:30:13Z",
+      "published_label": "2026/09/07 10:30",
+      "summary": "令和8年度 第6回 薬剤師PS講座プログレス(9月)研修会 今回は、がん薬物療法における副作用への対応をテーマに、地域で患者を支える薬剤師の役割を学びます。皮膚…",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "10月18～20日に「第23回DIA日本年会2026」開催 ディー・アイ・エー・ジャパン",
+      "link": "https://www.yakuji.co.jp/entry138964.html",
+      "source": "薬事日報",
+      "published": "2026-09-07T01:00:20Z",
+      "published_label": "2026/09/07 10:00",
+      "summary": "「第23回DIA日本年会2026」が、2026年10月18日（日）-20日（火）に東京ビッグサイトで開催される。 第23回DIA日本年会2026は、大会長に国立…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "生活保護の受診ルール見直しへ、指定外受診に紹介状を検討／厚労省",
+      "link": "https://www.carenet.com/hihyomon/311.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-07T01:00:10Z",
+      "published_label": "2026/09/07 10:00",
+      "summary": "「生活保護の頻回受診対策、指定の医療機関以外は原則紹介へ」「インフルエンザ全国で拡大、8月に流行入り ワクチン前倒しも可能に」ほか。先週の医療ニュースのキャッチアップにお役立てください！",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "厚労省 稲角薬事企画官「現場から薬剤師像提案を」‐へき地の医薬品提供課題",
+      "link": "https://www.yakuji.co.jp/entry138978.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T23:31:55Z",
+      "published_label": "2026/09/07 08:31",
+      "summary": "厚生労働省医薬局総務課の稲角嘉彦薬事企画官は、就任に当たって本紙の取材に応じ、薬局・薬剤師のあり方について「将来に向けて新たな薬剤師像を示すのは一つのアイデア…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【三浦政策統括官】電子カルテ認証制度推進‐電子処方箋普及と一体で",
+      "link": "https://www.yakuji.co.jp/entry138971.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T23:30:19Z",
+      "published_label": "2026/09/07 08:30",
+      "summary": "厚生労働省の三浦明政策統括官（情報政策担当）は8月31日、専門紙と共同会見し、医療DXの推進に向け、電子処方箋の普及を電子カルテの認証制度と一体で進める考えを…",
+      "tags": [
+        "薬局経営",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】髪と同じ成分で洗うヘアケアブランド「Re：KERATIN（リ ケラチン）」、先行発売の売上が計画比210％と好調‐9月1日より順次全国で発売開始 ヴィークレア",
+      "link": "https://www.yakuji.co.jp/entry138961.html",
+      "source": "薬事日報",
+      "published": "2026-09-06T22:30:06Z",
+      "published_label": "2026/09/07 07:30",
+      "summary": "ヴィークレア（本社:東京都港区）は、同社が2026年4月より全国のウエルシアグループで先行発売しているヘアケアブランド「Re：KERATIN（リ ケラチン）」…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
       "keywords": []
     },
     {
@@ -120,23 +216,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "GLP-1とインスリン徹底比較！作用機序・低血糖など",
-      "link": "https://pharmacist.m3.com/column/special_feature/7786?promotionCode=op_pcolumn",
-      "source": "Web監視",
-      "published": "2026-09-06T19:57:48.555938Z",
-      "published_label": "2026/09/07 04:57",
-      "summary": "インスリン製剤とGLP-1受容体作動薬の根本的な作用機序の違いや、体重への影響、副作用リスクの違いなどこれらの２つの薬を適切に使い分けるための基本を整理します。適応患者の見極め方や、投与切り替え時の注意点、患者指導の工夫など、服薬指導や処方提案に今すぐ使える情報を網羅しました。",
-      "tags": [
-        "薬剤師コラム",
-        "医薬品情報・DI",
-        "糖尿病",
-        "薬物療法・作用機序",
-        "服薬指導"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -326,19 +405,6 @@
       "keywords": []
     },
     {
-      "title": "ビタミンの良し悪し―本当に体に良いのか？",
-      "link": "https://yakuzaic.com/archives/144383",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-05T22:00:00Z",
-      "published_label": "2026/09/06 07:00",
-      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "二日酔いの頭痛に『ロキソニンＳ』は使える？",
       "link": "https://pharmacist.m3.com/column/otc/7783?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -351,19 +417,6 @@
         "OTC医薬品"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "通院してるのに通院困難？",
-      "link": "https://yakuzaic.com/archives/144347",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-04T22:00:00Z",
-      "published_label": "2026/09/05 07:00",
-      "summary": "通院困難とは？ 薬局で在宅患者訪問薬剤管理指導料や居宅療養管理指導を算定するための条件の一つに、「通院が困難」というものがある。 「通院困難」と聞くと、寝たきりで病院にも薬局にも行けない患者をイメージする。 しかし、薬局 […] The post 通院してるのに通院困難？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -527,101 +580,6 @@
       "keywords": []
     },
     {
-      "title": "【新製品】燃焼イオンクロマトグラフシステムを発売‐PFAS分析作業を効率化 島津製作所",
-      "link": "https://www.yakuji.co.jp/entry138878.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T22:31:56Z",
-      "published_label": "2026/09/04 07:31",
-      "summary": "島津製作所は9月1日、PFAS（有機フッ素化合物）などの環境分析に対応した燃焼イオンクロマトグラフシステムを国内外で発売した。米国環境保護庁（EPA）が定めた…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【花王】北欧で「Curel（キュレル）」を発売‐欧州における化粧品事業の成長を加速",
-      "link": "https://www.yakuji.co.jp/entry138875.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T22:30:51Z",
-      "published_label": "2026/09/04 07:30",
-      "summary": "花王は、乾燥性敏感肌を考えた総合スキンケアブランド「Curel（キュレル）」を2026年9月より、新たに北欧4か国で発売する。同社は、「グローバル・シャープト…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "骨粗鬆症患者は胃食道逆流症になりやすい？",
-      "link": "https://yakuzaic.com/archives/1949",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-03T22:00:00Z",
-      "published_label": "2026/09/04 07:00",
-      "summary": "骨粗鬆症で逆流性食道炎？ 骨粗鬆症の患者に、タケキャブ、ネキシウム、タケプロンなどの胃酸分泌抑制薬が処方されていることは珍しくない。 高齢者だから胃薬を飲んでいるのだろう、と特に気に留めないこともある。 しかし、骨粗鬆症 […] The post 骨粗鬆症患者は胃食道逆流症になりやすい？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【米政府】日本企業初のMFN合意‐アステラス、協和キリンと",
-      "link": "https://www.yakuji.co.jp/entry138907.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:33:51Z",
-      "published_label": "2026/09/04 06:33",
-      "summary": "米ホワイトハウスは8月31日（現地時間）、日本のアステラス製薬と協和キリンを含む製薬9社と最恵国待遇（MFN）による米国内での薬価引き下げ契約に合意したと発表…",
-      "tags": [
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省 村上専門官】偽造薬、SNSの監視強化‐GLP-1不正流通に警鐘",
-      "link": "https://www.yakuji.co.jp/entry138912.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:32:47Z",
-      "published_label": "2026/09/04 06:32",
-      "summary": "厚生労働省医薬局監視指導・麻薬対策課の村上明男偽造医薬品等監視専門官は8月28日、オンラインで開かれた第14回医薬品セキュリティ研究会主催のフォーラムで講演し…",
-      "tags": [
-        "法令・行政",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【内山医薬局長】創薬人材と薬剤師確保課題‐審査業務にAI評価必要",
-      "link": "https://www.yakuji.co.jp/entry138908.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:31:40Z",
-      "published_label": "2026/09/04 06:31",
-      "summary": "厚生労働省の内山博之医薬局長は2日、専門紙と共同会見し、人口減少が進む中で薬剤師や創薬に関わる人材などの確保が医薬行政上の大きな課題になるとの認識を示した。ま…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【GE薬協】35年へGE産業ビジョン‐協業で安定供給確保",
-      "link": "https://www.yakuji.co.jp/entry138911.html",
-      "source": "薬事日報",
-      "published": "2026-09-03T21:30:36Z",
-      "published_label": "2026/09/04 06:30",
-      "summary": "日本ジェネリック製薬協会（GE薬協）は8月31日、医療を支えるインフラ産業としての今後の方向性を示す「ジェネリック医薬品産業ビジョン2035」をまとめ公表した…",
-      "tags": [
-        "供給・出荷",
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "厚労省保険局 OTC類似薬の給付見直しで論点提示 ステロイド外用薬の給付継続求める患者団体の意見も",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80824",
       "source": "ミクスOnline",
@@ -732,19 +690,6 @@
       "keywords": []
     },
     {
-      "title": "水で飲んではいけないOD錠？",
-      "link": "https://yakuzaic.com/archives/144334",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-02T22:00:00Z",
-      "published_label": "2026/09/03 07:00",
-      "summary": "OD錠は水なしで飲まなければいけない？ OD錠とは「口腔内崩壊錠（Orally Disintegrating Tablet）」のことで、口の中で速やかに崩れるように作られた錠剤です。 通常の錠剤はコップ1杯程度の水やぬる […] The post 水で飲んではいけないOD錠？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "メディパルHD 英機関投資家から渡辺秀一氏の取締役解任含む臨時株主総会招集の請求書受領 慎重に検討",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80814",
       "source": "ミクスOnline",
@@ -812,19 +757,6 @@
         "診療報酬改定"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "スマート療法とショットガン療法―喘息・長引く咳に対する治療",
-      "link": "https://yakuzaic.com/archives/144328",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-01T22:00:00Z",
-      "published_label": "2026/09/02 07:00",
-      "summary": "SMART療法とショットガン療法 「SMART療法」という治療法がある。「スマート（smart）」という名前から、「賢く治療する方法」という意味なのかと思ってしまうが、SMARTは略語である。 一方、医療では「ショットガ […] The post スマート療法とショットガン療法―喘息・長引く咳に対する治療 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -919,19 +851,6 @@
         "薬歴"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える",
-      "link": "https://yakuzaic.com/archives/144325",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-31T22:00:00Z",
-      "published_label": "2026/09/01 07:00",
-      "summary": "糖尿病治療薬の作用部位 糖尿病治療薬には、SU薬、DPP-4阻害薬、ビグアナイド薬、SGLT2阻害薬など、多くの種類があります。薬効分類だけを覚えようとすると、それぞれの違いがわかりにくくなります。 そこで、「なぜ血糖値 […] The post 糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1030,19 +949,6 @@
       "keywords": []
     },
     {
-      "title": "太る薬一覧―薬を飲んで体重が増えるのはなぜ？",
-      "link": "https://yakuzaic.com/archives/144321",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-30T22:00:00Z",
-      "published_label": "2026/08/31 07:00",
-      "summary": "太る薬 「この薬を飲み始めてから太った気がする」 患者さんから、このように言われることがある。 薬の副作用というと、眠気、便秘、吐き気などを思い浮かべるが、「体重増加」も薬によって起こり得る副作用の一つである。 体重増加 […] The post 太る薬一覧―薬を飲んで体重が増えるのはなぜ？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "厚労省監麻課 25年度販売情報提供活動調査事業・報告書 ６医薬品で広告違反疑い 疑い事案は11項目",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80796",
       "source": "ミクスOnline",
@@ -1106,32 +1012,6 @@
         "安全性情報"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い",
-      "link": "https://yakuzaic.com/archives/144318",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-29T22:00:00Z",
-      "published_label": "2026/08/30 07:00",
-      "summary": "ステロイドの使い分け ステロイドの内服薬といえば、プレドニゾロンが最もよく使われる。 しかし、ステロイド薬にはプレドニゾロン以外にも、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンなどがある。 いずれも副腎皮質ステロイド […] The post 内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "初回・導入時にしか使わない薬の規格・包装一覧",
-      "link": "https://yakuzaic.com/archives/144315",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-28T22:00:00Z",
-      "published_label": "2026/08/29 07:00",
-      "summary": "初回にしか使わない薬 薬局で在庫を発注するとき、前回と同じ薬を次回分として用意しておくことがある。 しかし、「初回に出た規格が、次回も出るとは限らない薬」には注意が必要だ。 例えばアリセプト錠3mg。アリセプトは通常3m […] The post 初回・導入時にしか使わない薬の規格・包装一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     }
   ]
