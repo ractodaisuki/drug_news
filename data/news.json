@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-08T18:16:50.366646Z",
-  "updated_label": "2026/09/09 03:16",
-  "count": 84,
+  "updated_at": "2026-09-08T23:10:35.067429Z",
+  "updated_label": "2026/09/09 08:10",
+  "count": 82,
   "items": [
     {
       "title": "OTC類似薬に別途負担が発生！対象医薬品と仕組み",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7789?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-08T18:16:49.002958Z",
-      "published_label": "2026/09/09 03:16",
+      "published": "2026-09-08T23:10:33.944572Z",
+      "published_label": "2026/09/09 08:10",
       "summary": "2027年3月から、OTC類似薬を使用する患者さんには、原則として別途の負担が発生する予定です。長期収載品の選定療養よりも仕組みが複雑なため、薬局で患者さんから説明を求められる機会が増えると考えられます。そこで今回は、どのような薬や患者さんに別途の負担が発生する可能性があるのかを解説します。",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,166 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？",
+      "link": "https://yakuzaic.com/archives/144417",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-08T22:00:00Z",
+      "published_label": "2026/09/09 07:00",
+      "summary": "MR拮抗薬の違い 高血圧の患者にミネブロ、心不全の患者にセララ、糖尿病・CKDの患者にケレンディア。 そして昔から利尿薬として使われているアルダクトンA。 これらは一見すると別々の薬のように見えますが、いずれもミネラルコ […] The post MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【井本監麻課長】GMP調査は社会実装実験‐管理薬剤師兼務を問題視",
+      "link": "https://www.yakuji.co.jp/entry139058.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T21:31:59Z",
+      "published_label": "2026/09/09 06:31",
+      "summary": "厚生労働省医薬局の井本昌克監視指導・麻薬対策課長は7日、専門紙と共同会見し、改正医薬品医療機器等法に基づくGMP適合性調査の見直しについて、厚生労働省、医薬品…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【都薬】小規模薬局の役割可視化‐地域貢献データを提示へ",
+      "link": "https://www.yakuji.co.jp/entry139061.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T21:30:38Z",
+      "published_label": "2026/09/09 06:30",
+      "summary": "東京都薬剤師会は、財務省の財政制度等審議会で都市部の小規模薬局に厳しい視線が向けられる中、都内の会員薬局を対象に薬局機能に関する実態調査を実施する。処方箋集中…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】「ポリデントマウスピース用洗浄フォーム」発売 Haleonジャパン",
+      "link": "https://www.yakuji.co.jp/entry139052.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T21:04:23Z",
+      "published_label": "2026/09/09 06:04",
+      "summary": "Haleonジャパン＝ポリデントから、「ポリデントマウスピース用洗浄フォーム」を7日より全国で発売（オープン価格）した。ミクロの泡が口腔内装具全体に広がり、こ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】咳に効く五つの成分配合‐「ジキニン」から新製品 全薬工業",
+      "link": "https://www.yakuji.co.jp/entry139050.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T21:03:59Z",
+      "published_label": "2026/09/09 06:03",
+      "summary": "全薬工業は、総合かぜ薬「ジキニンファーストネオCZ」（指定第2類医薬品）を発売した。 かぜ薬「ジキニン」シリーズは、少しでも早く日常に戻りたい人に向けたかぜ…",
+      "tags": [
+        "一般用医薬品",
+        "承認・新薬"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】「イオナエフ」に新シリーズ‐天然由来の美容保湿成分 ゼリア新薬",
+      "link": "https://www.yakuji.co.jp/entry139048.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T21:02:31Z",
+      "published_label": "2026/09/09 06:02",
+      "summary": "ゼリア新薬は1日、スキンケアブランドのイオナエフから新シリーズ「イオナエフRJダーマ」全4製品（導入美容液、薬用化粧水、薬用乳液、薬用クリーム）について、全国…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "小規模薬局の多様性",
+      "link": "https://www.yakuji.co.jp/entry139047.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T21:01:12Z",
+      "published_label": "2026/09/09 06:01",
+      "summary": "◆数店舗を運営する小規模薬局の薬剤師から、薬局経営の厳しさを聞くことが多い。調剤報酬改定に対応する大変さ、薬剤師を確保する難しさ、思うように進まない資材調達、近…",
+      "tags": [
+        "薬価・制度",
+        "薬局経営"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "AZ 九州電力送配電とEV充電サービスの実証開始 現地MRが参画 EV環境整備と業務効率化へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80843",
+      "source": "ミクスOnline",
+      "published": "2026-09-08T19:52:00Z",
+      "published_label": "2026/09/09 04:52",
+      "summary": "アストラゼネカは９月８日、月極駐車場や賃貸住宅付随の駐車場を対象とした電気自動車（EV）充電サービスの実証実験を九州エリアで開始したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "メディパルHD 次期社長に今川国明氏 渡辺秀一氏は会長に 10月１日付トップ人事",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80842",
+      "source": "ミクスOnline",
+      "published": "2026-09-08T19:51:00Z",
+      "published_label": "2026/09/09 04:51",
+      "summary": "メディパルホールディングスは９月８日、次期代表取締役社長に今川国明・常務取締役医薬事業担当が就任するトップ人事を発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日薬連・安川会長 27年度予算概算要求「従来にない規模」と評価 革新的新薬生みだす好循環創出に期待",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80838",
+      "source": "ミクスOnline",
+      "published": "2026-09-08T19:51:00Z",
+      "published_label": "2026/09/09 04:51",
+      "summary": "日本製薬団体連合会（日薬連）の安川健司会長は9月８日、2027年度予算概算要求を受けてコメントを発表した。",
+      "tags": [
+        "承認・新薬",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "中外製薬 ネモリズマブでJBDA創薬大賞を受賞",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80840",
+      "source": "ミクスOnline",
+      "published": "2026-09-08T19:50:00Z",
+      "published_label": "2026/09/09 04:50",
+      "summary": "中外製薬がヒト化抗ヒトIL-31受容体Aモノクローナル抗体・ネモリズマブに関する研究成果で「JBDA創薬大賞」を受賞。画期的な医薬品の創出に寄与する革新的な研究成果を挙げ、医学・医療の発展に大きく貢献したと評価された。",
+      "tags": [
+        "業界動向",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "MOLCUREとAxcelead DDP AI創薬プラットフォームを活用したペプチド医薬品候補の創製...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80839",
+      "source": "ミクスOnline",
+      "published": "2026-09-08T19:50:00Z",
+      "published_label": "2026/09/09 04:50",
+      "summary": "ＡＩで抗体およびペプチド創薬を行うMOLCUREは９月８日、Axcelead Drug Discovery Partners（Axcelead DDP）とＡＩ創薬プラットフォームを活用したペプチド医薬品候補の創製に関する契約を締結したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -287,32 +447,6 @@
       "keywords": []
     },
     {
-      "title": "ステロイド外用薬を「短期使用薬」とするのは誤認、OTC薬給付見直しで声明／日本皮膚科学会ほか",
-      "link": "https://www.carenet.com/news/general/carenet/63567?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-07T19:00:00Z",
-      "published_label": "2026/09/08 04:00",
-      "summary": "日本皮膚科学会、日本臨床皮膚科医会、日本アレルギー友の会は2026年9月3日、3団体共同で「OTC類似薬の保険給付見直し案に関する共同声明」を発表した。声明はステロイド外用薬を「急性増悪時の短期使用薬」とす…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "セマグルチド使用後に食欲が戻ったと感じても摂取量は抑制される",
-      "link": "https://www.carenet.com/news/general/hdn/63436?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-07T19:00:00Z",
-      "published_label": "2026/09/08 04:00",
-      "summary": "肥満症に対してGLP-1受容体作動薬（GLP-1RA）であるセマグルチドによる治療を開始後、しばらくすると食欲が元に戻ったように感じることがあるが、少なくとも60週間は、実際の摂取エネルギー量が有意に少ない状態…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "Grokを使って自己分析をしてみよう！",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/aiaoshima/202609/594393.html",
       "source": "日経メディカル Online",
@@ -394,85 +528,6 @@
       "summary": "",
       "tags": [
         "安全性情報"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "石川県薬剤師会 研修会 2026/09",
-      "link": "https://www.yakuji.co.jp/entry138944.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T01:31:13Z",
-      "published_label": "2026/09/07 10:31",
-      "summary": "令和8年度 第6回 薬剤師PS講座プログレス(9月)研修会 今回は、がん薬物療法における副作用への対応をテーマに、地域で患者を支える薬剤師の役割を学びます。皮膚…",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "大阪医科薬科大学 研修会 2026/10",
-      "link": "https://www.yakuji.co.jp/entry138840.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T01:30:27Z",
-      "published_label": "2026/09/07 10:30",
-      "summary": "認知症サポーター養成講座 詳細はこちら 開催日時 2026年10月4日（日）13時00分～15時20分 開催場所 大阪医科薬科大学薬学部 阿武山キャンパス 講義…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "10月18～20日に「第23回DIA日本年会2026」開催 ディー・アイ・エー・ジャパン",
-      "link": "https://www.yakuji.co.jp/entry138964.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T01:00:20Z",
-      "published_label": "2026/09/07 10:00",
-      "summary": "「第23回DIA日本年会2026」が、2026年10月18日（日）-20日（火）に東京ビッグサイトで開催される。 第23回DIA日本年会2026は、大会長に国立…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "厚労省 稲角薬事企画官「現場から薬剤師像提案を」‐へき地の医薬品提供課題",
-      "link": "https://www.yakuji.co.jp/entry138978.html",
-      "source": "薬事日報",
-      "published": "2026-09-06T23:31:55Z",
-      "published_label": "2026/09/07 08:31",
-      "summary": "厚生労働省医薬局総務課の稲角嘉彦薬事企画官は、就任に当たって本紙の取材に応じ、薬局・薬剤師のあり方について「将来に向けて新たな薬剤師像を示すのは一つのアイデア…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【三浦政策統括官】電子カルテ認証制度推進‐電子処方箋普及と一体で",
-      "link": "https://www.yakuji.co.jp/entry138971.html",
-      "source": "薬事日報",
-      "published": "2026-09-06T23:30:19Z",
-      "published_label": "2026/09/07 08:30",
-      "summary": "厚生労働省の三浦明政策統括官（情報政策担当）は8月31日、専門紙と共同会見し、医療DXの推進に向け、電子処方箋の普及を電子カルテの認証制度と一体で進める考えを…",
-      "tags": [
-        "薬局経営",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】髪と同じ成分で洗うヘアケアブランド「Re：KERATIN（リ ケラチン）」、先行発売の売上が計画比210％と好調‐9月1日より順次全国で発売開始 ヴィークレア",
-      "link": "https://www.yakuji.co.jp/entry138961.html",
-      "source": "薬事日報",
-      "published": "2026-09-06T22:30:06Z",
-      "published_label": "2026/09/07 07:30",
-      "summary": "ヴィークレア（本社:東京都港区）は、同社が2026年4月より全国のウエルシアグループで先行発売しているヘアケアブランド「Re：KERATIN（リ ケラチン）」…",
-      "tags": [
-        "承認・新薬"
       ],
       "importance": 3,
       "keywords": []
@@ -1035,45 +1090,6 @@
       "keywords": []
     },
     {
-      "title": "メルク 国内３ラボ拠点を羽田イノベーションシティに集約 事業部間連携の緊密化で提供価値向上へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80801",
-      "source": "ミクスOnline",
-      "published": "2026-08-31T19:51:00Z",
-      "published_label": "2026/09/01 04:51",
-      "summary": "独メルクの日本法人は8月31日、日本のライフサイエンス・ビジネスのラボ機能の新拠点を羽田イノベーションシティ（東京都大田区）に設立すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "明治HD グループ創業110周年記念で歴代商品・資料を本社ビルに記念展示 27年3月31日まで",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80800",
-      "source": "ミクスOnline",
-      "published": "2026-08-31T19:50:00Z",
-      "published_label": "2026/09/01 04:50",
-      "summary": "明治ホールディングス（HD）は8月31日、明治グループ創業110周年を記念して、本社ビル（東京都中央区）1階エントランスホールで歴代商品や資料の記念展示を行うと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "バイエル薬品 非ステロイド型MR拮抗薬・ケレンディア CKD領域の適応拡大を承認申請",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80799",
-      "source": "ミクスOnline",
-      "published": "2026-08-31T19:50:00Z",
-      "published_label": "2026/09/01 04:50",
-      "summary": "バイエル薬品は８月28日、非ステロイド型選択的MR拮抗薬・ケレンディア（一般名：フィネレノン）について、慢性腎臓病（CKD）に係る適応拡大を承認申請したと発表した。",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "片頭痛に「プロプラノロール」ハイリスク算定は？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7744?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1090,19 +1106,6 @@
       "keywords": []
     },
     {
-      "title": "久坂部羊氏の小説をＴＶドラマ化「連続ドラマW MR –医薬情報担当者-」全配役公開 10月4日スタ...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80798",
-      "source": "ミクスOnline",
-      "published": "2026-08-30T22:05:00Z",
-      "published_label": "2026/08/31 07:05",
-      "summary": "医師で小説家の久坂部羊氏の小説をＴＶドラマ化した「連続ドラマW MR –医薬情報担当者-」が10月4日から、WOWOWにて放送・配信がスタートする。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "太る薬一覧―薬を飲んで体重が増えるのはなぜ？",
       "link": "https://yakuzaic.com/archives/144321",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -1113,32 +1116,6 @@
         "安全性情報"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "厚労省監麻課 25年度販売情報提供活動調査事業・報告書 ６医薬品で広告違反疑い 疑い事案は11項目",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80796",
-      "source": "ミクスOnline",
-      "published": "2026-08-30T19:53:00Z",
-      "published_label": "2026/08/31 04:53",
-      "summary": "厚労省医薬局監視指導・麻薬対策課長は8月28日、「2025年度医療用医薬品の販売情報提供活動調査事業」報告書を発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い",
-      "link": "https://yakuzaic.com/archives/144318",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-29T22:00:00Z",
-      "published_label": "2026/08/30 07:00",
-      "summary": "ステロイドの使い分け ステロイドの内服薬といえば、プレドニゾロンが最もよく使われる。 しかし、ステロイド薬にはプレドニゾロン以外にも、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンなどがある。 いずれも副腎皮質ステロイド […] The post 内服ステロイドの使い分け―プレドニゾロン、デキサメタゾン、ベタメタゾン、ヒドロコルチゾンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     }
   ]
