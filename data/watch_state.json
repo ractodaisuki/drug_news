@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-08T07:51:16.320894Z",
+  "updated_at": "2026-09-08T13:17:50.195686Z",
   "sites": {
     "https://pharmacist.m3.com/column::::li.m3p-column-list__item::a.m3-heading1::a.m3-heading1::.m3p-column-list__description::.m3p-column-list__tagwarap a": {
       "name": "m3.com 薬剤師コラム",
       "url": "https://pharmacist.m3.com/column",
       "tag": "薬剤師コラム",
-      "hash": "8a5227159bcfb0ac6c1c2e663512ca832b6ef68db52b622ef4f29489d5169c79",
-      "last_checked_at": "2026-09-08T07:51:14.916634Z",
-      "last_changed_at": "2026-09-08T07:51:14.916634Z"
+      "hash": "a697f6fe5c5f024a00a21f8fb6d4d48c6a5a22fe54d9796efc8e6eec4ffaaf31",
+      "last_checked_at": "2026-09-08T13:17:48.949909Z",
+      "last_changed_at": "2026-09-08T13:17:48.949909Z"
     }
   }
 }
