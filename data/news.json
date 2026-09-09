@@ -1,8 +1,25 @@
 {
-  "updated_at": "2026-09-09T02:57:03.698839Z",
-  "updated_label": "2026/09/09 11:57",
+  "updated_at": "2026-09-09T07:56:13.298050Z",
+  "updated_label": "2026/09/09 16:56",
   "count": 83,
   "items": [
+    {
+      "title": "OTC類似薬に別途負担が発生！対象医薬品と仕組み",
+      "link": "https://pharmacist.m3.com/column/dispensation_point/7789?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-09T07:56:12.280201Z",
+      "published_label": "2026/09/09 16:56",
+      "summary": "2027年3月から、OTC類似薬を使用する患者さんには、原則として別途の負担が発生する予定です。長期収載品の選定療養よりも仕組みが複雑なため、薬局で患者さんから説明を求められる機会が増えると考えられます。そこで今回は、どのような薬や患者さんに別途の負担が発生する可能性があるのかを解説します。",
+      "tags": [
+        "薬剤師コラム",
+        "調剤報酬改定",
+        "薬局経営",
+        "OTC類似薬",
+        "診療報酬改定"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "【製薬協調査】日本人治験なし品目増加‐通知で開発戦略に変化か",
       "link": "https://www.yakuji.co.jp/entry139057.html",
@@ -28,23 +45,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "OTC類似薬に別途負担が発生！対象医薬品と仕組み",
-      "link": "https://pharmacist.m3.com/column/dispensation_point/7789?promotionCode=op_pcolumn",
-      "source": "Web監視",
-      "published": "2026-09-08T23:10:33.944572Z",
-      "published_label": "2026/09/09 08:10",
-      "summary": "2027年3月から、OTC類似薬を使用する患者さんには、原則として別途の負担が発生する予定です。長期収載品の選定療養よりも仕組みが複雑なため、薬局で患者さんから説明を求められる機会が増えると考えられます。そこで今回は、どのような薬や患者さんに別途の負担が発生する可能性があるのかを解説します。",
-      "tags": [
-        "薬剤師コラム",
-        "調剤報酬改定",
-        "薬局経営",
-        "OTC類似薬",
-        "診療報酬改定"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
