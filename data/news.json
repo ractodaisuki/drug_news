@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-09-09T13:21:54.933385Z",
-  "updated_label": "2026/09/09 22:21",
+  "updated_at": "2026-09-09T18:17:24.172270Z",
+  "updated_label": "2026/09/10 03:17",
   "count": 81,
   "items": [
+    {
+      "title": "抗生物質にチョコはなぜ？服薬ゼリーの相性を比較",
+      "link": "https://pharmacist.m3.com/column/otc_noriko/7795?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-09T18:17:23.138705Z",
+      "published_label": "2026/09/10 03:17",
+      "summary": "抗生物質が「チョコ味のゼリーなら飲める」と言われる本当の理由をご存じですか。決め手はフレーバーではなく液性の特徴にあります。本記事ではシート状とゼリー状オブラートの基本的な違いからメーカーごとの成分・特徴まで徹底比較。患者の服薬アドヒアランス向上につながる最適な指導法が学べます。",
+      "tags": [
+        "薬剤師コラム",
+        "薬物療法・作用機序",
+        "服薬指導",
+        "OTC医薬品"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "9価HPVワクチンは日本の若い男性でも持続的な感染予防に有用",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/lancet/202609/594407.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-09T15:00:00Z",
+      "published_label": "2026/09/10 00:00",
+      "summary": "早川クリニック（大阪市中央区）の久本浩司氏らは、日本の16～26歳の男性を対象に、9価のヒトパピローマウイルス（9vHPV）ワクチンの有効性を評価する第3相臨床試験を行ったところ、ワクチンがカバーしているHPV型の肛門性器部への持続的な感染予防効果が見られ、有害事象は大半が軽度で懸念されるものはなかったと報告した。結果は2026年8月3日のLancet Infectious Disease誌電子版に掲載された。9vHPVワクチンがカバ…",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "OTC類似薬に別途負担が発生！対象医薬品と仕組み",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7789?promotionCode=op_pcolumn",
@@ -650,32 +680,6 @@
         "薬局経営"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "新規GLP-1経口薬zenagamtide、P2の詳細判明",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/lancet/202609/594382.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-06T15:00:00Z",
-      "published_label": "2026/09/07 00:00",
-      "summary": "デンマーク・ノボノルディスク社が開発する新規グルカゴン様ペプチド（GLP）-1受容体作動薬であるzenagamtide（旧称amycretin）に関して、2型糖尿病を対象とした用量設定第2相臨床試験の結果が、The Lancet誌8月15日号に掲載された。36週の経口投与におけるベースラインからのHbA1cの変化量は最大用量群で－1.4％ポイントであり、プラセボ群に比べ1.09％ポイント低下した。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬局実習、薬学生指導のポイントは【第4週目】",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/practicenavi/202609/594426.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-06T15:00:00Z",
-      "published_label": "2026/09/07 00:00",
-      "summary": "本連載では、2026年度第3期の実習日に合わせて、指導薬剤師が押さえておきたい「指導のポイント」を毎週月曜日に公開。さらに、その週に学んだ内容を学生がどれくらい理解しているかチェックできる「理解度チェック問題」を1問、薬剤師国家試験の過去問より出題します。解答・解説は、メディックメディアが提供します。メディックメディアの過去問演習サービス「QB薬剤師国試」を利用すれば、実習に関連した毎週20問前後の過去問にも挑戦できます。（※ご利⽤に…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
