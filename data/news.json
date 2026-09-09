@@ -1,8 +1,128 @@
 {
-  "updated_at": "2026-09-09T18:17:24.172270Z",
-  "updated_label": "2026/09/10 03:17",
+  "updated_at": "2026-09-09T22:53:55.194152Z",
+  "updated_label": "2026/09/10 07:53",
   "count": 81,
   "items": [
+    {
+      "title": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット",
+      "link": "https://yakuzaic.com/archives/144425",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-09T22:00:00Z",
+      "published_label": "2026/09/10 07:00",
+      "summary": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット 「男性ホルモン作用」と聞くと、どのようなイメージを持つでしょうか。 ニキビ、多毛、脂性肌、薄毛……。 特に女性に使われるホルモン製剤について調べていると、 […] The post 男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【安全技術調査会】輸血歴有の献血制限見直し-来年度に運用開始目指す",
+      "link": "https://www.yakuji.co.jp/entry139065.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T21:31:37Z",
+      "published_label": "2026/09/10 06:31",
+      "summary": "薬事審議会血液事業部会安全技術調査会は2日、輸血歴を有する人を一律に恒久的な献血制限の対象としている現行運用について、見直しに向けた検討を進める方針を了承した…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "中医協 OTC類似薬の一部保険外療養創設で処方箋上に「一部保険外療養」欄追加へ 上野厚労相が諮問",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80847",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T21:03:00Z",
+      "published_label": "2026/09/10 06:03",
+      "summary": "中医協は９月９日、OTC類似薬の一部保険外療養創設をめぐり、これに伴う療養担当規則等の見直しについて、上野厚労相から諮問を受けた。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "中医協費用対効果評価専門部会 厚労科研の検証で専門組織の決定は「一定の妥当性」も透明性に課題も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80846",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T21:01:00Z",
+      "published_label": "2026/09/10 06:01",
+      "summary": "中医協費用対効果評価専門部会は９月９日、厚生労働科学研究班の費用対効果評価制度における検証のための会議の議論のとりまとめについて報告を受けた。",
+      "tags": [
+        "薬価・制度",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "中医協 薬担規則の見直しを答申 処方箋・調剤録の保存期間を３年間から５年間に延長",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80848",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T21:00:00Z",
+      "published_label": "2026/09/10 06:00",
+      "summary": "中医協は９月９日、上野厚労相からの諮問を受け、薬機法等改正に伴う保険薬局及び保険薬剤師療養担当規則（薬担規則）等の所要の見直しについて答申した。",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【中医協費用対効果評価専門部会 ９月９日 議事要旨 費用対効果評価制度における検証等の報告】",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80845",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T19:51:00Z",
+      "published_label": "2026/09/10 04:51",
+      "summary": "中医協費用対効果評価専門部会が９月９日に開かれ、医薬品等の費用対効果評価制度における検証のための会議から取りまとめの報告を受け、議論した。本誌は、診療・支払各側の発言内容を議事要旨として公開する。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【中医協総会 ９月９日 議事要旨 OTC類似薬の保険給付の見直し 薬機法等改正に伴う保険薬局及び保険...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80844",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T19:51:00Z",
+      "published_label": "2026/09/10 04:51",
+      "summary": "中医協総会は９月９日、OTC類似薬の保険給付の見直しについて議論した。本誌は診療・支払各側の質疑について議事要旨として公開する。",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "ニプロ ステラーラ点滴静注のBS 11月収載日に即日発売へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80841",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T19:50:00Z",
+      "published_label": "2026/09/10 04:50",
+      "summary": "ニプロは、ウステキヌマブBS点滴静注130mg「ニプロ」について、11月に予定されている薬価基準収載日に即日発売する予定だ。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "積水メディカル 入院・通院中の子どもたちに「検査のひみつ」学べる体験教室を実施",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80834",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T19:50:00Z",
+      "published_label": "2026/09/10 04:50",
+      "summary": "積水メディカルは、神奈川県立こども医療センターに入院・通院中の子どもやそのきょうだい、家族を対象とした理科教室を開催した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "抗生物質にチョコはなぜ？服薬ゼリーの相性を比較",
       "link": "https://pharmacist.m3.com/column/otc_noriko/7795?promotionCode=op_pcolumn",
@@ -390,19 +510,6 @@
       "published": "2026-09-08T05:30:08Z",
       "published_label": "2026/09/08 14:30",
       "summary": "米食品医薬品局（FDA）は8月28日、既存治療で十分なコントロールが得られていない真性多血症の成人患者に対する新たな治療薬として、Mimrylo（一般名：ru…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【独メルク】東京羽田に国内ラボ集約へ‐製造プロセス開発を支援",
-      "link": "https://www.yakuji.co.jp/entry138968.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T23:31:07Z",
-      "published_label": "2026/09/08 08:31",
-      "summary": "独メルクは8月31日、日本で製造プロセス開発支援などを行うライフサイエンス・ビジネスのラボ機能を羽田空港に隣接する羽田イノベーションシティに新たに設立すると発…",
       "tags": [
         "その他"
       ],
@@ -961,71 +1068,6 @@
       "keywords": []
     },
     {
-      "title": "トランプ大統領 MFNに9社合意 「我々より安い価格があれば、それに合わせる」日本含む参照国を牽制",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80811",
-      "source": "ミクスOnline",
-      "published": "2026-09-01T19:52:00Z",
-      "published_label": "2026/09/02 04:52",
-      "summary": "トランプ米大統領は8月31日（現地時間）、アステラス製薬や協和キリンなど製薬企業9社と最恵国待遇（MFN）価格政策で合意した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "AMED 米ボストンにAMED Global Hubを開設 ベンチャー支援やVC・現地企業との関係構...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80808",
-      "source": "ミクスOnline",
-      "published": "2026-09-01T19:51:00Z",
-      "published_label": "2026/09/02 04:51",
-      "summary": "日本医療研究開発機構（AMED）は9月1日、米国ボストンにAMED Global Hub（Boston）を開設し、活動を開始したと発表した。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "小野薬品 フォシーガ共同販売終了で組織改編 プライマリーからスペシャリティに変更 営業体制も刷新",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80810",
-      "source": "ミクスOnline",
-      "published": "2026-09-01T19:50:00Z",
-      "published_label": "2026/09/02 04:50",
-      "summary": "小野薬品は９月１日、開発本部、営業本部、メディカルアフェアーズ統括部内の組織名称を「プライマリー」から「スペシャリティ」に変更すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "科研製薬 重点製品の戦略立案・推進担う「事業戦略部」新設 研開企画部は改編 10月１日付",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80807",
-      "source": "ミクスOnline",
-      "published": "2026-09-01T19:49:00Z",
-      "published_label": "2026/09/02 04:49",
-      "summary": "科研製薬は９月１日、重点製品の戦略立案や推進を担う専門組織として「事業戦略部」の新設などを含めた組織変更を発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "トランプ大統領 MFN価格政策にアステラス製薬、協和キリンなど9社合意 国内企業では初 総数26社に",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80804",
-      "source": "ミクスOnline",
-      "published": "2026-09-01T02:50:00Z",
-      "published_label": "2026/09/01 11:50",
-      "summary": "トランプ米大統領は8月31日（現地時間）、アルコン、アステラス製薬、ビーワン・メディシンズ、ブリッジバイオ、CSL、協和キリン、サンファーマ、テバ・ファーマシューティカルズ、UCBの9社と最恵国待遇（MFN）価格制度で合意したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "SOAPを埋めるなら薬剤師らしいA（アセスメント）を書こう",
       "link": "https://pharmacist.m3.com/column/yakureki/7746?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1055,33 +1097,6 @@
       "keywords": []
     },
     {
-      "title": "ＣＭ好感度ランキング 富士フイルムの先端技術に支持集まる 参天製薬は人気キャラと子どもの近視啓発",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80803",
-      "source": "ミクスOnline",
-      "published": "2026-08-31T19:55:00Z",
-      "published_label": "2026/09/01 04:55",
-      "summary": "ミクス編集部がまとめた「製薬企業ＣＭ好感度ランキング・2026年４―６月期」（協力：ＣＭ総合研究所）で、医療を支える先端技術にフォーカスした富士フイルムのＣＭシリーズが企業イメージ部門でトップに輝いた。",
-      "tags": [
-        "業界動向",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "三井不動産 総額70億円のライフサイエンス特化型CVCファンド新設 スタートアップを一気通貫で支援",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80802",
-      "source": "ミクスOnline",
-      "published": "2026-08-31T19:52:00Z",
-      "published_label": "2026/09/01 04:52",
-      "summary": "三井不動産は８月31日、アクシル・キャピタル・グループと共同で総額70億円のライフサイエンス領域に特化したCVCファンド「三井リンクファンド」を新設したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "片頭痛に「プロプラノロール」ハイリスク算定は？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7744?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1093,19 +1108,6 @@
         "調剤報酬改定",
         "医療クイズ",
         "診療報酬改定"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "太る薬一覧―薬を飲んで体重が増えるのはなぜ？",
-      "link": "https://yakuzaic.com/archives/144321",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-30T22:00:00Z",
-      "published_label": "2026/08/31 07:00",
-      "summary": "太る薬 「この薬を飲み始めてから太った気がする」 患者さんから、このように言われることがある。 薬の副作用というと、眠気、便秘、吐き気などを思い浮かべるが、「体重増加」も薬によって起こり得る副作用の一つである。 体重増加 […] The post 太る薬一覧―薬を飲んで体重が増えるのはなぜ？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報"
       ],
       "importance": 4,
       "keywords": []
