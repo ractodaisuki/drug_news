@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-09-08T23:10:35.067429Z",
-  "updated_label": "2026/09/09 08:10",
-  "count": 82,
+  "updated_at": "2026-09-09T02:57:03.698839Z",
+  "updated_label": "2026/09/09 11:57",
+  "count": 83,
   "items": [
+    {
+      "title": "【製薬協調査】日本人治験なし品目増加‐通知で開発戦略に変化か",
+      "link": "https://www.yakuji.co.jp/entry139057.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T23:31:30Z",
+      "published_label": "2026/09/09 08:31",
+      "summary": "グローバル開発品目のうち、第II相試験以降の国際共同治験に日本が参画しない成人対象品目で海外治験データのみを用いて日本人データを説明した品目が1割超に上ること…",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【帝京平成大薬学部】27年度から地域枠新設‐全国21県で42人を募集",
+      "link": "https://www.yakuji.co.jp/entry139064.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T23:30:38Z",
+      "published_label": "2026/09/09 08:30",
+      "summary": "帝京平成大学薬学部は2027年度から特定の地域出身者を対象とした「薬学部地域枠制度」を新設する。全国21県を対象としており、募集人員は42人。入学者は6年間で…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "OTC類似薬に別途負担が発生！対象医薬品と仕組み",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7789?promotionCode=op_pcolumn",
@@ -18,6 +45,110 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【日立製作所】Nokia ECE製ドローンの国内初の販売権取得‐自動飛行・遠隔運用に強み",
+      "link": "https://www.yakuji.co.jp/entry139121.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T22:37:05Z",
+      "published_label": "2026/09/09 07:37",
+      "summary": "日立製作所はこのほど、Nokia Corporationの事業部門であるEnterprise Campus Edge Solutions（Nokia ECE）…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【パラマウントベッド】中学生向け睡眠教育プログラム、全国の中学生1万人に無料提供へ",
+      "link": "https://www.yakuji.co.jp/entry139119.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T22:36:02Z",
+      "published_label": "2026/09/09 07:36",
+      "summary": "パラマウントベッドはこのほど、2026年度の「中学生が睡眠の大切さを学ぶ教育プログラム」（教材）を、全国の中学生1万人に無料提供すると発表した。 同教材のタ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "オリンパスのグローバル本社、第39回日経ニューオフィス賞「ニューオフィス推進賞」を受賞",
+      "link": "https://www.yakuji.co.jp/entry139117.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T22:35:07Z",
+      "published_label": "2026/09/09 07:35",
+      "summary": "オリンパスは9月7日、東京地区の業務機能を集約・統合して立ち上げた八王子市にある「グローバル本社」が、一般社団法人ニューオフィス推進協会（NOPA）および日本…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【西川】「秋の睡眠の日」に『460周年特設サイト』公開",
+      "link": "https://www.yakuji.co.jp/entry139114.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T22:34:15Z",
+      "published_label": "2026/09/09 07:34",
+      "summary": "西川（nishikawa）は9月3日、1566年の創業から460周年の節目として、「秋の睡眠の日」に「460周年特設サイト」（https://www.nish…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【西川の日本睡眠科学研究所】カネカの機能性表示食品、科学的根拠に基づき推奨商品に認定",
+      "link": "https://www.yakuji.co.jp/entry139109.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T22:33:29Z",
+      "published_label": "2026/09/09 07:33",
+      "summary": "西川の睡眠研究機関「日本睡眠科学研究所」はこのほど、科学的エビデンスに基づく厳格な評価を経て、カネカが発売する機能性表示食品「わたしのチカラ Q10 ヨーグル…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【NISSHA】「メディカルクリエーションふくしま」に出展",
+      "link": "https://www.yakuji.co.jp/entry139108.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T22:32:52Z",
+      "published_label": "2026/09/09 07:32",
+      "summary": "NISSHAは10月1～2日、福島県郡山市のビッグパレットふくしまで開催される「メディカルクリエーションふくしま2026」に出展する。 同展示会は、福島県が…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【コニカミノルタジャパン】多言語通訳サービス「KOTOBAL」、「防災放送」機能を追加",
+      "link": "https://www.yakuji.co.jp/entry139105.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T22:31:17Z",
+      "published_label": "2026/09/09 07:31",
+      "summary": "コニカミノルタジャパンはこのほど、9月1日の「防災の日」に合わせ、外国人や障がい者などの多様な人々を受け入れ、共生する社会の実現を目指す多言語通訳サービス「K…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「メイクプロポーション ウルトラキープアイライナー」、LDK the Beauty2026年上半期ベストコスメ1位受賞 ウィルミナ",
+      "link": "https://www.yakuji.co.jp/entry139079.html",
+      "source": "薬事日報",
+      "published": "2026-09-08T22:30:35Z",
+      "published_label": "2026/09/09 07:30",
+      "summary": "ウィルミナが展開するメイクブランド「メイクプロポーション」の「ウルトラキープアイライナー ソフトブラウン」が、テストする美容誌『LDK the Beauty』…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -181,6 +312,19 @@
       "keywords": []
     },
     {
+      "title": "薬剤師・薬局概算要求は38億円で前年比約6倍、臨床研修に10億円",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594451.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-08T15:00:00Z",
+      "published_label": "2026/09/09 00:00",
+      "summary": "厚生労働省医薬局総務課は、2026年8月末に公表した2027年度厚労省予算概算要求のうち、薬剤師・薬局関係概算要求の概要を明らかにしました。概算要求額は38億6200万円で、2026年度予算額の6億3000万円から約6倍となりました。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "シルバーウィークの新薬処方、日数制限は？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7788?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -262,116 +406,12 @@
       "keywords": []
     },
     {
-      "title": "【RAPS】RAPS Japan LNG設立、11月にキックオフイベント",
-      "link": "https://www.yakuji.co.jp/entry139018.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T22:35:11Z",
-      "published_label": "2026/09/08 07:35",
-      "summary": "米国に本部を置く世界最大級の薬事・規制専門家の非営利団体Regulatory Affairs Professionals Society（RAPS）の日本にお…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【積水メディカル】KCMCへ入院中の家族へ理科教室",
-      "link": "https://www.yakuji.co.jp/entry139017.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T22:34:35Z",
-      "published_label": "2026/09/08 07:34",
-      "summary": "積水メディカルは9月7日、横浜市六ツ川にある神奈川県立こども医療センター（KCMC）に入院・通院中の患児の兄弟と家族に向け、「検査のひみつをのぞいてみよう」を…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】インドネシアでのマングローブ植林活動拡大",
-      "link": "https://www.yakuji.co.jp/entry139013.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T22:33:04Z",
-      "published_label": "2026/09/08 07:33",
-      "summary": "パラマウントベッドはこのほど、インドネシア共和国西ヌサ・テンガラ州で実施しているマングローブ植林活動「PBマングローブの森」の規模を拡大すると発表した。 こ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「ラピッドチップBNP-II」を発売‐全血・血漿から約10分でBNP濃度測定 アークレイ",
-      "link": "https://www.yakuji.co.jp/entry139012.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T22:32:34Z",
-      "published_label": "2026/09/08 07:32",
-      "summary": "アークレイは9月7日、ヒト脳性ナトリウム利尿ペプチド（BNP）を測定する体外診断用医薬品「ラピッドチップBNP-II」を発売した。 同製品は、EDTA-2N…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【オムロン】オムロン京都太陽の社員2人、京都府の「障害者優良勤労者知事表彰」受賞",
-      "link": "https://www.yakuji.co.jp/entry139010.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T22:31:40Z",
-      "published_label": "2026/09/08 07:31",
-      "summary": "オムロンはこのほど、同社の特例子会社であるオムロン京都太陽の社員、平田智弘氏と往安徳和氏が9月3日、京都府「障害者優良勤労者知事表彰」を受賞したと発表した。同…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【オムロンHC】第48回日本高血圧学会総会に協賛",
-      "link": "https://www.yakuji.co.jp/entry139009.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T22:30:07Z",
-      "published_label": "2026/09/08 07:30",
-      "summary": "オムロンヘルスケア（オムロンHC）は10月10～12日、宇都宮市のライトキューブ宇都宮で、「新時代のネットワーク高血圧学―時空間をつなぐ次世代医療へ」をテーマ…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」",
       "link": "https://yakuzaic.com/archives/144414",
       "source": "くすりの勉強（薬剤師のブログ）",
       "published": "2026-09-07T22:00:00Z",
       "published_label": "2026/09/08 07:00",
       "summary": "骨粗鬆症治療薬は骨を作る？骨が壊れるのを防ぐ？ 骨粗鬆症治療薬には、ビスホスホネート製剤、SERM、デノスマブ、テリパラチド、ロモソズマブ、活性型ビタミンD₃製剤など、さまざまな薬があります。 薬の名前だけを覚えていると […] The post 骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【宮崎保険局長】薬局の声聞き早期成案へ‐十分な準備期間確保を強調",
-      "link": "https://www.yakuji.co.jp/entry138980.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T21:31:14Z",
-      "published_label": "2026/09/08 06:31",
-      "summary": "厚生労働省の宮崎敦文保険局長は2日、専門紙と共同会見し、来年3月開始予定の一部保険外療養制度をめぐる医療機関・薬局の実務負担への対応について、「十分な周知・準…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【経産省 27年度概算要求】医療・健康推進に1837億円‐国内創薬基盤を強化",
-      "link": "https://www.yakuji.co.jp/entry138977.html",
-      "source": "薬事日報",
-      "published": "2026-09-07T21:30:45Z",
-      "published_label": "2026/09/08 06:30",
-      "summary": "経済産業省の2027年度概算要求は7兆7859億円を計上し、このうち「強く豊かな日本投資枠」は6兆3116億円、同投資枠以外の一般会計は4532億円となった。…",
       "tags": [
         "その他"
       ],
@@ -665,19 +705,6 @@
       "keywords": []
     },
     {
-      "title": "58の自治体病院が「外科医療確保特別加算」を算定、手当支給率は「30～40％」が4分の3占める",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t358/202609/594452.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-06T15:00:00Z",
-      "published_label": "2026/09/07 00:00",
-      "summary": "2026年9月3日、全国自治体病院協議会は記者会見を開き、会長の望月泉氏が、2026年度診療報酬改定で新設された「外科医療確保特別加算」と「地域医療体制確保加算2」に関するアンケート結果を報告した。このうち、「外科医療確保特別加算」については58病院が算定もしくは算定予定だった。同加算では、得られた加算分の30％以上に相当する額を対象医師に還元することが求められており、回答病院の4分の3が「30～40％」に設定していたことも分かった。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "薬剤師が創薬の道に進むために必要なこととは",
       "link": "https://pharmacist.m3.com/column/company_tensyoku/7782?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -732,19 +759,6 @@
         "薬価・制度"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "DPP-4阻害薬はシタグリプチンが変わらずの首位",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202609/594399.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-04T15:00:00Z",
-      "published_label": "2026/09/05 00:00",
-      "summary": "日経メディカル Onlineの医師会員を対象に、DPP-4阻害薬のうち最も処方頻度の高いものを聞いたところ、37.2％の医師がシタグリプチンリン酸塩水和物（商品名グラクティブ、ジャヌビア）と回答した。 第2位のリナグリプチン（トラゼンタ）は22.8％、第3位のテネリグリプチン臭化水素酸塩水和物（テネリア）は11.9％の医師が最も処方頻度の高い薬剤として選んだ。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
