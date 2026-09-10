@@ -1,8 +1,279 @@
 {
-  "updated_at": "2026-09-10T18:03:38.733004Z",
-  "updated_label": "2026/09/11 03:03",
-  "count": 84,
+  "updated_at": "2026-09-10T22:55:30.146318Z",
+  "updated_label": "2026/09/11 07:55",
+  "count": 87,
   "items": [
+    {
+      "title": "SGLT2阻害薬のフォローアップ：トレーシング文例付！",
+      "link": "https://pharmacist.m3.com/column/diabetes_sideeffects/7797?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-10T22:55:28.856514Z",
+      "published_label": "2026/09/11 07:55",
+      "summary": "糖尿病治療薬の作用機序は説明ができても、「患者さんに何を聞き、どうフォローするか」に迷っていませんか？本連載では糖尿病治療薬（SGLT2 阻害薬、メトホルミン、GLP-1受容体作動薬、DPP-4 阻害薬、SU 薬など）の薬剤特性と副作用メカニズムを整理。明日からそのまま使える「服薬指導の問いかけフレーズ」「電話フォロー手順」「トレーシングレポート文例」まで、糖尿病薬エキスパートの阿部先生がわかりやすく解説します。",
+      "tags": [
+        "薬剤師コラム",
+        "糖尿病",
+        "薬物療法・作用機序",
+        "服薬指導",
+        "医療過誤・ヒヤリハット"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？",
+      "link": "https://yakuzaic.com/archives/144430",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-10T22:00:00Z",
+      "published_label": "2026/09/11 07:00",
+      "summary": "薬のアレルギー 薬によるアレルギーというと、「薬を飲んだ直後に蕁麻疹が出る」「注射した直後に息苦しくなってショックを起こす」といったイメージが強い。 確かにアナフィラキシーは、原因となる薬剤を使用してから短時間で起こるこ […] The post 薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報",
+        "感染症・ワクチン"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【中医協総会】処方箋に一部保険外療養欄‐OTC類似薬制度創設で",
+      "link": "https://www.yakuji.co.jp/entry139241.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:33:37Z",
+      "published_label": "2026/09/11 06:33",
+      "summary": "厚生労働省は、OTC類似薬の一部保険外療養制度の創設に伴う療養担当規則等の見直し案を9日の中央社会保険医療協議会に示した。対象となるOTC類似薬について、別途…",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "製販業者の出席機会増を‐費用対効果評価検証で最終案",
+      "link": "https://www.yakuji.co.jp/entry139245.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:32:41Z",
+      "published_label": "2026/09/11 06:32",
+      "summary": "中央社会保険医療協議会費用対効果評価専門部会は9日、「医薬品等の費用対効果評価制度における検証のための会議」の議論の取りまとめを公表した。費用対効果評価制度改…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "創薬の重要施策化を評価‐日薬連安川会長、来年度概算要求で声明",
+      "link": "https://www.yakuji.co.jp/entry139244.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:31:19Z",
+      "published_label": "2026/09/11 06:31",
+      "summary": "日本製薬団体連合会の安川健司会長は7日、政府の来年度予算概算要求についてコメントを発表し、「長年続いてきた過度な緊縮志向や未来への投資不足の流れを断ち切り、『…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【森光健康・生活衛生局長】「攻めの予防医療」具体化‐女性健康はデータ整備へ",
+      "link": "https://www.yakuji.co.jp/entry139242.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:30:08Z",
+      "published_label": "2026/09/11 06:30",
+      "summary": "厚生労働省の森光敬子健康・生活衛生局長は専門紙との共同会見で、癌などの疾病対策に向け、「攻めの予防医療プランを具体化し、職域との連携を進めていきたい」と抱負を…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "傅氏が米本社へ異動 バイオジェン",
+      "link": "https://www.yakuji.co.jp/entry139233.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:07:18Z",
+      "published_label": "2026/09/11 06:07",
+      "summary": "バイオジェン・ジャパンは、傳幸諭社長が米本社に異動すると発表した。10月1日付で、チーフ・オブ・スタッフ（Chief of Staff to the CEO）…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "今川氏が新社長就任へ‐渡辺氏は会長に異動 メディパルホールディングス",
+      "link": "https://www.yakuji.co.jp/entry139229.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:06:41Z",
+      "published_label": "2026/09/11 06:06",
+      "summary": "メディパルホールディングスは8日の指名委員会と取締役会で、10月1日付で渡辺秀一代表取締役社長が代表取締役会長へ、代表取締役社長には今川国明常務取締役医薬事業…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "介護事業2社を統合 ウエルシアホールディングスグループ",
+      "link": "https://www.yakuji.co.jp/entry139228.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:04:55Z",
+      "published_label": "2026/09/11 06:04",
+      "summary": "ウエルシアホールディングスグループのウエルシアパートナーズは1日付で、ウエルシア介護サービスと経営統合し、新たな体制でスタートした。 ウエルシアHDは今回、…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】鉄分を基準最大量配合‐「アルフェリッチFE」発売 大正製薬",
+      "link": "https://www.yakuji.co.jp/entry139226.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:03:49Z",
+      "published_label": "2026/09/11 06:03",
+      "summary": "大正製薬は、鉄分ニーズの高まりや女性の健康課題への関心拡大を背景に、アルフェブランドから「アルフェリッチFE」（指定医薬部外品）を発売した。何となく体調が優れ…",
+      "tags": [
+        "業界動向",
+        "承認・新薬"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "医療を止めない薬価改定論議を",
+      "link": "https://www.yakuji.co.jp/entry139215.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:02:37Z",
+      "published_label": "2026/09/11 06:02",
+      "summary": "来年度の薬価中間年改定論議が始まった。物価などインフレ局面にあって、デフレ下の仕組みである薬価引き下げありきの議論では、薬物治療は止まりかねない。薬価制度は薬…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "無駄な研究はない",
+      "link": "https://www.yakuji.co.jp/entry139214.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T21:01:44Z",
+      "published_label": "2026/09/11 06:01",
+      "summary": "◆今年のイグノーベル賞受賞者が発表された。日本からは、旭川医科大学の故海野徳二名誉教授が約半世紀前に発表した鼻のかみ方に関する気体動力学的研究が受賞した。これで…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "製薬協・木下理事長 10月から一般社団法人化「国内外の医療・薬価政策に機動的対応」事業戦略本部が軸",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80859",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:53:00Z",
+      "published_label": "2026/09/11 04:53",
+      "summary": "日本製薬工業協会（製薬協）の木下賢志理事長は9月10日、大阪市内で開催した製薬協総会後の記者会見で、10月から本格活動する一般社団法人化について、「単なる任意団体から法人への形式変更にとどめず、国内外の医療・薬価政策の変化や委員会単独では対応し切れない課題をより深く検討するための基盤にしたい」と説明した。",
+      "tags": [
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "科研製薬 フィブラストスプレーの美容目的の適応外使用で注意喚起 健康被害も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80857",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:52:00Z",
+      "published_label": "2026/09/11 04:52",
+      "summary": "科研製薬は９月10日、褥瘡・皮膚潰瘍治療用の外用薬・フィブラストスプレー（一般名：トラフェルミン（遺伝子組換え））について、しわ取りなどの美容目的で皮下注入する適応外使用が確認されているとして、医療機関及び医療関係者に適正使用を求めた。",
+      "tags": [
+        "安全性情報",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "武田薬品 取締役R＆Dプレジデントのアンドリュー・プランプ氏が退任へ 27年6月の定時株主総会まで",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80854",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:51:00Z",
+      "published_label": "2026/09/11 04:51",
+      "summary": "武田薬品は9月10日、取締役リサーチ＆デベロップメント プレジデントのアンドリュー・プランプ氏（M.D., Ph.D.）が退任予定だと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "東京医薬品卸業協会・創立70周年 福神理事長 設立当初の思い受け継ぐ「国民のため医薬品を安定供給」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80855",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:50:00Z",
+      "published_label": "2026/09/11 04:50",
+      "summary": "東京医薬品卸業協会は９月10日、東京都内で創立70周年記念式典を開催した。",
+      "tags": [
+        "供給・出荷",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "楽天メディカル 副会長に元武田・ウェバー氏が就任 取締役には元第一三共・竹下健一氏 米国事業強化へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80852",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:50:00Z",
+      "published_label": "2026/09/11 04:50",
+      "summary": "楽天メディカルは９月10日、武田薬品で社長兼CEOを務めたクリストフ・ウェバー氏が取締役副会長に、第一三共でグローバル研究開発ヘッドを務めた竹下健一氏が取締役に就任したと発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "UAゼンセン 定期大会で医療産業政策を策定 医療従事者の人材確保に向けて処遇改善推進",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80850",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:49:00Z",
+      "published_label": "2026/09/11 04:49",
+      "summary": "UAゼンセンは9月10日の定期大会（東京都内開催）で、医療従事者の人材確保や処遇改善への取り組みなどを盛り込んだ「医療産業政策」を策定した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ラスカー・ドゥベーキー臨床医学研究賞 中外製薬の3研究者が受賞 ヘムライブラの創製を主導",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80853",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:48:00Z",
+      "published_label": "2026/09/11 04:48",
+      "summary": "世界的に権威のある科学賞「ラスカー・ドゥベーキー臨床医学研究賞」に、中外製薬で血友病A治療薬ヘムライブラ (一般名:エミシズマブ)の創製を主導した、同社の元シニアフェローの服部有宏氏、研究本部副本部長の北沢剛久氏、 研究本部長の井川智之氏の３人が選ばれた。",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プロ・バンサイン供給停止、オーグメンチン通常出荷へ",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202609/594471.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-10T15:00:00Z",
+      "published_label": "2026/09/11 00:00",
+      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年8月23〜9月5日のランキングです。",
+      "tags": [
+        "供給・出荷"
+      ],
+      "importance": 5,
+      "keywords": []
+    },
     {
       "title": "既存治療で効果不十分な慢性特発性蕁麻疹に初の経口BTK阻害薬",
       "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202609/594491.html",
@@ -353,137 +624,6 @@
         "診療報酬改定"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【製薬協調査】日本人治験なし品目増加‐通知で開発戦略に変化か",
-      "link": "https://www.yakuji.co.jp/entry139057.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T23:31:30Z",
-      "published_label": "2026/09/09 08:31",
-      "summary": "グローバル開発品目のうち、第II相試験以降の国際共同治験に日本が参画しない成人対象品目で海外治験データのみを用いて日本人データを説明した品目が1割超に上ること…",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【帝京平成大薬学部】27年度から地域枠新設‐全国21県で42人を募集",
-      "link": "https://www.yakuji.co.jp/entry139064.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T23:30:38Z",
-      "published_label": "2026/09/09 08:30",
-      "summary": "帝京平成大学薬学部は2027年度から特定の地域出身者を対象とした「薬学部地域枠制度」を新設する。全国21県を対象としており、募集人員は42人。入学者は6年間で…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日立製作所】Nokia ECE製ドローンの国内初の販売権取得‐自動飛行・遠隔運用に強み",
-      "link": "https://www.yakuji.co.jp/entry139121.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T22:37:05Z",
-      "published_label": "2026/09/09 07:37",
-      "summary": "日立製作所はこのほど、Nokia Corporationの事業部門であるEnterprise Campus Edge Solutions（Nokia ECE）…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】中学生向け睡眠教育プログラム、全国の中学生1万人に無料提供へ",
-      "link": "https://www.yakuji.co.jp/entry139119.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T22:36:02Z",
-      "published_label": "2026/09/09 07:36",
-      "summary": "パラマウントベッドはこのほど、2026年度の「中学生が睡眠の大切さを学ぶ教育プログラム」（教材）を、全国の中学生1万人に無料提供すると発表した。 同教材のタ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "オリンパスのグローバル本社、第39回日経ニューオフィス賞「ニューオフィス推進賞」を受賞",
-      "link": "https://www.yakuji.co.jp/entry139117.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T22:35:07Z",
-      "published_label": "2026/09/09 07:35",
-      "summary": "オリンパスは9月7日、東京地区の業務機能を集約・統合して立ち上げた八王子市にある「グローバル本社」が、一般社団法人ニューオフィス推進協会（NOPA）および日本…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【西川】「秋の睡眠の日」に『460周年特設サイト』公開",
-      "link": "https://www.yakuji.co.jp/entry139114.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T22:34:15Z",
-      "published_label": "2026/09/09 07:34",
-      "summary": "西川（nishikawa）は9月3日、1566年の創業から460周年の節目として、「秋の睡眠の日」に「460周年特設サイト」（https://www.nish…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【西川の日本睡眠科学研究所】カネカの機能性表示食品、科学的根拠に基づき推奨商品に認定",
-      "link": "https://www.yakuji.co.jp/entry139109.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T22:33:29Z",
-      "published_label": "2026/09/09 07:33",
-      "summary": "西川の睡眠研究機関「日本睡眠科学研究所」はこのほど、科学的エビデンスに基づく厳格な評価を経て、カネカが発売する機能性表示食品「わたしのチカラ Q10 ヨーグル…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【NISSHA】「メディカルクリエーションふくしま」に出展",
-      "link": "https://www.yakuji.co.jp/entry139108.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T22:32:52Z",
-      "published_label": "2026/09/09 07:32",
-      "summary": "NISSHAは10月1～2日、福島県郡山市のビッグパレットふくしまで開催される「メディカルクリエーションふくしま2026」に出展する。 同展示会は、福島県が…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【コニカミノルタジャパン】多言語通訳サービス「KOTOBAL」、「防災放送」機能を追加",
-      "link": "https://www.yakuji.co.jp/entry139105.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T22:31:17Z",
-      "published_label": "2026/09/09 07:31",
-      "summary": "コニカミノルタジャパンはこのほど、9月1日の「防災の日」に合わせ、外国人や障がい者などの多様な人々を受け入れ、共生する社会の実現を目指す多言語通訳サービス「K…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "「メイクプロポーション ウルトラキープアイライナー」、LDK the Beauty2026年上半期ベストコスメ1位受賞 ウィルミナ",
-      "link": "https://www.yakuji.co.jp/entry139079.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T22:30:35Z",
-      "published_label": "2026/09/09 07:30",
-      "summary": "ウィルミナが展開するメイクブランド「メイクプロポーション」の「ウルトラキープアイライナー ソフトブラウン」が、テストする美容誌『LDK the Beauty』…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -967,32 +1107,6 @@
       "keywords": []
     },
     {
-      "title": "インタラクティブソリューションズ AI対話自主トレアプリに提案資料の提示機能 難易度高い面談を想定",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80820",
-      "source": "ミクスOnline",
-      "published": "2026-09-03T19:50:00Z",
-      "published_label": "2026/09/04 04:50",
-      "summary": "インタラクティブソリューションズは９月３日、ＡＩ対話自主トレーニングアプリ「iRolePlay（アイロールプレイ）」に、提案資料をＡＩ医師に提示する新機能を追加したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ニプロ フォシーガAGを９月４日に発売 「先発医薬品と同一設計に基づく品質特性」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80818",
-      "source": "ミクスOnline",
-      "published": "2026-09-03T19:50:00Z",
-      "published_label": "2026/09/04 04:50",
-      "summary": "ニプロは９月４日、SGLT2阻害薬・フォシーガのオーソライズド・ジェネリック（AG）を発売する。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "ウゴービどう使う？SD・MDの違いと服薬指導法",
       "link": "https://pharmacist.m3.com/column/kurumi/7771?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1016,59 +1130,6 @@
       "published": "2026-09-02T22:00:00Z",
       "published_label": "2026/09/03 07:00",
       "summary": "OD錠は水なしで飲まなければいけない？ OD錠とは「口腔内崩壊錠（Orally Disintegrating Tablet）」のことで、口の中で速やかに崩れるように作られた錠剤です。 通常の錠剤はコップ1杯程度の水やぬる […] The post 水で飲んではいけないOD錠？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "メディパルHD 英機関投資家から渡辺秀一氏の取締役解任含む臨時株主総会招集の請求書受領 慎重に検討",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80814",
-      "source": "ミクスOnline",
-      "published": "2026-09-02T19:51:00Z",
-      "published_label": "2026/09/03 04:51",
-      "summary": "メディパルホールディングスは9月２日、英国の機関投資家シルチェスター・インターナショナル・インベスターズから臨時株主総会招集の請求書を受領したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "DIA日本年会・山本大会長 「新結合」で新たな価値創出 10月18日～20日 東京ビッグサイトで開催",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80816",
-      "source": "ミクスOnline",
-      "published": "2026-09-02T19:50:00Z",
-      "published_label": "2026/09/03 04:50",
-      "summary": "DIA日本年会2026が10月18日から20日まで東京ビッグサイトで開催される。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "小野薬品 米Aitia社と創薬提携 因果AIで神経領域の治療標的を探索 独占的研究開発・商業化で権利...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80813",
-      "source": "ミクスOnline",
-      "published": "2026-09-02T19:50:00Z",
-      "published_label": "2026/09/03 04:50",
-      "summary": "小野薬品は９月２日、ＡＩを活用した創薬プラットフォーム技術を有する米・Aitia社と創薬提携契約を締結したと発表した。",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "クリニックフォア・村丘会長 CPAP治療の保険基準緩和「より治療に進みやすくなったと体感」26年度改...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80812",
-      "source": "ミクスOnline",
-      "published": "2026-09-02T19:49:00Z",
-      "published_label": "2026/09/03 04:49",
-      "summary": "都市部での対面診療やオンライン診療を提供するクリニックフォアグループ会長CMOの村丘寛和医師は９月２日、睡眠時無呼吸症候群（SAS）におけるCPAP（持続陽圧呼吸療法）の保険適用基準の緩和について、「より治療に進みやすくなったと体感している」と強調した。",
       "tags": [
         "薬価・制度"
       ],
@@ -1119,19 +1180,6 @@
         "薬歴"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える",
-      "link": "https://yakuzaic.com/archives/144325",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-08-31T22:00:00Z",
-      "published_label": "2026/09/01 07:00",
-      "summary": "糖尿病治療薬の作用部位 糖尿病治療薬には、SU薬、DPP-4阻害薬、ビグアナイド薬、SGLT2阻害薬など、多くの種類があります。薬効分類だけを覚えようとすると、それぞれの違いがわかりにくくなります。 そこで、「なぜ血糖値 […] The post 糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
