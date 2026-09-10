@@ -1,8 +1,114 @@
 {
-  "updated_at": "2026-09-09T22:53:55.194152Z",
-  "updated_label": "2026/09/10 07:53",
-  "count": 81,
+  "updated_at": "2026-09-10T02:57:31.342788Z",
+  "updated_label": "2026/09/10 11:57",
+  "count": 85,
   "items": [
+    {
+      "title": "【日本薬学生連盟・先輩薬剤師のキャリアノート】患者支援の延長で10種の資格取得 大阪市立総合医療センター薬剤部 藤本亜弓さんに聞く",
+      "link": "https://www.yakuji.co.jp/entry139209.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T02:15:34Z",
+      "published_label": "2026/09/10 11:15",
+      "summary": "日本薬学生連盟広報部 日本薬学生連盟広報部は、がん専門薬剤師をはじめ合計10種類の認定・専門資格を持ち、病棟や外来で患者さんと向き合う大阪市立総合医療センター…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【第一三共】新たなADCの臨床試験開始‐Treg細胞CD25を標的に",
+      "link": "https://www.yakuji.co.jp/entry139083.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T23:31:06Z",
+      "published_label": "2026/09/10 08:31",
+      "summary": "第一三共は、免疫応答を抑える制御性T細胞（Treg細胞）の表面に高発現する蛋白質CD25を標的とする新たな抗体薬物複合体（ADC）「DS1025」の臨床試験を…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【米ギリアド】乳癌治療が欧州で承認‐サシツズマブゴビテカン",
+      "link": "https://www.yakuji.co.jp/entry139087.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T23:30:44Z",
+      "published_label": "2026/09/10 08:30",
+      "summary": "米ギリアド・サイエンシズは、腫瘍細胞表面抗原のTROP2を標的とする抗体薬物複合体（ADC）サシツズマブゴビテカン（製品名「トロデルビ」）の適応に、免疫チェッ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】粧美堂の人気商品「どこでも前髪ミニアイロン」からmiffy限定デザインが新登場 粧美堂",
+      "link": "https://www.yakuji.co.jp/entry139192.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T22:35:38Z",
+      "published_label": "2026/09/10 07:35",
+      "summary": "化粧品、化粧雑貨、服飾雑貨及びキャラクター雑貨等の企画・製造・販売、コンタクトレンズの企画・販売を行う粧美堂（本社：東京都港区）は、たまご約1個分の重さで手の…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】OPC UA規格対応インターフェースボード「MTR-OPC1-PW」を今月から発売 PHCbi",
+      "link": "https://www.yakuji.co.jp/entry139189.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T22:33:50Z",
+      "published_label": "2026/09/10 07:33",
+      "summary": "PHCのライフサイエンス事業部バイオメディカ事業グループ（PHCbi）は今月、製薬企業および研究施設向けに、同社のライフサイエンス研究・医療支援機器と顧客シス…",
+      "tags": [
+        "業界動向",
+        "承認・新薬",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津製作所】英グループ会社再編し新体制で事業開始‐MSおよびXPSの開発機能を強化",
+      "link": "https://www.yakuji.co.jp/entry139187.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T22:32:26Z",
+      "published_label": "2026/09/10 07:32",
+      "summary": "島津製作所は9月9日、質量分析計（MS）およびX線光電子分光分析装置（XPS）の開発機能を強化するため、英国のグループ会社であるKratos Analytic…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【西川・日本睡眠科学研究所】1万人の睡眠実態を調査‐休日の寝だめが招く「社会的時差ボケ」",
+      "link": "https://www.yakuji.co.jp/entry139186.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T22:31:45Z",
+      "published_label": "2026/09/10 07:31",
+      "summary": "西川はこのほど、同社の「日本睡眠科学研究所」監修のもと、1万人の睡眠実態を追った「nishikawa 睡眠白書 2026」の結果を報告した。同調査結果は、9月…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【コニカミノルタ】品質工学会長賞を受賞‐品質工学とAIを融合したAI開発効率化で",
+      "link": "https://www.yakuji.co.jp/entry139185.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T22:30:04Z",
+      "published_label": "2026/09/10 07:30",
+      "summary": "コニカミノルタは9月8日、一般社団法人品質工学会が主催する第34回品質工学研究発表大会（RQES2026S）で、同社技術開発本部の小島和浩氏、田村希志臣氏によ…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット",
       "link": "https://yakuzaic.com/archives/144425",
@@ -23,6 +129,19 @@
       "published": "2026-09-09T21:31:37Z",
       "published_label": "2026/09/10 06:31",
       "summary": "薬事審議会血液事業部会安全技術調査会は2日、輸血歴を有する人を一律に恒久的な献血制限の対象としている現行運用について、見直しに向けた検討を進める方針を了承した…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【PALTAC／あらた】共同配送、関西エリアに拡大‐西関東での成果踏まえ",
+      "link": "https://www.yakuji.co.jp/entry139067.html",
+      "source": "薬事日報",
+      "published": "2026-09-09T21:30:53Z",
+      "published_label": "2026/09/10 06:30",
+      "summary": "PALTACとあらたは、持続可能な流通インフラの共創を目指して進めている西関東エリアにおける共同配送の対象エリアを拡大し、新たに関西エリアにおいても共同配送を…",
       "tags": [
         "その他"
       ],
@@ -354,47 +473,6 @@
       "keywords": []
     },
     {
-      "title": "【新製品】咳に効く五つの成分配合‐「ジキニン」から新製品 全薬工業",
-      "link": "https://www.yakuji.co.jp/entry139050.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T21:03:59Z",
-      "published_label": "2026/09/09 06:03",
-      "summary": "全薬工業は、総合かぜ薬「ジキニンファーストネオCZ」（指定第2類医薬品）を発売した。 かぜ薬「ジキニン」シリーズは、少しでも早く日常に戻りたい人に向けたかぜ…",
-      "tags": [
-        "一般用医薬品",
-        "承認・新薬"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「イオナエフ」に新シリーズ‐天然由来の美容保湿成分 ゼリア新薬",
-      "link": "https://www.yakuji.co.jp/entry139048.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T21:02:31Z",
-      "published_label": "2026/09/09 06:02",
-      "summary": "ゼリア新薬は1日、スキンケアブランドのイオナエフから新シリーズ「イオナエフRJダーマ」全4製品（導入美容液、薬用化粧水、薬用乳液、薬用クリーム）について、全国…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "小規模薬局の多様性",
-      "link": "https://www.yakuji.co.jp/entry139047.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T21:01:12Z",
-      "published_label": "2026/09/09 06:01",
-      "summary": "◆数店舗を運営する小規模薬局の薬剤師から、薬局経営の厳しさを聞くことが多い。調剤報酬改定に対応する大変さ、薬剤師を確保する難しさ、思うように進まない資材調達、近…",
-      "tags": [
-        "薬価・制度",
-        "薬局経営"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "AZ 九州電力送配電とEV充電サービスの実証開始 現地MRが参画 EV環境整備と業務効率化へ",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80843",
       "source": "ミクスOnline",
@@ -488,32 +566,6 @@
         "診療報酬改定"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "GMPとは？三原則や省令改正、医薬品・医薬部外品・食品・化粧品の違いを解説",
-      "link": "https://www.yakuji.co.jp/entry139054.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T07:35:49Z",
-      "published_label": "2026/09/08 16:35",
-      "summary": "医薬品の製造や品質保証に携わると、必ず耳にするのが「GMP」という言葉です。名前は知っていても、法令上どのように位置づけられているか、現場でどのような基準を求…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "米FDA、真性多血症に対するファースト・イン・クラスの薬剤を承認",
-      "link": "https://www.yakuji.co.jp/entry139044.html",
-      "source": "薬事日報",
-      "published": "2026-09-08T05:30:08Z",
-      "published_label": "2026/09/08 14:30",
-      "summary": "米食品医薬品局（FDA）は8月28日、既存治療で十分なコントロールが得られていない真性多血症の成人患者に対する新たな治療薬として、Mimrylo（一般名：ru…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
