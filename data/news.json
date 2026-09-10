@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-09-10T13:18:43.378712Z",
-  "updated_label": "2026/09/10 22:18",
-  "count": 74,
+  "updated_at": "2026-09-10T18:03:38.733004Z",
+  "updated_label": "2026/09/11 03:03",
+  "count": 84,
   "items": [
+    {
+      "title": "既存治療で効果不十分な慢性特発性蕁麻疹に初の経口BTK阻害薬",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202609/594491.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-10T15:00:00Z",
+      "published_label": "2026/09/11 00:00",
+      "summary": "2026年6月19日、慢性蕁麻疹治療薬レミブルチニブ（商品名ラプシド錠25mg）の製造販売が承認された。適応は「特発性の慢性蕁麻疹（既存治療で効果不十分な患者に限る）」、用法用量は「成人に1回25mgを1日2回経口投与する」となっている。 蕁麻疹は、皮膚のマスト細胞の脱顆粒により皮膚組織内に放出されたヒスタミンなどの化学物質により、血管拡張（紅斑）、血漿成分の漏出（膨疹）および痒みが生じる疾患である。慢性特発性蕁麻疹（CSU）は、蕁麻…",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "併用禁忌や投与禁忌の薬、「すぐ中止を」と思っていませんか",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/sasajima/202609/594494.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-10T15:00:00Z",
+      "published_label": "2026/09/11 00:00",
+      "summary": "「処方された薬が併用禁忌や投与禁忌だったらどうしていますか」──。こう尋ねられたら、ほとんどの薬剤師が「疑義照会して処方を回避する」と答えるでしょう。投与が禁止されるほどのリスクがあるわけですから、当然のことだと思います。 しかし、状況によっては単にその薬剤を禁止とするだけでなく、様々な配慮が必要になる場合があります。今回は、2つの実例を基に、注意すべき点を紹介したいと思います。 この症例では、当初、セリンクロを他のアルコール依存症の…",
+      "tags": [
+        "安全性情報",
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "配薬カートの提供NGで思う高齢者医療を巡る不適切な関係",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/inout/202609/594445.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-10T15:00:00Z",
+      "published_label": "2026/09/11 00:00",
+      "summary": "薬局と高齢者施設の金品のやり取りに、規制の目が向けられている。2026年6月に厚生労働省が出した事務連絡（以下、通知）では、高齢者施設などからの患者紹介の見返りとして、薬局が配薬カートを設置したり、金品や物品、サービスを提供したりすることは、「患者紹介の対価としての経済上の利益提供」に該当し、保険薬局及び保険薬剤師療養担当規則（薬担規則）違反となることが改めて示された。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "抗生物質にチョコはなぜ？服薬ゼリーの相性と指導法",
       "link": "https://pharmacist.m3.com/column/otc_noriko/7795?promotionCode=op_pcolumn",
@@ -147,6 +187,19 @@
       "summary": "コニカミノルタは9月8日、一般社団法人品質工学会が主催する第34回品質工学研究発表大会（RQES2026S）で、同社技術開発本部の小島和浩氏、田村希志臣氏によ…",
       "tags": [
         "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット",
+      "link": "https://yakuzaic.com/archives/144425",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-09T22:00:00Z",
+      "published_label": "2026/09/10 07:00",
+      "summary": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット 「男性ホルモン作用」と聞くと、どのようなイメージを持つでしょうか。 ニキビ、多毛、脂性肌、薄毛……。 特に女性に使われるホルモン製剤について調べていると、 […] The post 男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -434,6 +487,19 @@
       "keywords": []
     },
     {
+      "title": "MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？",
+      "link": "https://yakuzaic.com/archives/144417",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-08T22:00:00Z",
+      "published_label": "2026/09/09 07:00",
+      "summary": "MR拮抗薬の違い 高血圧の患者にミネブロ、心不全の患者にセララ、糖尿病・CKDの患者にケレンディア。 そして昔から利尿薬として使われているアルダクトンA。 これらは一見すると別々の薬のように見えますが、いずれもミネラルコ […] The post MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "AZ 九州電力送配電とEV充電サービスの実証開始 現地MRが参画 EV環境整備と業務効率化へ",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80843",
       "source": "ミクスOnline",
@@ -527,6 +593,19 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」",
+      "link": "https://yakuzaic.com/archives/144414",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-07T22:00:00Z",
+      "published_label": "2026/09/08 07:00",
+      "summary": "骨粗鬆症治療薬は骨を作る？骨が壊れるのを防ぐ？ 骨粗鬆症治療薬には、ビスホスホネート製剤、SERM、デノスマブ、テリパラチド、ロモソズマブ、活性型ビタミンD₃製剤など、さまざまな薬があります。 薬の名前だけを覚えていると […] The post 骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -684,6 +763,19 @@
       "keywords": []
     },
     {
+      "title": "動脈硬化はあるけど、静脈硬化は無い？",
+      "link": "https://yakuzaic.com/archives/144403",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-06T22:00:00Z",
+      "published_label": "2026/09/07 07:00",
+      "summary": "動脈硬化はあるけど、静脈硬化は無い？ 「動脈硬化」という言葉はよく聞く。 高血圧、脂質異常症、糖尿病、喫煙などによって動脈硬化が進み、心筋梗塞や脳梗塞の原因になる。 しかし、考えてみると不思議だ。 「動脈硬化はあるけど、 […] The post 動脈硬化はあるけど、静脈硬化は無い？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "米トランプ大統領のMFN政策 価格だけでないバイオ医薬品のサプライチェーン一極化 対米投資は拡大へ",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80826",
       "source": "ミクスOnline",
@@ -736,47 +828,6 @@
       "keywords": []
     },
     {
-      "title": "認知症関連加算の研修負担などに不満続出",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202609/594470.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-06T15:00:00Z",
-      "published_label": "2026/09/07 00:00",
-      "summary": "厚生労働省の社会保障審議会・介護給付費分科会は2026年9月3日、2027年度介護報酬改定に向け、認知症への対応力強化や医療機関との連携に関する報酬について議論した。委員からは認知症関連加算の算定率が極めて低い現状への問題提起が相次ぎ、算定要件となっている研修制度の見直しを求める意見が出た。医療機関との連携に関しては、周辺に連携できる医療機関が少ないなど地域の事情を考慮すべきだとの意見も寄せられた。このほか、多床室の室料負担に関する議…",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師の平均給与は41万8931円、前年より3万円増",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594433.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-06T15:00:00Z",
-      "published_label": "2026/09/07 00:00",
-      "summary": "人事院が2026年8月に公表した「令和８年職種別民間給与実態調査」によると、2026年4月の薬剤師の平均給与（時間外手当を含む）は41万8931円（平均年齢38.6歳）で、前年の38万8534円（同39.4歳）に比べて3万397円の大幅な増加となった。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "診療報酬で評価されない本当のかかりつけ薬剤師",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202609/594421.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-06T15:00:00Z",
-      "published_label": "2026/09/07 00:00",
-      "summary": "先日、近所の薬局が1店舗、閉局しました。中小規模のいわゆるローカルチェーンの薬局です。詳しい事情は分かりませんが、恐らくは本部主導による店舗再編や採算面での経営判断なのでしょう。その閉局した薬局で管理薬剤師を務めていた薬剤師のAさんを、ご縁があって私の薬局でお迎えすることになりました。Aさんは地元ご出身の方で、長年にわたり地域の患者さんと深い信頼関係を築いてきたベテランです。職場が変わることになり、これまでAさんが担当していた患者さん…",
-      "tags": [
-        "薬価・制度",
-        "薬局経営"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "薬剤師が創薬の道に進むために必要なこととは",
       "link": "https://pharmacist.m3.com/column/company_tensyoku/7782?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -793,6 +844,19 @@
       "keywords": []
     },
     {
+      "title": "ビタミンの良し悪し―本当に体に良いのか？",
+      "link": "https://yakuzaic.com/archives/144383",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-05T22:00:00Z",
+      "published_label": "2026/09/06 07:00",
+      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "二日酔いの頭痛に『ロキソニンＳ』は使える？",
       "link": "https://pharmacist.m3.com/column/otc/7783?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -805,6 +869,19 @@
         "OTC医薬品"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "通院してるのに通院困難？",
+      "link": "https://yakuzaic.com/archives/144347",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-04T22:00:00Z",
+      "published_label": "2026/09/05 07:00",
+      "summary": "通院困難とは？ 薬局で在宅患者訪問薬剤管理指導料や居宅療養管理指導を算定するための条件の一つに、「通院が困難」というものがある。 「通院困難」と聞くと、寝たきりで病院にも薬局にも行けない患者をイメージする。 しかし、薬局 […] The post 通院してるのに通院困難？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -846,6 +923,19 @@
       "summary": "",
       "tags": [
         "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "骨粗鬆症患者は胃食道逆流症になりやすい？",
+      "link": "https://yakuzaic.com/archives/1949",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-03T22:00:00Z",
+      "published_label": "2026/09/04 07:00",
+      "summary": "骨粗鬆症で逆流性食道炎？ 骨粗鬆症の患者に、タケキャブ、ネキシウム、タケプロンなどの胃酸分泌抑制薬が処方されていることは珍しくない。 高齢者だから胃薬を飲んでいるのだろう、と特に気に留めないこともある。 しかし、骨粗鬆症 […] The post 骨粗鬆症患者は胃食道逆流症になりやすい？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -920,6 +1010,19 @@
       "keywords": []
     },
     {
+      "title": "水で飲んではいけないOD錠？",
+      "link": "https://yakuzaic.com/archives/144334",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-02T22:00:00Z",
+      "published_label": "2026/09/03 07:00",
+      "summary": "OD錠は水なしで飲まなければいけない？ OD錠とは「口腔内崩壊錠（Orally Disintegrating Tablet）」のことで、口の中で速やかに崩れるように作られた錠剤です。 通常の錠剤はコップ1杯程度の水やぬる […] The post 水で飲んではいけないOD錠？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "メディパルHD 英機関投資家から渡辺秀一氏の取締役解任含む臨時株主総会招集の請求書受領 慎重に検討",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80814",
       "source": "ミクスOnline",
@@ -990,6 +1093,19 @@
       "keywords": []
     },
     {
+      "title": "スマート療法とショットガン療法―喘息・長引く咳に対する治療",
+      "link": "https://yakuzaic.com/archives/144328",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-01T22:00:00Z",
+      "published_label": "2026/09/02 07:00",
+      "summary": "SMART療法とショットガン療法 「SMART療法」という治療法がある。「スマート（smart）」という名前から、「賢く治療する方法」という意味なのかと思ってしまうが、SMARTは略語である。 一方、医療では「ショットガ […] The post スマート療法とショットガン療法―喘息・長引く咳に対する治療 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "SOAPを埋めるなら薬剤師らしいA（アセスメント）を書こう",
       "link": "https://pharmacist.m3.com/column/yakureki/7746?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1003,6 +1119,19 @@
         "薬歴"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える",
+      "link": "https://yakuzaic.com/archives/144325",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-08-31T22:00:00Z",
+      "published_label": "2026/09/01 07:00",
+      "summary": "糖尿病治療薬の作用部位 糖尿病治療薬には、SU薬、DPP-4阻害薬、ビグアナイド薬、SGLT2阻害薬など、多くの種類があります。薬効分類だけを覚えようとすると、それぞれの違いがわかりにくくなります。 そこで、「なぜ血糖値 […] The post 糖尿病治療薬はどこに効く？―膵臓・肝臓・筋肉・腸・腎臓から考える first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
