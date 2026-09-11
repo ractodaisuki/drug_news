@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-09-11T02:52:40.110514Z",
-  "updated_label": "2026/09/11 11:52",
-  "count": 98,
+  "updated_at": "2026-09-11T07:46:04.162230Z",
+  "updated_label": "2026/09/11 16:46",
+  "count": 100,
   "items": [
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-11T04:55:00Z",
+      "published_label": "2026/09/11 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-11T04:55:00Z",
+      "published_label": "2026/09/11 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "【訃報】長谷川閑史氏（元武田薬品社長CEO）が死去",
       "link": "https://www.yakuji.co.jp/entry139348.html",
@@ -291,7 +317,7 @@
       "keywords": []
     },
     {
-      "title": "「認知症だから」で片づけられる症状を言語化して薬物療法を提案",
+      "title": "「認知症だから」で片づけられる行動を言語化して薬物療法を提案",
       "link": "https://www.carenet.com/pharmacist/teian/cg002441_074.html?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
       "published": "2026-09-11T00:59:00Z",
@@ -548,6 +574,19 @@
       "keywords": []
     },
     {
+      "title": "特別番組「薬局でOTC薬を売るには？」を無料公開中",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/event/202609/594482.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-10T15:00:00Z",
+      "published_label": "2026/09/11 00:00",
+      "summary": "OTC薬をもっと提案しやすく、売りやすく！陳列の工夫、接客のコツから、商品選び・販売のポイントまで、明日から薬局の店頭で役立つ考え方を45分で学べる特別番組。『薬局OTC販売マニュアル 改訂版』の発売を記念して、9月11日～27日の期間限定で無料公開中です！ ここでしか聞けない裏話も盛りだくさん。ぜひご視聴ください。",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "プロ・バンサイン供給停止、オーグメンチン通常出荷へ",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202609/594471.html",
       "source": "日経メディカル Online",
@@ -778,6 +817,19 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "第25回医薬品等行政評価・監視委員会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76113.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-09T06:58:00Z",
+      "published_label": "2026/09/09 15:58",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
       "keywords": []
     },
     {
@@ -1193,32 +1245,6 @@
         "副作用"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-04T04:55:00Z",
-      "published_label": "2026/09/04 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-04T04:55:00Z",
-      "published_label": "2026/09/04 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
