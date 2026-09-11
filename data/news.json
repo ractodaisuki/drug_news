@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-09-11T18:09:05.633786Z",
-  "updated_label": "2026/09/12 03:09",
-  "count": 98,
+  "updated_at": "2026-09-11T22:57:17.802281Z",
+  "updated_label": "2026/09/12 07:57",
+  "count": 89,
   "items": [
+    {
+      "title": "セフジトレン等の薬袋誤用！ヒヤリハット防止手順",
+      "link": "https://pharmacist.m3.com/column/hiyari/7800?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-11T22:57:16.420480Z",
+      "published_label": "2026/09/12 07:57",
+      "summary": "「セフジトレンピボキシル錠」と「プソフェキ配合錠」の薬袋への入れ間違いにより、患者の過剰服用・体調不良を引き起こしたヒヤリハット事例を解説。投薬時の指導や手順書の見直しなど、調剤過誤を防ぐための具体的な対策を提示します。監査・交付時のリスク管理を見直す機会にしましょう。",
+      "tags": [
+        "薬剤師コラム",
+        "服薬指導",
+        "医療過誤・ヒヤリハット"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "吸入ステロイド・β2刺激薬配合剤は3位のレルベアが徐々にシェア拡大",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202609/594458.html",
@@ -439,20 +454,6 @@
       "keywords": []
     },
     {
-      "title": "薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？",
-      "link": "https://yakuzaic.com/archives/144430",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-10T22:00:00Z",
-      "published_label": "2026/09/11 07:00",
-      "summary": "薬のアレルギー 薬によるアレルギーというと、「薬を飲んだ直後に蕁麻疹が出る」「注射した直後に息苦しくなってショックを起こす」といったイメージが強い。 確かにアナフィラキシーは、原因となる薬剤を使用してから短時間で起こるこ […] The post 薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報",
-        "感染症・ワクチン"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "製薬協・木下理事長 10月から一般社団法人化「国内外の医療・薬価政策に機動的対応」事業戦略本部が軸",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80859",
       "source": "ミクスOnline",
@@ -656,19 +657,6 @@
       "keywords": []
     },
     {
-      "title": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット",
-      "link": "https://yakuzaic.com/archives/144425",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-09T22:00:00Z",
-      "published_label": "2026/09/10 07:00",
-      "summary": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット 「男性ホルモン作用」と聞くと、どのようなイメージを持つでしょうか。 ニキビ、多毛、脂性肌、薄毛……。 特に女性に使われるホルモン製剤について調べていると、 […] The post 男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "中医協 OTC類似薬の一部保険外療養創設で処方箋上に「一部保険外療養」欄追加へ 上野厚労相が諮問",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80847",
       "source": "ミクスOnline",
@@ -807,19 +795,6 @@
       "keywords": []
     },
     {
-      "title": "MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？",
-      "link": "https://yakuzaic.com/archives/144417",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-08T22:00:00Z",
-      "published_label": "2026/09/09 07:00",
-      "summary": "MR拮抗薬の違い 高血圧の患者にミネブロ、心不全の患者にセララ、糖尿病・CKDの患者にケレンディア。 そして昔から利尿薬として使われているアルダクトンA。 これらは一見すると別々の薬のように見えますが、いずれもミネラルコ […] The post MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "AZ 九州電力送配電とEV充電サービスの実証開始 現地MRが参画 EV環境整備と業務効率化へ",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80843",
       "source": "ミクスOnline",
@@ -913,19 +888,6 @@
         "診療報酬改定"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」",
-      "link": "https://yakuzaic.com/archives/144414",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-07T22:00:00Z",
-      "published_label": "2026/09/08 07:00",
-      "summary": "骨粗鬆症治療薬は骨を作る？骨が壊れるのを防ぐ？ 骨粗鬆症治療薬には、ビスホスホネート製剤、SERM、デノスマブ、テリパラチド、ロモソズマブ、活性型ビタミンD₃製剤など、さまざまな薬があります。 薬の名前だけを覚えていると […] The post 骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1083,19 +1045,6 @@
       "keywords": []
     },
     {
-      "title": "動脈硬化はあるけど、静脈硬化は無い？",
-      "link": "https://yakuzaic.com/archives/144403",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-06T22:00:00Z",
-      "published_label": "2026/09/07 07:00",
-      "summary": "動脈硬化はあるけど、静脈硬化は無い？ 「動脈硬化」という言葉はよく聞く。 高血圧、脂質異常症、糖尿病、喫煙などによって動脈硬化が進み、心筋梗塞や脳梗塞の原因になる。 しかし、考えてみると不思議だ。 「動脈硬化はあるけど、 […] The post 動脈硬化はあるけど、静脈硬化は無い？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "米トランプ大統領のMFN政策 価格だけでないバイオ医薬品のサプライチェーン一極化 対米投資は拡大へ",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80826",
       "source": "ミクスOnline",
@@ -1164,19 +1113,6 @@
       "keywords": []
     },
     {
-      "title": "ビタミンの良し悪し―本当に体に良いのか？",
-      "link": "https://yakuzaic.com/archives/144383",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-05T22:00:00Z",
-      "published_label": "2026/09/06 07:00",
-      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "二日酔いの頭痛に『ロキソニンＳ』は使える？",
       "link": "https://pharmacist.m3.com/column/otc/7783?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1189,19 +1125,6 @@
         "OTC医薬品"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "通院してるのに通院困難？",
-      "link": "https://yakuzaic.com/archives/144347",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-04T22:00:00Z",
-      "published_label": "2026/09/05 07:00",
-      "summary": "通院困難とは？ 薬局で在宅患者訪問薬剤管理指導料や居宅療養管理指導を算定するための条件の一つに、「通院が困難」というものがある。 「通院困難」と聞くと、寝たきりで病院にも薬局にも行けない患者をイメージする。 しかし、薬局 […] The post 通院してるのに通院困難？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -1219,19 +1142,6 @@
         "副作用"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "骨粗鬆症患者は胃食道逆流症になりやすい？",
-      "link": "https://yakuzaic.com/archives/1949",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-03T22:00:00Z",
-      "published_label": "2026/09/04 07:00",
-      "summary": "骨粗鬆症で逆流性食道炎？ 骨粗鬆症の患者に、タケキャブ、ネキシウム、タケプロンなどの胃酸分泌抑制薬が処方されていることは珍しくない。 高齢者だから胃薬を飲んでいるのだろう、と特に気に留めないこともある。 しかし、骨粗鬆症 […] The post 骨粗鬆症患者は胃食道逆流症になりやすい？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1265,19 +1175,6 @@
       "keywords": []
     },
     {
-      "title": "水で飲んではいけないOD錠？",
-      "link": "https://yakuzaic.com/archives/144334",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-02T22:00:00Z",
-      "published_label": "2026/09/03 07:00",
-      "summary": "OD錠は水なしで飲まなければいけない？ OD錠とは「口腔内崩壊錠（Orally Disintegrating Tablet）」のことで、口の中で速やかに崩れるように作られた錠剤です。 通常の錠剤はコップ1杯程度の水やぬる […] The post 水で飲んではいけないOD錠？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "電子処方箋の重複投薬等チェックと調剤結果登録の義務化",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7769?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1292,19 +1189,6 @@
         "診療報酬改定"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "スマート療法とショットガン療法―喘息・長引く咳に対する治療",
-      "link": "https://yakuzaic.com/archives/144328",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-01T22:00:00Z",
-      "published_label": "2026/09/02 07:00",
-      "summary": "SMART療法とショットガン療法 「SMART療法」という治療法がある。「スマート（smart）」という名前から、「賢く治療する方法」という意味なのかと思ってしまうが、SMARTは略語である。 一方、医療では「ショットガ […] The post スマート療法とショットガン療法―喘息・長引く咳に対する治療 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
