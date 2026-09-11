@@ -1,8 +1,348 @@
 {
-  "updated_at": "2026-09-10T22:55:30.146318Z",
-  "updated_label": "2026/09/11 07:55",
-  "count": 87,
+  "updated_at": "2026-09-11T02:52:40.110514Z",
+  "updated_label": "2026/09/11 11:52",
+  "count": 98,
   "items": [
+    {
+      "title": "【訃報】長谷川閑史氏（元武田薬品社長CEO）が死去",
+      "link": "https://www.yakuji.co.jp/entry139348.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T02:24:29Z",
+      "published_label": "2026/09/11 11:24",
+      "summary": "元武田薬品社長CEOの長谷川閑史氏が亡くなった。7月3日に死去。80歳。武田薬品が遺族の了承のもと、11日に明らかにした。 葬儀は近親者のみで執り行われた。…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【訃報】元・武田薬品社長CEOの長谷川閑史さん逝去 タケダの事業基盤をグローバル規模への拡大に尽力",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80860",
+      "source": "ミクスOnline",
+      "published": "2026-09-11T02:00:00Z",
+      "published_label": "2026/09/11 11:00",
+      "summary": "元武田薬品代表取締役社長CEOの長谷川閑史（はせがわ・やすちか）さんが、7月30日に逝去した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬事工業生産動態統計令和8年6月分月報について",
+      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-11T02:00:00Z",
+      "published_label": "2026/09/11 11:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "日本プライマリ・ケア連合学会 研修会 2026/10",
+      "link": "https://www.yakuji.co.jp/entry139251.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:30:16Z",
+      "published_label": "2026/09/11 10:30",
+      "summary": "『減薬がうまくいくとき、いかないとき―患者・医療者の視点から再考するポリファーマシー』 日時 2026年10月4日(日)9時20分～12時30分 場所 オンライ…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】アリスグローバル",
+      "link": "https://www.yakuji.co.jp/entry139254.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:15:37Z",
+      "published_label": "2026/09/11 10:15",
+      "summary": "NavaX、3割超の効率向上‐BPO支出を35％削減も アリスグローバルは、ファーマコビジランス（PV）業務を支援する「LifeSphere Safety」へ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】トランスパーフェクト",
+      "link": "https://www.yakuji.co.jp/entry139258.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:14:30Z",
+      "published_label": "2026/09/11 10:14",
+      "summary": "PV支援サービス拡大へ‐他社システムと連携、効率化 トランスパーフェクトは、言語テクノロジー・ソリューション事業を中核とするグローバル企業だ。ライフサイエンス…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】オラクル",
+      "link": "https://www.yakuji.co.jp/entry139261.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:13:09Z",
+      "published_label": "2026/09/11 10:13",
+      "summary": "オラクルは、既存の安全性業務アプリケーションでAI活用を進めると共に、リアルワールドデータ（RWD）やAIを活用した安全性評価の高度化に取り組んでいる。長年に…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】IQVIA",
+      "link": "https://www.yakuji.co.jp/entry139263.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:12:16Z",
+      "published_label": "2026/09/11 10:12",
+      "summary": "AI機能搭載システムに注力‐導入後のガバナンスに強み IQVIAは、AI機能を備えた安全性情報管理（PV）業務支援システム「IQVIA Vigilance P…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】ネクストローブ",
+      "link": "https://www.yakuji.co.jp/entry139266.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:11:30Z",
+      "published_label": "2026/09/11 10:11",
+      "summary": "国内外でDB導入を支援‐PV実務にも高い専門性 ネクストローブは、医薬品などの安全性情報管理（PV）データベース（DB）の導入・運用支援、データ移管、コンサル…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】Veeva",
+      "link": "https://www.yakuji.co.jp/entry139268.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:10:50Z",
+      "published_label": "2026/09/11 10:10",
+      "summary": "統一基盤と業務別AI融合‐複雑なPV業務支える Veevaは、AI時代の医薬品安全性情報管理（PV）業務の変革に向け、同社の統一基盤プラットフォーム「Veev…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】サイネオス・ヘルス・ジャパン",
+      "link": "https://www.yakuji.co.jp/entry139270.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:09:18Z",
+      "published_label": "2026/09/11 10:09",
+      "summary": "規模に応じた運営モデル構築‐部門立上げ時の体制整備も サイネオス・ヘルス・ジャパンは、日本語対応の国内チームと海外リソース、グローバルPV（安全性情報管理）組…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】シャペロン",
+      "link": "https://www.yakuji.co.jp/entry139272.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:08:47Z",
+      "published_label": "2026/09/11 10:08",
+      "summary": "新ソリューションを開発‐スライドや抄録からも抽出 シャペロンは、医薬品安全性情報管理（PV）の新たなソリューション「Shaperon Safety Intak…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】キヤノンITソリューションズ",
+      "link": "https://www.yakuji.co.jp/entry139274.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:07:04Z",
+      "published_label": "2026/09/11 10:07",
+      "summary": "PMDA電子報告に対応‐クラウド化で常に最新環境 キヤノンITソリューションズ（キヤノンITS）は、企業間の汎用電子データ交換（EDI）クラウドサービス「ED…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】アクセンチュア",
+      "link": "https://www.yakuji.co.jp/entry139277.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:06:07Z",
+      "published_label": "2026/09/11 10:06",
+      "summary": "AIでICSR処理刷新‐実装から変革まで伴走 新薬開発の難易度上昇や開発費の増大を背景に、製薬企業は全社的な業務効率化を迫られている。その状況下、PVは医薬品…",
+      "tags": [
+        "業界動向",
+        "承認・新薬"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】ヒロファーマコンサルティング",
+      "link": "https://www.yakuji.co.jp/entry139279.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:05:12Z",
+      "published_label": "2026/09/11 10:05",
+      "summary": "AI-PV導入前に検証‐企業の説明責任を支える ヒロファーマコンサルティングは、医薬品・医療機器企業向けにAIを活用したファーマコビジランス（PV）業務（AI…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】DXCテクノロジー・ジャパン",
+      "link": "https://www.yakuji.co.jp/entry139281.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:04:18Z",
+      "published_label": "2026/09/11 10:04",
+      "summary": "AIソリューションリリース‐均質・高精度な症例評価 DXCテクノロジー・ジャパンは、新たな医薬品安全性情報管理（PV）業務を支援するAIソリューション「PVバ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】イーピーエス",
+      "link": "https://www.yakuji.co.jp/entry139283.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:03:10Z",
+      "published_label": "2026/09/11 10:03",
+      "summary": "マルチテナント型DBを開始‐製薬企業の導入負担軽減 イーピーエスは、安全性データベース（DB）をイーピーエス環境下で用意し、それを複数の顧客が利用できるマルチ…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】EPファーマライン",
+      "link": "https://www.yakuji.co.jp/entry139288.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:02:10Z",
+      "published_label": "2026/09/11 10:02",
+      "summary": "要指導薬PMS支援を強化‐グループ力生かす EPファーマラインは、要指導医薬品を対象とした製造販売後調査（PMS）支援サービスを提供する。薬剤師ら医療系有資格…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【医薬品市販後の安全性情報管理】ウィズウィグ",
+      "link": "https://www.yakuji.co.jp/entry139290.html",
+      "source": "薬事日報",
+      "published": "2026-09-11T01:01:12Z",
+      "published_label": "2026/09/11 10:01",
+      "summary": "監査支援事業化に取組む‐PV知見生かし改善案 ウィズウィグは、これまで培ってきた安全性情報管理（PV）業務の知見を生かし、行政のGVP適合性調査、製造販売業許…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "“亜鉛を補充する”という意味の薬は？",
+      "link": "https://www.carenet.com/series/nameorigin/cg002611_089.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-11T01:00:10Z",
+      "published_label": "2026/09/11 10:00",
+      "summary": "普段何気なく処方・調剤している医薬品。それらの薬剤名には作用機序や開発者の思いなどが込められているのをご存じですか？本連載ではインタビューフォームに基づき、薬剤名称の由来を紹介します。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アトピー当事者が語る、ステロイドの保険見直し問題",
+      "link": "https://www.carenet.com/hihyofri/330.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-11T01:00:00Z",
+      "published_label": "2026/09/11 10:00",
+      "summary": "ステロイド外用薬がOTC類似薬の保険見直し議論で「短期使用」と整理され、波紋を呼んだ。プロアクティブ療法と乖離する本案に対し、村上氏自身が重症患者だった体験を交え、当事者としての率直な思いをつづる。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "GLP-1RA使用は脱毛を起こす可能性があるが、非瘢痕性で可逆的であるため、丁寧な説明をすることで患者さんの不安解消への配慮を忘れないでほしい（解説：島田俊夫氏）",
+      "link": "https://www.carenet.com/news/clear/journal/63562?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-11T01:00:00Z",
+      "published_label": "2026/09/11 10:00",
+      "summary": "GLP-1受容体作動薬（GLP-1RA）は、2型糖尿病治療において体重減少・心血管保護効果を含む多面的な利点を有し、近年その使用が急速に拡大している。一方で、これら薬剤の導入後に脱毛を訴える症例が散見され、FDAも2…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「認知症だから」で片づけられる症状を言語化して薬物療法を提案",
+      "link": "https://www.carenet.com/pharmacist/teian/cg002441_074.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-11T00:59:00Z",
+      "published_label": "2026/09/11 09:59",
+      "summary": "今回は、内服薬のなかった認知症患者に、薬の導入を提案した事例を紹介します。現場スタッフの困りごとを聴取し、薬で治療する症状とケア・制度で対応する課題に分け、薬剤の導入を評価軸とセットで提案しました。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "第24回 小児ADHDは薬と環境調節が治療のカギ",
+      "link": "https://www.carenet.com/pharmacist/ameeminimovie/cg003068_004.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-11T00:59:00Z",
+      "published_label": "2026/09/11 09:59",
+      "summary": "この番組では、最近の国家試験の中から薬局実務に直結する問題をピックアップ。問題を解きながら、現場に即した解説を加えていきます。薬局薬剤師に必要な知識、役立つノウハウが短時間で身につきます。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【米欧製薬団体調査】PMSの実施わずか28％‐安全性監視活動で対応可",
+      "link": "https://www.yakuji.co.jp/entry139240.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T23:31:35Z",
+      "published_label": "2026/09/11 08:31",
+      "summary": "米国研究製薬工業協会（PhRMA）と欧州製薬団体連合会（EFPIA）の合同調査で、両団体の会員企業22社が2025年度に国内で承認を取得した69品目のうち、製…",
+      "tags": [
+        "業界動向",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【Sobi Japan】「キネレット」が新たな選択肢に‐sJIAとAOSD初期治療で",
+      "link": "https://www.yakuji.co.jp/entry139248.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T23:30:23Z",
+      "published_label": "2026/09/11 08:30",
+      "summary": "スウェディッシュ・オーファン・バイオビトラム（Sobi）日本法人は、全身型若年性特発性関節炎（sJIA）と成人発症スチル病（AOSD）の初期治療向け新薬「キネ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "SGLT2阻害薬のフォローアップ：トレーシング文例付！",
       "link": "https://pharmacist.m3.com/column/diabetes_sideeffects/7797?promotionCode=op_pcolumn",
@@ -21,6 +361,84 @@
       "keywords": []
     },
     {
+      "title": "【日本シグマックス】腰痛テーマにメディアラウンドテーブル開く",
+      "link": "https://www.yakuji.co.jp/entry139237.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T22:36:09Z",
+      "published_label": "2026/09/11 07:36",
+      "summary": "医療用サポーターなどを手がける日本シグマックス株式会社（本社東京・新宿、鈴木洋輔（すずきようすけ）代表取締役社長）は9日、東京・広尾のコアトリムステーション広…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【NEC】「データドリブンによる物流ネットワーク最適化共創プログラム」を開始",
+      "link": "https://www.yakuji.co.jp/entry139235.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T22:35:57Z",
+      "published_label": "2026/09/11 07:35",
+      "summary": "NECは今月から、物流データを起点に輸配送ネットワークをつなぎ直し、可視化と全体最適化の実現を目指す「データドリブンによる物流ネットワーク最適化共創プログラム…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士フイルム】「SYNAPSE SAI viewer Ver3.0」の提供開始‐MRIにおける頭部読影支援機能の大幅拡充",
+      "link": "https://www.yakuji.co.jp/entry139230.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T22:34:53Z",
+      "published_label": "2026/09/11 07:34",
+      "summary": "富士フイルムは9月10日、医師の画像診断ワークフローを支援するAIプラットフォーム「SYNAPSE SAI viewer」の新バージョン「SYNAPSE SA…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【伊藤超短波】「ビューティーワールド大阪 2026」に出展",
+      "link": "https://www.yakuji.co.jp/entry139223.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T22:33:39Z",
+      "published_label": "2026/09/11 07:33",
+      "summary": "伊藤超短波は10月19～21日、大阪市南港北のインテックス大阪で開催される国際総合美容見本市「ビューティーワールド大阪2026」に出展する。 同社は同見本市…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "10月1日にレーザーに関するセミナー開催 キヤノンMJ",
+      "link": "https://www.yakuji.co.jp/entry139221.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T22:32:12Z",
+      "published_label": "2026/09/11 07:32",
+      "summary": "キヤノンマーケティングジャパン（キヤノンMJ）は10月1日午後2時から5時30分まで、千葉井市美浜区のTKPガーデンシティ幕張で、「レーザーに関する最新の技術…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日立ハイテクフィールディング】「令和8年熊本地震」被害に支援",
+      "link": "https://www.yakuji.co.jp/entry139220.html",
+      "source": "薬事日報",
+      "published": "2026-09-10T22:31:56Z",
+      "published_label": "2026/09/11 07:31",
+      "summary": "日立ハイテクフィールディングは9月10日、「令和8年熊本地震」の被災者の救援や被災地の復興のため、日本赤十字社を通じて100万円の支援を行うことを決定したと発…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？",
       "link": "https://yakuzaic.com/archives/144430",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -32,138 +450,6 @@
         "感染症・ワクチン"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【中医協総会】処方箋に一部保険外療養欄‐OTC類似薬制度創設で",
-      "link": "https://www.yakuji.co.jp/entry139241.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:33:37Z",
-      "published_label": "2026/09/11 06:33",
-      "summary": "厚生労働省は、OTC類似薬の一部保険外療養制度の創設に伴う療養担当規則等の見直し案を9日の中央社会保険医療協議会に示した。対象となるOTC類似薬について、別途…",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "製販業者の出席機会増を‐費用対効果評価検証で最終案",
-      "link": "https://www.yakuji.co.jp/entry139245.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:32:41Z",
-      "published_label": "2026/09/11 06:32",
-      "summary": "中央社会保険医療協議会費用対効果評価専門部会は9日、「医薬品等の費用対効果評価制度における検証のための会議」の議論の取りまとめを公表した。費用対効果評価制度改…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "創薬の重要施策化を評価‐日薬連安川会長、来年度概算要求で声明",
-      "link": "https://www.yakuji.co.jp/entry139244.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:31:19Z",
-      "published_label": "2026/09/11 06:31",
-      "summary": "日本製薬団体連合会の安川健司会長は7日、政府の来年度予算概算要求についてコメントを発表し、「長年続いてきた過度な緊縮志向や未来への投資不足の流れを断ち切り、『…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【森光健康・生活衛生局長】「攻めの予防医療」具体化‐女性健康はデータ整備へ",
-      "link": "https://www.yakuji.co.jp/entry139242.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:30:08Z",
-      "published_label": "2026/09/11 06:30",
-      "summary": "厚生労働省の森光敬子健康・生活衛生局長は専門紙との共同会見で、癌などの疾病対策に向け、「攻めの予防医療プランを具体化し、職域との連携を進めていきたい」と抱負を…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "傅氏が米本社へ異動 バイオジェン",
-      "link": "https://www.yakuji.co.jp/entry139233.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:07:18Z",
-      "published_label": "2026/09/11 06:07",
-      "summary": "バイオジェン・ジャパンは、傳幸諭社長が米本社に異動すると発表した。10月1日付で、チーフ・オブ・スタッフ（Chief of Staff to the CEO）…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "今川氏が新社長就任へ‐渡辺氏は会長に異動 メディパルホールディングス",
-      "link": "https://www.yakuji.co.jp/entry139229.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:06:41Z",
-      "published_label": "2026/09/11 06:06",
-      "summary": "メディパルホールディングスは8日の指名委員会と取締役会で、10月1日付で渡辺秀一代表取締役社長が代表取締役会長へ、代表取締役社長には今川国明常務取締役医薬事業…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "介護事業2社を統合 ウエルシアホールディングスグループ",
-      "link": "https://www.yakuji.co.jp/entry139228.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:04:55Z",
-      "published_label": "2026/09/11 06:04",
-      "summary": "ウエルシアホールディングスグループのウエルシアパートナーズは1日付で、ウエルシア介護サービスと経営統合し、新たな体制でスタートした。 ウエルシアHDは今回、…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】鉄分を基準最大量配合‐「アルフェリッチFE」発売 大正製薬",
-      "link": "https://www.yakuji.co.jp/entry139226.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:03:49Z",
-      "published_label": "2026/09/11 06:03",
-      "summary": "大正製薬は、鉄分ニーズの高まりや女性の健康課題への関心拡大を背景に、アルフェブランドから「アルフェリッチFE」（指定医薬部外品）を発売した。何となく体調が優れ…",
-      "tags": [
-        "業界動向",
-        "承認・新薬"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "医療を止めない薬価改定論議を",
-      "link": "https://www.yakuji.co.jp/entry139215.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:02:37Z",
-      "published_label": "2026/09/11 06:02",
-      "summary": "来年度の薬価中間年改定論議が始まった。物価などインフレ局面にあって、デフレ下の仕組みである薬価引き下げありきの議論では、薬物治療は止まりかねない。薬価制度は薬…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "無駄な研究はない",
-      "link": "https://www.yakuji.co.jp/entry139214.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T21:01:44Z",
-      "published_label": "2026/09/11 06:01",
-      "summary": "◆今年のイグノーベル賞受賞者が発表された。日本からは、旭川医科大学の故海野徳二名誉教授が約半世紀前に発表した鼻のかみ方に関する気体動力学的研究が受賞した。これで…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -357,144 +643,12 @@
       "keywords": []
     },
     {
-      "title": "【日本薬学生連盟・先輩薬剤師のキャリアノート】患者支援の延長で10種の資格取得 大阪市立総合医療センター薬剤部 藤本亜弓さんに聞く",
-      "link": "https://www.yakuji.co.jp/entry139209.html",
-      "source": "薬事日報",
-      "published": "2026-09-10T02:15:34Z",
-      "published_label": "2026/09/10 11:15",
-      "summary": "日本薬学生連盟広報部 日本薬学生連盟広報部は、がん専門薬剤師をはじめ合計10種類の認定・専門資格を持ち、病棟や外来で患者さんと向き合う大阪市立総合医療センター…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【第一三共】新たなADCの臨床試験開始‐Treg細胞CD25を標的に",
-      "link": "https://www.yakuji.co.jp/entry139083.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T23:31:06Z",
-      "published_label": "2026/09/10 08:31",
-      "summary": "第一三共は、免疫応答を抑える制御性T細胞（Treg細胞）の表面に高発現する蛋白質CD25を標的とする新たな抗体薬物複合体（ADC）「DS1025」の臨床試験を…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【米ギリアド】乳癌治療が欧州で承認‐サシツズマブゴビテカン",
-      "link": "https://www.yakuji.co.jp/entry139087.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T23:30:44Z",
-      "published_label": "2026/09/10 08:30",
-      "summary": "米ギリアド・サイエンシズは、腫瘍細胞表面抗原のTROP2を標的とする抗体薬物複合体（ADC）サシツズマブゴビテカン（製品名「トロデルビ」）の適応に、免疫チェッ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】粧美堂の人気商品「どこでも前髪ミニアイロン」からmiffy限定デザインが新登場 粧美堂",
-      "link": "https://www.yakuji.co.jp/entry139192.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T22:35:38Z",
-      "published_label": "2026/09/10 07:35",
-      "summary": "化粧品、化粧雑貨、服飾雑貨及びキャラクター雑貨等の企画・製造・販売、コンタクトレンズの企画・販売を行う粧美堂（本社：東京都港区）は、たまご約1個分の重さで手の…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】OPC UA規格対応インターフェースボード「MTR-OPC1-PW」を今月から発売 PHCbi",
-      "link": "https://www.yakuji.co.jp/entry139189.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T22:33:50Z",
-      "published_label": "2026/09/10 07:33",
-      "summary": "PHCのライフサイエンス事業部バイオメディカ事業グループ（PHCbi）は今月、製薬企業および研究施設向けに、同社のライフサイエンス研究・医療支援機器と顧客シス…",
-      "tags": [
-        "業界動向",
-        "承認・新薬",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】英グループ会社再編し新体制で事業開始‐MSおよびXPSの開発機能を強化",
-      "link": "https://www.yakuji.co.jp/entry139187.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T22:32:26Z",
-      "published_label": "2026/09/10 07:32",
-      "summary": "島津製作所は9月9日、質量分析計（MS）およびX線光電子分光分析装置（XPS）の開発機能を強化するため、英国のグループ会社であるKratos Analytic…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【西川・日本睡眠科学研究所】1万人の睡眠実態を調査‐休日の寝だめが招く「社会的時差ボケ」",
-      "link": "https://www.yakuji.co.jp/entry139186.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T22:31:45Z",
-      "published_label": "2026/09/10 07:31",
-      "summary": "西川はこのほど、同社の「日本睡眠科学研究所」監修のもと、1万人の睡眠実態を追った「nishikawa 睡眠白書 2026」の結果を報告した。同調査結果は、9月…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【コニカミノルタ】品質工学会長賞を受賞‐品質工学とAIを融合したAI開発効率化で",
-      "link": "https://www.yakuji.co.jp/entry139185.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T22:30:04Z",
-      "published_label": "2026/09/10 07:30",
-      "summary": "コニカミノルタは9月8日、一般社団法人品質工学会が主催する第34回品質工学研究発表大会（RQES2026S）で、同社技術開発本部の小島和浩氏、田村希志臣氏によ…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット",
       "link": "https://yakuzaic.com/archives/144425",
       "source": "くすりの勉強（薬剤師のブログ）",
       "published": "2026-09-09T22:00:00Z",
       "published_label": "2026/09/10 07:00",
       "summary": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット 「男性ホルモン作用」と聞くと、どのようなイメージを持つでしょうか。 ニキビ、多毛、脂性肌、薄毛……。 特に女性に使われるホルモン製剤について調べていると、 […] The post 男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【安全技術調査会】輸血歴有の献血制限見直し-来年度に運用開始目指す",
-      "link": "https://www.yakuji.co.jp/entry139065.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T21:31:37Z",
-      "published_label": "2026/09/10 06:31",
-      "summary": "薬事審議会血液事業部会安全技術調査会は2日、輸血歴を有する人を一律に恒久的な献血制限の対象としている現行運用について、見直しに向けた検討を進める方針を了承した…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【PALTAC／あらた】共同配送、関西エリアに拡大‐西関東での成果踏まえ",
-      "link": "https://www.yakuji.co.jp/entry139067.html",
-      "source": "薬事日報",
-      "published": "2026-09-09T21:30:53Z",
-      "published_label": "2026/09/10 06:30",
-      "summary": "PALTACとあらたは、持続可能な流通インフラの共創を目指して進めている西関東エリアにおける共同配送の対象エリアを拡大し、新たに関西エリアにおいても共同配送を…",
       "tags": [
         "その他"
       ],
@@ -1087,19 +1241,6 @@
       "published": "2026-09-03T19:52:00Z",
       "published_label": "2026/09/04 04:52",
       "summary": "厚労省保険局は9月３日開催の社会保障審議会医療保険部会に、OTC類似薬の保険給付の見直しの実施にむけた議論の論点を提示した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "UAゼンセン・永島会長 組織拡大や賃上げ、政策実現に注力 定期大会前に決意",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80819",
-      "source": "ミクスOnline",
-      "published": "2026-09-03T19:51:00Z",
-      "published_label": "2026/09/04 04:51",
-      "summary": "UAゼンセンの永島智子会長は9月3日、定期大会を間近に控える中で開いた会見で、「就任から２年間の取り組みを総括するとともに、新たな行動方針の下で次の一歩を踏み出す重要な節目になる」と述べ、組織拡大や賃上げ、政治活動を通じた政策実現に注力する姿勢を示した。",
       "tags": [
         "その他"
       ],
