@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-09-13T08:13:12.255517Z",
-  "updated_label": "2026/09/13 17:13",
-  "count": 96,
+  "updated_at": "2026-09-13T17:54:14.120125Z",
+  "updated_label": "2026/09/14 02:54",
+  "count": 98,
   "items": [
+    {
+      "title": "調剤ポイント規制、15年の議論を経てルールを再整理",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594453.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-13T15:00:00Z",
+      "published_label": "2026/09/14 00:00",
+      "summary": "厚生労働省は2026年6月、薬局でのポイント付与など経済的利益による患者誘引を規制する事務連絡を発出しました。実質的に薬局が費用を負担する過度な利益提供が報告されており、不適切な手法の是正が狙い。薬局ではポイント付与の条件やサービス内容の見直しが求められています。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "心不全標準治療薬の禁忌・注意点とその対処法",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/academy_ohnishi/202609/594218.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-13T15:00:00Z",
+      "published_label": "2026/09/14 00:00",
+      "summary": "心不全の定義や分類、病態をはじめ、治療のポイント、合併症管理のtipsなど、心不全にまつわる様々なノウハウを解説する大西勝也氏の心不全・心機能アカデミー。今回は、心不全標準治療薬の禁忌・注意点とその対処法について解説します。",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "薬局実習、薬学生指導のポイントは【第5週目】",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/practicenavi/202609/594485.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-13T15:00:00Z",
+      "published_label": "2026/09/14 00:00",
+      "summary": "本連載では、2026年度第3期の実習日に合わせて、指導薬剤師が押さえておきたい「指導のポイント」を毎週月曜日に公開。さらに、その週に学んだ内容を学生がどれくらい理解しているかチェックできる「理解度チェック問題」を1問、薬剤師国家試験の過去問より出題します。解答・解説は、メディックメディアが提供します。メディックメディアの過去問演習サービス「QB薬剤師国試」を利用すれば、実習に関連した毎週20問前後の過去問にも挑戦できます。（※ご利⽤に…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "薬剤師の安定性が揺らいでるって本当？",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/7802?promotionCode=op_pcolumn",
@@ -941,19 +980,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師・薬局概算要求は38億円で前年比約6倍、臨床研修に10億円",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594451.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-08T15:00:00Z",
-      "published_label": "2026/09/09 00:00",
-      "summary": "厚生労働省医薬局総務課は、2026年8月末に公表した2027年度厚労省予算概算要求のうち、薬剤師・薬局関係概算要求の概要を明らかにしました。概算要求額は38億6200万円で、2026年度予算額の6億3000万円から約6倍となりました。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
