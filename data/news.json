@@ -1,8 +1,77 @@
 {
-  "updated_at": "2026-09-13T22:50:43.824087Z",
-  "updated_label": "2026/09/14 07:50",
-  "count": 92,
+  "updated_at": "2026-09-14T03:14:09.848637Z",
+  "updated_label": "2026/09/14 12:14",
+  "count": 94,
   "items": [
+    {
+      "title": "SOAPを埋めるなら薬剤師らしいA（アセスメント）を書こう",
+      "link": "https://pharmacist.m3.com/column/yakureki/7803?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-14T03:14:08.377136Z",
+      "published_label": "2026/09/14 12:14",
+      "summary": "「患者さんが薬をじっと見て複雑な表情をされていました。そこで「お医者さまから『薬を出しておくから1週間様子をみて』と言われたとき、どんな気持ちでしたか」と患者さんに尋ねたところ、「複雑な気持ちでした」とおっしゃいました。 この場合、薬剤師としては、患者さんの気持ちをどう聞き出し、薬歴にはどう記載すればよかったのでしょうか？」との相談に、服薬ケア研究所所長 岡村祐聡先生がアドバイスします。",
+      "tags": [
+        "薬剤師コラム",
+        "プロブレム",
+        "SOAP",
+        "薬歴"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "動作緩慢・むせは薬のせい？処方で見直すべき3つのポイント",
+      "link": "https://www.carenet.com/series/geriatrics/cg005701_006.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-14T01:00:08Z",
+      "published_label": "2026/09/14 10:00",
+      "summary": "DLBが疑われる82歳男性。腰痛治療後の血圧上昇、不眠、動作緩慢、嚥下障害――。新たな症状に薬を重ねた結果、処方カスケードに陥っていた。前医の処方から見抜きたい「3つの替えるべきポイント」を解説する。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "（シタグリプチンと比べて）チルゼパチドでMACEリスク32％低減（解説：小川大輔氏）",
+      "link": "https://www.carenet.com/news/clear/journal/63573?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-14T01:00:00Z",
+      "published_label": "2026/09/14 10:00",
+      "summary": "GLP-1受容体作動薬やGIP/GLP-1受容体作動薬には、主要心血管イベント（MACE：心血管死・非致死性心筋梗塞・非致死性脳卒中）のリスクを抑制する効果が認められている。ただ、実際にどの程度抑制する効果が認められ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省 大原薬剤管理官】地域性踏まえた薬局評価へ‐中間年改定はバランス意識",
+      "link": "https://www.yakuji.co.jp/entry139373.html",
+      "source": "薬事日報",
+      "published": "2026-09-13T23:31:55Z",
+      "published_label": "2026/09/14 08:31",
+      "summary": "厚生労働省保険局医療課の大原拓薬剤管理官は本紙の取材に応じ、次期調剤報酬改定に向けた議論については2040年を見据え、全国一律の評価体系ではなく地域の実情を踏…",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【医療保険部会】アトピー再燃予防は対象外‐ステロイド外用薬別途負担",
+      "link": "https://www.yakuji.co.jp/entry139372.html",
+      "source": "薬事日報",
+      "published": "2026-09-13T23:30:10Z",
+      "published_label": "2026/09/14 08:30",
+      "summary": "社会保障審議会医療保険部会は11日、OTC類似薬の保険給付見直しに伴う一部保険外療養制度の具体的運用について議論し、アトピー性皮膚炎で再燃予防を目的とするプロ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "心臓の前負荷と後負荷の違い―心不全治療薬は何を軽くしている？",
       "link": "https://yakuzaic.com/archives/144443",
@@ -519,33 +588,6 @@
       "keywords": []
     },
     {
-      "title": "【医薬品市販後の安全性情報管理】キヤノンITソリューションズ",
-      "link": "https://www.yakuji.co.jp/entry139274.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:07:04Z",
-      "published_label": "2026/09/11 10:07",
-      "summary": "PMDA電子報告に対応‐クラウド化で常に最新環境 キヤノンITソリューションズ（キヤノンITS）は、企業間の汎用電子データ交換（EDI）クラウドサービス「ED…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【医薬品市販後の安全性情報管理】アクセンチュア",
-      "link": "https://www.yakuji.co.jp/entry139277.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:06:07Z",
-      "published_label": "2026/09/11 10:06",
-      "summary": "AIでICSR処理刷新‐実装から変革まで伴走 新薬開発の難易度上昇や開発費の増大を背景に、製薬企業は全社的な業務効率化を迫られている。その状況下、PVは医薬品…",
-      "tags": [
-        "業界動向",
-        "承認・新薬"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "SGLT2阻害薬のフォローアップ：トレーシング文例付！",
       "link": "https://pharmacist.m3.com/column/diabetes_sideeffects/7797?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -882,20 +924,6 @@
       "summary": "積水メディカルは、神奈川県立こども医療センターに入院・通院中の子どもやそのきょうだい、家族を対象とした理科教室を開催した。",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "9価HPVワクチンは日本の若い男性でも持続的な感染予防に有用",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/lancet/202609/594407.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-09T15:00:00Z",
-      "published_label": "2026/09/10 00:00",
-      "summary": "早川クリニック（大阪市中央区）の久本浩司氏らは、日本の16～26歳の男性を対象に、9価のヒトパピローマウイルス（9vHPV）ワクチンの有効性を評価する第3相臨床試験を行ったところ、ワクチンがカバーしているHPV型の肛門性器部への持続的な感染予防効果が見られ、有害事象は大半が軽度で懸念されるものはなかったと報告した。結果は2026年8月3日のLancet Infectious Disease誌電子版に掲載された。9vHPVワクチンがカバ…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
