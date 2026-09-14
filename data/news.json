@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-14T17:37:17.706705Z",
-  "updated_label": "2026/09/15 02:37",
-  "count": 89,
+  "updated_at": "2026-09-14T21:25:56.968693Z",
+  "updated_label": "2026/09/15 06:25",
+  "count": 57,
   "items": [
     {
       "title": "「効かない」を解決！アルプラゾラム頓服指導",
       "link": "https://pharmacist.m3.com/column/psychotropic_drug/7806?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-14T17:37:16.233582Z",
-      "published_label": "2026/09/15 02:37",
+      "published": "2026-09-14T21:25:55.693828Z",
+      "published_label": "2026/09/15 06:25",
       "summary": "「不安時」としか書かれていない抗不安薬の頓服指導に悩んでいませんか？パニック症患者の「飲むタイミングが分からない」「効かないから2錠飲んだ」といった訴えには、Tmaxではなく患者自身の「目印」を聞き取るアプローチが有効です。よくある3つの悩みへの具体的な返答の仕方と処方医への情報連携のコツを解説します。",
       "tags": [
         "薬剤師コラム",
@@ -87,32 +87,6 @@
         "薬歴"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "動作緩慢・むせは薬のせい？処方で見直すべき3つのポイント",
-      "link": "https://www.carenet.com/series/geriatrics/cg005701_006.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-14T01:00:08Z",
-      "published_label": "2026/09/14 10:00",
-      "summary": "DLBが疑われる82歳男性。腰痛治療後の血圧上昇、不眠、動作緩慢、嚥下障害――。新たな症状に薬を重ねた結果、処方カスケードに陥っていた。前医の処方から見抜きたい「3つの替えるべきポイント」を解説する。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "（シタグリプチンと比べて）チルゼパチドでMACEリスク32％低減（解説：小川大輔氏）",
-      "link": "https://www.carenet.com/news/clear/journal/63573?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-14T01:00:00Z",
-      "published_label": "2026/09/14 10:00",
-      "summary": "GLP-1受容体作動薬やGIP/GLP-1受容体作動薬には、主要心血管イベント（MACE：心血管死・非致死性心筋梗塞・非致死性脳卒中）のリスクを抑制する効果が認められている。ただ、実際にどの程度抑制する効果が認められ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -276,97 +250,6 @@
       "keywords": []
     },
     {
-      "title": "医療等情報の二次利用 加工していないゲノムデータや画像情報も可能に 一元的なオプトアウト管理も",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80862",
-      "source": "ミクスOnline",
-      "published": "2026-09-13T19:52:00Z",
-      "published_label": "2026/09/14 04:52",
-      "summary": "内閣府の「医療等情報の利活用の推進に関する検討会」は９月11日、取りまとめ案を大筋で了承した。取りまとめ案では、医療等情報の医薬品などの研究開発への二次利用をめぐる制度枠組みを示した。二次利用できる対象範囲を、加工していないゲノムデータや画像情報に拡大する。あわせて必要な場合に、国・公的機関に事前通知を必要としない一元的なオプトアウト管理を設ける。患者の意向を踏まえ、患者の権利利益も保護する。論点の一つとなっていた各種データを連結して…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "社保審 アトピー性皮膚炎へのプロアクティブ療法「通年にわたり定期的」は一部保険外療養の別途負担対象外...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80864",
-      "source": "ミクスOnline",
-      "published": "2026-09-13T19:51:00Z",
-      "published_label": "2026/09/14 04:51",
-      "summary": "社会保障審議会医療保険部会は９月11日、OTC類似薬を処方した患者に追加負担を求める一部保険外療養をめぐり、アトピー性皮膚炎に対するプロアクティブ療法について議論した。厚労省は、「アトピー性皮膚炎に対してプロアクティブ療法として通年にわたり定期的にステロイド外用薬を使用する場合」に別途の負担の対象外とすることを提案。構成員からは大きな異論は出なかった。アトピー性皮膚炎に対するプロアクティブ療法をめぐっては、日本アレルギー友の会が別途負…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "厚労省・PMDA 米FDA主導「Project Orbis」に正式参加 抗がん剤の審査協働でラグ/ロ...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80863",
-      "source": "ミクスOnline",
-      "published": "2026-09-13T19:50:00Z",
-      "published_label": "2026/09/14 04:50",
-      "summary": "厚生労働省は９月11日、同省とPMDAが米FDAの主導する「Project Orbis」に正式に参加すると発表した。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "スズケン 英国機関投資家・シルチェスターが筆頭株主に 議決権ベースの保有比率10.03％に上昇",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80856",
-      "source": "ミクスOnline",
-      "published": "2026-09-13T19:49:00Z",
-      "published_label": "2026/09/14 04:49",
-      "summary": "スズケンは９月10日、英国の機関投資家・シルチェスター・インターナショナル・インベスターズがスズケン株を買い増し、筆頭株主になったと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "自民党税調・社保調合同会議 税制改正大綱案を了承 消費税１％減税、所得連動型給付導入へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80861",
-      "source": "ミクスOnline",
-      "published": "2026-09-13T19:48:00Z",
-      "published_label": "2026/09/14 04:48",
-      "summary": "自民党の税制調査会（小野寺五典会長）と社会保障制度調査会（田村憲久会長）の合同会議は9月11日、税制改正大綱を調査会長一任で了承した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "NPhA OTC類似薬の一部保険外療養の制度設計で厚労省に要望書提出 保険薬局の業務負担増加を懸念",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80851",
-      "source": "ミクスOnline",
-      "published": "2026-09-13T19:48:00Z",
-      "published_label": "2026/09/14 04:48",
-      "summary": "日本保険薬局協会（NPhA）は9月10日の定例会見で、OTC類似薬の一部保険外療養の創設に向けた制度設計で要望書を厚労省に提出する方針を示した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "王子ファーマ ベタイン後発品を9月10日発売",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80858",
-      "source": "ミクスOnline",
-      "published": "2026-09-13T19:47:00Z",
-      "published_label": "2026/09/14 04:47",
-      "summary": "王子ファーマは９月10日、ホモシスチン尿症治療薬・サイスタダン原末の後発品であるベタイン「OJI」原末を発売した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "調剤ポイント規制、15年の議論を経てルールを再整理",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594453.html",
       "source": "日経メディカル Online",
@@ -502,19 +385,6 @@
       "keywords": []
     },
     {
-      "title": "【訃報】元・武田薬品社長CEOの長谷川閑史さん逝去 タケダの事業基盤をグローバル規模への拡大に尽力",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80860",
-      "source": "ミクスOnline",
-      "published": "2026-09-11T02:00:00Z",
-      "published_label": "2026/09/11 11:00",
-      "summary": "元武田薬品代表取締役社長CEOの長谷川閑史（はせがわ・やすちか）さんが、7月30日に逝去した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "薬事工業生産動態統計令和8年6月分月報について",
       "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
       "source": "厚生労働省 新着情報",
@@ -637,101 +507,6 @@
       "keywords": []
     },
     {
-      "title": "製薬協・木下理事長 10月から一般社団法人化「国内外の医療・薬価政策に機動的対応」事業戦略本部が軸",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80859",
-      "source": "ミクスOnline",
-      "published": "2026-09-10T19:53:00Z",
-      "published_label": "2026/09/11 04:53",
-      "summary": "日本製薬工業協会（製薬協）の木下賢志理事長は9月10日、大阪市内で開催した製薬協総会後の記者会見で、10月から本格活動する一般社団法人化について、「単なる任意団体から法人への形式変更にとどめず、国内外の医療・薬価政策の変化や委員会単独では対応し切れない課題をより深く検討するための基盤にしたい」と説明した。",
-      "tags": [
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "科研製薬 フィブラストスプレーの美容目的の適応外使用で注意喚起 健康被害も",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80857",
-      "source": "ミクスOnline",
-      "published": "2026-09-10T19:52:00Z",
-      "published_label": "2026/09/11 04:52",
-      "summary": "科研製薬は９月10日、褥瘡・皮膚潰瘍治療用の外用薬・フィブラストスプレー（一般名：トラフェルミン（遺伝子組換え））について、しわ取りなどの美容目的で皮下注入する適応外使用が確認されているとして、医療機関及び医療関係者に適正使用を求めた。",
-      "tags": [
-        "安全性情報",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "武田薬品 取締役R＆Dプレジデントのアンドリュー・プランプ氏が退任へ 27年6月の定時株主総会まで",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80854",
-      "source": "ミクスOnline",
-      "published": "2026-09-10T19:51:00Z",
-      "published_label": "2026/09/11 04:51",
-      "summary": "武田薬品は9月10日、取締役リサーチ＆デベロップメント プレジデントのアンドリュー・プランプ氏（M.D., Ph.D.）が退任予定だと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "東京医薬品卸業協会・創立70周年 福神理事長 設立当初の思い受け継ぐ「国民のため医薬品を安定供給」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80855",
-      "source": "ミクスOnline",
-      "published": "2026-09-10T19:50:00Z",
-      "published_label": "2026/09/11 04:50",
-      "summary": "東京医薬品卸業協会は９月10日、東京都内で創立70周年記念式典を開催した。",
-      "tags": [
-        "供給・出荷",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "楽天メディカル 副会長に元武田・ウェバー氏が就任 取締役には元第一三共・竹下健一氏 米国事業強化へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80852",
-      "source": "ミクスOnline",
-      "published": "2026-09-10T19:50:00Z",
-      "published_label": "2026/09/11 04:50",
-      "summary": "楽天メディカルは９月10日、武田薬品で社長兼CEOを務めたクリストフ・ウェバー氏が取締役副会長に、第一三共でグローバル研究開発ヘッドを務めた竹下健一氏が取締役に就任したと発表した。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "UAゼンセン 定期大会で医療産業政策を策定 医療従事者の人材確保に向けて処遇改善推進",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80850",
-      "source": "ミクスOnline",
-      "published": "2026-09-10T19:49:00Z",
-      "published_label": "2026/09/11 04:49",
-      "summary": "UAゼンセンは9月10日の定期大会（東京都内開催）で、医療従事者の人材確保や処遇改善への取り組みなどを盛り込んだ「医療産業政策」を策定した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ラスカー・ドゥベーキー臨床医学研究賞 中外製薬の3研究者が受賞 ヘムライブラの創製を主導",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80853",
-      "source": "ミクスOnline",
-      "published": "2026-09-10T19:48:00Z",
-      "published_label": "2026/09/11 04:48",
-      "summary": "世界的に権威のある科学賞「ラスカー・ドゥベーキー臨床医学研究賞」に、中外製薬で血友病A治療薬ヘムライブラ (一般名:エミシズマブ)の創製を主導した、同社の元シニアフェローの服部有宏氏、研究本部副本部長の北沢剛久氏、 研究本部長の井川智之氏の３人が選ばれた。",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "抗生物質にチョコはなぜ？服薬ゼリーの相性と指導法",
       "link": "https://pharmacist.m3.com/column/otc_noriko/7795?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -787,100 +562,6 @@
       "keywords": []
     },
     {
-      "title": "中医協 OTC類似薬の一部保険外療養創設で処方箋上に「一部保険外療養」欄追加へ 上野厚労相が諮問",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80847",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T21:03:00Z",
-      "published_label": "2026/09/10 06:03",
-      "summary": "中医協は９月９日、OTC類似薬の一部保険外療養創設をめぐり、これに伴う療養担当規則等の見直しについて、上野厚労相から諮問を受けた。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "中医協費用対効果評価専門部会 厚労科研の検証で専門組織の決定は「一定の妥当性」も透明性に課題も",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80846",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T21:01:00Z",
-      "published_label": "2026/09/10 06:01",
-      "summary": "中医協費用対効果評価専門部会は９月９日、厚生労働科学研究班の費用対効果評価制度における検証のための会議の議論のとりまとめについて報告を受けた。",
-      "tags": [
-        "薬価・制度",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "中医協 薬担規則の見直しを答申 処方箋・調剤録の保存期間を３年間から５年間に延長",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80848",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T21:00:00Z",
-      "published_label": "2026/09/10 06:00",
-      "summary": "中医協は９月９日、上野厚労相からの諮問を受け、薬機法等改正に伴う保険薬局及び保険薬剤師療養担当規則（薬担規則）等の所要の見直しについて答申した。",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【中医協費用対効果評価専門部会 ９月９日 議事要旨 費用対効果評価制度における検証等の報告】",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80845",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T19:51:00Z",
-      "published_label": "2026/09/10 04:51",
-      "summary": "中医協費用対効果評価専門部会が９月９日に開かれ、医薬品等の費用対効果評価制度における検証のための会議から取りまとめの報告を受け、議論した。本誌は、診療・支払各側の発言内容を議事要旨として公開する。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【中医協総会 ９月９日 議事要旨 OTC類似薬の保険給付の見直し 薬機法等改正に伴う保険薬局及び保険...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80844",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T19:51:00Z",
-      "published_label": "2026/09/10 04:51",
-      "summary": "中医協総会は９月９日、OTC類似薬の保険給付の見直しについて議論した。本誌は診療・支払各側の質疑について議事要旨として公開する。",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "ニプロ ステラーラ点滴静注のBS 11月収載日に即日発売へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80841",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T19:50:00Z",
-      "published_label": "2026/09/10 04:50",
-      "summary": "ニプロは、ウステキヌマブBS点滴静注130mg「ニプロ」について、11月に予定されている薬価基準収載日に即日発売する予定だ。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "積水メディカル 入院・通院中の子どもたちに「検査のひみつ」学べる体験教室を実施",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80834",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T19:50:00Z",
-      "published_label": "2026/09/10 04:50",
-      "summary": "積水メディカルは、神奈川県立こども医療センターに入院・通院中の子どもやそのきょうだい、家族を対象とした理科教室を開催した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "OTC類似薬に別途負担が発生！対象医薬品と仕組み",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7789?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -924,73 +605,6 @@
       "keywords": []
     },
     {
-      "title": "AZ 九州電力送配電とEV充電サービスの実証開始 現地MRが参画 EV環境整備と業務効率化へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80843",
-      "source": "ミクスOnline",
-      "published": "2026-09-08T19:52:00Z",
-      "published_label": "2026/09/09 04:52",
-      "summary": "アストラゼネカは９月８日、月極駐車場や賃貸住宅付随の駐車場を対象とした電気自動車（EV）充電サービスの実証実験を九州エリアで開始したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "メディパルHD 次期社長に今川国明氏 渡辺秀一氏は会長に 10月１日付トップ人事",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80842",
-      "source": "ミクスOnline",
-      "published": "2026-09-08T19:51:00Z",
-      "published_label": "2026/09/09 04:51",
-      "summary": "メディパルホールディングスは９月８日、次期代表取締役社長に今川国明・常務取締役医薬事業担当が就任するトップ人事を発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日薬連・安川会長 27年度予算概算要求「従来にない規模」と評価 革新的新薬生みだす好循環創出に期待",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80838",
-      "source": "ミクスOnline",
-      "published": "2026-09-08T19:51:00Z",
-      "published_label": "2026/09/09 04:51",
-      "summary": "日本製薬団体連合会（日薬連）の安川健司会長は9月８日、2027年度予算概算要求を受けてコメントを発表した。",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "中外製薬 ネモリズマブでJBDA創薬大賞を受賞",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80840",
-      "source": "ミクスOnline",
-      "published": "2026-09-08T19:50:00Z",
-      "published_label": "2026/09/09 04:50",
-      "summary": "中外製薬がヒト化抗ヒトIL-31受容体Aモノクローナル抗体・ネモリズマブに関する研究成果で「JBDA創薬大賞」を受賞。画期的な医薬品の創出に寄与する革新的な研究成果を挙げ、医学・医療の発展に大きく貢献したと評価された。",
-      "tags": [
-        "業界動向",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "MOLCUREとAxcelead DDP AI創薬プラットフォームを活用したペプチド医薬品候補の創製...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80839",
-      "source": "ミクスOnline",
-      "published": "2026-09-08T19:50:00Z",
-      "published_label": "2026/09/09 04:50",
-      "summary": "ＡＩで抗体およびペプチド創薬を行うMOLCUREは９月８日、Axcelead Drug Discovery Partners（Axcelead DDP）とＡＩ創薬プラットフォームを活用したペプチド医薬品候補の創製に関する契約を締結したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "シルバーウィークの新薬処方、日数制限は？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7788?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1015,46 +629,6 @@
       "summary": "骨粗鬆症治療薬は骨を作る？骨が壊れるのを防ぐ？ 骨粗鬆症治療薬には、ビスホスホネート製剤、SERM、デノスマブ、テリパラチド、ロモソズマブ、活性型ビタミンD₃製剤など、さまざまな薬があります。 薬の名前だけを覚えていると […] The post 骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」 first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "肥満症薬市場 30年に100億円超へ 経口GLP-1受容体作動薬・オルホルグリプロンは注射剤より「優...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80809",
-      "source": "ミクスOnline",
-      "published": "2026-09-07T19:52:00Z",
-      "published_label": "2026/09/08 04:52",
-      "summary": "保険適用下の肥満症治療薬の国内市場は2030年に100億円を超える――。このような市場予測を富士経済がまとめた。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "富士製薬 医療関係者向けに新コンテンツ ＡＩナビゲーターとＡＩ医師が最新医学論文を対話形式で解説",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80835",
-      "source": "ミクスOnline",
-      "published": "2026-09-07T19:51:00Z",
-      "published_label": "2026/09/08 04:51",
-      "summary": "富士製薬は９月７日、医療関係者向けサイトの新たな情報提供コンテンツとして、医学論文を音声で配信する「Fuji Evidence Digest－耳から医学論文－」を公開したと発表した。",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "順天堂大学とケアネット 臨床支援ＡＩエージェントの開発で共同研究 医療情報と臨床知をＡＩでつなぐ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80832",
-      "source": "ミクスOnline",
-      "published": "2026-09-07T19:50:00Z",
-      "published_label": "2026/09/08 04:50",
-      "summary": "学校法人順天堂とケアネットは9月７日、ＡＩエージェントを活用した新しい臨床支援の仕組みを開発する共同研究を行うことで合意したと発表した。",
-      "tags": [
-        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
