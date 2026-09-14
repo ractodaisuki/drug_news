@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-14T03:14:09.848637Z",
-  "updated_label": "2026/09/14 12:14",
-  "count": 94,
+  "updated_at": "2026-09-14T11:43:09.146940Z",
+  "updated_label": "2026/09/14 20:43",
+  "count": 88,
   "items": [
+    {
+      "title": "薬事審議会血液事業部会令和８年度第２回運営委員会（ペーパーレス・Web併用）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75517.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-14T05:00:00Z",
+      "published_label": "2026/09/14 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
     {
       "title": "SOAPを埋めるなら薬剤師らしいA（アセスメント）を書こう",
       "link": "https://pharmacist.m3.com/column/yakureki/7803?promotionCode=op_pcolumn",
@@ -549,45 +562,6 @@
       "keywords": []
     },
     {
-      "title": "【医薬品市販後の安全性情報管理】Veeva",
-      "link": "https://www.yakuji.co.jp/entry139268.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:10:50Z",
-      "published_label": "2026/09/11 10:10",
-      "summary": "統一基盤と業務別AI融合‐複雑なPV業務支える Veevaは、AI時代の医薬品安全性情報管理（PV）業務の変革に向け、同社の統一基盤プラットフォーム「Veev…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【医薬品市販後の安全性情報管理】サイネオス・ヘルス・ジャパン",
-      "link": "https://www.yakuji.co.jp/entry139270.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:09:18Z",
-      "published_label": "2026/09/11 10:09",
-      "summary": "規模に応じた運営モデル構築‐部門立上げ時の体制整備も サイネオス・ヘルス・ジャパンは、日本語対応の国内チームと海外リソース、グローバルPV（安全性情報管理）組…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【医薬品市販後の安全性情報管理】シャペロン",
-      "link": "https://www.yakuji.co.jp/entry139272.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:08:47Z",
-      "published_label": "2026/09/11 10:08",
-      "summary": "新ソリューションを開発‐スライドや抄録からも抽出 シャペロンは、医薬品安全性情報管理（PV）の新たなソリューション「Shaperon Safety Intak…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "SGLT2阻害薬のフォローアップ：トレーシング文例付！",
       "link": "https://pharmacist.m3.com/column/diabetes_sideeffects/7797?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -737,46 +711,6 @@
         "供給・出荷"
       ],
       "importance": 5,
-      "keywords": []
-    },
-    {
-      "title": "既存治療で効果不十分な慢性特発性蕁麻疹に初の経口BTK阻害薬",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202609/594491.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-10T15:00:00Z",
-      "published_label": "2026/09/11 00:00",
-      "summary": "2026年6月19日、慢性蕁麻疹治療薬レミブルチニブ（商品名ラプシド錠25mg）の製造販売が承認された。適応は「特発性の慢性蕁麻疹（既存治療で効果不十分な患者に限る）」、用法用量は「成人に1回25mgを1日2回経口投与する」となっている。 蕁麻疹は、皮膚のマスト細胞の脱顆粒により皮膚組織内に放出されたヒスタミンなどの化学物質により、血管拡張（紅斑）、血漿成分の漏出（膨疹）および痒みが生じる疾患である。慢性特発性蕁麻疹（CSU）は、蕁麻…",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "併用禁忌や投与禁忌の薬、「すぐ中止を」と思っていませんか",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/sasajima/202609/594494.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-10T15:00:00Z",
-      "published_label": "2026/09/11 00:00",
-      "summary": "「処方された薬が併用禁忌や投与禁忌だったらどうしていますか」──。こう尋ねられたら、ほとんどの薬剤師が「疑義照会して処方を回避する」と答えるでしょう。投与が禁止されるほどのリスクがあるわけですから、当然のことだと思います。 しかし、状況によっては単にその薬剤を禁止とするだけでなく、様々な配慮が必要になる場合があります。今回は、2つの実例を基に、注意すべき点を紹介したいと思います。 この症例では、当初、セリンクロを他のアルコール依存症の…",
-      "tags": [
-        "安全性情報",
-        "医療安全"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "配薬カートの提供NGで思う高齢者医療を巡る不適切な関係",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/inout/202609/594445.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-10T15:00:00Z",
-      "published_label": "2026/09/11 00:00",
-      "summary": "薬局と高齢者施設の金品のやり取りに、規制の目が向けられている。2026年6月に厚生労働省が出した事務連絡（以下、通知）では、高齢者施設などからの患者紹介の見返りとして、薬局が配薬カートを設置したり、金品や物品、サービスを提供したりすることは、「患者紹介の対価としての経済上の利益提供」に該当し、保険薬局及び保険薬剤師療養担当規則（薬担規則）違反となることが改めて示された。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -1120,19 +1054,6 @@
         "糖尿病",
         "薬物療法・作用機序",
         "服薬指導"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会血液事業部会令和８年度第１回適正使用調査会議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75447.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-07T03:00:00Z",
-      "published_label": "2026/09/07 12:00",
-      "summary": "",
-      "tags": [
-        "安全性情報"
       ],
       "importance": 3,
       "keywords": []
