@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-15T03:16:23.782055Z",
-  "updated_label": "2026/09/15 12:16",
-  "count": 77,
+  "updated_at": "2026-09-15T11:00:20.397704Z",
+  "updated_label": "2026/09/15 20:00",
+  "count": 84,
   "items": [
     {
       "title": "「効かない」を解決！アルプラゾラム頓服指導",
       "link": "https://pharmacist.m3.com/column/psychotropic_drug/7806?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-15T03:16:21.864523Z",
-      "published_label": "2026/09/15 12:16",
+      "published": "2026-09-15T11:00:19.032963Z",
+      "published_label": "2026/09/15 20:00",
       "summary": "「不安時」としか書かれていない抗不安薬の頓服指導に悩んでいませんか？パニック症患者の「飲むタイミングが分からない」「効かないから2錠飲んだ」といった訴えには、Tmaxではなく患者自身の「目印」を聞き取るアプローチが有効です。よくある3つの悩みへの具体的な返答の仕方と処方医への情報連携のコツを解説します。",
       "tags": [
         "薬剤師コラム",
@@ -16,6 +16,19 @@
         "医薬品情報・DI",
         "薬物療法・作用機序",
         "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会 要指導・一般用医薬品部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76198.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-15T05:00:00Z",
+      "published_label": "2026/09/15 14:00",
+      "summary": "",
+      "tags": [
+        "一般用医薬品"
       ],
       "importance": 3,
       "keywords": []
@@ -59,6 +72,20 @@
         "業界動向"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "一般名処方のOD錠を普通錠に変更できる？―先発品とジェネリックで違う変更調剤のルール",
+      "link": "https://yakuzaic.com/archives/144439",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-14T22:00:00Z",
+      "published_label": "2026/09/15 07:00",
+      "summary": "先発品とジェネリックで違う変更調剤のルール 一般名処方で「口腔内崩壊錠（OD錠）」が処方されている患者さん。 ところが薬局にはOD錠の在庫がなく、普通錠なら在庫がある。 このとき、「同じ成分・同じ含量なんだから、普通錠に […] The post 一般名処方のOD錠を普通錠に変更できる？―先発品とジェネリックで違う変更調剤のルール first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度",
+        "医療安全"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -154,6 +181,19 @@
       "keywords": []
     },
     {
+      "title": "調剤ポイント付与は「現金支払い時のみ」が多数",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594454.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-14T15:00:00Z",
+      "published_label": "2026/09/15 00:00",
+      "summary": "厚生労働省が薬局の患者誘引策に対する規制を明確化しました。調剤・決済ポイントの合算が患者負担額の1％相当を超えるポイント付与や、処方箋受付サービスのポイント・キャッシュバック、「送料無料」を強調した広告などが指導対象に。事務連絡を受け、薬局や関連事業者で運用の見直しが進んでいます。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "書籍紹介『たんぽぽ先生の在宅報酬ドリル2026―2027年度版』（日経BP）",
       "link": "https://medical.nikkeibp.co.jp/leaf/all/clinic/nhc/jyoho/202609/594493.html",
       "source": "日経メディカル Online",
@@ -243,6 +283,19 @@
       "published": "2026-09-13T23:30:10Z",
       "published_label": "2026/09/14 08:30",
       "summary": "社会保障審議会医療保険部会は11日、OTC類似薬の保険給付見直しに伴う一部保険外療養制度の具体的運用について議論し、アトピー性皮膚炎で再燃予防を目的とするプロ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "心臓の前負荷と後負荷の違い―心不全治療薬は何を軽くしている？",
+      "link": "https://yakuzaic.com/archives/144443",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "心臓の前負荷と後負荷 心不全治療薬について勉強していると、「前負荷を軽減する」「後負荷を軽減する」という言葉がよく出てきます。 利尿薬は前負荷を軽減し、血管拡張薬は後負荷を軽減する――と暗記している人も多いでしょう。 し […] The post 心臓の前負荷と後負荷の違い―心不全治療薬は何を軽くしている？ first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
@@ -461,32 +514,6 @@
       "keywords": []
     },
     {
-      "title": "調剤ポイント規制、15年の議論を経てルールを再整理",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594453.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-13T15:00:00Z",
-      "published_label": "2026/09/14 00:00",
-      "summary": "厚生労働省は2026年6月、薬局でのポイント付与など経済的利益による患者誘引を規制する事務連絡を発出しました。実質的に薬局が費用を負担する過度な利益提供が報告されており、不適切な手法の是正が狙い。薬局ではポイント付与の条件やサービス内容の見直しが求められています。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "心不全標準治療薬の禁忌・注意点とその対処法",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/academy_ohnishi/202609/594218.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-13T15:00:00Z",
-      "published_label": "2026/09/14 00:00",
-      "summary": "心不全の定義や分類、病態をはじめ、治療のポイント、合併症管理のtipsなど、心不全にまつわる様々なノウハウを解説する大西勝也氏の心不全・心機能アカデミー。今回は、心不全標準治療薬の禁忌・注意点とその対処法について解説します。",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "薬剤師の安定性が揺らいでるって本当？",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/7802?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -503,6 +530,19 @@
       "keywords": []
     },
     {
+      "title": "認知症の原因は甲状腺？―甲状腺機能低下症と認知機能の関係",
+      "link": "https://yakuzaic.com/archives/144436",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-12T22:00:00Z",
+      "published_label": "2026/09/13 07:00",
+      "summary": "認知症と甲状腺機能低下症 高齢者から、「最近、物忘れがひどくなった」「ぼーっとしていることが増えた」「以前より反応が鈍くなった」といった訴えを聞けば、まず「認知症」が頭に浮かびます。 しかし、認知機能が低下する原因はアル […] The post 認知症の原因は甲状腺？―甲状腺機能低下症と認知機能の関係 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "セフジトレン等の薬袋誤用！ヒヤリハット防止手順",
       "link": "https://pharmacist.m3.com/column/hiyari/7800?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -515,6 +555,19 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "乳癌耐性蛋白BCRPとは？―なぜ乳癌と関係ない薬の相互作用に出てくるのか",
+      "link": "https://yakuzaic.com/archives/144433",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-11T22:00:00Z",
+      "published_label": "2026/09/12 07:00",
+      "summary": "乳癌耐性蛋白BCRPとは？ 医薬品の添付文書やインタビューフォームを読んでいると、「BCRPの基質である」「BCRPを阻害する」といった記載を目にすることがある。 BCRPとは、Breast Cancer Resista […] The post 乳癌耐性蛋白BCRPとは？―なぜ乳癌と関係ない薬の相互作用に出てくるのか first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -539,19 +592,6 @@
       "summary": "",
       "tags": [
         "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【訃報】長谷川閑史氏（元武田薬品社長CEO）が死去",
-      "link": "https://www.yakuji.co.jp/entry139348.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T02:24:29Z",
-      "published_label": "2026/09/11 11:24",
-      "summary": "元武田薬品社長CEOの長谷川閑史氏が亡くなった。7月3日に死去。80歳。武田薬品が遺族の了承のもと、11日に明らかにした。 葬儀は近親者のみで執り行われた。…",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -583,32 +623,6 @@
       "keywords": []
     },
     {
-      "title": "日本プライマリ・ケア連合学会 研修会 2026/10",
-      "link": "https://www.yakuji.co.jp/entry139251.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:30:16Z",
-      "published_label": "2026/09/11 10:30",
-      "summary": "『減薬がうまくいくとき、いかないとき―患者・医療者の視点から再考するポリファーマシー』 日時 2026年10月4日(日)9時20分～12時30分 場所 オンライ…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【医薬品市販後の安全性情報管理】アリスグローバル",
-      "link": "https://www.yakuji.co.jp/entry139254.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:15:37Z",
-      "published_label": "2026/09/11 10:15",
-      "summary": "NavaX、3割超の効率向上‐BPO支出を35％削減も アリスグローバルは、ファーマコビジランス（PV）業務を支援する「LifeSphere Safety」へ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "SGLT2阻害薬のフォローアップ：トレーシング文例付！",
       "link": "https://pharmacist.m3.com/column/diabetes_sideeffects/7797?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -623,6 +637,20 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？",
+      "link": "https://yakuzaic.com/archives/144430",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-10T22:00:00Z",
+      "published_label": "2026/09/11 07:00",
+      "summary": "薬のアレルギー 薬によるアレルギーというと、「薬を飲んだ直後に蕁麻疹が出る」「注射した直後に息苦しくなってショックを起こす」といったイメージが強い。 確かにアナフィラキシーは、原因となる薬剤を使用してから短時間で起こるこ […] The post 薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報",
+        "感染症・ワクチン"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -763,6 +791,19 @@
       "keywords": []
     },
     {
+      "title": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット",
+      "link": "https://yakuzaic.com/archives/144425",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-09T22:00:00Z",
+      "published_label": "2026/09/10 07:00",
+      "summary": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット 「男性ホルモン作用」と聞くと、どのようなイメージを持つでしょうか。 ニキビ、多毛、脂性肌、薄毛……。 特に女性に使われるホルモン製剤について調べていると、 […] The post 男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "中医協 OTC類似薬の一部保険外療養創設で処方箋上に「一部保険外療養」欄追加へ 上野厚労相が諮問",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80847",
       "source": "ミクスOnline",
@@ -887,6 +928,19 @@
       "keywords": []
     },
     {
+      "title": "MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？",
+      "link": "https://yakuzaic.com/archives/144417",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-08T22:00:00Z",
+      "published_label": "2026/09/09 07:00",
+      "summary": "MR拮抗薬の違い 高血圧の患者にミネブロ、心不全の患者にセララ、糖尿病・CKDの患者にケレンディア。 そして昔から利尿薬として使われているアルダクトンA。 これらは一見すると別々の薬のように見えますが、いずれもミネラルコ […] The post MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "AZ 九州電力送配電とEV充電サービスの実証開始 現地MRが参画 EV環境整備と業務効率化へ",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80843",
       "source": "ミクスOnline",
@@ -943,6 +997,19 @@
       "keywords": []
     },
     {
+      "title": "骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」",
+      "link": "https://yakuzaic.com/archives/144414",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-07T22:00:00Z",
+      "published_label": "2026/09/08 07:00",
+      "summary": "骨粗鬆症治療薬は骨を作る？骨が壊れるのを防ぐ？ 骨粗鬆症治療薬には、ビスホスホネート製剤、SERM、デノスマブ、テリパラチド、ロモソズマブ、活性型ビタミンD₃製剤など、さまざまな薬があります。 薬の名前だけを覚えていると […] The post 骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "GLP-1とインスリン徹底比較！作用機序・低血糖など",
       "link": "https://pharmacist.m3.com/column/special_feature/7786?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -960,6 +1027,19 @@
       "keywords": []
     },
     {
+      "title": "動脈硬化はあるけど、静脈硬化は無い？",
+      "link": "https://yakuzaic.com/archives/144403",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-06T22:00:00Z",
+      "published_label": "2026/09/07 07:00",
+      "summary": "動脈硬化はあるけど、静脈硬化は無い？ 「動脈硬化」という言葉はよく聞く。 高血圧、脂質異常症、糖尿病、喫煙などによって動脈硬化が進み、心筋梗塞や脳梗塞の原因になる。 しかし、考えてみると不思議だ。 「動脈硬化はあるけど、 […] The post 動脈硬化はあるけど、静脈硬化は無い？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "薬剤師が創薬の道に進むために必要なこととは",
       "link": "https://pharmacist.m3.com/column/company_tensyoku/7782?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -973,6 +1053,19 @@
         "転職"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "ビタミンの良し悪し―本当に体に良いのか？",
+      "link": "https://yakuzaic.com/archives/144383",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-05T22:00:00Z",
+      "published_label": "2026/09/06 07:00",
+      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
