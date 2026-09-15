@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-14T21:25:56.968693Z",
-  "updated_label": "2026/09/15 06:25",
-  "count": 57,
+  "updated_at": "2026-09-15T03:16:23.782055Z",
+  "updated_label": "2026/09/15 12:16",
+  "count": 77,
   "items": [
     {
       "title": "「効かない」を解決！アルプラゾラム頓服指導",
       "link": "https://pharmacist.m3.com/column/psychotropic_drug/7806?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-14T21:25:55.693828Z",
-      "published_label": "2026/09/15 06:25",
+      "published": "2026-09-15T03:16:21.864523Z",
+      "published_label": "2026/09/15 12:16",
       "summary": "「不安時」としか書かれていない抗不安薬の頓服指導に悩んでいませんか？パニック症患者の「飲むタイミングが分からない」「効かないから2錠飲んだ」といった訴えには、Tmaxではなく患者自身の「目印」を聞き取るアプローチが有効です。よくある3つの悩みへの具体的な返答の仕方と処方医への情報連携のコツを解説します。",
       "tags": [
         "薬剤師コラム",
@@ -16,6 +16,139 @@
         "医薬品情報・DI",
         "薬物療法・作用機序",
         "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "オレキシン2受容体を活性化するナルコレプシータイプ1治療薬「オーゼイフル錠0.5mg/1mg/2mg」",
+      "link": "https://www.carenet.com/pharmacist/di/cg004391_071.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-15T01:00:05Z",
+      "published_label": "2026/09/15 10:00",
+      "summary": "今回は、「オーゼイフル錠」を紹介します。本剤は、ナルコレプシータイプ1に適応のある初のオレキシン2受容体選択的作動薬です。覚醒の促進とともに、入眠時・出眠時幻覚や睡眠麻痺などの軽減が期待されています。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省 安藤医薬産業審議官】革新薬評価は重要な論点‐後発品再編「品目統合で」",
+      "link": "https://www.yakuji.co.jp/entry139376.html",
+      "source": "薬事日報",
+      "published": "2026-09-14T23:31:14Z",
+      "published_label": "2026/09/15 08:31",
+      "summary": "厚生労働省の安藤公一大臣官房医薬産業振興審議官は10日、専門紙と共同会見し、米国の最恵国待遇（MFN）価格政策を踏まえ「革新的新薬のイノベーションをより適切に…",
+      "tags": [
+        "承認・新薬",
+        "業界動向",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【製薬協 木下理事長】一般社団法人化で方向性‐「提案型の組織目指す」",
+      "link": "https://www.yakuji.co.jp/entry139377.html",
+      "source": "薬事日報",
+      "published": "2026-09-14T23:30:35Z",
+      "published_label": "2026/09/15 08:30",
+      "summary": "日本製薬工業協会の木下賢志理事長は10日、大阪市で記者会見し、10月1日に予定している一般社団法人化に向け「ロビー要求型の組織では全く不十分。提案型の組織にな…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日薬／NPhA】全品薬価引上げ案に賛同‐日薬連の主張を後押しへ",
+      "link": "https://www.yakuji.co.jp/entry139375.html",
+      "source": "薬事日報",
+      "published": "2026-09-14T21:31:20Z",
+      "published_label": "2026/09/15 06:31",
+      "summary": "2027年度薬価中間年改定をめぐり、日本製薬団体連合会が全収載品を対象とした薬価引き上げを求めていることに対し、日本薬剤師会と日本保険薬局協会（NPhA）は賛…",
+      "tags": [
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【NPhA調査】受付1回で平均12点減点‐厳しい調剤報酬改定結果",
+      "link": "https://www.yakuji.co.jp/entry139374.html",
+      "source": "薬事日報",
+      "published": "2026-09-14T21:30:36Z",
+      "published_label": "2026/09/15 06:30",
+      "summary": "日本保険薬局協会（NPhA）は、会員薬局を対象に実施した2026年度調剤報酬改定の影響調査結果を公表し、調剤基本料、地域支援・医薬品供給対応体制加算、電子的調…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "ADC・エンハーツ HER2遺伝子変異有するNSCLCの一次治療で標準治療よりもPFSを有意に延長",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80869",
+      "source": "ミクスOnline",
+      "published": "2026-09-14T21:00:00Z",
+      "published_label": "2026/09/15 06:00",
+      "summary": "HER2遺伝子変異を有する切除不能、局所進行または転移性非小細胞肺がん（NSCLC）患者における一次治療において、抗HER2抗体薬物複合体（ADC）のトラスツズマブ デルクステカン（T-DXd/DS-8201、製品名：エンハーツ）が、標準治療である化学療法とペムブロリズマブの併用療法に比べ、無増悪生存期間（PFS）を有意に延長した。グローバル第３相臨床試験「DESTINY-Lung04」の主要解析結果から示された。世界肺がん学会（WC…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "三井物産 シンガポールのOncoshot社と臨床データ分析技術活用で業務委託契約 IHHの専門医も参...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80865",
+      "source": "ミクスOnline",
+      "published": "2026-09-14T19:51:00Z",
+      "published_label": "2026/09/15 04:51",
+      "summary": "三井物産は9月14日、シンガポールのOncoshot社と臨床データ分析技術の活用等に関する業務委託契約を締結したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "シミック 代表取締役社長に吉田貴宣副社長CFO",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80868",
+      "source": "ミクスOnline",
+      "published": "2026-09-14T19:50:00Z",
+      "published_label": "2026/09/15 04:50",
+      "summary": "シミックは9月14日、新たな代表取締役社長に、吉田貴宣副社長CFO（最高財務責任者）が就任すると発表。就任は10月１日付。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "自民・創薬力強化ＰＴ 費用対効果評価制度の検証について議論 出席議員は中長期的な議論求める",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80867",
+      "source": "ミクスOnline",
+      "published": "2026-09-14T19:50:00Z",
+      "published_label": "2026/09/15 04:50",
+      "summary": "自民党社会保障制度調査会の「創薬力の強化育成等に関するプロジェクトチーム」（橋本岳座長）は9月14日、厚生労働科学研究班の費用対効果評価制度における検証のための会議の議論のとりまとめについて厚労省から報告を受けた。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "MSD 経口投与のPCSK9阻害薬・エンリシチドを承認申請 高コレステロール血症など対象に",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80866",
+      "source": "ミクスOnline",
+      "published": "2026-09-14T19:48:00Z",
+      "published_label": "2026/09/15 04:48",
+      "summary": "MSDは９月14日、１日１回経口投与のPCSK9阻害薬・エンリシチドについて、高コレステロール血症及び家族性高コレステロール血症を対象疾患に承認申請したと発表した。",
+      "tags": [
+        "承認・新薬"
       ],
       "importance": 3,
       "keywords": []
@@ -110,19 +243,6 @@
       "published": "2026-09-13T23:30:10Z",
       "published_label": "2026/09/14 08:30",
       "summary": "社会保障審議会医療保険部会は11日、OTC類似薬の保険給付見直しに伴う一部保険外療養制度の具体的運用について議論し、アトピー性皮膚炎で再燃予防を目的とするプロ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "心臓の前負荷と後負荷の違い―心不全治療薬は何を軽くしている？",
-      "link": "https://yakuzaic.com/archives/144443",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-13T22:00:00Z",
-      "published_label": "2026/09/14 07:00",
-      "summary": "心臓の前負荷と後負荷 心不全治療薬について勉強していると、「前負荷を軽減する」「後負荷を軽減する」という言葉がよく出てきます。 利尿薬は前負荷を軽減し、血管拡張薬は後負荷を軽減する――と暗記している人も多いでしょう。 し […] The post 心臓の前負荷と後負荷の違い―心不全治療薬は何を軽くしている？ first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
@@ -250,6 +370,97 @@
       "keywords": []
     },
     {
+      "title": "医療等情報の二次利用 加工していないゲノムデータや画像情報も可能に 一元的なオプトアウト管理も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80862",
+      "source": "ミクスOnline",
+      "published": "2026-09-13T19:52:00Z",
+      "published_label": "2026/09/14 04:52",
+      "summary": "内閣府の「医療等情報の利活用の推進に関する検討会」は９月11日、取りまとめ案を大筋で了承した。取りまとめ案では、医療等情報の医薬品などの研究開発への二次利用をめぐる制度枠組みを示した。二次利用できる対象範囲を、加工していないゲノムデータや画像情報に拡大する。あわせて必要な場合に、国・公的機関に事前通知を必要としない一元的なオプトアウト管理を設ける。患者の意向を踏まえ、患者の権利利益も保護する。論点の一つとなっていた各種データを連結して…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "社保審 アトピー性皮膚炎へのプロアクティブ療法「通年にわたり定期的」は一部保険外療養の別途負担対象外...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80864",
+      "source": "ミクスOnline",
+      "published": "2026-09-13T19:51:00Z",
+      "published_label": "2026/09/14 04:51",
+      "summary": "社会保障審議会医療保険部会は９月11日、OTC類似薬を処方した患者に追加負担を求める一部保険外療養をめぐり、アトピー性皮膚炎に対するプロアクティブ療法について議論した。厚労省は、「アトピー性皮膚炎に対してプロアクティブ療法として通年にわたり定期的にステロイド外用薬を使用する場合」に別途の負担の対象外とすることを提案。構成員からは大きな異論は出なかった。アトピー性皮膚炎に対するプロアクティブ療法をめぐっては、日本アレルギー友の会が別途負…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "厚労省・PMDA 米FDA主導「Project Orbis」に正式参加 抗がん剤の審査協働でラグ/ロ...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80863",
+      "source": "ミクスOnline",
+      "published": "2026-09-13T19:50:00Z",
+      "published_label": "2026/09/14 04:50",
+      "summary": "厚生労働省は９月11日、同省とPMDAが米FDAの主導する「Project Orbis」に正式に参加すると発表した。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "スズケン 英国機関投資家・シルチェスターが筆頭株主に 議決権ベースの保有比率10.03％に上昇",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80856",
+      "source": "ミクスOnline",
+      "published": "2026-09-13T19:49:00Z",
+      "published_label": "2026/09/14 04:49",
+      "summary": "スズケンは９月10日、英国の機関投資家・シルチェスター・インターナショナル・インベスターズがスズケン株を買い増し、筆頭株主になったと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "自民党税調・社保調合同会議 税制改正大綱案を了承 消費税１％減税、所得連動型給付導入へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80861",
+      "source": "ミクスOnline",
+      "published": "2026-09-13T19:48:00Z",
+      "published_label": "2026/09/14 04:48",
+      "summary": "自民党の税制調査会（小野寺五典会長）と社会保障制度調査会（田村憲久会長）の合同会議は9月11日、税制改正大綱を調査会長一任で了承した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "NPhA OTC類似薬の一部保険外療養の制度設計で厚労省に要望書提出 保険薬局の業務負担増加を懸念",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80851",
+      "source": "ミクスOnline",
+      "published": "2026-09-13T19:48:00Z",
+      "published_label": "2026/09/14 04:48",
+      "summary": "日本保険薬局協会（NPhA）は9月10日の定例会見で、OTC類似薬の一部保険外療養の創設に向けた制度設計で要望書を厚労省に提出する方針を示した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "王子ファーマ ベタイン後発品を9月10日発売",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80858",
+      "source": "ミクスOnline",
+      "published": "2026-09-13T19:47:00Z",
+      "published_label": "2026/09/14 04:47",
+      "summary": "王子ファーマは９月10日、ホモシスチン尿症治療薬・サイスタダン原末の後発品であるベタイン「OJI」原末を発売した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "調剤ポイント規制、15年の議論を経てルールを再整理",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594453.html",
       "source": "日経メディカル Online",
@@ -276,19 +487,6 @@
       "keywords": []
     },
     {
-      "title": "薬局実習、薬学生指導のポイントは【第5週目】",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/practicenavi/202609/594485.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-13T15:00:00Z",
-      "published_label": "2026/09/14 00:00",
-      "summary": "本連載では、2026年度第3期の実習日に合わせて、指導薬剤師が押さえておきたい「指導のポイント」を毎週月曜日に公開。さらに、その週に学んだ内容を学生がどれくらい理解しているかチェックできる「理解度チェック問題」を1問、薬剤師国家試験の過去問より出題します。解答・解説は、メディックメディアが提供します。メディックメディアの過去問演習サービス「QB薬剤師国試」を利用すれば、実習に関連した毎週20問前後の過去問にも挑戦できます。（※ご利⽤に…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "薬剤師の安定性が揺らいでるって本当？",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/7802?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -305,19 +503,6 @@
       "keywords": []
     },
     {
-      "title": "認知症の原因は甲状腺？―甲状腺機能低下症と認知機能の関係",
-      "link": "https://yakuzaic.com/archives/144436",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-12T22:00:00Z",
-      "published_label": "2026/09/13 07:00",
-      "summary": "認知症と甲状腺機能低下症 高齢者から、「最近、物忘れがひどくなった」「ぼーっとしていることが増えた」「以前より反応が鈍くなった」といった訴えを聞けば、まず「認知症」が頭に浮かびます。 しかし、認知機能が低下する原因はアル […] The post 認知症の原因は甲状腺？―甲状腺機能低下症と認知機能の関係 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "セフジトレン等の薬袋誤用！ヒヤリハット防止手順",
       "link": "https://pharmacist.m3.com/column/hiyari/7800?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -330,19 +515,6 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "乳癌耐性蛋白BCRPとは？―なぜ乳癌と関係ない薬の相互作用に出てくるのか",
-      "link": "https://yakuzaic.com/archives/144433",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-11T22:00:00Z",
-      "published_label": "2026/09/12 07:00",
-      "summary": "乳癌耐性蛋白BCRPとは？ 医薬品の添付文書やインタビューフォームを読んでいると、「BCRPの基質である」「BCRPを阻害する」といった記載を目にすることがある。 BCRPとは、Breast Cancer Resista […] The post 乳癌耐性蛋白BCRPとは？―なぜ乳癌と関係ない薬の相互作用に出てくるのか first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -378,6 +550,19 @@
       "published": "2026-09-11T02:24:29Z",
       "published_label": "2026/09/11 11:24",
       "summary": "元武田薬品社長CEOの長谷川閑史氏が亡くなった。7月3日に死去。80歳。武田薬品が遺族の了承のもと、11日に明らかにした。 葬儀は近親者のみで執り行われた。…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【訃報】元・武田薬品社長CEOの長谷川閑史さん逝去 タケダの事業基盤をグローバル規模への拡大に尽力",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80860",
+      "source": "ミクスOnline",
+      "published": "2026-09-11T02:00:00Z",
+      "published_label": "2026/09/11 11:00",
+      "summary": "元武田薬品代表取締役社長CEOの長谷川閑史（はせがわ・やすちか）さんが、7月30日に逝去した。",
       "tags": [
         "その他"
       ],
@@ -424,58 +609,6 @@
       "keywords": []
     },
     {
-      "title": "【医薬品市販後の安全性情報管理】トランスパーフェクト",
-      "link": "https://www.yakuji.co.jp/entry139258.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:14:30Z",
-      "published_label": "2026/09/11 10:14",
-      "summary": "PV支援サービス拡大へ‐他社システムと連携、効率化 トランスパーフェクトは、言語テクノロジー・ソリューション事業を中核とするグローバル企業だ。ライフサイエンス…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【医薬品市販後の安全性情報管理】オラクル",
-      "link": "https://www.yakuji.co.jp/entry139261.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:13:09Z",
-      "published_label": "2026/09/11 10:13",
-      "summary": "オラクルは、既存の安全性業務アプリケーションでAI活用を進めると共に、リアルワールドデータ（RWD）やAIを活用した安全性評価の高度化に取り組んでいる。長年に…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【医薬品市販後の安全性情報管理】IQVIA",
-      "link": "https://www.yakuji.co.jp/entry139263.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:12:16Z",
-      "published_label": "2026/09/11 10:12",
-      "summary": "AI機能搭載システムに注力‐導入後のガバナンスに強み IQVIAは、AI機能を備えた安全性情報管理（PV）業務支援システム「IQVIA Vigilance P…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【医薬品市販後の安全性情報管理】ネクストローブ",
-      "link": "https://www.yakuji.co.jp/entry139266.html",
-      "source": "薬事日報",
-      "published": "2026-09-11T01:11:30Z",
-      "published_label": "2026/09/11 10:11",
-      "summary": "国内外でDB導入を支援‐PV実務にも高い専門性 ネクストローブは、医薬品などの安全性情報管理（PV）データベース（DB）の導入・運用支援、データ移管、コンサル…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "SGLT2阻害薬のフォローアップ：トレーシング文例付！",
       "link": "https://pharmacist.m3.com/column/diabetes_sideeffects/7797?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -493,17 +626,98 @@
       "keywords": []
     },
     {
-      "title": "薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？",
-      "link": "https://yakuzaic.com/archives/144430",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-10T22:00:00Z",
-      "published_label": "2026/09/11 07:00",
-      "summary": "薬のアレルギー 薬によるアレルギーというと、「薬を飲んだ直後に蕁麻疹が出る」「注射した直後に息苦しくなってショックを起こす」といったイメージが強い。 確かにアナフィラキシーは、原因となる薬剤を使用してから短時間で起こるこ […] The post 薬のアレルギーはいつ起こる？―アナフィラキシーは直後、薬疹は数週間後？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "title": "製薬協・木下理事長 10月から一般社団法人化「国内外の医療・薬価政策に機動的対応」事業戦略本部が軸",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80859",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:53:00Z",
+      "published_label": "2026/09/11 04:53",
+      "summary": "日本製薬工業協会（製薬協）の木下賢志理事長は9月10日、大阪市内で開催した製薬協総会後の記者会見で、10月から本格活動する一般社団法人化について、「単なる任意団体から法人への形式変更にとどめず、国内外の医療・薬価政策の変化や委員会単独では対応し切れない課題をより深く検討するための基盤にしたい」と説明した。",
       "tags": [
-        "安全性情報",
-        "感染症・ワクチン"
+        "薬価・制度",
+        "業界動向"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "科研製薬 フィブラストスプレーの美容目的の適応外使用で注意喚起 健康被害も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80857",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:52:00Z",
+      "published_label": "2026/09/11 04:52",
+      "summary": "科研製薬は９月10日、褥瘡・皮膚潰瘍治療用の外用薬・フィブラストスプレー（一般名：トラフェルミン（遺伝子組換え））について、しわ取りなどの美容目的で皮下注入する適応外使用が確認されているとして、医療機関及び医療関係者に適正使用を求めた。",
+      "tags": [
+        "安全性情報",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "武田薬品 取締役R＆Dプレジデントのアンドリュー・プランプ氏が退任へ 27年6月の定時株主総会まで",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80854",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:51:00Z",
+      "published_label": "2026/09/11 04:51",
+      "summary": "武田薬品は9月10日、取締役リサーチ＆デベロップメント プレジデントのアンドリュー・プランプ氏（M.D., Ph.D.）が退任予定だと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "東京医薬品卸業協会・創立70周年 福神理事長 設立当初の思い受け継ぐ「国民のため医薬品を安定供給」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80855",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:50:00Z",
+      "published_label": "2026/09/11 04:50",
+      "summary": "東京医薬品卸業協会は９月10日、東京都内で創立70周年記念式典を開催した。",
+      "tags": [
+        "供給・出荷",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "楽天メディカル 副会長に元武田・ウェバー氏が就任 取締役には元第一三共・竹下健一氏 米国事業強化へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80852",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:50:00Z",
+      "published_label": "2026/09/11 04:50",
+      "summary": "楽天メディカルは９月10日、武田薬品で社長兼CEOを務めたクリストフ・ウェバー氏が取締役副会長に、第一三共でグローバル研究開発ヘッドを務めた竹下健一氏が取締役に就任したと発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "UAゼンセン 定期大会で医療産業政策を策定 医療従事者の人材確保に向けて処遇改善推進",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80850",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:49:00Z",
+      "published_label": "2026/09/11 04:49",
+      "summary": "UAゼンセンは9月10日の定期大会（東京都内開催）で、医療従事者の人材確保や処遇改善への取り組みなどを盛り込んだ「医療産業政策」を策定した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ラスカー・ドゥベーキー臨床医学研究賞 中外製薬の3研究者が受賞 ヘムライブラの創製を主導",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80853",
+      "source": "ミクスOnline",
+      "published": "2026-09-10T19:48:00Z",
+      "published_label": "2026/09/11 04:48",
+      "summary": "世界的に権威のある科学賞「ラスカー・ドゥベーキー臨床医学研究賞」に、中外製薬で血友病A治療薬ヘムライブラ (一般名:エミシズマブ)の創製を主導した、同社の元シニアフェローの服部有宏氏、研究本部副本部長の北沢剛久氏、 研究本部長の井川智之氏の３人が選ばれた。",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -549,12 +763,93 @@
       "keywords": []
     },
     {
-      "title": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット",
-      "link": "https://yakuzaic.com/archives/144425",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-09T22:00:00Z",
-      "published_label": "2026/09/10 07:00",
-      "summary": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット 「男性ホルモン作用」と聞くと、どのようなイメージを持つでしょうか。 ニキビ、多毛、脂性肌、薄毛……。 特に女性に使われるホルモン製剤について調べていると、 […] The post 男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "title": "中医協 OTC類似薬の一部保険外療養創設で処方箋上に「一部保険外療養」欄追加へ 上野厚労相が諮問",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80847",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T21:03:00Z",
+      "published_label": "2026/09/10 06:03",
+      "summary": "中医協は９月９日、OTC類似薬の一部保険外療養創設をめぐり、これに伴う療養担当規則等の見直しについて、上野厚労相から諮問を受けた。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "中医協費用対効果評価専門部会 厚労科研の検証で専門組織の決定は「一定の妥当性」も透明性に課題も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80846",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T21:01:00Z",
+      "published_label": "2026/09/10 06:01",
+      "summary": "中医協費用対効果評価専門部会は９月９日、厚生労働科学研究班の費用対効果評価制度における検証のための会議の議論のとりまとめについて報告を受けた。",
+      "tags": [
+        "薬価・制度",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "中医協 薬担規則の見直しを答申 処方箋・調剤録の保存期間を３年間から５年間に延長",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80848",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T21:00:00Z",
+      "published_label": "2026/09/10 06:00",
+      "summary": "中医協は９月９日、上野厚労相からの諮問を受け、薬機法等改正に伴う保険薬局及び保険薬剤師療養担当規則（薬担規則）等の所要の見直しについて答申した。",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【中医協費用対効果評価専門部会 ９月９日 議事要旨 費用対効果評価制度における検証等の報告】",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80845",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T19:51:00Z",
+      "published_label": "2026/09/10 04:51",
+      "summary": "中医協費用対効果評価専門部会が９月９日に開かれ、医薬品等の費用対効果評価制度における検証のための会議から取りまとめの報告を受け、議論した。本誌は、診療・支払各側の発言内容を議事要旨として公開する。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【中医協総会 ９月９日 議事要旨 OTC類似薬の保険給付の見直し 薬機法等改正に伴う保険薬局及び保険...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80844",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T19:51:00Z",
+      "published_label": "2026/09/10 04:51",
+      "summary": "中医協総会は９月９日、OTC類似薬の保険給付の見直しについて議論した。本誌は診療・支払各側の質疑について議事要旨として公開する。",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "ニプロ ステラーラ点滴静注のBS 11月収載日に即日発売へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80841",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T19:50:00Z",
+      "published_label": "2026/09/10 04:50",
+      "summary": "ニプロは、ウステキヌマブBS点滴静注130mg「ニプロ」について、11月に予定されている薬価基準収載日に即日発売する予定だ。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "積水メディカル 入院・通院中の子どもたちに「検査のひみつ」学べる体験教室を実施",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80834",
+      "source": "ミクスOnline",
+      "published": "2026-09-09T19:50:00Z",
+      "published_label": "2026/09/10 04:50",
+      "summary": "積水メディカルは、神奈川県立こども医療センターに入院・通院中の子どもやそのきょうだい、家族を対象とした理科教室を開催した。",
       "tags": [
         "その他"
       ],
@@ -592,14 +887,41 @@
       "keywords": []
     },
     {
-      "title": "MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？",
-      "link": "https://yakuzaic.com/archives/144417",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-08T22:00:00Z",
-      "published_label": "2026/09/09 07:00",
-      "summary": "MR拮抗薬の違い 高血圧の患者にミネブロ、心不全の患者にセララ、糖尿病・CKDの患者にケレンディア。 そして昔から利尿薬として使われているアルダクトンA。 これらは一見すると別々の薬のように見えますが、いずれもミネラルコ […] The post MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "title": "AZ 九州電力送配電とEV充電サービスの実証開始 現地MRが参画 EV環境整備と業務効率化へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80843",
+      "source": "ミクスOnline",
+      "published": "2026-09-08T19:52:00Z",
+      "published_label": "2026/09/09 04:52",
+      "summary": "アストラゼネカは９月８日、月極駐車場や賃貸住宅付随の駐車場を対象とした電気自動車（EV）充電サービスの実証実験を九州エリアで開始したと発表した。",
       "tags": [
         "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "メディパルHD 次期社長に今川国明氏 渡辺秀一氏は会長に 10月１日付トップ人事",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80842",
+      "source": "ミクスOnline",
+      "published": "2026-09-08T19:51:00Z",
+      "published_label": "2026/09/09 04:51",
+      "summary": "メディパルホールディングスは９月８日、次期代表取締役社長に今川国明・常務取締役医薬事業担当が就任するトップ人事を発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日薬連・安川会長 27年度予算概算要求「従来にない規模」と評価 革新的新薬生みだす好循環創出に期待",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80838",
+      "source": "ミクスOnline",
+      "published": "2026-09-08T19:51:00Z",
+      "published_label": "2026/09/09 04:51",
+      "summary": "日本製薬団体連合会（日薬連）の安川健司会長は9月８日、2027年度予算概算要求を受けてコメントを発表した。",
+      "tags": [
+        "承認・新薬",
+        "業界動向"
       ],
       "importance": 2,
       "keywords": []
@@ -621,19 +943,6 @@
       "keywords": []
     },
     {
-      "title": "骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」",
-      "link": "https://yakuzaic.com/archives/144414",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-07T22:00:00Z",
-      "published_label": "2026/09/08 07:00",
-      "summary": "骨粗鬆症治療薬は骨を作る？骨が壊れるのを防ぐ？ 骨粗鬆症治療薬には、ビスホスホネート製剤、SERM、デノスマブ、テリパラチド、ロモソズマブ、活性型ビタミンD₃製剤など、さまざまな薬があります。 薬の名前だけを覚えていると […] The post 骨を作る薬と壊さない薬―骨粗鬆症治療薬の「骨形成」と「骨吸収」 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "GLP-1とインスリン徹底比較！作用機序・低血糖など",
       "link": "https://pharmacist.m3.com/column/special_feature/7786?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -648,19 +957,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "動脈硬化はあるけど、静脈硬化は無い？",
-      "link": "https://yakuzaic.com/archives/144403",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-06T22:00:00Z",
-      "published_label": "2026/09/07 07:00",
-      "summary": "動脈硬化はあるけど、静脈硬化は無い？ 「動脈硬化」という言葉はよく聞く。 高血圧、脂質異常症、糖尿病、喫煙などによって動脈硬化が進み、心筋梗塞や脳梗塞の原因になる。 しかし、考えてみると不思議だ。 「動脈硬化はあるけど、 […] The post 動脈硬化はあるけど、静脈硬化は無い？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -680,19 +976,6 @@
       "keywords": []
     },
     {
-      "title": "ビタミンの良し悪し―本当に体に良いのか？",
-      "link": "https://yakuzaic.com/archives/144383",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-05T22:00:00Z",
-      "published_label": "2026/09/06 07:00",
-      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "二日酔いの頭痛に『ロキソニンＳ』は使える？",
       "link": "https://pharmacist.m3.com/column/otc/7783?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -705,19 +988,6 @@
         "OTC医薬品"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "通院してるのに通院困難？",
-      "link": "https://yakuzaic.com/archives/144347",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-04T22:00:00Z",
-      "published_label": "2026/09/05 07:00",
-      "summary": "通院困難とは？ 薬局で在宅患者訪問薬剤管理指導料や居宅療養管理指導を算定するための条件の一つに、「通院が困難」というものがある。 「通院困難」と聞くと、寝たきりで病院にも薬局にも行けない患者をイメージする。 しかし、薬局 […] The post 通院してるのに通院困難？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
