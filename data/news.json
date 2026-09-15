@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-15T16:11:19.057997Z",
-  "updated_label": "2026/09/16 01:11",
-  "count": 86,
+  "updated_at": "2026-09-15T20:50:27.781731Z",
+  "updated_label": "2026/09/16 05:50",
+  "count": 85,
   "items": [
     {
       "title": "タケルダ配合錠は分割NG！割線に見える「100/15」の謎",
       "link": "https://pharmacist.m3.com/column/hanjou/7808?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-15T16:11:17.874633Z",
-      "published_label": "2026/09/16 01:11",
+      "published": "2026-09-15T20:50:26.721279Z",
+      "published_label": "2026/09/16 05:50",
       "summary": "低用量アスピリンとランソプラゾールを配合した「タケルダ配合錠」には、錠剤表面に“割線”のように見える線がありますが、含量表示（100/15）の一部です。半分に割るのはNGです。本コラムでは「タケルダ配合錠」の特殊な製剤構造と、割ったり砕いたりしてはいけない理由を解説します。",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,71 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "サノフィ DE＆Iをビジネスインパクトに直結 医療アクセス改善と日本発グローバル人材輩出で組織変革",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80873",
+      "source": "ミクスOnline",
+      "published": "2026-09-15T19:52:00Z",
+      "published_label": "2026/09/16 04:52",
+      "summary": "サノフィは、社員の人材育成で多様なアプローチを展開している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "エクサウィザーズ エーザイが「ＡＩ対話型ロールプレイングサービス」導入 2種類のシナリオで研修実施",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80874",
+      "source": "ミクスOnline",
+      "published": "2026-09-15T19:51:00Z",
+      "published_label": "2026/09/16 04:51",
+      "summary": "エクサウィザーズは9月15日、エーザイがＡＩ対話型ロールプレイングサービス「エクサベース ロープレ(ロープレ)」を導入したと発表した。26年4月に入社した新人ＭＲ約20名を対象に、新人研修における営業ロールプレイングで活用を開始した。同社によると、ＡＩによる客観的な評価と即時フィードバックを通じ、MRの質問力・提案力の育成の高度化を目指すとしている。ロープレは、製品知識に依存しない汎用的な営業シナリオから、自社製品を題材とした実践シナ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬粧連合・松尾会長 連合傘下の産別として「より高いレベルの活動目指す」 27年度運動方針",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80872",
+      "source": "ミクスOnline",
+      "published": "2026-09-15T19:50:00Z",
+      "published_label": "2026/09/16 04:50",
+      "summary": "医薬化粧品産業労働組合連合会（薬粧連合）の松尾仁雄会長（中外製薬労働組合）は9月15日の記者会見で、2027年度の運動方針について「薬粧連合としての独自性や強みを伸ばしながら、連合としてできることを掛け合わせることで、産別組織としてより一歩高いレベルの活動ができるよう取り組んでいきたい」と述べた。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "上野厚労相 OTC類似薬の一部保険外療養導入による処方シフトの懸念に「症状に応じて最適な薬剤処方が原...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80871",
+      "source": "ミクスOnline",
+      "published": "2026-09-15T19:50:00Z",
+      "published_label": "2026/09/16 04:50",
+      "summary": "上野賢一郎厚労相は9月15日の閣議後会見で、OTC類似薬の一部保険外療養導入により、OTC類似薬からより高額な保険適用薬に変える「処方シフト」への懸念が指摘されている点について、「医師は個々の患者の症状などに応じて最適な薬剤を処方することが原則であり、制度導入後も、医療現場においてはこの原則に基づいて処方が行われることが重要だ」との見解を示した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "アルフレッサグループ 宮崎温仙堂商店の診断薬卸売事業をテクノ・スズタに譲渡 12月31日付",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80870",
+      "source": "ミクスOnline",
+      "published": "2026-09-15T19:50:00Z",
+      "published_label": "2026/09/16 04:50",
+      "summary": "アフルレッサホールディングスは９月15日、完全子会社の宮崎温仙堂商店（長崎県諫早市）の診断薬卸売事業を、同じく完全子会社のテクノ・スズタ（長崎県長崎市）に譲渡する基本合意書を締結したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -87,19 +152,6 @@
         "一般用医薬品"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "オレキシン2受容体を活性化するナルコレプシータイプ1治療薬「オーゼイフル錠0.5mg/1mg/2mg」",
-      "link": "https://www.carenet.com/pharmacist/di/cg004391_071.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-15T01:00:05Z",
-      "published_label": "2026/09/15 10:00",
-      "summary": "今回は、「オーゼイフル錠」を紹介します。本剤は、ナルコレプシータイプ1に適応のある初のオレキシン2受容体選択的作動薬です。覚醒の促進とともに、入眠時・出眠時幻覚や睡眠麻痺などの軽減が期待されています。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -901,32 +953,6 @@
       "keywords": []
     },
     {
-      "title": "ニプロ ステラーラ点滴静注のBS 11月収載日に即日発売へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80841",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T19:50:00Z",
-      "published_label": "2026/09/10 04:50",
-      "summary": "ニプロは、ウステキヌマブBS点滴静注130mg「ニプロ」について、11月に予定されている薬価基準収載日に即日発売する予定だ。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "積水メディカル 入院・通院中の子どもたちに「検査のひみつ」学べる体験教室を実施",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80834",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T19:50:00Z",
-      "published_label": "2026/09/10 04:50",
-      "summary": "積水メディカルは、神奈川県立こども医療センターに入院・通院中の子どもやそのきょうだい、家族を対象とした理科教室を開催した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "OTC類似薬に別途負担が発生！対象医薬品と仕組み",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7789?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -965,46 +991,6 @@
       "summary": "MR拮抗薬の違い 高血圧の患者にミネブロ、心不全の患者にセララ、糖尿病・CKDの患者にケレンディア。 そして昔から利尿薬として使われているアルダクトンA。 これらは一見すると別々の薬のように見えますが、いずれもミネラルコ […] The post MR拮抗薬の違い―アルダクトン、セララ、ミネブロ、ケレンディアはどう使い分ける？ first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "AZ 九州電力送配電とEV充電サービスの実証開始 現地MRが参画 EV環境整備と業務効率化へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80843",
-      "source": "ミクスOnline",
-      "published": "2026-09-08T19:52:00Z",
-      "published_label": "2026/09/09 04:52",
-      "summary": "アストラゼネカは９月８日、月極駐車場や賃貸住宅付随の駐車場を対象とした電気自動車（EV）充電サービスの実証実験を九州エリアで開始したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "メディパルHD 次期社長に今川国明氏 渡辺秀一氏は会長に 10月１日付トップ人事",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80842",
-      "source": "ミクスOnline",
-      "published": "2026-09-08T19:51:00Z",
-      "published_label": "2026/09/09 04:51",
-      "summary": "メディパルホールディングスは９月８日、次期代表取締役社長に今川国明・常務取締役医薬事業担当が就任するトップ人事を発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日薬連・安川会長 27年度予算概算要求「従来にない規模」と評価 革新的新薬生みだす好循環創出に期待",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80838",
-      "source": "ミクスOnline",
-      "published": "2026-09-08T19:51:00Z",
-      "published_label": "2026/09/09 04:51",
-      "summary": "日本製薬団体連合会（日薬連）の安川健司会長は9月８日、2027年度予算概算要求を受けてコメントを発表した。",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
       ],
       "importance": 2,
       "keywords": []
