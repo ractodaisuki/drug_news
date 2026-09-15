@@ -1,8 +1,76 @@
 {
-  "updated_at": "2026-09-15T20:50:27.781731Z",
-  "updated_label": "2026/09/16 05:50",
-  "count": 85,
+  "updated_at": "2026-09-15T23:23:21.333327Z",
+  "updated_label": "2026/09/16 08:23",
+  "count": 88,
   "items": [
+    {
+      "title": "沖縄県知事に古謝氏当選‐薬剤師初、薬学部新設焦点",
+      "link": "https://www.yakuji.co.jp/entry139516.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T21:31:13Z",
+      "published_label": "2026/09/16 06:31",
+      "summary": "13日に投開票が行われた沖縄県知事選は、薬剤師の古謝玄太氏が42万3124票を獲得し、27万6060票を得た現職の玉城デニー氏ら5氏を退け、初当選を果たした。…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省／PMDA】抗癌剤審査で国際協力‐FDA主導枠組み参加",
+      "link": "https://www.yakuji.co.jp/entry139520.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T21:30:53Z",
+      "published_label": "2026/09/16 06:30",
+      "summary": "厚生労働省と医薬品医療機器総合機構（PMDA）は10日、米国食品医薬品局（FDA）が主導する抗癌剤の薬事審査に関する国際協力の枠組み「プロジェクト・オービス」…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "大島氏が理事就任 日本医薬品登録販売者会",
+      "link": "https://www.yakuji.co.jp/entry139505.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T21:03:29Z",
+      "published_label": "2026/09/16 06:03",
+      "summary": "日本医薬品登録販売者会（日登会）は、元厚生労働省事務次官の大島一博氏が7日付で理事に就任したと発表した。 大島氏は東京大学法学部を卒業し、1987年に厚生省…",
+      "tags": [
+        "一般用医薬品",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】インフル診断キットを発売‐検出感度が向上 杏林製薬",
+      "link": "https://www.yakuji.co.jp/entry139498.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T21:02:23Z",
+      "published_label": "2026/09/16 06:02",
+      "summary": "杏林製薬は11日、インフルエンザウイルス感染の体外診断用医薬品「GeneSoC FluA／B検出キット」を発売した。「遺伝子解析装置GeneSoC mini2…",
+      "tags": [
+        "業界動向",
+        "承認・新薬",
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "市販薬版保険の可能性",
+      "link": "https://www.yakuji.co.jp/entry139497.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T21:01:34Z",
+      "published_label": "2026/09/16 06:01",
+      "summary": "◆来年3月以降、医療用医薬品のうちOTC類似薬に追加の患者負担を求める制度が始まる。国民皆保険を持続させるための医療費抑制策の一環だが、多くの患者には薬代の値上…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "タケルダ配合錠は分割NG！割線に見える「100/15」の謎",
       "link": "https://pharmacist.m3.com/column/hanjou/7808?promotionCode=op_pcolumn",
@@ -474,33 +542,6 @@
         "承認・新薬"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】美容ドリンク「艶美華Rich」を発売 湧永製薬",
-      "link": "https://www.yakuji.co.jp/entry139360.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:02:53Z",
-      "published_label": "2026/09/14 06:02",
-      "summary": "湧永製薬＝美容ドリンク「艶美華Rich」を発売。2011年に美容ドリンク「艶美華」を発売して以来、多くの人が愛飲していたが、美容を意識する人に毎日の健康習慣も…",
-      "tags": [
-        "業界動向",
-        "承認・新薬"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "未来を描くドラッグストアショー",
-      "link": "https://www.yakuji.co.jp/entry139359.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:01:37Z",
-      "published_label": "2026/09/14 06:01",
-      "summary": "◆7月31日から8月2日に東京ビッグサイトで開催された第26回JAPANドラッグストアショーは、アジア最大級のドラッグストアフェスティバルとして、今回も非常に盛…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
