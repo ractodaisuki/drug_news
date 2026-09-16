@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-16T03:12:19.336212Z",
-  "updated_label": "2026/09/16 12:12",
+  "updated_at": "2026-09-16T10:48:59.788669Z",
+  "updated_label": "2026/09/16 19:48",
   "count": 93,
   "items": [
     {
       "title": "タケルダ配合錠は分割NG！割線に見える「100/15」の謎",
       "link": "https://pharmacist.m3.com/column/hanjou/7808?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-16T03:12:17.262744Z",
-      "published_label": "2026/09/16 12:12",
+      "published": "2026-09-16T10:48:58.487044Z",
+      "published_label": "2026/09/16 19:48",
       "summary": "低用量アスピリンとランソプラゾールを配合した「タケルダ配合錠」には、錠剤表面に“割線”のように見える線がありますが、含量表示（100/15）の一部です。半分に割るのはNGです。本コラムでは「タケルダ配合錠」の特殊な製剤構造と、割ったり砕いたりしてはいけない理由を解説します。",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,32 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "第25回 医薬品等行政評価・監視委員会資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76266.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-16T07:53:00Z",
+      "published_label": "2026/09/16 16:53",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "10月1日にセミナー「これってカスハラ？ そのとき、薬局はどう対応する ～10/1施行カスハラ対策義務化で薬局が知っておきたい基本と実務～」開催 ファーマシフト",
+      "link": "https://www.yakuji.co.jp/entry139559.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T07:03:43Z",
+      "published_label": "2026/09/16 16:03",
+      "summary": "本セミナーでは、クレーム対応やカスハラ対策の講義・研修実績を持つ、株式会社リンク＆サポート 専務取締役 德丸 宏美 様をお招きし、2026年10月1日より改正…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -972,19 +998,6 @@
       "keywords": []
     },
     {
-      "title": "第36回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会ワクチン評価に関する小委員会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75659.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-10T05:00:00Z",
-      "published_label": "2026/09/10 14:00",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "男性ホルモン作用は悪い作用？―アンドロゲンのメリット・デメリット",
       "link": "https://yakuzaic.com/archives/144425",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -1080,19 +1093,6 @@
         "診療報酬改定"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "第25回医薬品等行政評価・監視委員会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76113.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-09T06:58:00Z",
-      "published_label": "2026/09/09 15:58",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
