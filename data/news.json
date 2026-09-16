@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-16T20:50:42.746458Z",
-  "updated_label": "2026/09/17 05:50",
+  "updated_at": "2026-09-16T23:31:35.818140Z",
+  "updated_label": "2026/09/17 08:31",
   "count": 97,
   "items": [
     {
       "title": "ヒルドイドは選定療養の対象？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7810?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-16T20:50:41.591151Z",
-      "published_label": "2026/09/17 05:50",
+      "published": "2026-09-16T23:31:33.947672Z",
+      "published_label": "2026/09/17 08:31",
       "summary": "「特定薬剤管理指導加算3」は、重点的な服薬指導・説明が必要な場合や、選定療養の対象となる先発医薬品を希望する患者に説明・指導を行った場合に算定できる加算です。では、患者の希望で「ヘパリン類似物質」の先発医薬品を調剤した場合も特定薬剤管理指導加算3は算定できるのでしょうか？",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,45 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "ケブネル現象とは？―皮膚を掻くと乾癬が増える？",
+      "link": "https://yakuzaic.com/archives/144457",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-16T22:00:00Z",
+      "published_label": "2026/09/17 07:00",
+      "summary": "ケブネル現象 皮膚疾患では、「掻かないようにしてください」と患者に説明することがよくあります。 アトピー性皮膚炎であれば、掻くことで皮膚のバリア機能が低下し、炎症が悪化してさらにかゆくなる「イッチ・スクラッチサイクル（i […] The post ケブネル現象とは？―皮膚を掻くと乾癬が増える？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【NPhA】OTC類似薬制度に要望‐負担を処方箋で明示を",
+      "link": "https://www.yakuji.co.jp/entry139521.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T21:31:13Z",
+      "published_label": "2026/09/17 06:31",
+      "summary": "日本保険薬局協会（NPhA）は、OTC類似薬の一部保険外療養の導入に向けた制度設計に関する要望書をまとめた。近く厚生労働省に提出する。同一の医薬品であっても処…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省 村山事務次官】医療職の処遇改善目指す‐OTC類似薬、丁寧に議論",
+      "link": "https://www.yakuji.co.jp/entry139522.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T21:30:56Z",
+      "published_label": "2026/09/17 06:30",
+      "summary": "厚生労働省の村山誠事務次官は8日、専門紙と共同会見し、「物価上昇や人手不足などにより厳しい経営状況に置かれている。医療機関に勤務する幅広い職種の賃上げに向けた…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -34,6 +73,20 @@
       "keywords": []
     },
     {
+      "title": "日米欧製薬３団体 費用対効果による価格調整「当面凍結」 支払側 佐竹委員「そのまま受け止められない」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80881",
+      "source": "ミクスOnline",
+      "published": "2026-09-16T19:53:00Z",
+      "published_label": "2026/09/17 04:53",
+      "summary": "日米欧製薬３団体は９月16日、中医協費用対効果評価専門部会で業界ヒアリングに臨み、「制度的な議論に一定の結論が得られるまでの間、本制度による価格調整を当面凍結すべき」と主張した",
+      "tags": [
+        "業界動向",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "アルフレッサHD 医療用薬卸売事業の戦略推進機能を強化 10月１日付で「卸事業戦略委員会」に刷新",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80877",
       "source": "ミクスOnline",
@@ -44,6 +97,19 @@
         "その他"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【中医協費用対効果評価専門部会 ９月16日 議事要旨 費用対効果評価制度に対する業界の意見陳述】",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80878",
+      "source": "ミクスOnline",
+      "published": "2026-09-16T19:51:00Z",
+      "published_label": "2026/09/17 04:51",
+      "summary": "中医協費用対効果評価専門部会が９月16日に開かれ、費用対効果評価制度に対する業界の意見陳述を行った。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -427,34 +493,6 @@
       "tags": [
         "一般用医薬品",
         "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】インフル診断キットを発売‐検出感度が向上 杏林製薬",
-      "link": "https://www.yakuji.co.jp/entry139498.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T21:02:23Z",
-      "published_label": "2026/09/16 06:02",
-      "summary": "杏林製薬は11日、インフルエンザウイルス感染の体外診断用医薬品「GeneSoC FluA／B検出キット」を発売した。「遺伝子解析装置GeneSoC mini2…",
-      "tags": [
-        "業界動向",
-        "承認・新薬",
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "市販薬版保険の可能性",
-      "link": "https://www.yakuji.co.jp/entry139497.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T21:01:34Z",
-      "published_label": "2026/09/16 06:01",
-      "summary": "◆来年3月以降、医療用医薬品のうちOTC類似薬に追加の患者負担を求める制度が始まる。国民皆保険を持続させるための医療費抑制策の一環だが、多くの患者には薬代の値上…",
-      "tags": [
-        "一般用医薬品"
       ],
       "importance": 4,
       "keywords": []
@@ -1066,20 +1104,6 @@
       "keywords": []
     },
     {
-      "title": "ラスカー・ドゥベーキー臨床医学研究賞 中外製薬の3研究者が受賞 ヘムライブラの創製を主導",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80853",
-      "source": "ミクスOnline",
-      "published": "2026-09-10T19:48:00Z",
-      "published_label": "2026/09/11 04:48",
-      "summary": "世界的に権威のある科学賞「ラスカー・ドゥベーキー臨床医学研究賞」に、中外製薬で血友病A治療薬ヘムライブラ (一般名:エミシズマブ)の創製を主導した、同社の元シニアフェローの服部有宏氏、研究本部副本部長の北沢剛久氏、 研究本部長の井川智之氏の３人が選ばれた。",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "抗生物質にチョコはなぜ？服薬ゼリーの相性と指導法",
       "link": "https://pharmacist.m3.com/column/otc_noriko/7795?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1119,19 +1143,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "中医協 OTC類似薬の一部保険外療養創設で処方箋上に「一部保険外療養」欄追加へ 上野厚労相が諮問",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80847",
-      "source": "ミクスOnline",
-      "published": "2026-09-09T21:03:00Z",
-      "published_label": "2026/09/10 06:03",
-      "summary": "中医協は９月９日、OTC類似薬の一部保険外療養創設をめぐり、これに伴う療養担当規則等の見直しについて、上野厚労相から諮問を受けた。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -1208,19 +1219,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "動脈硬化はあるけど、静脈硬化は無い？",
-      "link": "https://yakuzaic.com/archives/144403",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-06T22:00:00Z",
-      "published_label": "2026/09/07 07:00",
-      "summary": "動脈硬化はあるけど、静脈硬化は無い？ 「動脈硬化」という言葉はよく聞く。 高血圧、脂質異常症、糖尿病、喫煙などによって動脈硬化が進み、心筋梗塞や脳梗塞の原因になる。 しかし、考えてみると不思議だ。 「動脈硬化はあるけど、 […] The post 動脈硬化はあるけど、静脈硬化は無い？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
