@@ -1,8 +1,246 @@
 {
-  "updated_at": "2026-09-15T23:23:21.333327Z",
-  "updated_label": "2026/09/16 08:23",
-  "count": 88,
+  "updated_at": "2026-09-16T03:12:19.336212Z",
+  "updated_label": "2026/09/16 12:12",
+  "count": 93,
   "items": [
+    {
+      "title": "タケルダ配合錠は分割NG！割線に見える「100/15」の謎",
+      "link": "https://pharmacist.m3.com/column/hanjou/7808?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-16T03:12:17.262744Z",
+      "published_label": "2026/09/16 12:12",
+      "summary": "低用量アスピリンとランソプラゾールを配合した「タケルダ配合錠」には、錠剤表面に“割線”のように見える線がありますが、含量表示（100/15）の一部です。半分に割るのはNGです。本コラムでは「タケルダ配合錠」の特殊な製剤構造と、割ったり砕いたりしてはいけない理由を解説します。",
+      "tags": [
+        "薬剤師コラム",
+        "医薬品情報・DI",
+        "薬物療法・作用機序",
+        "服薬指導",
+        "医療過誤・ヒヤリハット"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "健康保険が使えないケガとは？―仕事中・ケンカ・泥酔・自傷行為",
+      "link": "https://yakuzaic.com/archives/144454",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-16T00:00:00Z",
+      "published_label": "2026/09/16 09:00",
+      "summary": "健康保険が使えないケガ 病院や薬局で患者から、「仕事中にケガをしたんですが、保険証は使えますか？」と聞かれることがあります。 仕事中のケガなら労災なので健康保険は使えない、というのは比較的よく知られています。 しかし、 […] The post 健康保険が使えないケガとは？―仕事中・ケンカ・泥酔・自傷行為 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "外国語対応で患者獲得へ‐都内で新型薬局続々参入",
+      "link": "https://www.yakuji.co.jp/entry139514.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T23:31:14Z",
+      "published_label": "2026/09/16 08:31",
+      "summary": "国内の処方箋市場が伸び悩む中、東京都内で外国人患者を新たな顧客層として取り込む薬局の開設が相次いでいる。中国語やベトナム語などに対応できる薬剤師やスタッフを配…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「毎年改定はなじまない」‐仁木厚労副大臣、細胞・再生医療品に言及",
+      "link": "https://www.yakuji.co.jp/entry139518.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T23:30:57Z",
+      "published_label": "2026/09/16 08:30",
+      "summary": "仁木博文厚生労働副大臣は10日に都内で講演し、細胞・再生医療等製品について「市場拡大再算定や毎年薬価改定になじまない」と指摘した。その上で、特許期間中の薬価引…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "大阪府推進の「健活10」の集中取組に参画‐18日に健活10PRイベントを開催 nishikawa",
+      "link": "https://www.yakuji.co.jp/entry139496.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:43:48Z",
+      "published_label": "2026/09/16 07:43",
+      "summary": "西川（nishikawa）は、大阪府が推進する「健活おおさか推進府民会議」の会員企業として、大阪府が推進する「健活10」の集中取組に参画する。その一環として9…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士通】量子アプリケーション開発を効率化するソフトウェア「OpenQARP（code name）」をオープンソースとして一般公開",
+      "link": "https://www.yakuji.co.jp/entry139495.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:42:57Z",
+      "published_label": "2026/09/16 07:42",
+      "summary": "富士通は9月15日、量子アプリケーション開発ソフトウェア「Open Quantum Application Research Package」［OpenQAR…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "10月9日に合同形態学セミナー開催 順天堂大学、日本電子",
+      "link": "https://www.yakuji.co.jp/entry139494.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:41:47Z",
+      "published_label": "2026/09/16 07:41",
+      "summary": "順天堂大学と日本電子は10月9日午後1時から、東京・本郷の順天堂大センチュリータワー地下2階組織学実習室で合同形態学セミナーを開催する。参加費は無料。定員は1…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【第一三共ヘルスケア】AIによる顔画像解析で、顔に現れるサインと体内・心身状態との関連を確認",
+      "link": "https://www.yakuji.co.jp/entry139493.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:40:18Z",
+      "published_label": "2026/09/16 07:40",
+      "summary": "第一三共ヘルスケアは、AIによる顔画像解析を活用し、体内・心身状態に関する指標と、頬の赤みやシワなど顔に現れるサイン（外見上の特徴）との関連について研究を実施…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【薬事工業生産動態統計】医療機器令和8年6月分：5730億円",
+      "link": "https://www.yakuji.co.jp/entry139492.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:39:36Z",
+      "published_label": "2026/09/16 07:39",
+      "summary": "厚生労働省は11日、薬事工業生産動態統計の令和8年6月分月報を発表した。同月の医療機器生産金額は2324億円（対前年同月122.3％）、輸入金額は3406億円…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【アイリス】医師向け生成AIツール「Evidence Finder」、Sakana AI社の日本語特化LLMを導入",
+      "link": "https://www.yakuji.co.jp/entry139491.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:38:43Z",
+      "published_label": "2026/09/16 07:38",
+      "summary": "アイリスは9月14日、同社が提供する医師向けエビデンス検索ツール「Evidence Finder」に、Sakana AI社のモデルを用いることについて合意した…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "10月3日に「地域交流ふれあい広場健康まつり」開催へ タニタ",
+      "link": "https://www.yakuji.co.jp/entry139490.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:37:49Z",
+      "published_label": "2026/09/16 07:37",
+      "summary": "タニタは10月3日12時30分から16時30分まで、東京・板橋区前野町の同社本社敷地内で第33回「地域交流ふれあい広場健康まつり」を開催する。 同イベントは…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津製作所】東京都健康長寿医療センターと糖ペプチドの解析法を開発",
+      "link": "https://www.yakuji.co.jp/entry139489.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:36:23Z",
+      "published_label": "2026/09/16 07:36",
+      "summary": "東京都健康長寿医療センターと島津製作所はこのほど、質量分析技術を用いて糖鎖がついたペプチド（糖ペプチド）を詳しく調べる手法を開発した。同技術によって「どの蛋白…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】エリクシールからエイジングケアが叶う、高保湿「マスク級化粧水」誕生 資生堂",
+      "link": "https://www.yakuji.co.jp/entry139487.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:35:06Z",
+      "published_label": "2026/09/16 07:35",
+      "summary": "資生堂はエイジングケアブランド「エリクシール」から高機能エイジングケア化粧水「エリクシール リフトモイスト ローション マスク級高保湿 ca」（医薬部外品）【…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【順大／循環器理学療法学会】高齢心不全患者の予後予測モデル開発‐「生存しても自立失うリスク」をAIが予測",
+      "link": "https://www.yakuji.co.jp/entry139484.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:34:43Z",
+      "published_label": "2026/09/16 07:34",
+      "summary": "順天堂大学保健医療学部理学療法学科の山田莞爾助教、高橋哲也教授、医学部循環器内科学講座の鍵山暢之准教授らと日本循環器理学療法学会の研究グループはこのほど、高齢…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【東薬大／トランスコスモス】AI対話学習基盤の共同開発を開始",
+      "link": "https://www.yakuji.co.jp/entry139483.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:33:21Z",
+      "published_label": "2026/09/16 07:33",
+      "summary": "東京薬科大学とトランスコスモスは9月11日、トランスコスモスが提供するAI対話トレーニングツール「trans-AI Tutor」を薬学生・薬剤師向けに最適化し…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】外科用Cアーム型軽量X線透視診断装置「FUJIFILM DR CALNEO CROSS Slim」を発売 富士フイルム",
+      "link": "https://www.yakuji.co.jp/entry139481.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:32:37Z",
+      "published_label": "2026/09/16 07:32",
+      "summary": "富士フイルムは9月10日、外科用Cアーム型X線透視診断装置（外科用Cアーム）「FUJIFILM DR CALNEO CROSS Slim（CALNEO CRO…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【日本光電】JACとパートナーシップ契約を締結‐持続的成長と企業価値向上に向けて",
+      "link": "https://www.yakuji.co.jp/entry139478.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:31:35Z",
+      "published_label": "2026/09/16 07:31",
+      "summary": "日本光電工業（日本光電）とジャパン・アクティベーション・キャピタル（JAC）は9月10日、日本光電の持続的な成長と企業価値向上に向けたパートナーシップ契約を締…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【沖縄テレビ開発】沖縄発クーガ芋商品ブランド「LeQ’om（レキオム）」、全国の販売拠点100拠点を突破",
+      "link": "https://www.yakuji.co.jp/entry139475.html",
+      "source": "薬事日報",
+      "published": "2026-09-15T22:30:46Z",
+      "published_label": "2026/09/16 07:30",
+      "summary": "沖縄テレビ開発（本社：沖縄県那覇市）が展開する、沖縄在来のヤムイモ「クーガ芋（琉球ヤムイモ）」を活用した商品ブランド「LeQ’om（レキオム）」は、全国の販売…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "沖縄県知事に古謝氏当選‐薬剤師初、薬学部新設焦点",
       "link": "https://www.yakuji.co.jp/entry139516.html",
@@ -72,23 +310,6 @@
       "keywords": []
     },
     {
-      "title": "タケルダ配合錠は分割NG！割線に見える「100/15」の謎",
-      "link": "https://pharmacist.m3.com/column/hanjou/7808?promotionCode=op_pcolumn",
-      "source": "Web監視",
-      "published": "2026-09-15T20:50:26.721279Z",
-      "published_label": "2026/09/16 05:50",
-      "summary": "低用量アスピリンとランソプラゾールを配合した「タケルダ配合錠」には、錠剤表面に“割線”のように見える線がありますが、含量表示（100/15）の一部です。半分に割るのはNGです。本コラムでは「タケルダ配合錠」の特殊な製剤構造と、割ったり砕いたりしてはいけない理由を解説します。",
-      "tags": [
-        "薬剤師コラム",
-        "医薬品情報・DI",
-        "薬物療法・作用機序",
-        "服薬指導",
-        "医療過誤・ヒヤリハット"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "サノフィ DE＆Iをビジネスインパクトに直結 医療アクセス改善と日本発グローバル人材輩出で組織変革",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80873",
       "source": "ミクスOnline",
@@ -147,6 +368,32 @@
       "published": "2026-09-15T19:50:00Z",
       "published_label": "2026/09/16 04:50",
       "summary": "アフルレッサホールディングスは９月15日、完全子会社の宮崎温仙堂商店（長崎県諫早市）の診断薬卸売事業を、同じく完全子会社のテクノ・スズタ（長崎県長崎市）に譲渡する基本合意書を締結したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "会話を生むOTC薬販売、「薬局では売れない」を覆す",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594510.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-15T15:00:00Z",
+      "published_label": "2026/09/16 00:00",
+      "summary": "調剤薬局でのOTC医薬品の販売に約10年取り組み、そのノウハウを発信してきた鈴木伸悟氏。勤務するガーデン薬局ViNA GARDENS店では、OTC薬やヘルスケア商品、食品などを毎月約700点販売し、処方箋に頼らない相談の機会を着実に増やしている。48薬効群を生かした品ぞろえやスタッフ向けの「5分勉強会」、来局者との会話を生み出す売り場づくりについて聞いた。",
+      "tags": [
+        "薬局経営"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "急性心膜炎にコルヒチンを使う理由",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/diquiz/202609/594511.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-15T15:00:00Z",
+      "published_label": "2026/09/16 00:00",
+      "summary": "急性心膜炎のため、病院の循環器内科に入院していた36歳の男性Tさん。外来受診した後、処方箋を持って薬局を訪れました。かぜを引いて、薬を飲んだら良くなったと思ったのに、何日かたってから息が苦しくなって、結局入院したんです。先生には『心臓に炎症が起きている』と言われました。コルヒチンは痛風の薬ですよね。どうして痛風の薬を飲むんでしょう。それに、もう体調は悪くないから、いらないんじゃないかと思うのですが。",
       "tags": [
         "その他"
       ],
@@ -223,34 +470,6 @@
       "keywords": []
     },
     {
-      "title": "【厚労省 安藤医薬産業審議官】革新薬評価は重要な論点‐後発品再編「品目統合で」",
-      "link": "https://www.yakuji.co.jp/entry139376.html",
-      "source": "薬事日報",
-      "published": "2026-09-14T23:31:14Z",
-      "published_label": "2026/09/15 08:31",
-      "summary": "厚生労働省の安藤公一大臣官房医薬産業振興審議官は10日、専門紙と共同会見し、米国の最恵国待遇（MFN）価格政策を踏まえ「革新的新薬のイノベーションをより適切に…",
-      "tags": [
-        "承認・新薬",
-        "業界動向",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【製薬協 木下理事長】一般社団法人化で方向性‐「提案型の組織目指す」",
-      "link": "https://www.yakuji.co.jp/entry139377.html",
-      "source": "薬事日報",
-      "published": "2026-09-14T23:30:35Z",
-      "published_label": "2026/09/15 08:30",
-      "summary": "日本製薬工業協会の木下賢志理事長は10日、大阪市で記者会見し、10月1日に予定している一般社団法人化に向け「ロビー要求型の組織では全く不十分。提案型の組織にな…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "一般名処方のOD錠を普通錠に変更できる？―先発品とジェネリックで違う変更調剤のルール",
       "link": "https://yakuzaic.com/archives/144439",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -260,33 +479,6 @@
       "tags": [
         "薬価・制度",
         "医療安全"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【日薬／NPhA】全品薬価引上げ案に賛同‐日薬連の主張を後押しへ",
-      "link": "https://www.yakuji.co.jp/entry139375.html",
-      "source": "薬事日報",
-      "published": "2026-09-14T21:31:20Z",
-      "published_label": "2026/09/15 06:31",
-      "summary": "2027年度薬価中間年改定をめぐり、日本製薬団体連合会が全収載品を対象とした薬価引き上げを求めていることに対し、日本薬剤師会と日本保険薬局協会（NPhA）は賛…",
-      "tags": [
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【NPhA調査】受付1回で平均12点減点‐厳しい調剤報酬改定結果",
-      "link": "https://www.yakuji.co.jp/entry139374.html",
-      "source": "薬事日報",
-      "published": "2026-09-14T21:30:36Z",
-      "published_label": "2026/09/15 06:30",
-      "summary": "日本保険薬局協会（NPhA）は、会員薬局を対象に実施した2026年度調剤報酬改定の影響調査結果を公表し、調剤基本料、地域支援・医薬品供給対応体制加算、電子的調…",
-      "tags": [
-        "薬価・制度"
       ],
       "importance": 4,
       "keywords": []
@@ -412,33 +604,6 @@
       "keywords": []
     },
     {
-      "title": "【厚労省 大原薬剤管理官】地域性踏まえた薬局評価へ‐中間年改定はバランス意識",
-      "link": "https://www.yakuji.co.jp/entry139373.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T23:31:55Z",
-      "published_label": "2026/09/14 08:31",
-      "summary": "厚生労働省保険局医療課の大原拓薬剤管理官は本紙の取材に応じ、次期調剤報酬改定に向けた議論については2040年を見据え、全国一律の評価体系ではなく地域の実情を踏…",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【医療保険部会】アトピー再燃予防は対象外‐ステロイド外用薬別途負担",
-      "link": "https://www.yakuji.co.jp/entry139372.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T23:30:10Z",
-      "published_label": "2026/09/14 08:30",
-      "summary": "社会保障審議会医療保険部会は11日、OTC類似薬の保険給付見直しに伴う一部保険外療養制度の具体的運用について議論し、アトピー性皮膚炎で再燃予防を目的とするプロ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "心臓の前負荷と後負荷の違い―心不全治療薬は何を軽くしている？",
       "link": "https://yakuzaic.com/archives/144443",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -449,99 +614,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ラスカー賞に柳沢教授ら‐革新的治療薬の開発貢献",
-      "link": "https://www.yakuji.co.jp/entry139380.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:33:32Z",
-      "published_label": "2026/09/14 06:33",
-      "summary": "米ラスカー財団が9日に発表した2026年ラスカー賞は、睡眠障害、血友病の新規作用の革新的治療薬の開発につながった研究に貢献した日本人研究者4人を含む受賞となっ…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "「創薬はやりがいある」ラスカー賞受賞3氏が会見",
-      "link": "https://www.yakuji.co.jp/entry139384.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:32:25Z",
-      "published_label": "2026/09/14 06:32",
-      "summary": "権威ある生物医学研究賞「ラスカー賞」の「臨床医学研究賞」に、革新的な血友病A治療薬「ヘムライブラ皮下注」（一般名：エミシズマブ遺伝子組み換え）を生み出すことに…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【協和キリン】加齢黄斑変性の点眼剤開発‐第II相トップライン発表",
-      "link": "https://www.yakuji.co.jp/entry139250.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:31:50Z",
-      "published_label": "2026/09/14 06:31",
-      "summary": "協和キリンは8日、新生血管型加齢黄斑変性に対する点眼剤として開発している「KHK4951」の第II相国際試験のトップラインデータについて、約70％の患者で52…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【クリエイトエス・ディー】「未病指標」店舗で啓発‐測定端末設置やアドバイス",
-      "link": "https://www.yakuji.co.jp/entry139246.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:30:44Z",
-      "published_label": "2026/09/14 06:30",
-      "summary": "クリエイトエス・ディーは、神奈川県が推進する「未病指標」の普及に向け、今月の認知症月間をきっかけに県内店舗で未病指標の案内や健康相談会等を実施する。調剤を行う…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "取締役副会長にクリストフ・ウェバー氏、取締役に竹下健一氏 楽天メディカル",
-      "link": "https://www.yakuji.co.jp/entry139368.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:05:49Z",
-      "published_label": "2026/09/14 06:05",
-      "summary": "楽天メディカル＝10日、前武田薬品CEOのクリストフ・ウェバー氏を取締役副会長に、前第一三共グローバル研究開発ヘッドの竹下健一氏を取締役に迎えたと発表した。両…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「フェイタス」から新製品‐痛みのもとに直接作用 久光製薬",
-      "link": "https://www.yakuji.co.jp/entry139363.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:04:33Z",
-      "published_label": "2026/09/14 06:04",
-      "summary": "久光製薬は、経皮鎮痛消炎テープ剤「フェイタスZプレミアム」「同Zプレミアム大判」「同Zプレミアム温感」「同Zプレミアム温感大判」（いずれも第2類医薬品）を新発…",
-      "tags": [
-        "業界動向",
-        "承認・新薬",
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】喉の痛みや声がれに効果‐「ヒヤのどスプレーAZ」発売 樋屋奇応丸",
-      "link": "https://www.yakuji.co.jp/entry139362.html",
-      "source": "薬事日報",
-      "published": "2026-09-13T21:03:43Z",
-      "published_label": "2026/09/14 06:03",
-      "summary": "樋屋奇応丸は、炎症による喉の痛みや腫れ、声がれなどに対応する「ヒヤのどスプレーAZ」（第3類医薬品）を新発売した。 同品は、抗炎症成分のアズレンスルホン酸ナ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -1109,19 +1181,6 @@
         "転職"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "ビタミンの良し悪し―本当に体に良いのか？",
-      "link": "https://yakuzaic.com/archives/144383",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-05T22:00:00Z",
-      "published_label": "2026/09/06 07:00",
-      "summary": "ビタミンは体に良いのか？ 「ビタミン」と聞くと、それだけで体に良さそうなイメージがある。 ビタミンCなら風邪に効きそう。ビタミンBなら疲れが取れそう。ビタミンEなら老化を防いでくれそう。マルチビタミンなら、とりあえず飲ん […] The post ビタミンの良し悪し―本当に体に良いのか？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
