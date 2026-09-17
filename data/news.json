@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-16T23:31:35.818140Z",
-  "updated_label": "2026/09/17 08:31",
-  "count": 97,
+  "updated_at": "2026-09-17T03:17:31.616538Z",
+  "updated_label": "2026/09/17 12:17",
+  "count": 96,
   "items": [
     {
       "title": "ヒルドイドは選定療養の対象？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7810?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-16T23:31:33.947672Z",
-      "published_label": "2026/09/17 08:31",
+      "published": "2026-09-17T03:17:30.700376Z",
+      "published_label": "2026/09/17 12:17",
       "summary": "「特定薬剤管理指導加算3」は、重点的な服薬指導・説明が必要な場合や、選定療養の対象となる先発医薬品を希望する患者に説明・指導を行った場合に算定できる加算です。では、患者の希望で「ヘパリン類似物質」の先発医薬品を調剤した場合も特定薬剤管理指導加算3は算定できるのでしょうか？",
       "tags": [
         "薬剤師コラム",
@@ -16,6 +16,137 @@
         "医療クイズ",
         "選定療養",
         "診療報酬改定"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師あゆみの会 研修会 2026/11",
+      "link": "https://www.yakuji.co.jp/entry139557.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T01:02:54Z",
+      "published_label": "2026/09/17 10:02",
+      "summary": "薬剤師ステップアップ研修2026 「現場で即実践！～OTC対応から服薬指導・減薬提案まで、対人業務の『型』を学ぶ2日間～」 概要 患者の潜在ニーズを引き出す「攻…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "コロナワクチン「もう打たなくていい」は本当か？ 最新論文155本をレビュー",
+      "link": "https://www.carenet.com/hihyothu3/077.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-17T01:00:10Z",
+      "published_label": "2026/09/17 10:00",
+      "summary": "新型コロナワクチンは今も打つ意味があるのでしょうか。155本の研究をレビューした論文で、高齢者や妊婦の入院リスクを半減させる効果と安全性が明らかに。秋冬の流行前に知っておきたい最新の知見を解説します。",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師あゆみの会 研修会 2026/10",
+      "link": "https://www.yakuji.co.jp/entry139555.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T01:00:02Z",
+      "published_label": "2026/09/17 10:00",
+      "summary": "「薬局で活躍できる医療事務を目指そう～窓口業務に自信がつく！保険制度・調剤報酬の基礎知識～」 概要 事務スタッフ・新任薬剤師を対象に、令和8年度報酬改定の内容を…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【血液学会／ノバルティス】血液癌経過観察を病診で‐福島県と三重県で開始",
+      "link": "https://www.yakuji.co.jp/entry139524.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T23:31:59Z",
+      "published_label": "2026/09/17 08:31",
+      "summary": "日本血液学会とノバルティスファーマが行う血液癌など血液疾患の寛解状態にある患者を専門病院だけでなく患者宅に近いクリニックでも診ていけるようにする病診連携プロジ…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【武田薬品】ザソシチニブを米申請‐経口の乾癬治療薬",
+      "link": "https://www.yakuji.co.jp/entry139525.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T23:30:37Z",
+      "published_label": "2026/09/17 08:30",
+      "summary": "武田薬品は14日、経口の乾癬治療薬として開発しているTYK2阻害剤ザソシチニブ（TAK-279）の承認申請が米国で受理されたと発表した。優先審査指定され、審査…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【NOVARCA】東京都のスタートアップ支援事業に参画‐「TiB CATAPULT」美容・ウェルネス領域クラスター「J-Beauty ＆ BeautyTech Global Gateway」",
+      "link": "https://www.yakuji.co.jp/entry139569.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T22:35:13Z",
+      "published_label": "2026/09/17 07:35",
+      "summary": "日本ブランドの世界的成長を支援するNOVARCA（本社：東京都千代田区）は、東京都が実施する「グローバルイノベーションに挑戦するクラスター創成事業（TiB C…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【アイリス】代表の沖山氏がAIサイバーセキュリティ大会で銀メダル‐OpenAI・Googleらが共催",
+      "link": "https://www.yakuji.co.jp/entry139567.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T22:33:16Z",
+      "published_label": "2026/09/17 07:33",
+      "summary": "アイリスは9月16日、同社代表取締役の沖山翔氏が、OpenAI社、Google社、IEEE（米国電気電子学会）が共催する、グローバルなサイバーセキュリティのK…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【オムロンヘルスケア】支援の「大迫研究」が40周年‐「家庭で血圧を測る」文化普及に貢献",
+      "link": "https://www.yakuji.co.jp/entry139566.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T22:32:58Z",
+      "published_label": "2026/09/17 07:32",
+      "summary": "オムロンヘルスケアが、1986年のスタート時から協力している家庭血圧に関する大規模臨床研究「大迫（おおはさま）研究」が、2026年に開始から40周年を迎えた。…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】ENT領域における手術用デバイス「ApexCutブレード」の販売開始 日本メドトロニック",
+      "link": "https://www.yakuji.co.jp/entry139564.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T22:31:59Z",
+      "published_label": "2026/09/17 07:31",
+      "summary": "日本メドトロニックは9月16日、耳鼻咽喉科（ENT）領域における新しい手術用デバイス「ApexCutブレード」の販売を開始した。 同製品は、同社のニューロサ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】本格エイジングケア美顔器「バイタリフト RF LUXE EH-SR90」を発売 パナソニック",
+      "link": "https://www.yakuji.co.jp/entry139562.html",
+      "source": "薬事日報",
+      "published": "2026-09-16T22:30:36Z",
+      "published_label": "2026/09/17 07:30",
+      "summary": "パナソニックは11月中旬、同社史上最高周波数6MHzの高出力変調型RFを搭載し、1台16役の本格エイジングケアをかなえる「バイタリフト RF LUXE EH-…",
+      "tags": [
+        "承認・新薬"
       ],
       "importance": 3,
       "keywords": []
@@ -364,137 +495,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】東京都健康長寿医療センターと糖ペプチドの解析法を開発",
-      "link": "https://www.yakuji.co.jp/entry139489.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T22:36:23Z",
-      "published_label": "2026/09/16 07:36",
-      "summary": "東京都健康長寿医療センターと島津製作所はこのほど、質量分析技術を用いて糖鎖がついたペプチド（糖ペプチド）を詳しく調べる手法を開発した。同技術によって「どの蛋白…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】エリクシールからエイジングケアが叶う、高保湿「マスク級化粧水」誕生 資生堂",
-      "link": "https://www.yakuji.co.jp/entry139487.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T22:35:06Z",
-      "published_label": "2026/09/16 07:35",
-      "summary": "資生堂はエイジングケアブランド「エリクシール」から高機能エイジングケア化粧水「エリクシール リフトモイスト ローション マスク級高保湿 ca」（医薬部外品）【…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【順大／循環器理学療法学会】高齢心不全患者の予後予測モデル開発‐「生存しても自立失うリスク」をAIが予測",
-      "link": "https://www.yakuji.co.jp/entry139484.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T22:34:43Z",
-      "published_label": "2026/09/16 07:34",
-      "summary": "順天堂大学保健医療学部理学療法学科の山田莞爾助教、高橋哲也教授、医学部循環器内科学講座の鍵山暢之准教授らと日本循環器理学療法学会の研究グループはこのほど、高齢…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【東薬大／トランスコスモス】AI対話学習基盤の共同開発を開始",
-      "link": "https://www.yakuji.co.jp/entry139483.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T22:33:21Z",
-      "published_label": "2026/09/16 07:33",
-      "summary": "東京薬科大学とトランスコスモスは9月11日、トランスコスモスが提供するAI対話トレーニングツール「trans-AI Tutor」を薬学生・薬剤師向けに最適化し…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】外科用Cアーム型軽量X線透視診断装置「FUJIFILM DR CALNEO CROSS Slim」を発売 富士フイルム",
-      "link": "https://www.yakuji.co.jp/entry139481.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T22:32:37Z",
-      "published_label": "2026/09/16 07:32",
-      "summary": "富士フイルムは9月10日、外科用Cアーム型X線透視診断装置（外科用Cアーム）「FUJIFILM DR CALNEO CROSS Slim（CALNEO CRO…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【日本光電】JACとパートナーシップ契約を締結‐持続的成長と企業価値向上に向けて",
-      "link": "https://www.yakuji.co.jp/entry139478.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T22:31:35Z",
-      "published_label": "2026/09/16 07:31",
-      "summary": "日本光電工業（日本光電）とジャパン・アクティベーション・キャピタル（JAC）は9月10日、日本光電の持続的な成長と企業価値向上に向けたパートナーシップ契約を締…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【沖縄テレビ開発】沖縄発クーガ芋商品ブランド「LeQ’om（レキオム）」、全国の販売拠点100拠点を突破",
-      "link": "https://www.yakuji.co.jp/entry139475.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T22:30:46Z",
-      "published_label": "2026/09/16 07:30",
-      "summary": "沖縄テレビ開発（本社：沖縄県那覇市）が展開する、沖縄在来のヤムイモ「クーガ芋（琉球ヤムイモ）」を活用した商品ブランド「LeQ’om（レキオム）」は、全国の販売…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "沖縄県知事に古謝氏当選‐薬剤師初、薬学部新設焦点",
-      "link": "https://www.yakuji.co.jp/entry139516.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T21:31:13Z",
-      "published_label": "2026/09/16 06:31",
-      "summary": "13日に投開票が行われた沖縄県知事選は、薬剤師の古謝玄太氏が42万3124票を獲得し、27万6060票を得た現職の玉城デニー氏ら5氏を退け、初当選を果たした。…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省／PMDA】抗癌剤審査で国際協力‐FDA主導枠組み参加",
-      "link": "https://www.yakuji.co.jp/entry139520.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T21:30:53Z",
-      "published_label": "2026/09/16 06:30",
-      "summary": "厚生労働省と医薬品医療機器総合機構（PMDA）は10日、米国食品医薬品局（FDA）が主導する抗癌剤の薬事審査に関する国際協力の枠組み「プロジェクト・オービス」…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "大島氏が理事就任 日本医薬品登録販売者会",
-      "link": "https://www.yakuji.co.jp/entry139505.html",
-      "source": "薬事日報",
-      "published": "2026-09-15T21:03:29Z",
-      "published_label": "2026/09/16 06:03",
-      "summary": "日本医薬品登録販売者会（日登会）は、元厚生労働省事務次官の大島一博氏が7日付で理事に就任したと発表した。 大島氏は東京大学法学部を卒業し、1987年に厚生省…",
-      "tags": [
-        "一般用医薬品",
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -1117,19 +1117,6 @@
         "OTC医薬品"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76025.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-10T05:00:00Z",
-      "published_label": "2026/09/10 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
