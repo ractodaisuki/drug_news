@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-09-18T03:03:47.467187Z",
-  "updated_label": "2026/09/18 12:03",
+  "updated_at": "2026-09-18T10:31:03.610558Z",
+  "updated_label": "2026/09/18 19:31",
   "count": 97,
   "items": [
+    {
+      "title": "「第２回 薬剤師のキャリアパスに関する懇談会」の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76155.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-18T05:00:00Z",
+      "published_label": "2026/09/18 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "麻薬・覚醒剤・大麻乱用防止運動の実施について",
+      "link": "https://www.mhlw.go.jp/stf/houdou/0000179105_00025.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-18T05:00:00Z",
+      "published_label": "2026/09/18 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-18T04:55:00Z",
+      "published_label": "2026/09/18 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-18T04:55:00Z",
+      "published_label": "2026/09/18 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "127年ぶりの薬剤師知事誕生、どんな医療施策を実現させる？",
       "link": "https://www.carenet.com/hihyofri/331.html?utm_source=rss&utm_medium=rss",
@@ -347,6 +399,33 @@
       "keywords": []
     },
     {
+      "title": "日本病院会、病院救急車の普及に向けた財政支援を要望",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202609/594644.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-17T15:00:00Z",
+      "published_label": "2026/09/18 00:00",
+      "summary": "日本病院会は2026年9月15日、上野賢一郎厚生労働大臣宛てに「病院が所有する患者搬送用の救急車（病院救急車）に係わる提言」を提出した。病院救急車の普及や複数の病院での共同運用に向け、診療報酬の見直しや補助金による財政支援を求めた。超高齢社会において、搬送や通院などで救急車を要する在宅高齢患者の増加を踏まえたもの。同会による調査では、救急車（寝台車タイプ）の車両本体価格は平均1120万円、中央値800万円と高額であり、100床未満の医…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "玉石混交を脱するのは？ 検証進む「膝の痛み」への再生医療",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/report/Weekly/202609/594618.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-17T15:00:00Z",
+      "published_label": "2026/09/18 00:00",
+      "summary": "2026年1月、ヒト（自己）軟骨由来組織「ジャック」が変形性膝関節症を対象に保険収載され、同年5月にはヒト（自己）滑膜由来間葉系幹細胞（MSC）「セイビスカス注」が薬事承認を取得しました。自由診療として広がってきた多血小板血漿（PRP）療法でも、エビデンス構築の取り組みが始まりました。有効性と安全性が検証された製品の実用化が進み、玉石混交のイメージだった膝の再生医療は、保存療法と人工膝関節置換術の間の治療選択の空白を埋める存在になりつ…",
+      "tags": [
+        "承認・新薬",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "手術前の糖尿病治療薬の休薬漏れに注意",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594627.html",
       "source": "日経メディカル Online",
@@ -481,45 +560,6 @@
         "診療報酬改定"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師あゆみの会 研修会 2026/11",
-      "link": "https://www.yakuji.co.jp/entry139557.html",
-      "source": "薬事日報",
-      "published": "2026-09-17T01:02:54Z",
-      "published_label": "2026/09/17 10:02",
-      "summary": "薬剤師ステップアップ研修2026 「現場で即実践！～OTC対応から服薬指導・減薬提案まで、対人業務の『型』を学ぶ2日間～」 概要 患者の潜在ニーズを引き出す「攻…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師あゆみの会 研修会 2026/10",
-      "link": "https://www.yakuji.co.jp/entry139555.html",
-      "source": "薬事日報",
-      "published": "2026-09-17T01:00:02Z",
-      "published_label": "2026/09/17 10:00",
-      "summary": "「薬局で活躍できる医療事務を目指そう～窓口業務に自信がつく！保険制度・調剤報酬の基礎知識～」 概要 事務スタッフ・新任薬剤師を対象に、令和8年度報酬改定の内容を…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【血液学会／ノバルティス】血液癌経過観察を病診で‐福島県と三重県で開始",
-      "link": "https://www.yakuji.co.jp/entry139524.html",
-      "source": "薬事日報",
-      "published": "2026-09-16T23:31:59Z",
-      "published_label": "2026/09/17 08:31",
-      "summary": "日本血液学会とノバルティスファーマが行う血液癌など血液疾患の寛解状態にある患者を専門病院だけでなく患者宅に近いクリニックでも診ていけるようにする病診連携プロジ…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1037,32 +1077,6 @@
       "keywords": []
     },
     {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-11T04:55:00Z",
-      "published_label": "2026/09/11 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-11T04:55:00Z",
-      "published_label": "2026/09/11 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "【訃報】元・武田薬品社長CEOの長谷川閑史さん逝去 タケダの事業基盤をグローバル規模への拡大に尽力",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80860",
       "source": "ミクスOnline",
@@ -1073,19 +1087,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬事工業生産動態統計令和8年6月分月報について",
-      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-11T02:00:00Z",
-      "published_label": "2026/09/11 11:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
