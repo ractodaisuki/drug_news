@@ -1,8 +1,126 @@
 {
-  "updated_at": "2026-09-17T23:21:33.873500Z",
-  "updated_label": "2026/09/18 08:21",
-  "count": 96,
+  "updated_at": "2026-09-18T03:03:47.467187Z",
+  "updated_label": "2026/09/18 12:03",
+  "count": 97,
   "items": [
+    {
+      "title": "127年ぶりの薬剤師知事誕生、どんな医療施策を実現させる？",
+      "link": "https://www.carenet.com/hihyofri/331.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-18T01:00:08Z",
+      "published_label": "2026/09/18 10:00",
+      "summary": "9月13日投開票の沖縄県知事選で、日本史上127年ぶりとなる薬剤師知事が誕生した。米軍基地問題や独特の保革対立の裏で起きた劇的な選挙戦と新知事が描く沖縄の医療政策について、2回にわたって解説します。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "第25回 パーキンソン病 多彩な症状に対する薬物治療を理解する",
+      "link": "https://www.carenet.com/pharmacist/ameeminimovie/cg003068_005.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-18T00:59:00Z",
+      "published_label": "2026/09/18 09:59",
+      "summary": "この番組では、最近の国家試験の中から薬局実務に直結する問題をピックアップ。問題を解きながら、現場に即した解説を加えていきます。薬局薬剤師に必要な知識、役立つノウハウが短時間で身につきます。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省】リアルタイム治験を試行へ‐FDA参考に日本も追随",
+      "link": "https://www.yakuji.co.jp/entry139634.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T23:31:23Z",
+      "published_label": "2026/09/18 08:31",
+      "summary": "厚生労働省は来年度から、治験の進行中に安全性シグナルや主要評価項目の達成状況などを規制当局がクラウド上でリアルタイムに確認できる「リアルタイム臨床試験」（RT…",
+      "tags": [
+        "学術・エビデンス",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【第一三共】肺癌一次治療で有意な改善‐ADC「エンハーツ」第III相",
+      "link": "https://www.yakuji.co.jp/entry139642.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T23:30:27Z",
+      "published_label": "2026/09/18 08:30",
+      "summary": "第一三共は14日、抗体薬物複合体（ADC）の「エンハーツ」について、HER2遺伝子変異を有する切除不能、局所進行または転移性非小細胞肺癌の一次治療を対象にした…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【第6回SaMDフォーラム】実装へ二つの課題、資本戦略と普及策を議論‐ニーズと経営効果を重視",
+      "link": "https://www.yakuji.co.jp/entry139605.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T22:35:50Z",
+      "published_label": "2026/09/18 07:35",
+      "summary": "SaMD産学官連携フォーラムは9月16日、虎ノ門ヒルズフォーラムで第6回目のフォーラムを開催し、この中で二つの総合討論を行った。総合討論1ではスタートアップの…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "24日に「介護報酬改定」でWEBセミナー 積水ホームテクノ",
+      "link": "https://www.yakuji.co.jp/entry139603.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T22:34:45Z",
+      "published_label": "2026/09/18 07:34",
+      "summary": "積水ホームテクノは9月24日午後1時20分から3時30分まで、無料WEBセミナー「－介護業界最前線－令和9年度介護報酬改定の方向性について」を開催する。先着5…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【オムロンHC】茨城県庁および鹿島アントラーズ関連施設にキオスク血圧計を設置",
+      "link": "https://www.yakuji.co.jp/entry139600.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T22:33:06Z",
+      "published_label": "2026/09/18 07:33",
+      "summary": "オムロンヘルスケアは9月16日、茨城県、鹿島アントラーズ・エフ・シーと連携し、日常生活で気軽に血圧を測定できる「キオスク血圧計」を設置し、地域住民の健康増進を…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日立ハイテク】インド・ムンバイに分析装置のデモラボ開設‐バイオ医薬品などの化学・産業分野に向けて",
+      "link": "https://www.yakuji.co.jp/entry139597.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T22:32:47Z",
+      "published_label": "2026/09/18 07:32",
+      "summary": "日立ハイテクは10月1日、インド・ムンバイでバイオ医薬品や環境・材料などの化学・産業分野で高度化する研究開発・品質管理ニーズに対応し、顧客の分析・評価課題の解…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】スマホ汚れないハンドジェリー、コラーゲン、限定発売 ナリス化粧品",
+      "link": "https://www.yakuji.co.jp/entry139594.html",
+      "source": "薬事日報",
+      "published": "2026-09-17T22:30:16Z",
+      "published_label": "2026/09/18 07:30",
+      "summary": "ナリス化粧品は、ドラッグストア・量販店流通で展開するナリスアップブランドで2023年から発売している「セラミュ ハンドジェリー」の追加品として、3種のコラーゲ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "膀胱炎で発熱する？―熱があったら腎盂腎炎を疑う？",
       "link": "https://yakuzaic.com/archives/144462",
@@ -229,6 +347,19 @@
       "keywords": []
     },
     {
+      "title": "手術前の糖尿病治療薬の休薬漏れに注意",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594627.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-17T15:00:00Z",
+      "published_label": "2026/09/18 00:00",
+      "summary": "日本医療機能評価機構（以下、機構）は2026年9月15日、医療安全情報「2026年9月No.238」を公開した。添付文書上、手術前後の患者に禁忌とされている糖尿病薬を休薬しなかった事例が2020年1月から2026年7月の間に11件報告されていることを受け、注意を呼び掛けた。",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "当事者になって自戒した薄っぺらい「傾聴」「寄り添い」",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202609/594617.html",
       "source": "日経メディカル Online",
@@ -392,84 +523,6 @@
       "keywords": []
     },
     {
-      "title": "【武田薬品】ザソシチニブを米申請‐経口の乾癬治療薬",
-      "link": "https://www.yakuji.co.jp/entry139525.html",
-      "source": "薬事日報",
-      "published": "2026-09-16T23:30:37Z",
-      "published_label": "2026/09/17 08:30",
-      "summary": "武田薬品は14日、経口の乾癬治療薬として開発しているTYK2阻害剤ザソシチニブ（TAK-279）の承認申請が米国で受理されたと発表した。優先審査指定され、審査…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【NOVARCA】東京都のスタートアップ支援事業に参画‐「TiB CATAPULT」美容・ウェルネス領域クラスター「J-Beauty ＆ BeautyTech Global Gateway」",
-      "link": "https://www.yakuji.co.jp/entry139569.html",
-      "source": "薬事日報",
-      "published": "2026-09-16T22:35:13Z",
-      "published_label": "2026/09/17 07:35",
-      "summary": "日本ブランドの世界的成長を支援するNOVARCA（本社：東京都千代田区）は、東京都が実施する「グローバルイノベーションに挑戦するクラスター創成事業（TiB C…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【アイリス】代表の沖山氏がAIサイバーセキュリティ大会で銀メダル‐OpenAI・Googleらが共催",
-      "link": "https://www.yakuji.co.jp/entry139567.html",
-      "source": "薬事日報",
-      "published": "2026-09-16T22:33:16Z",
-      "published_label": "2026/09/17 07:33",
-      "summary": "アイリスは9月16日、同社代表取締役の沖山翔氏が、OpenAI社、Google社、IEEE（米国電気電子学会）が共催する、グローバルなサイバーセキュリティのK…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【オムロンヘルスケア】支援の「大迫研究」が40周年‐「家庭で血圧を測る」文化普及に貢献",
-      "link": "https://www.yakuji.co.jp/entry139566.html",
-      "source": "薬事日報",
-      "published": "2026-09-16T22:32:58Z",
-      "published_label": "2026/09/17 07:32",
-      "summary": "オムロンヘルスケアが、1986年のスタート時から協力している家庭血圧に関する大規模臨床研究「大迫（おおはさま）研究」が、2026年に開始から40周年を迎えた。…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】ENT領域における手術用デバイス「ApexCutブレード」の販売開始 日本メドトロニック",
-      "link": "https://www.yakuji.co.jp/entry139564.html",
-      "source": "薬事日報",
-      "published": "2026-09-16T22:31:59Z",
-      "published_label": "2026/09/17 07:31",
-      "summary": "日本メドトロニックは9月16日、耳鼻咽喉科（ENT）領域における新しい手術用デバイス「ApexCutブレード」の販売を開始した。 同製品は、同社のニューロサ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】本格エイジングケア美顔器「バイタリフト RF LUXE EH-SR90」を発売 パナソニック",
-      "link": "https://www.yakuji.co.jp/entry139562.html",
-      "source": "薬事日報",
-      "published": "2026-09-16T22:30:36Z",
-      "published_label": "2026/09/17 07:30",
-      "summary": "パナソニックは11月中旬、同社史上最高周波数6MHzの高出力変調型RFを搭載し、1台16役の本格エイジングケアをかなえる「バイタリフト RF LUXE EH-…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "ケブネル現象とは？―皮膚を掻くと乾癬が増える？",
       "link": "https://yakuzaic.com/archives/144457",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -480,19 +533,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【NPhA】OTC類似薬制度に要望‐負担を処方箋で明示を",
-      "link": "https://www.yakuji.co.jp/entry139521.html",
-      "source": "薬事日報",
-      "published": "2026-09-16T21:31:13Z",
-      "published_label": "2026/09/17 06:31",
-      "summary": "日本保険薬局協会（NPhA）は、OTC類似薬の一部保険外療養の導入に向けた制度設計に関する要望書をまとめた。近く厚生労働省に提出する。同一の医薬品であっても処…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -691,32 +731,6 @@
       "published": "2026-09-15T19:50:00Z",
       "published_label": "2026/09/16 04:50",
       "summary": "アフルレッサホールディングスは９月15日、完全子会社の宮崎温仙堂商店（長崎県諫早市）の診断薬卸売事業を、同じく完全子会社のテクノ・スズタ（長崎県長崎市）に譲渡する基本合意書を締結したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "会話を生むOTC薬販売、「薬局では売れない」を覆す",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594510.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-15T15:00:00Z",
-      "published_label": "2026/09/16 00:00",
-      "summary": "調剤薬局でのOTC医薬品の販売に約10年取り組み、そのノウハウを発信してきた鈴木伸悟氏。勤務するガーデン薬局ViNA GARDENS店では、OTC薬やヘルスケア商品、食品などを毎月約700点販売し、処方箋に頼らない相談の機会を着実に増やしている。48薬効群を生かした品ぞろえやスタッフ向けの「5分勉強会」、来局者との会話を生み出す売り場づくりについて聞いた。",
-      "tags": [
-        "薬局経営"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "急性心膜炎にコルヒチンを使う理由",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/diquiz/202609/594511.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-15T15:00:00Z",
-      "published_label": "2026/09/16 00:00",
-      "summary": "急性心膜炎のため、病院の循環器内科に入院していた36歳の男性Tさん。外来受診した後、処方箋を持って薬局を訪れました。かぜを引いて、薬を飲んだら良くなったと思ったのに、何日かたってから息が苦しくなって、結局入院したんです。先生には『心臓に炎症が起きている』と言われました。コルヒチンは痛風の薬ですよね。どうして痛風の薬を飲むんでしょう。それに、もう体調は悪くないから、いらないんじゃないかと思うのですが。",
       "tags": [
         "その他"
       ],
