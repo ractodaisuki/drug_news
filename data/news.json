@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-09-20T15:23:08.712594Z",
-  "updated_label": "2026/09/21 00:23",
-  "count": 99,
+  "updated_at": "2026-09-20T20:16:49.360220Z",
+  "updated_label": "2026/09/21 05:16",
+  "count": 100,
   "items": [
+    {
+      "title": "イプタコパンがIgA腎症の適応追加／ノバルティス",
+      "link": "https://www.carenet.com/news/general/carenet/63646?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-20T19:00:00Z",
+      "published_label": "2026/09/21 04:00",
+      "summary": "ノバルティス ファーマは2026年9月16日、経口補体B因子阻害薬イプタコパン（商品名：ファビハルタカプセル200mg）について、IgA腎症に対する効能又は効果の追加承認を取得したことを発表した。今回の承認により、…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "T-DXdおよびDato-DXd、転移乳がん患者への1次治療に承認取得／第一三共",
+      "link": "https://www.carenet.com/news/general/carenet/63645?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-20T19:00:00Z",
+      "published_label": "2026/09/21 04:00",
+      "summary": "第一三共は2026年9月16日、抗HER2抗体薬物複合体（ADC）トラスツズマブ デルクステカン（T-DXd、商品名：エンハーツ）および抗TROP-2 ADCダトポタマブ デルクステカン（Dato-DXd、商品名：ダトロウェイ）について…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "再発・難治性濾胞性リンパ腫へのエプコリタマブ、リツキシマブとレナリドミドとの併用療法が承認／ジェンマブ",
+      "link": "https://www.carenet.com/news/general/carenet/63632?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-20T19:00:00Z",
+      "published_label": "2026/09/21 04:00",
+      "summary": "ジェンマブは2026年9月16日、二重特異性抗体製剤エプコリタマブ（商品名：エプキンリ皮下注4mg、同48mg）について、再発・難治性の濾胞性リンパ腫（FL）Grade1～3Aに対するリツキシマブとレナリドミド（R2）との…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ペムブロリズマブ、プラチナ抵抗性再発卵巣がんに承認取得／MSD",
+      "link": "https://www.carenet.com/news/general/carenet/63624?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-20T19:00:00Z",
+      "published_label": "2026/09/21 04:00",
+      "summary": "MSDは2026年9月16日、抗PD-1抗体ペムブロリズマブ（商品名：キイトルーダ）について、「プラチナ系抗悪性腫瘍剤抵抗性の再発卵巣がん」に対する国内製造販売承認事項一部変更承認を取得したと発表。 今回の製…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "薬局実習、薬学生指導のポイントは【第6週目】",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/practicenavi/202609/594629.html",
@@ -119,32 +171,6 @@
       "summary": "",
       "tags": [
         "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "127年ぶりの薬剤師知事誕生、どんな医療施策を実現させる？",
-      "link": "https://www.carenet.com/hihyofri/331.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-18T01:00:08Z",
-      "published_label": "2026/09/18 10:00",
-      "summary": "9月13日投開票の沖縄県知事選で、日本史上127年ぶりとなる薬剤師知事が誕生した。米軍基地問題や独特の保革対立の裏で起きた劇的な選挙戦と新知事が描く沖縄の医療政策について、2回にわたって解説します。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "第25回 パーキンソン病 多彩な症状に対する薬物治療を理解する",
-      "link": "https://www.carenet.com/pharmacist/ameeminimovie/cg003068_005.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-18T00:59:00Z",
-      "published_label": "2026/09/18 09:59",
-      "summary": "この番組では、最近の国家試験の中から薬局実務に直結する問題をピックアップ。問題を解きながら、現場に即した解説を加えていきます。薬局薬剤師に必要な知識、役立つノウハウが短時間で身につきます。",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -451,19 +477,6 @@
         "業界動向"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "パルボシクリブ、HR+HER2+乳がん導入療法後の維持療法に適応拡大／ファイザー",
-      "link": "https://www.carenet.com/news/general/carenet/63630?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-17T19:00:00Z",
-      "published_label": "2026/09/18 04:00",
-      "summary": "ファイザーは2026年9月16日、CDK4/6阻害薬パルボシクリブ（商品名：イブランス）について、「ホルモン受容体陽性かつHER2陽性の手術不能又は再発乳癌における化学療法後の維持療法」に対する製造販売承認事項一部…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
