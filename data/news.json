@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-09-20T22:56:41.979980Z",
-  "updated_label": "2026/09/21 07:56",
-  "count": 100,
+  "updated_at": "2026-09-21T03:11:31.774979Z",
+  "updated_label": "2026/09/21 12:11",
+  "count": 101,
   "items": [
+    {
+      "title": "日本で海外の新薬が使えなくなる不安",
+      "link": "https://www.carenet.com/hihyomon/313.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-21T01:00:08Z",
+      "published_label": "2026/09/21 10:00",
+      "summary": "今回の「まとめる月曜日」は特別編として「ドラッグロス」への不安をお届けします。なぜ、わが国でドラッグロスが起こる可能性があるのか。それは、現在の薬価制度とも深くリンクしていました。海外の治療薬が使えるようになる改善策を井上雅博氏が提言します。",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "なぜキャブピリンは処方しにくいのか？―バイアスピリン＋タケキャブとの不思議な違い",
       "link": "https://yakuzaic.com/archives/144478",
