@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-22T23:28:29.238867Z",
-  "updated_label": "2026/09/23 08:28",
-  "count": 97,
+  "updated_at": "2026-09-23T16:02:33.159359Z",
+  "updated_label": "2026/09/24 01:02",
+  "count": 96,
   "items": [
+    {
+      "title": "「のどの異物感が続く若年女性」に処方すべき漢方薬は？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/ito/202609/594620.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-23T15:00:00Z",
+      "published_label": "2026/09/24 00:00",
+      "summary": "26歳女性。既往歴なし。半年ほど前から「のどに何かが詰まっている感じ」が続いている。不安が募り、複数の医療機関を受診している状況──。この患者に使用すべき漢方薬は何でしょうか。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "便秘薬はいつ飲む？―食前・食後・寝る前で効果は違うのか",
       "link": "https://yakuzaic.com/archives/144484",
@@ -600,32 +613,6 @@
         "薬価・制度"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "喘息・COPDの増悪リスク減少と最も関係するGLP-1受容体作動薬は？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202609/594588.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-17T15:00:00Z",
-      "published_label": "2026/09/18 00:00",
-      "summary": "GLP-1受容体作動薬のうち、セマグルチドが喘息と慢性閉塞性肺疾患（COPD）の増悪リスク低下と最も関係している──。英国の電子医療記録を用い、GLP-1受容体作動薬と喘息・COPDの増悪リスク減少との関係を検証した観察研究の結果を、インペリアル・カレッジ・ロンドン国立心肺研究所のLee Bohee氏らが欧州呼吸器学会学術集会（ERS Congress 2026、会期：2026年9月5～9日、開催地：スペイン・バルセロナ）で発表した。…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "オレキシン欠乏を標的とした世界初のナルコレプシータイプ1治療薬",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202609/594578.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-17T15:00:00Z",
-      "published_label": "2026/09/18 00:00",
-      "summary": "2026年8月24日、オレキシン2受容体選択的作動薬オベポレクストン錠（商品名オーゼイフル錠0.5mg、同錠1mg、同錠2mg）の製造販売が承認された。適応は「ナルコレプシータイプ1」、用法用量は「成人に1mgを1日2回経口投与する。起床時に1回目の投与を行い、3時間から5時間後に2回目の投与を行う。なお、忍容性に問題がなく、十分な効果が認められない場合に限り、2mgを1日2回に増量することができる」となっている。 睡眠障害国際分類第…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
