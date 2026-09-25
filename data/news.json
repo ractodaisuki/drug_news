@@ -1,8 +1,230 @@
 {
-  "updated_at": "2026-09-24T21:06:41.228185Z",
-  "updated_label": "2026/09/25 06:06",
-  "count": 94,
+  "updated_at": "2026-09-25T03:18:47.308597Z",
+  "updated_label": "2026/09/25 12:18",
+  "count": 100,
   "items": [
+    {
+      "title": "服用◯時間以内が勝負、アセトアミノフェン中毒",
+      "link": "https://www.carenet.com/series/addiction/cg005444_012.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-25T01:00:10Z",
+      "published_label": "2026/09/25 10:00",
+      "summary": "市販薬の過量服用で搬送された10代の女性。初診時は意識良好でも、実は中毒量を大幅に超えていました。尿中薬物簡易スクリーニングを実施する際の注意点、適切な解毒法や観察期間などをおさらいしておきませんか？",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "要望から10年、新知事誕生で沖縄に薬学部新設なるか",
+      "link": "https://www.carenet.com/hihyofri/332.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-25T01:00:00Z",
+      "published_label": "2026/09/25 10:00",
+      "summary": "全国最下位の薬剤師不足に悩む沖縄において、国内127年ぶりとなる薬剤師知事が誕生しましたが、10年来の悲願である琉球大学への薬学部新設は実現するのでしょうか。大学側の意外な本音や山積する課題とは…。",
+      "tags": [
+        "薬局経営"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "第26回 前立腺肥大症 併用薬と自覚症状の確認",
+      "link": "https://www.carenet.com/pharmacist/ameeminimovie/cg003068_006.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-25T00:59:00Z",
+      "published_label": "2026/09/25 09:59",
+      "summary": "この番組では、最近の国家試験の中から薬局実務に直結する問題をピックアップ。問題を解きながら、現場に即した解説を加えていきます。薬局薬剤師に必要な知識、役立つノウハウが短時間で身につきます。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日薬 岩月会長】薬剤師評価制度創設に意欲‐研修・実践履歴を可視化",
+      "link": "https://www.yakuji.co.jp/entry139743.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T23:31:49Z",
+      "published_label": "2026/09/25 08:31",
+      "summary": "日本薬剤師会の岩月進会長は、本紙の取材に応じ、薬剤師個人を対象とした評価制度の創設構想を明らかにした。患者対応や地域活動などの実践履歴を電子的に蓄積し、その情…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【米レボリューション】各国で申請準備進める‐膵臓癌薬ダラクソンラシブ",
+      "link": "https://www.yakuji.co.jp/entry139759.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T23:30:39Z",
+      "published_label": "2026/09/25 08:30",
+      "summary": "米レボリューション・メディシンズは、転移性膵臓癌に対し画期的な治験結果を示して米国で承認された経口RAS阻害剤ダラクソンラシブについて「各国の規制当局と積極的…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津製作所】京都伝統工芸と共創した150周年記念プロジェクト、「IDEA2026」でファイナリストを受賞",
+      "link": "https://www.yakuji.co.jp/entry139730.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T22:33:19Z",
+      "published_label": "2026/09/25 07:33",
+      "summary": "島津製作所は9月24日、同社の創業150周年記念プロジェクトである「The Craftech Project: A Fusion of Kyoto Craft…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "大阪市の「健康づくり推進」に協力‐26日、市民対象のイベントに参加へ nishikawa",
+      "link": "https://www.yakuji.co.jp/entry139729.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T22:32:22Z",
+      "published_label": "2026/09/25 07:32",
+      "summary": "西川（nishikawa）は、大阪市が推進する「大阪市健康増進計画『すこやか大阪21』」に協力し、睡眠の質の向上を通じた地域社会の健康増進をサポートする取り組…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「いばらき健康フェス2026」に出展‐26日に健康啓発のステージイベント・測定会を実施 オムロンHC",
+      "link": "https://www.yakuji.co.jp/entry139727.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T22:31:46Z",
+      "published_label": "2026/09/25 07:31",
+      "summary": "オムロンヘルスケアは9月26日午前10時から午後3時まで、茨城県および鹿島アントラーズ・エフ・シー（鹿島アントラーズ）と連携し、水戸市のイオンモール水戸内原で…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「GREEN MARKET & LAB.」を26日に開催‐ブランドを知り、試して、つながる「エシカルパーティー」 ピー・エス・インターナショナル",
+      "link": "https://www.yakuji.co.jp/entry139725.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T22:30:43Z",
+      "published_label": "2026/09/25 07:30",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "NTM症とは？肺MAC症との違い",
+      "link": "https://yakuzaic.com/archives/144553",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-24T22:00:00Z",
+      "published_label": "2026/09/25 07:00",
+      "summary": "NTM症と肺MAC症との違い 最近、テレビなどで**「NTM症」**という言葉を耳にすることが増えてきました。 一方、薬の添付文書を見ると、 非結核性抗酸菌症 という病名が記載されています。 たとえばクラリスロマイシンの […] The post NTM症とは？肺MAC症との違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【東京地裁】零売裁判、原告が全面敗訴‐処方箋なし販売は「医行為」",
+      "link": "https://www.yakuji.co.jp/entry139747.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T21:33:03Z",
+      "published_label": "2026/09/25 06:33",
+      "summary": "医薬品医療機器等法で定める処方箋医薬品以外の医療用医薬品の販売（零売）をめぐり、長澤薬品、まゆみ薬局、グランドヘルスの3社が国を相手取り、零売を行う地位の確認…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【兵庫県薬事審議会】地域連携薬局返納目立つ‐薬剤師要件満たせず",
+      "link": "https://www.yakuji.co.jp/entry139755.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T21:32:32Z",
+      "published_label": "2026/09/25 06:32",
+      "summary": "兵庫県薬事審議会が11日に神戸市内で開かれ、2025年度事業として医薬品等の安全性確保対策や機能別薬局の認定状況など7項目が県から報告された。その中で、地域連…",
+      "tags": [
+        "薬局経営"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省 西平総務課長】今年度に薬剤師需給推計‐地方の病薬不足に対応",
+      "link": "https://www.yakuji.co.jp/entry139752.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T21:31:20Z",
+      "published_label": "2026/09/25 06:31",
+      "summary": "厚生労働省医薬局の西平賢哉総務課長は17日、専門紙との共同会見で、薬剤師の地域・職域偏在問題について「年度内にも新たな薬剤師需給推計を公表する方向で作業してい…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【行政評価監視委員会】タブネオス死亡例検証を‐ブルーレター発出時期で",
+      "link": "https://www.yakuji.co.jp/entry139750.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T21:30:12Z",
+      "published_label": "2026/09/25 06:30",
+      "summary": "厚生労働省の医薬品等行政評価監視委員会が17日に開かれ、キッセイ薬品の顕微鏡的多発血管炎・多発血管炎性肉芽腫症治療剤「タブネオスカプセル」（一般名：アバコパン…",
+      "tags": [
+        "安全性情報",
+        "法令・行政"
+      ],
+      "importance": 5,
+      "keywords": []
+    },
+    {
+      "title": "25、26の日に緊急避妊薬の街頭調査イベント アリナミン製薬",
+      "link": "https://www.yakuji.co.jp/entry139741.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T21:03:46Z",
+      "published_label": "2026/09/25 06:03",
+      "summary": "アリナミン製薬＝今月26日の「世界避妊デー」に合わせ、25、26の両日、東京の渋谷マークシティで、緊急避妊薬「レソエル72」“もしもの選択肢”街頭調査イベント…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】内臓脂肪の低減サポート‐「コレ脂ダウンW」を発売 富士薬品",
+      "link": "https://www.yakuji.co.jp/entry139739.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T21:02:42Z",
+      "published_label": "2026/09/25 06:02",
+      "summary": "富士薬品は、健康づくりをサポートするサプリメントブランド「Laforth（ラフォース）」から、肥満ぎみ・BMIが高めの人やLDLコレステロールが高めの人に向け…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師の魅力を次世代へ",
+      "link": "https://www.yakuji.co.jp/entry139737.html",
+      "source": "薬事日報",
+      "published": "2026-09-24T21:01:13Z",
+      "published_label": "2026/09/25 06:01",
+      "summary": "◆AI（人工知能）による職業の代替が進み、オフィスワーカーから建設業や職人など「手に職」の仕事へ転じる動きが広がっているという。子供たちも将来の進路を考える上で…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "欧州系製薬9社 欧州各国政府に公開書簡 医薬品政策への戦略投資拡大と創薬・知財などで環境改善求める",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80905",
@@ -300,45 +522,6 @@
       "keywords": []
     },
     {
-      "title": "【テルモ】社内イベント「Terumo Patient’s Day 2026」開催‐「患者さんのリアルから考える」をテーマに",
-      "link": "https://www.yakuji.co.jp/entry139673.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T22:32:33Z",
-      "published_label": "2026/09/24 07:32",
-      "summary": "テルモは9月17日、国内のテルモグループ全社員を対象に、社内イベント「Terumo Patient’s Day 2026」を開催した。同イベント、…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日本光電】「東京女性リーダーズ応援ネットワーク」に参画",
-      "link": "https://www.yakuji.co.jp/entry139672.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T22:31:10Z",
-      "published_label": "2026/09/24 07:31",
-      "summary": "日本光電はこのほど、東京都が推進する「東京女性リーダーズ応援ネットワーク」に参画した。 同ネットワークは、都が取り組む女性活躍・ダイバーシティ経営の推進に向…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【NEC】「AIとウェルビーイング」で生活者調査‐「人間がより人間らしく」の余白設計が大切",
-      "link": "https://www.yakuji.co.jp/entry139671.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T22:30:14Z",
-      "published_label": "2026/09/24 07:30",
-      "summary": "NECはこのほど、日本全国の15～74歳の男女約2000人を対象に調査したレポート「AIとウェルビーイングに関する生活者調査」を公開した。その結果、AIの実装…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "モーラスパップ・モーラステープ・モーラスパップXRの違い",
       "link": "https://yakuzaic.com/archives/144487",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -349,19 +532,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【カケハシ】薬局利用目的、薬受取が最多‐多様な機能認知で役割発揮",
-      "link": "https://www.yakuji.co.jp/entry139640.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T21:30:44Z",
-      "published_label": "2026/09/24 06:30",
-      "summary": "カケハシは、患者や生活者と薬局の接点、薬局に対する認知度を明らかにするため、全国の生活者を対象に「生活者の薬局活用実態調査」を実施した。その結果、調剤薬局の利…",
-      "tags": [
-        "薬局経営"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -641,85 +811,6 @@
       "summary": "",
       "tags": [
         "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】リアルタイム治験を試行へ‐FDA参考に日本も追随",
-      "link": "https://www.yakuji.co.jp/entry139634.html",
-      "source": "薬事日報",
-      "published": "2026-09-17T23:31:23Z",
-      "published_label": "2026/09/18 08:31",
-      "summary": "厚生労働省は来年度から、治験の進行中に安全性シグナルや主要評価項目の達成状況などを規制当局がクラウド上でリアルタイムに確認できる「リアルタイム臨床試験」（RT…",
-      "tags": [
-        "学術・エビデンス",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【第一三共】肺癌一次治療で有意な改善‐ADC「エンハーツ」第III相",
-      "link": "https://www.yakuji.co.jp/entry139642.html",
-      "source": "薬事日報",
-      "published": "2026-09-17T23:30:27Z",
-      "published_label": "2026/09/18 08:30",
-      "summary": "第一三共は14日、抗体薬物複合体（ADC）の「エンハーツ」について、HER2遺伝子変異を有する切除不能、局所進行または転移性非小細胞肺癌の一次治療を対象にした…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【第6回SaMDフォーラム】実装へ二つの課題、資本戦略と普及策を議論‐ニーズと経営効果を重視",
-      "link": "https://www.yakuji.co.jp/entry139605.html",
-      "source": "薬事日報",
-      "published": "2026-09-17T22:35:50Z",
-      "published_label": "2026/09/18 07:35",
-      "summary": "SaMD産学官連携フォーラムは9月16日、虎ノ門ヒルズフォーラムで第6回目のフォーラムを開催し、この中で二つの総合討論を行った。総合討論1ではスタートアップの…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "24日に「介護報酬改定」でWEBセミナー 積水ホームテクノ",
-      "link": "https://www.yakuji.co.jp/entry139603.html",
-      "source": "薬事日報",
-      "published": "2026-09-17T22:34:45Z",
-      "published_label": "2026/09/18 07:34",
-      "summary": "積水ホームテクノは9月24日午後1時20分から3時30分まで、無料WEBセミナー「－介護業界最前線－令和9年度介護報酬改定の方向性について」を開催する。先着5…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【オムロンHC】茨城県庁および鹿島アントラーズ関連施設にキオスク血圧計を設置",
-      "link": "https://www.yakuji.co.jp/entry139600.html",
-      "source": "薬事日報",
-      "published": "2026-09-17T22:33:06Z",
-      "published_label": "2026/09/18 07:33",
-      "summary": "オムロンヘルスケアは9月16日、茨城県、鹿島アントラーズ・エフ・シーと連携し、日常生活で気軽に血圧を測定できる「キオスク血圧計」を設置し、地域住民の健康増進を…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日立ハイテク】インド・ムンバイに分析装置のデモラボ開設‐バイオ医薬品などの化学・産業分野に向けて",
-      "link": "https://www.yakuji.co.jp/entry139597.html",
-      "source": "薬事日報",
-      "published": "2026-09-17T22:32:47Z",
-      "published_label": "2026/09/18 07:32",
-      "summary": "日立ハイテクは10月1日、インド・ムンバイでバイオ医薬品や環境・材料などの化学・産業分野で高度化する研究開発・品質管理ニーズに対応し、顧客の分析・評価課題の解…",
-      "tags": [
-        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
@@ -1050,20 +1141,6 @@
         "一般用医薬品"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "一般名処方のOD錠を普通錠に変更できる？―先発品とジェネリックで違う変更調剤のルール",
-      "link": "https://yakuzaic.com/archives/144439",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-14T22:00:00Z",
-      "published_label": "2026/09/15 07:00",
-      "summary": "先発品とジェネリックで違う変更調剤のルール 一般名処方で「口腔内崩壊錠（OD錠）」が処方されている患者さん。 ところが薬局にはOD錠の在庫がなく、普通錠なら在庫がある。 このとき、「同じ成分・同じ含量なんだから、普通錠に […] The post 一般名処方のOD錠を普通錠に変更できる？―先発品とジェネリックで違う変更調剤のルール first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度",
-        "医療安全"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
