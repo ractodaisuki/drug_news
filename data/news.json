@@ -1,8 +1,25 @@
 {
-  "updated_at": "2026-09-25T16:27:42.563649Z",
-  "updated_label": "2026/09/26 01:27",
-  "count": 98,
+  "updated_at": "2026-09-25T21:04:02.277859Z",
+  "updated_label": "2026/09/26 06:04",
+  "count": 99,
   "items": [
+    {
+      "title": "【2027年3月変更】選定療養とOTC類似薬の計算方法を解説",
+      "link": "https://pharmacist.m3.com/column/dispensation_point/7870?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-25T21:04:00.849480Z",
+      "published_label": "2026/09/26 06:04",
+      "summary": "2027年3月から、「OTC類似薬の一部保険外療養」が始まります。これに伴い、OTC類似薬が処方された際に「別途の負担」が生じる場合があります。また、長期収載品の選定療養における特別の料金の計算方法も変更されます。そこで今回は、OTC類似薬の一部保険外療養と長期収載品の選定療養について、処方箋での確認方法と具体的な計算手順を解説します。",
+      "tags": [
+        "薬剤師コラム",
+        "調剤報酬改定",
+        "薬局経営",
+        "OTC類似薬",
+        "選定療養"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "SSRI、首位は変わらずエスシタロプラム",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202609/594638.html",
