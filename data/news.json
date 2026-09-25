@@ -1,10 +1,27 @@
 {
-  "updated_at": "2026-09-25T03:18:47.308597Z",
-  "updated_label": "2026/09/25 12:18",
-  "count": 100,
+  "updated_at": "2026-09-25T11:04:28.650216Z",
+  "updated_label": "2026/09/25 20:04",
+  "count": 97,
   "items": [
     {
-      "title": "服用◯時間以内が勝負、アセトアミノフェン中毒",
+      "title": "処方箋受付時以外のタイミングで算定する点数を解説",
+      "link": "https://pharmacist.m3.com/column/dispensation_point/7865?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-25T11:04:27.238366Z",
+      "published_label": "2026/09/25 20:04",
+      "summary": "服薬情報等提供料や外来服薬支援料1など、処方箋受付時以外に算定する点数について、算定タイミングやレセプト請求時の注意点を解説します。処方箋がなくても算定できる場合や、調剤月と算定月が異なる場合、受付回数の考え方などについて、あいまいになりがちなポイントを整理します。",
+      "tags": [
+        "薬剤師コラム",
+        "調剤報酬改定",
+        "薬局経営",
+        "OTC類似薬",
+        "診療報酬改定"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "服用〇時間以内が勝負、アセトアミノフェン中毒",
       "link": "https://www.carenet.com/series/addiction/cg005444_012.html?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
       "published": "2026-09-25T01:00:10Z",
@@ -347,6 +364,20 @@
       "keywords": []
     },
     {
+      "title": "フルミストと不活化ワクチンの使い分けは？ 日本小児科学会が「考え方」を更新",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202609/594693.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-24T15:00:00Z",
+      "published_label": "2026/09/25 00:00",
+      "summary": "日本小児科学会予防接種・感染症対策委員会は2026年9月25日、「経鼻弱毒生インフルエンザワクチンの使用に関する考え方」の第2版を公開した。2024年に公開した初版からの変更点として、経鼻弱毒生インフルエンザワクチン（商品名フルミスト点鼻液）の2025/26シーズンにおける有効性の調査結果などを新たに盛り込んだほか、海外の動向を踏まえ、喘息患者への接種や水平伝播への対応などに関する推奨文が一部修正された。 同委員会の推奨は以下の通り。…",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "【関節リウマチ、息切れの悪化】この肺音は？（難易度★★☆）",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/nagasaka/202609/594637.html",
       "source": "日経メディカル Online",
@@ -489,32 +520,6 @@
       "published": "2026-09-23T22:35:38Z",
       "published_label": "2026/09/24 07:35",
       "summary": "島津製作所と島津理化は、9月18日公開の映画「踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！」に島津製作所製の分析天びん「AP225WD」、上皿天びん…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【富士フイルムメディカル】超音波診断装置プリンター用超音波記録紙‐11月に一部価格を改定",
-      "link": "https://www.yakuji.co.jp/entry139678.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T22:34:10Z",
-      "published_label": "2026/09/24 07:34",
-      "summary": "富士フイルムメディカルは9月18日、超音波診断装置に附属しているプリンター用超音波記録紙「ECP-309」について今回、一部価格改定し出荷価格を10％値上げす…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【ニプロ】「IKUKYU.PJT」に賛同を表明‐男性育休を考えるプロジェクト",
-      "link": "https://www.yakuji.co.jp/entry139676.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T22:33:31Z",
-      "published_label": "2026/09/24 07:33",
-      "summary": "ニプロは9月17日、積水ハウスが推進する男性の育児休業（育休）について、社会とともに考えるプロジェクト「IKUKYU.PJT」に賛同すると表明した。同社は今後…",
       "tags": [
         "その他"
       ],
@@ -894,20 +899,6 @@
       "keywords": []
     },
     {
-      "title": "玉石混交を脱するのは？ 検証進む「膝の痛み」への再生医療",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/report/Weekly/202609/594618.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-17T15:00:00Z",
-      "published_label": "2026/09/18 00:00",
-      "summary": "2026年1月、ヒト（自己）軟骨由来組織「ジャック」が変形性膝関節症を対象に保険収載され、同年5月にはヒト（自己）滑膜由来間葉系幹細胞（MSC）「セイビスカス注」が薬事承認を取得しました。自由診療として広がってきた多血小板血漿（PRP）療法でも、エビデンス構築の取り組みが始まりました。有効性と安全性が検証された製品の実用化が進み、玉石混交のイメージだった膝の再生医療は、保存療法と人工膝関節置換術の間の治療選択の空白を埋める存在になりつ…",
-      "tags": [
-        "承認・新薬",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "ヒルドイドは選定療養の対象？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7810?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1036,19 +1027,6 @@
       "keywords": []
     },
     {
-      "title": "第25回 医薬品等行政評価・監視委員会資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76266.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-16T07:53:00Z",
-      "published_label": "2026/09/16 16:53",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
       "title": "健康保険が使えないケガとは？―仕事中・ケンカ・泥酔・自傷行為",
       "link": "https://yakuzaic.com/archives/144454",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -1126,19 +1104,6 @@
         "医薬品情報・DI",
         "薬物療法・作用機序",
         "服薬指導"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会 要指導・一般用医薬品部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76198.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-15T05:00:00Z",
-      "published_label": "2026/09/15 14:00",
-      "summary": "",
-      "tags": [
-        "一般用医薬品"
       ],
       "importance": 3,
       "keywords": []
