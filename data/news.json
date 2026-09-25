@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-25T11:04:28.650216Z",
-  "updated_label": "2026/09/25 20:04",
-  "count": 97,
+  "updated_at": "2026-09-25T16:27:42.563649Z",
+  "updated_label": "2026/09/26 01:27",
+  "count": 98,
   "items": [
+    {
+      "title": "SSRI、首位は変わらずエスシタロプラム",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202609/594638.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-25T15:00:00Z",
+      "published_label": "2026/09/26 00:00",
+      "summary": "日経メディカル Onlineの医師会員を対象に、選択的セロトニン再取り込み阻害薬（SSRI）のうち最も処方頻度の高いものを聞いたところ、36.0％の医師がエスシタロプラムシュウ酸塩（商品名レクサプロ他）と回答した。 第2位のパロキセチン塩酸塩水和物（パキシル他）は31.5％、第3位のセルトラリン塩酸塩（ジェイゾロフト他）は26.6％、第4位のフルボキサミンマレイン酸塩（デプロメール、ルボックス他）は6.0％の医師が最も処方頻度の高い薬…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "処方箋受付時以外のタイミングで算定する点数を解説",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7865?promotionCode=op_pcolumn",
