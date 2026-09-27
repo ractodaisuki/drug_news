@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-27T20:50:27.443081Z",
-  "updated_label": "2026/09/28 05:50",
-  "count": 61,
+  "updated_at": "2026-09-27T23:36:58.688740Z",
+  "updated_label": "2026/09/28 08:36",
+  "count": 94,
   "items": [
     {
       "title": "「第2世代抗ヒスタミン薬の併用」について医師が回答",
       "link": "https://pharmacist.m3.com/column/clinical-soudan/7868?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-27T20:50:26.119049Z",
-      "published_label": "2026/09/28 05:50",
+      "published": "2026-09-27T23:36:57.550607Z",
+      "published_label": "2026/09/28 08:36",
       "summary": "薬剤師からの「ビラスチンとレボセチリジンが併用で処方されているケースがあり、患者への聴取では「以前からこの飲み方で継続している」とのことでした。疑義照会を行ったところ、処方医より継続可との回答をいただきました。第2世代抗ヒスタミン薬同士の併用は、実臨床において一般的に行われることがあるのでしょうか。」との相談に耳鼻咽喉科医が回答します。",
       "tags": [
         "薬剤師コラム",
@@ -16,6 +16,202 @@
         "薬物療法"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】NONFスキンケアより『リシャインクリーム』を10月7日に発売 マッコイ",
+      "link": "https://www.yakuji.co.jp/entry139779.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T22:31:45Z",
+      "published_label": "2026/09/28 07:31",
+      "summary": "マッコイ（大阪市中央区）は、「なりたいを真実に。ミネラルが導くノンフィクション。」をコンセプトに展開する「NONF」より、美容液後に使用するスキンケアアイテム…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士通】サイバーセキュリティサービスの提供開始‐企業等の能動的防御の実践を包括的に支援",
+      "link": "https://www.yakuji.co.jp/entry139777.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T22:30:57Z",
+      "published_label": "2026/09/28 07:30",
+      "summary": "富士通は9月25日、サイバー攻撃の兆候把握から組織内のリスクの調査・対処まで包括的に支援するセキュリティサービスの提供を開始した。同サービスは、同社のサイバー…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省 中井審議官】治験支援薬局は新たな流れ‐薬剤師政策「育薬から創薬」",
+      "link": "https://www.yakuji.co.jp/entry139797.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T21:33:55Z",
+      "published_label": "2026/09/28 06:33",
+      "summary": "厚生労働省の中井清人大臣官房審議官（医薬担当）は24日、専門紙と共同会見し、改正GCP省令の施行に伴い制度化される治験支援薬局について、「薬局薬剤師が創薬に関…",
+      "tags": [
+        "学術・エビデンス",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【第2次高市改造内閣】厚労副大臣に浦野氏、藤原氏、医療担当政務官は長谷川氏",
+      "link": "https://www.yakuji.co.jp/entry139799.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T21:32:47Z",
+      "published_label": "2026/09/28 06:32",
+      "summary": "第2次高市改造内閣が17日に発足し、厚生労働副大臣には新たに日本維新の会の浦野靖人衆議院議員、財務大臣政務官などを務めた自民党の藤原崇衆議院議員が就任した。一…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【ツムラ／養命酒製造】健康づくりで協定締結提案‐長野県駒ヶ根市を訪問",
+      "link": "https://www.yakuji.co.jp/entry139757.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T21:31:00Z",
+      "published_label": "2026/09/28 06:31",
+      "summary": "ツムラの加藤照和社長CEOは14日、1日付でグループ化した養命酒製造の中川恭社長らと長野県駒ヶ根市役所を訪れ、伊藤祐三市長を表敬訪問した。今回の訪問では、今後…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【東邦HD】製薬・卸間決済を短縮化‐最短30日で支払い",
+      "link": "https://www.yakuji.co.jp/entry139760.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T21:30:11Z",
+      "published_label": "2026/09/28 06:30",
+      "summary": "東邦ホールディングス（HD）は17日、子会社アルファリアがメーカーと卸との間における決済サービス「ファーマトレードペイ（仮称）」を始めると発表した。卸会社ごと…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】「ノブA」からにきび肌洗顔料に新サイズ 常盤薬品工業",
+      "link": "https://www.yakuji.co.jp/entry139790.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T21:03:37Z",
+      "published_label": "2026/09/28 06:03",
+      "summary": "常盤薬品工業は、低刺激性化粧品ブランド「ノブ」の「Aシリーズ」から、にきび肌用洗顔料「アクネフォーム」（医薬部外品）の新サイズを発売した。 ノブAアクネフォ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "医療用薬卸事業戦略を強化‐グループ横断で推進 アルフレッサホールディングス",
+      "link": "https://www.yakuji.co.jp/entry139789.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T21:02:32Z",
+      "published_label": "2026/09/28 06:02",
+      "summary": "アルフレッサホールディングス（HD）は16日、アルフレッサに設置していた「医薬営業戦略委員会」を、グループでの医療用医薬品等卸売事業の戦略推進機能を強化するた…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "新宿コパボウルが閉業",
+      "link": "https://www.yakuji.co.jp/entry139794.html",
+      "source": "薬事日報",
+      "published": "2026-09-27T21:01:09Z",
+      "published_label": "2026/09/28 06:01",
+      "summary": "◆新宿歌舞伎町で54年の長きにわたって営業してきたボーリング場の新宿コパボウルが今月末で閉業するという。歌舞伎町のシンボルとして知られたボーリング場で、一度は訪…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "武田薬品・キム社長CEO 創薬・開発の全工程でＡＩ活用 成功確率向上と業務効率化を推進 WMIF登壇",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80911",
+      "source": "ミクスOnline",
+      "published": "2026-09-27T19:53:00Z",
+      "published_label": "2026/09/28 04:53",
+      "summary": "武田薬品のジュリー・キム代表取締役社長CEOは9月23日、米ボストンで開催されたWorld Medical Innovation Forum (WMIF) 2026のファイアサイドに登壇し、同社の成長戦略について語った。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "上野厚労相 医療用手袋の備蓄放出「平時の対応へと段階的に移行」 10月にも対象施設や枚数の制限撤廃",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80918",
+      "source": "ミクスOnline",
+      "published": "2026-09-27T19:52:00Z",
+      "published_label": "2026/09/28 04:52",
+      "summary": "上野賢一郎厚労相は9月25日の閣議後会見で、中東情勢を踏まえた医療用手袋の備蓄放出について、「平時の対応へと段階的に移行していく」との方針を示した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "IHH 100％子会社NTK 第一三共に対する2033億円の損害賠償訴訟 東京地裁判決「不服」で高裁...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80910",
+      "source": "ミクスOnline",
+      "published": "2026-09-27T19:51:00Z",
+      "published_label": "2026/09/28 04:51",
+      "summary": "IHH Healthcare Berhadの100％子会社のNorthern TK Venture Pte Ltd.（本社：シンガポール、NTK）は9月25日、第一三共への損害賠償請求訴訟に対する東京地裁判決を不服として東京高裁に控訴状を提出したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "塩野義製薬 東京日本橋オフィスを29年６月に移転 田町駅西口駅前再開発事業ビルへ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80927",
+      "source": "ミクスOnline",
+      "published": "2026-09-27T19:50:00Z",
+      "published_label": "2026/09/28 04:50",
+      "summary": "塩野義製薬は９月25日、東京日本橋オフィスを田町駅西口駅前地区開発事業のビル内に移転すると発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "マルホ BMSと販売提携契約を締結 10月１日からソーティクツ錠の情報提供活動開始",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80926",
+      "source": "ミクスOnline",
+      "published": "2026-09-27T19:50:00Z",
+      "published_label": "2026/09/28 04:50",
+      "summary": "マルホは９月25日、チロシンキナーゼ2（TYK2）阻害剤・ソーティクツ錠（一般名：デュークラバシチニブ）について、ブリストル・マイヤーズ スクイブ（BMS）と国内の販売提携契約を締結したと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "武田薬品 グローバルCSRプログラム通じ４団体に2220万米ドルを支援 全従業員の投票で決定",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80895",
+      "source": "ミクスOnline",
+      "published": "2026-09-27T19:49:00Z",
+      "published_label": "2026/09/28 04:49",
+      "summary": "武田薬品は９月18日、グローバルCSRプログラムを通じ、ネパールなどの４団体に対し、総額2220万米ドル（約33億円）を拠出すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -42,6 +238,19 @@
         "薬価・制度"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "水疱を伴う掌蹠膿疱症患者",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/koui/202609/594603.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-27T15:00:00Z",
+      "published_label": "2026/09/28 00:00",
+      "summary": "前回の症例1に引き続き、掌蹠膿疱症によく見られる証と漢方処方について、症例とともに解説します。 1年ほど前から、手掌や手指に小さな水疱や膿疱が生じています。手掌は赤く、特に指先は赤黒い色をしています。痒みが強く、つい掻いてしまいます。舌は紅く、黄色い舌苔がべっとりと付着しています。 この患者さんの証は、「湿熱（しつねつ）」です。湿熱は、湿っぽい症状を引き起こす病邪である湿邪と、火や熱により生じる自然現象に似た症状を引き起こす病邪である…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -330,6 +539,113 @@
       "keywords": []
     },
     {
+      "title": "欧州系製薬9社 欧州各国政府に公開書簡 医薬品政策への戦略投資拡大と創薬・知財などで環境改善求める",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80905",
+      "source": "ミクスOnline",
+      "published": "2026-09-24T19:53:00Z",
+      "published_label": "2026/09/25 04:53",
+      "summary": "アストラゼネカ、ベーリンガーインゲルハイム、キエジグループ、イプセン、GSK、ノボ、ノバルティス、ロシュ、サノフィの製薬企業9社は９月22日（現地時間）、欧州各国政府に対し、医薬品政策の支出拡大と創薬・知財など市場環境の改善を求める経営陣連名の公開書簡を公表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アステラス製薬・谷口CRDO T細胞エンゲージャー「今後3～5年でゲームチェンジャーに」WMIF26...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80901",
+      "source": "ミクスOnline",
+      "published": "2026-09-24T19:53:00Z",
+      "published_label": "2026/09/25 04:53",
+      "summary": "アステラス製薬の谷口忠明 研究開発担当Chief Research & Development Officer（CRDO）は9月22日、米ボストンで開催されたWorld Medical Innovation Forum (WMIF) 2026の対談セッションに登壇し、同社の研究開発戦略や次世代モダリティへの期待について語った。",
+      "tags": [
+        "業界動向",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "WMIF2026 米Capito上院議員 NIH研究資金「安定性が重要」 若手研究者の流出で競争力低...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80899",
+      "source": "ミクスOnline",
+      "published": "2026-09-24T19:52:00Z",
+      "published_label": "2026/09/25 04:52",
+      "summary": "World Medical Innovation Forum (WMIF) 2026が9月22～23日の2日間、米国ボストンで開催された。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "卸連・会員社25年度業績 3.5％増収も粗利率0.15pt悪化 営業利益率1.04％に低下 リベート...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80900",
+      "source": "ミクスOnline",
+      "published": "2026-09-24T19:51:00Z",
+      "published_label": "2026/09/25 04:51",
+      "summary": "日本医薬品卸売業連合会（卸連）は９月24日、会員企業の2025年度経営概況の速報値を発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "くすり未来塾 薬価制度は物価上昇や国際価格水準を取り込むことができる仕組みに変換を",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80904",
+      "source": "ミクスOnline",
+      "published": "2026-09-24T19:50:00Z",
+      "published_label": "2026/09/25 04:50",
+      "summary": "薬価流通政策研究会・くすり未来塾は９月24日、デフレからインフレに転換する中で、「薬価制度は物価上昇や国際価格水準を取り込むことができる仕組みに変換すべき」と提言した。",
+      "tags": [
+        "薬価・制度",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "シンバイオ 多発性硬化症治療薬、予防薬候補開発の独占的グローバルライセンス契約を締結",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80903",
+      "source": "ミクスOnline",
+      "published": "2026-09-24T19:50:00Z",
+      "published_label": "2026/09/25 04:50",
+      "summary": "シンバイオ製薬は９月24日、多発性硬化症（MS）治療薬、予防薬候補となるブリンシドホビル（BCV）について、共同研究を行ってきた米国国立衛生研究所（NIH）傘下の米国国立神経疾患・脳卒中研究所（NINDS）を通じ、米国保険福祉省（HHS）と、開発するための技術に関する独占的グローバルライセンス契約を締結したと発表。",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アステラス製薬 KRAS G12D標的タンパク質分解誘導薬・setidegrasibの第３相試験開始...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80902",
+      "source": "ミクスOnline",
+      "published": "2026-09-24T19:50:00Z",
+      "published_label": "2026/09/25 04:50",
+      "summary": "アステラス製薬は9月24日、KRAS G12D標的タンパク質分解誘導薬・setidegrasibについて、治療歴のある非小細胞肺がん（NSCLC）を対象とした国際共同第３相試験を開始したと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "結核・呼吸器感染症予防週間でランドマークを赤くライトアップ 結核予防会が全国で普及啓発活動実施",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80898",
+      "source": "ミクスOnline",
+      "published": "2026-09-24T19:50:00Z",
+      "published_label": "2026/09/25 04:50",
+      "summary": "結核予防会は９月24日、令和８年度結核・呼吸器感染症予防週間に合わせ、全国で普及啓発活動を実施すると発表した。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
       "title": "フルミストと不活化ワクチンの使い分けは？ 日本小児科学会が「考え方」を更新",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202609/594693.html",
       "source": "日経メディカル Online",
@@ -397,19 +713,6 @@
       "keywords": []
     },
     {
-      "title": "【薬ゼミ国試対策】カルボニル化合物から化学を捉える",
-      "link": "https://www.yakuji.co.jp/entry139715.html",
-      "source": "薬事日報",
-      "published": "2026-09-24T06:30:45Z",
-      "published_label": "2026/09/24 15:30",
-      "summary": "学校法人医学アカデミーグループ薬学ゼミナール 今回は、薬学の化学でよく目にする「カルボニル化合物」について学びましょう。 カルボニル基とは、C＝Oの構造をも…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "残薬調整した場合の調剤管理料、何日分で算定？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7850?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -427,12 +730,39 @@
       "keywords": []
     },
     {
-      "title": "神戸薬科大学 研修会 2026/11",
-      "link": "https://www.yakuji.co.jp/entry139667.html",
-      "source": "薬事日報",
-      "published": "2026-09-24T01:00:39Z",
-      "published_label": "2026/09/24 10:00",
-      "summary": "神戸薬科大学 第72回薬剤師実践塾 開催日時 2026年11月3日（火・祝）10:00～12:30 開催場所 神戸薬科大学 地域連携サテライトセンター （JR神…",
+      "title": "厚労省 「連続ドラマＷ MR―医薬情報担当者－」とタイアップ 適正使用と副作用被害救済制度の啓発で",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80891",
+      "source": "ミクスOnline",
+      "published": "2026-09-23T19:53:00Z",
+      "published_label": "2026/09/24 04:53",
+      "summary": "厚生労働省は９月18日、医薬品の適正使用や安全対策等に対する理解を促進する目的でＷＯＷＯＷにて放送・配信する「連続ドラマＷ MR ―医薬情報担当者－」とタイアップすると発表した。",
+      "tags": [
+        "安全性情報",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "創薬力向上官民協議会「施策検討・推進部会」が初会合 成長戦略具体化へ 基礎研究支援拡充を",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80894",
+      "source": "ミクスOnline",
+      "published": "2026-09-23T19:52:00Z",
+      "published_label": "2026/09/24 04:52",
+      "summary": "政府は９月18日、「創薬力向上のための官民協議会 施策検討・推進部会」の初会合を開いた。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "スイス・ロシュ 取締役会がクリストフ・ウェバー氏の取締役推薦を承認 27年3月の年次株主総会で提案",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80893",
+      "source": "ミクスOnline",
+      "published": "2026-09-23T19:52:00Z",
+      "published_label": "2026/09/24 04:52",
+      "summary": "スイスのロシュ社は9月23日、同日開催の取締役会で武田薬品社長兼CEOを務めたクリストフ・ウェバー氏を取締役に推薦することを承認したと発表した。",
       "tags": [
         "その他"
       ],
@@ -440,39 +770,12 @@
       "keywords": []
     },
     {
-      "title": "【大塚製薬】患者の困りごとに焦点‐精神疾患の新薬開発で",
-      "link": "https://www.yakuji.co.jp/entry139641.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T23:30:40Z",
-      "published_label": "2026/09/24 08:30",
-      "summary": "大塚製薬は、重点の精神・神経領域で、既存薬では効果が不十分な精神疾患や、意欲の低下や感情の調節のしづらさなどの患者の困りごとに焦点を当てて新薬開発に取り組む。…",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】次世代美容成分“全層保水型プロテオグリカン”を配合してリニューアル‐「matsukiyo LAB コラーゲンパウダー SP」販売開始 マツキヨココカラ＆カンパニー",
-      "link": "https://www.yakuji.co.jp/entry139683.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T22:37:54Z",
-      "published_label": "2026/09/24 07:37",
-      "summary": "マツキヨココカラ＆カンパニーは、美と健康をトータルサポートするオリジナルヘルスケアブランド「matsukiyo LAB（マツキヨ ラボ）」より「matsuki…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【シスメックス】「2026年度カスタマーサポート表彰制度」最優秀賞を受賞",
-      "link": "https://www.yakuji.co.jp/entry139682.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T22:36:35Z",
-      "published_label": "2026/09/24 07:36",
-      "summary": "シスメックスはこのほど、公益社団法人企業情報化協会（IT協会）が主催する「2026年度カスタマーサポート表彰制度」で、最優秀賞を受賞した。今回の受賞は、手術支…",
+      "title": "上野厚労相 「成長戦略踏まえ創薬・先端医療、攻めの予防医療にしっかり取り組む」 ２期目続投で抱負",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80890",
+      "source": "ミクスOnline",
+      "published": "2026-09-23T19:51:00Z",
+      "published_label": "2026/09/24 04:51",
+      "summary": "第2次高市改造内閣で再任された上野賢一郎厚労相は9月18日の閣議後会見で、「成長戦略を踏まえた創薬・先端医療等の分野における対応や、攻めの予防医療の具体化も含めて、しっかり取り組んでいきたい」と抱負を述べた。",
       "tags": [
         "その他"
       ],
@@ -480,12 +783,25 @@
       "keywords": []
     },
     {
-      "title": "【島津製作所／島津理化】映画「踊る大捜査線」に美術協力‐分析天びん、光学顕微鏡などを提供",
-      "link": "https://www.yakuji.co.jp/entry139679.html",
-      "source": "薬事日報",
-      "published": "2026-09-23T22:35:38Z",
-      "published_label": "2026/09/24 07:35",
-      "summary": "島津製作所と島津理化は、9月18日公開の映画「踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！」に島津製作所製の分析天びん「AP225WD」、上皿天びん…",
+      "title": "日本リリー アルツハイマー病啓発で脳の健康考えるきっかけに 短歌や写真コンテスト開催",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80889",
+      "source": "ミクスOnline",
+      "published": "2026-09-23T19:50:00Z",
+      "published_label": "2026/09/24 04:50",
+      "summary": "日本イーライリリーは、９月の世界アルツハイマー病月間に合わせ、KITTE丸の内（東京都千代田区）の特設会場で「私の脳が喜ぶ瞬間」をテーマにした短歌・フォトメッセージコンテストの作品展示会を開催中。脳の健康について広めるキャンペーン「あなたの日々に、脳の健康も」の一環で、「来場者が脳の健康やアルツハイマー病について正しく知り、自身や大切な人の脳の健康について考えるきっかけとしたい」としている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "田辺ファーマ EPP及びXLP治療薬候補・デルシメラゴン LEO社への全世界の権利の譲渡完了",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80888",
+      "source": "ミクスOnline",
+      "published": "2026-09-23T19:50:00Z",
+      "published_label": "2026/09/24 04:50",
+      "summary": "田辺ファーマは９月18日、経口選択的メラノコルチン１受容体作動薬・デルシメラゴン（一般名、開発コード：MT-7117）について、デンマークのLEO Pharmaに全世界の権利を譲渡する契約を完了したと発表した。",
       "tags": [
         "その他"
       ],
@@ -591,6 +907,71 @@
       "keywords": []
     },
     {
+      "title": "サンバイオ・森社長 今期中にアクーゴで3億9000万円の事業収益予想 10月中に1例目の投与開始へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80884",
+      "source": "ミクスOnline",
+      "published": "2026-09-17T19:52:00Z",
+      "published_label": "2026/09/18 04:52",
+      "summary": "サンバイオの森敬太代表取締役社長は９月17日の決算説明会（27年1月期第2四半期）で、ヒト体性幹細胞加工製品アクーゴ脳内移植用注の発売により、今期中に３億9600万円を売上計上できるとの業績予想を発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "第2次高市改造内閣が発足 上野厚労相、片山財務相は留任 デジタル相は初入閣の古川俊治参院議員",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80883",
+      "source": "ミクスOnline",
+      "published": "2026-09-17T19:51:00Z",
+      "published_label": "2026/09/18 04:51",
+      "summary": "高市早苗首相は9月17日、第２次改造内閣を発足させた。社会保障政策の要となる厚生労働大臣は上野賢一郎氏が留任となった。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "シミックヘルスケア 全社員の昇給率を引き上げ 専門人材が活躍できる環境づくりを推進 27年１月から",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80887",
+      "source": "ミクスOnline",
+      "published": "2026-09-17T19:50:00Z",
+      "published_label": "2026/09/18 04:50",
+      "summary": "SMO事業を手掛けるシミックヘルスケアは９月17日、全社員を対象とする昇給率の引き上げと、中堅層・ベテラン層を中心としたベースアップを実施すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アステラス製薬 Marino氏が法務・コンプライアンス担当に就任 10月１日付",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80885",
+      "source": "ミクスOnline",
+      "published": "2026-09-17T19:50:00Z",
+      "published_label": "2026/09/18 04:50",
+      "summary": "アステラス製薬は９月17日、Nahrin Marino氏が、法務・コンプライアンス担当（GC & CECO）に就任すると発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "東邦HD 医薬品業界向けBtoB決済サービス提供開始へ 製薬企業の回収サイトを最短30日へ短縮・一元...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80882",
+      "source": "ミクスOnline",
+      "published": "2026-09-17T19:50:00Z",
+      "published_label": "2026/09/18 04:50",
+      "summary": "東邦ホールディングスは９月17日、医薬品業界向けBtoB決済サービス「ファーマトレードペイ（仮称）」の提供を10月７日から開始する予定と発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "ヒルドイドは選定療養の対象？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7810?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -605,6 +986,59 @@
         "診療報酬改定"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "OTC類似薬 社保審医療保険部会で一部保険外療養を了承 中医協総会で療養担当規則の見直しを答申",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80880",
+      "source": "ミクスOnline",
+      "published": "2026-09-16T19:54:00Z",
+      "published_label": "2026/09/17 04:54",
+      "summary": "社会保障審議会医療保険部会は９月16日、OTC類似薬について患者に追加負担を求める一部保険外療養についてとりまとめ案を了承した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "日米欧製薬３団体 費用対効果による価格調整「当面凍結」 支払側 佐竹委員「そのまま受け止められない」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80881",
+      "source": "ミクスOnline",
+      "published": "2026-09-16T19:53:00Z",
+      "published_label": "2026/09/17 04:53",
+      "summary": "日米欧製薬３団体は９月16日、中医協費用対効果評価専門部会で業界ヒアリングに臨み、「制度的な議論に一定の結論が得られるまでの間、本制度による価格調整を当面凍結すべき」と主張した",
+      "tags": [
+        "業界動向",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "アルフレッサHD 医療用薬卸売事業の戦略推進機能を強化 10月１日付で「卸事業戦略委員会」に刷新",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80877",
+      "source": "ミクスOnline",
+      "published": "2026-09-16T19:52:00Z",
+      "published_label": "2026/09/17 04:52",
+      "summary": "アルフレッサホールディングスは９月16日、グループの医療用医薬品等卸売事業の戦略推進体制を強化すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【中医協費用対効果評価専門部会 ９月16日 議事要旨 費用対効果評価制度に対する業界の意見陳述】",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80878",
+      "source": "ミクスOnline",
+      "published": "2026-09-16T19:51:00Z",
+      "published_label": "2026/09/17 04:51",
+      "summary": "中医協費用対効果評価専門部会が９月16日に開かれ、費用対効果評価制度に対する業界の意見陳述を行った。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
