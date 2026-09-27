@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-27T16:21:38.132050Z",
-  "updated_label": "2026/09/28 01:21",
-  "count": 92,
+  "updated_at": "2026-09-27T20:50:27.443081Z",
+  "updated_label": "2026/09/28 05:50",
+  "count": 61,
   "items": [
     {
       "title": "「第2世代抗ヒスタミン薬の併用」について医師が回答",
       "link": "https://pharmacist.m3.com/column/clinical-soudan/7868?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-27T16:21:36.716508Z",
-      "published_label": "2026/09/28 01:21",
+      "published": "2026-09-27T20:50:26.119049Z",
+      "published_label": "2026/09/28 05:50",
       "summary": "薬剤師からの「ビラスチンとレボセチリジンが併用で処方されているケースがあり、患者への聴取では「以前からこの飲み方で継続している」とのことでした。疑義照会を行ったところ、処方医より継続可との回答をいただきました。第2世代抗ヒスタミン薬同士の併用は、実臨床において一般的に行われることがあるのでしょうか。」との相談に耳鼻咽喉科医が回答します。",
       "tags": [
         "薬剤師コラム",
@@ -16,6 +16,84 @@
         "薬物療法"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "約230万例のコホート研究が特定した不適切処方カスケードのパターン／BMJ",
+      "link": "https://www.carenet.com/news/journal/carenet/63679?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-27T19:00:00Z",
+      "published_label": "2026/09/28 04:00",
+      "summary": "カナダ・Sinai Health SystemのPaula A. Rochon氏らは、同国オンタリオ州に在住の66歳以上の高齢者を対象とした後ろ向きコホート研究により、潜在的に不適切な処方カスケード（potentially inappropriate prescri…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ピロリ除菌の保険適用拡大後、日本の胃がん死亡・罹患はどう推移したか",
+      "link": "https://www.carenet.com/news/general/carenet/63636?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-27T19:00:00Z",
+      "published_label": "2026/09/28 04:00",
+      "summary": "日本では、2013年2月にHelicobacter pylori（H. pylori）陽性の内視鏡診断慢性胃炎に対する除菌療法が保険適用となり、胃がん予防に関わる診療環境が大きく変化した。一方、この保険適用拡大後の胃がん死亡・罹患数…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "HPVワクチンを怖がる親子への情報提供のコツ",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/moyamoya/202609/594308.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-27T15:00:00Z",
+      "published_label": "2026/09/28 00:00",
+      "summary": "日経メディカル Onlineでは毎月最終週に、「現場のモヤモヤに答えます」と題した連載（ミニ特集）を掲載。気鋭の臨床医監修のもと、コモンな疾患・症状を取り上げ、現場のお悩み解消に向けたヒントをご提供します。 9月のテーマは「HPVワクチン」（編集幹事：齋田瑞恵）。全4本から成るミニ特集でHPVワクチンのモヤモヤに答えます。日々の診療において、副反応などへの懸念から、HPVワクチンの接種に否定的な保護者や当事者に遭遇する機会は少なくない…",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "重症患者へのPPI、継続・中止を見極める3つのポイント",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/grayzone/202609/594596.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-27T15:00:00Z",
+      "published_label": "2026/09/28 00:00",
+      "summary": "集中治療室（ICU）では、ストレス潰瘍に伴う消化管出血予防としてプロトンポンプ阻害剤（PPI）が用いられるケースにほぼ毎日遭遇します。また、一般病棟や外来では、ICUで開始されたPPI処方が漫然と継続されていることも少なくありません1）。 薬剤には有効性と有害性の両面があり、「クスリはリスク」とも言われます。PPIにおいても、メリットとデメリットを踏まえて使用することが求められます。さて、以下のケースは、呼吸困難を主訴に来院後、ICU…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "零売は「医行為」に当たる 東京地裁判断に薬局側反発、控訴へ",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594690.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-27T15:00:00Z",
+      "published_label": "2026/09/28 00:00",
+      "summary": "処方箋なしでの医療用医薬品の販売（零売［れいばい］）を巡り、薬剤師3人が国を相手取り起こした訴訟で、東京地裁は2026年9月18日、国の規制に異議を唱えた原告側の請求をいずれも退けた。薬剤師が処方箋なしで医療用医薬品を販売することは、実質的に医師が担う「医行為」を伴うと判断。例外的な場合を除き、医師らの処方箋が必要とした。 原告側は判決後の記者会見で、薬剤師の専門性が十分に考慮されていないと反発し、控訴する方針を表明した。 零売の対象…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "「痛いの痛いの飛んでけ～」は本当に効いていた？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/matsumoto/202609/594666.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-27T15:00:00Z",
+      "published_label": "2026/09/28 00:00",
+      "summary": "子どもの頃、「痛いの痛いの飛んでけ～」と言いながら、お母さんやお父さんに痛いところをさすってもらった経験はないでしょうか。私たちは昔から、痛いところに「手を当てる」と不思議と痛みが和らぐことを経験的に知っていました。しかし、「なぜ触るだけで痛みが軽くなるのか」という神経の仕組みは、これまで十分には分かっていませんでした。その謎の一端を明らかにしたのが、九州大学大学院薬学研究院・高等研究院の津田誠主幹教授らの研究グループです。本研究は2…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -32,19 +110,6 @@
         "転職"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬",
-      "link": "https://yakuzaic.com/archives/144496",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-26T22:00:00Z",
-      "published_label": "2026/09/27 07:00",
-      "summary": "高齢者の減量 「高齢者では減量すること」 薬の添付文書では、このような記載をよく見かけます。 しかし、「高齢者」とは何歳なのでしょうか？ 65歳でしょうか。75歳でしょうか。それとも、その患者の体格や身体機能をみて薬剤師 […] The post 何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -65,12 +130,12 @@
       "keywords": []
     },
     {
-      "title": "腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧",
-      "link": "https://yakuzaic.com/archives/144493",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-25T22:00:00Z",
-      "published_label": "2026/09/26 07:00",
-      "summary": "腎機能と糖尿病治療薬 糖尿病患者では、糖尿病性腎症をはじめさまざまな理由で腎機能が徐々に低下していくことがあります。 そして糖尿病治療薬には、腎機能の影響を受ける薬が少なくありません。 薬局でも、「昔から同じ糖尿病薬を飲 […] The post 腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "title": "SSRI、首位は変わらずエスシタロプラム",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202609/594638.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-25T15:00:00Z",
+      "published_label": "2026/09/26 00:00",
+      "summary": "日経メディカル Onlineの医師会員を対象に、選択的セロトニン再取り込み阻害薬（SSRI）のうち最も処方頻度の高いものを聞いたところ、36.0％の医師がエスシタロプラムシュウ酸塩（商品名レクサプロ他）と回答した。 第2位のパロキセチン塩酸塩水和物（パキシル他）は31.5％、第3位のセルトラリン塩酸塩（ジェイゾロフト他）は26.6％、第4位のフルボキサミンマレイン酸塩（デプロメール、ルボックス他）は6.0％の医師が最も処方頻度の高い薬…",
       "tags": [
         "その他"
       ],
@@ -92,45 +157,6 @@
         "診療報酬改定"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "服用〇時間以内が勝負、アセトアミノフェン中毒",
-      "link": "https://www.carenet.com/series/addiction/cg005444_012.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-25T01:00:10Z",
-      "published_label": "2026/09/25 10:00",
-      "summary": "市販薬の過量服用で搬送された10代の女性。初診時は意識良好でも、実は中毒量を大幅に超えていました。尿中薬物簡易スクリーニングを実施する際の注意点、適切な解毒法や観察期間などをおさらいしておきませんか？",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "要望から10年、新知事誕生で沖縄に薬学部新設なるか",
-      "link": "https://www.carenet.com/hihyofri/332.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-25T01:00:00Z",
-      "published_label": "2026/09/25 10:00",
-      "summary": "全国最下位の薬剤師不足に悩む沖縄において、国内127年ぶりとなる薬剤師知事が誕生しましたが、10年来の悲願である琉球大学への薬学部新設は実現するのでしょうか。大学側の意外な本音や山積する課題とは…。",
-      "tags": [
-        "薬局経営"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "第26回 前立腺肥大症 併用薬と自覚症状の確認",
-      "link": "https://www.carenet.com/pharmacist/ameeminimovie/cg003068_006.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-25T00:59:00Z",
-      "published_label": "2026/09/25 09:59",
-      "summary": "この番組では、最近の国家試験の中から薬局実務に直結する問題をピックアップ。問題を解きながら、現場に即した解説を加えていきます。薬局薬剤師に必要な知識、役立つノウハウが短時間で身につきます。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -209,19 +235,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "NTM症とは？肺MAC症との違い",
-      "link": "https://yakuzaic.com/archives/144553",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-24T22:00:00Z",
-      "published_label": "2026/09/25 07:00",
-      "summary": "NTM症と肺MAC症との違い 最近、テレビなどで**「NTM症」**という言葉を耳にすることが増えてきました。 一方、薬の添付文書を見ると、 非結核性抗酸菌症 という病名が記載されています。 たとえばクラリスロマイシンの […] The post NTM症とは？肺MAC症との違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -317,122 +330,68 @@
       "keywords": []
     },
     {
-      "title": "欧州系製薬9社 欧州各国政府に公開書簡 医薬品政策への戦略投資拡大と創薬・知財などで環境改善求める",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80905",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:53:00Z",
-      "published_label": "2026/09/25 04:53",
-      "summary": "アストラゼネカ、ベーリンガーインゲルハイム、キエジグループ、イプセン、GSK、ノボ、ノバルティス、ロシュ、サノフィの製薬企業9社は９月22日（現地時間）、欧州各国政府に対し、医薬品政策の支出拡大と創薬・知財など市場環境の改善を求める経営陣連名の公開書簡を公表した。",
+      "title": "フルミストと不活化ワクチンの使い分けは？ 日本小児科学会が「考え方」を更新",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202609/594693.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-24T15:00:00Z",
+      "published_label": "2026/09/25 00:00",
+      "summary": "日本小児科学会予防接種・感染症対策委員会は2026年9月25日、「経鼻弱毒生インフルエンザワクチンの使用に関する考え方」の第2版を公開した。2024年に公開した初版からの変更点として、経鼻弱毒生インフルエンザワクチン（商品名フルミスト点鼻液）の2025/26シーズンにおける有効性の調査結果などを新たに盛り込んだほか、海外の動向を踏まえ、喘息患者への接種や水平伝播への対応などに関する推奨文が一部修正された。 同委員会の推奨は以下の通り。…",
       "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "アステラス製薬・谷口CRDO T細胞エンゲージャー「今後3～5年でゲームチェンジャーに」WMIF26...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80901",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:53:00Z",
-      "published_label": "2026/09/25 04:53",
-      "summary": "アステラス製薬の谷口忠明 研究開発担当Chief Research & Development Officer（CRDO）は9月22日、米ボストンで開催されたWorld Medical Innovation Forum (WMIF) 2026の対談セッションに登壇し、同社の研究開発戦略や次世代モダリティへの期待について語った。",
-      "tags": [
-        "業界動向",
+        "感染症・ワクチン",
         "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
     },
     {
-      "title": "WMIF2026 米Capito上院議員 NIH研究資金「安定性が重要」 若手研究者の流出で競争力低...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80899",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:52:00Z",
-      "published_label": "2026/09/25 04:52",
-      "summary": "World Medical Innovation Forum (WMIF) 2026が9月22～23日の2日間、米国ボストンで開催された。",
+      "title": "【関節リウマチ、息切れの悪化】この肺音は？（難易度★★☆）",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/nagasaka/202609/594637.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-24T15:00:00Z",
+      "published_label": "2026/09/25 00:00",
+      "summary": "70代女性。呼吸困難で救急入院。間質性肺炎として、10年前から近医で観察されていた。2年前に関節リウマチとの診断を受け、TNFα阻害薬を投与されたが、副作用で中止。最近、息切れが悪化した。ニンテダニブは吐き気で中止。普段から、透明または白い痰が多い。入院時の胸部単純X線写真を写真1に示す。右肺底部で肺音1を聴取した。これはどのような音か。",
       "tags": [
-        "学術・エビデンス"
+        "安全性情報"
       ],
-      "importance": 2,
+      "importance": 4,
       "keywords": []
     },
     {
-      "title": "卸連・会員社25年度業績 3.5％増収も粗利率0.15pt悪化 営業利益率1.04％に低下 リベート...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80900",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:51:00Z",
-      "published_label": "2026/09/25 04:51",
-      "summary": "日本医薬品卸売業連合会（卸連）は９月24日、会員企業の2025年度経営概況の速報値を発表した。",
+      "title": "アレンドロン酸錠35mg「サワイ」が供給停止に",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202609/594669.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-24T15:00:00Z",
+      "published_label": "2026/09/25 00:00",
+      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年9月13〜19日のランキングです。",
       "tags": [
-        "業界動向"
+        "供給・出荷"
       ],
-      "importance": 2,
+      "importance": 5,
       "keywords": []
     },
     {
-      "title": "くすり未来塾 薬価制度は物価上昇や国際価格水準を取り込むことができる仕組みに変換を",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80904",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:50:00Z",
-      "published_label": "2026/09/25 04:50",
-      "summary": "薬価流通政策研究会・くすり未来塾は９月24日、デフレからインフレに転換する中で、「薬価制度は物価上昇や国際価格水準を取り込むことができる仕組みに変換すべき」と提言した。",
+      "title": "GLP-1受容体作動薬に「非動脈炎性前部虚血性視神経症の発現リスク」追加",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/sako/202609/594683.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-24T15:00:00Z",
+      "published_label": "2026/09/25 00:00",
+      "summary": "GLP-1受容体作動薬のトルリシティ皮下注（一般名デュラグルチド［遺伝子組換え］）、GIP/GLP-1受容体作動薬のマンジャロ皮下注およびゼップバウンド皮下注（チルゼパチド）のその他の注意に「薬剤との因果関係は明らかではないが、GLP-1受容体作動薬投与後に非動脈炎性前部虚血性視神経症（NAION）の発現リスク増加の可能性を示唆する観察研究等が報告されている。」が追加されました。 GnRH作動薬のリュープリン（リュープロレリン酢酸塩）…",
       "tags": [
-        "薬価・制度",
+        "安全性情報",
         "学術・エビデンス"
       ],
       "importance": 4,
       "keywords": []
     },
     {
-      "title": "シンバイオ 多発性硬化症治療薬、予防薬候補開発の独占的グローバルライセンス契約を締結",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80903",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:50:00Z",
-      "published_label": "2026/09/25 04:50",
-      "summary": "シンバイオ製薬は９月24日、多発性硬化症（MS）治療薬、予防薬候補となるブリンシドホビル（BCV）について、共同研究を行ってきた米国国立衛生研究所（NIH）傘下の米国国立神経疾患・脳卒中研究所（NINDS）を通じ、米国保険福祉省（HHS）と、開発するための技術に関する独占的グローバルライセンス契約を締結したと発表。",
+      "title": "掌蹠膿疱症の考え方と漢方処方",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/koui/202609/594602.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-24T15:00:00Z",
+      "published_label": "2026/09/25 00:00",
+      "summary": "掌蹠膿疱症は、手掌（手のひら）や足蹠（足の裏）に小さな水疱や膿疱ができる皮膚疾患です。白癬と似ていますが患部から菌は検出されることはなく、人に感染することはありません。 よく見られる症状は、小さな水疱や膿疱のほかに、痒み、皮が剝ける、乾燥した薄茶色のかさぶた（痂皮）などです。周りの皮膚に紅斑を生じることもあります。皮膚が硬くなり割れたり、痛みを伴ったりすることもあります。爪が厚くなり、変形する場合もあります。手掌や足蹠のほかに、すね、…",
       "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "アステラス製薬 KRAS G12D標的タンパク質分解誘導薬・setidegrasibの第３相試験開始...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80902",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:50:00Z",
-      "published_label": "2026/09/25 04:50",
-      "summary": "アステラス製薬は9月24日、KRAS G12D標的タンパク質分解誘導薬・setidegrasibについて、治療歴のある非小細胞肺がん（NSCLC）を対象とした国際共同第３相試験を開始したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "結核・呼吸器感染症予防週間でランドマークを赤くライトアップ 結核予防会が全国で普及啓発活動実施",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80898",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:50:00Z",
-      "published_label": "2026/09/25 04:50",
-      "summary": "結核予防会は９月24日、令和８年度結核・呼吸器感染症予防週間に合わせ、全国で普及啓発活動を実施すると発表した。",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "今年も「ワクチン虎の穴セミナー」を開催／プライマリ・ケア連合学会",
-      "link": "https://www.carenet.com/news/general/carenet/63633?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-24T19:00:00Z",
-      "published_label": "2026/09/25 04:00",
-      "summary": "日本では、今年も麻しん流行や肺炎球菌ワクチンのPCV20への変更など、感染症やワクチンに関係する話題が多い。また、海外ではハンタウイルス、エボラ出血熱などの再興感染症の流行も危惧されている。 こうした…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
+        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -534,111 +493,6 @@
       "keywords": []
     },
     {
-      "title": "モーラスパップ・モーラステープ・モーラスパップXRの違い",
-      "link": "https://yakuzaic.com/archives/144487",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-23T22:00:00Z",
-      "published_label": "2026/09/24 07:00",
-      "summary": "モーラスパップ・モーラステープ・モーラスパップXRの違い モーラスには、「モーラスパップ」「モーラステープ」「モーラスパップXR」という3種類の貼付剤があります。 いずれも有効成分はNSAIDsのケトプロフェンです。 し […] The post モーラスパップ・モーラステープ・モーラスパップXRの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "厚労省 「連続ドラマＷ MR―医薬情報担当者－」とタイアップ 適正使用と副作用被害救済制度の啓発で",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80891",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:53:00Z",
-      "published_label": "2026/09/24 04:53",
-      "summary": "厚生労働省は９月18日、医薬品の適正使用や安全対策等に対する理解を促進する目的でＷＯＷＯＷにて放送・配信する「連続ドラマＷ MR ―医薬情報担当者－」とタイアップすると発表した。",
-      "tags": [
-        "安全性情報",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "創薬力向上官民協議会「施策検討・推進部会」が初会合 成長戦略具体化へ 基礎研究支援拡充を",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80894",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:52:00Z",
-      "published_label": "2026/09/24 04:52",
-      "summary": "政府は９月18日、「創薬力向上のための官民協議会 施策検討・推進部会」の初会合を開いた。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "スイス・ロシュ 取締役会がクリストフ・ウェバー氏の取締役推薦を承認 27年3月の年次株主総会で提案",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80893",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:52:00Z",
-      "published_label": "2026/09/24 04:52",
-      "summary": "スイスのロシュ社は9月23日、同日開催の取締役会で武田薬品社長兼CEOを務めたクリストフ・ウェバー氏を取締役に推薦することを承認したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "上野厚労相 「成長戦略踏まえ創薬・先端医療、攻めの予防医療にしっかり取り組む」 ２期目続投で抱負",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80890",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:51:00Z",
-      "published_label": "2026/09/24 04:51",
-      "summary": "第2次高市改造内閣で再任された上野賢一郎厚労相は9月18日の閣議後会見で、「成長戦略を踏まえた創薬・先端医療等の分野における対応や、攻めの予防医療の具体化も含めて、しっかり取り組んでいきたい」と抱負を述べた。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本リリー アルツハイマー病啓発で脳の健康考えるきっかけに 短歌や写真コンテスト開催",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80889",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:50:00Z",
-      "published_label": "2026/09/24 04:50",
-      "summary": "日本イーライリリーは、９月の世界アルツハイマー病月間に合わせ、KITTE丸の内（東京都千代田区）の特設会場で「私の脳が喜ぶ瞬間」をテーマにした短歌・フォトメッセージコンテストの作品展示会を開催中。脳の健康について広めるキャンペーン「あなたの日々に、脳の健康も」の一環で、「来場者が脳の健康やアルツハイマー病について正しく知り、自身や大切な人の脳の健康について考えるきっかけとしたい」としている。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "田辺ファーマ EPP及びXLP治療薬候補・デルシメラゴン LEO社への全世界の権利の譲渡完了",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80888",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:50:00Z",
-      "published_label": "2026/09/24 04:50",
-      "summary": "田辺ファーマは９月18日、経口選択的メラノコルチン１受容体作動薬・デルシメラゴン（一般名、開発コード：MT-7117）について、デンマークのLEO Pharmaに全世界の権利を譲渡する契約を完了したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "便秘薬はいつ飲む？―食前・食後・寝る前で効果は違うのか",
-      "link": "https://yakuzaic.com/archives/144484",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-22T22:00:00Z",
-      "published_label": "2026/09/23 07:00",
-      "summary": "便秘薬の用法 便秘症治療薬には、さまざまな服用方法があります。 同じ「便秘を改善する薬」なのに、なぜこれほど用法が違うのでしょうか。 「便秘薬だから夜飲んで、翌朝出す」というイメージを持っている患者さんも少なくありません […] The post 便秘薬はいつ飲む？―食前・食後・寝る前で効果は違うのか first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "日本で販売されているACE阻害薬の種類は、ARBよりも少ない？",
       "link": "https://pharmacist.m3.com/column/quiz/7851?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -669,32 +523,6 @@
       "keywords": []
     },
     {
-      "title": "オラドールトローチとオラドールSトローチの違い",
-      "link": "https://yakuzaic.com/archives/144481",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-21T22:00:00Z",
-      "published_label": "2026/09/22 07:00",
-      "summary": "オラドールトローチとオラドールSトローチの違い オラドールトローチ0.5mgには、よく似た名前の「オラドールSトローチ0.5mg」があります。 「S」が付いていることで成分や効果が違うようにも見えますが、有効成分、含量、 […] The post オラドールトローチとオラドールSトローチの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "なぜキャブピリンは処方しにくいのか？―バイアスピリン＋タケキャブとの不思議な違い",
-      "link": "https://yakuzaic.com/archives/144478",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-20T22:00:00Z",
-      "published_label": "2026/09/21 07:00",
-      "summary": "なぜキャブピリンは処方しにくいのか？ 薬局で処方を見ていると、バイアスピリン＋タケキャブという組み合わせは比較的よく見かけます。 一方、キャブピリン配合錠はそれほど見かけません。 キャブピリンは、 を1錠にした配合剤です […] The post なぜキャブピリンは処方しにくいのか？―バイアスピリン＋タケキャブとの不思議な違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "薬剤師が考えるべき「目指す薬剤師像」とは",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/7814?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -708,32 +536,6 @@
         "転職"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "アトピー外用薬の濃度と年齢の違い―コレクチム・プロトピック・モイゼルトは何歳から使える？",
-      "link": "https://yakuzaic.com/archives/144421",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-19T22:00:00Z",
-      "published_label": "2026/09/20 07:00",
-      "summary": "コレクチム・プロトピック・モイゼルトの違い アトピー性皮膚炎に使われる非ステロイド外用薬には、濃度の異なる製剤があります。 処方を見ていると、「低濃度が子供用で、高濃度が大人用？」と考えたくなります。 確かにプロトピック […] The post アトピー外用薬の濃度と年齢の違い―コレクチム・プロトピック・モイゼルトは何歳から使える？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "割線があるのに割っちゃいけない薬",
-      "link": "https://yakuzaic.com/archives/144472",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-18T22:00:00Z",
-      "published_label": "2026/09/19 07:00",
-      "summary": "割線があるのに割っちゃいけない薬 錠剤の真ん中に線が入っていたら、「半分に割って使える薬」と考えるのが普通だろう。 薬局でも「1回0.5錠」という処方は珍しくなく、割線のある錠剤を半錠にして調剤することは日常的に行われて […] The post 割線があるのに割っちゃいけない薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "医療安全"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -789,84 +591,6 @@
       "keywords": []
     },
     {
-      "title": "膀胱炎で発熱する？―熱があったら腎盂腎炎を疑う？",
-      "link": "https://yakuzaic.com/archives/144462",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-17T22:00:00Z",
-      "published_label": "2026/09/18 07:00",
-      "summary": "膀胱炎と腎盂腎炎 膀胱炎の患者に抗菌薬が処方されていたとき、服薬指導で何を確認するでしょうか。 「排尿するとき痛みますか？」「トイレが近いですか？」「血尿はありませんか？」 このあたりは典型的な確認事項ですが、もう一つ聞 […] The post 膀胱炎で発熱する？―熱があったら腎盂腎炎を疑う？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "サンバイオ・森社長 今期中にアクーゴで3億9000万円の事業収益予想 10月中に1例目の投与開始へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80884",
-      "source": "ミクスOnline",
-      "published": "2026-09-17T19:52:00Z",
-      "published_label": "2026/09/18 04:52",
-      "summary": "サンバイオの森敬太代表取締役社長は９月17日の決算説明会（27年1月期第2四半期）で、ヒト体性幹細胞加工製品アクーゴ脳内移植用注の発売により、今期中に３億9600万円を売上計上できるとの業績予想を発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "第2次高市改造内閣が発足 上野厚労相、片山財務相は留任 デジタル相は初入閣の古川俊治参院議員",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80883",
-      "source": "ミクスOnline",
-      "published": "2026-09-17T19:51:00Z",
-      "published_label": "2026/09/18 04:51",
-      "summary": "高市早苗首相は9月17日、第２次改造内閣を発足させた。社会保障政策の要となる厚生労働大臣は上野賢一郎氏が留任となった。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "シミックヘルスケア 全社員の昇給率を引き上げ 専門人材が活躍できる環境づくりを推進 27年１月から",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80887",
-      "source": "ミクスOnline",
-      "published": "2026-09-17T19:50:00Z",
-      "published_label": "2026/09/18 04:50",
-      "summary": "SMO事業を手掛けるシミックヘルスケアは９月17日、全社員を対象とする昇給率の引き上げと、中堅層・ベテラン層を中心としたベースアップを実施すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "アステラス製薬 Marino氏が法務・コンプライアンス担当に就任 10月１日付",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80885",
-      "source": "ミクスOnline",
-      "published": "2026-09-17T19:50:00Z",
-      "published_label": "2026/09/18 04:50",
-      "summary": "アステラス製薬は９月17日、Nahrin Marino氏が、法務・コンプライアンス担当（GC & CECO）に就任すると発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "東邦HD 医薬品業界向けBtoB決済サービス提供開始へ 製薬企業の回収サイトを最短30日へ短縮・一元...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80882",
-      "source": "ミクスOnline",
-      "published": "2026-09-17T19:50:00Z",
-      "published_label": "2026/09/18 04:50",
-      "summary": "東邦ホールディングスは９月17日、医薬品業界向けBtoB決済サービス「ファーマトレードペイ（仮称）」の提供を10月７日から開始する予定と発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "ヒルドイドは選定療養の対象？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7810?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -884,87 +608,6 @@
       "keywords": []
     },
     {
-      "title": "OTC類似薬 社保審医療保険部会で一部保険外療養を了承 中医協総会で療養担当規則の見直しを答申",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80880",
-      "source": "ミクスOnline",
-      "published": "2026-09-16T19:54:00Z",
-      "published_label": "2026/09/17 04:54",
-      "summary": "社会保障審議会医療保険部会は９月16日、OTC類似薬について患者に追加負担を求める一部保険外療養についてとりまとめ案を了承した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "日米欧製薬３団体 費用対効果による価格調整「当面凍結」 支払側 佐竹委員「そのまま受け止められない」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80881",
-      "source": "ミクスOnline",
-      "published": "2026-09-16T19:53:00Z",
-      "published_label": "2026/09/17 04:53",
-      "summary": "日米欧製薬３団体は９月16日、中医協費用対効果評価専門部会で業界ヒアリングに臨み、「制度的な議論に一定の結論が得られるまでの間、本制度による価格調整を当面凍結すべき」と主張した",
-      "tags": [
-        "業界動向",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "アルフレッサHD 医療用薬卸売事業の戦略推進機能を強化 10月１日付で「卸事業戦略委員会」に刷新",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80877",
-      "source": "ミクスOnline",
-      "published": "2026-09-16T19:52:00Z",
-      "published_label": "2026/09/17 04:52",
-      "summary": "アルフレッサホールディングスは９月16日、グループの医療用医薬品等卸売事業の戦略推進体制を強化すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【中医協費用対効果評価専門部会 ９月16日 議事要旨 費用対効果評価制度に対する業界の意見陳述】",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80878",
-      "source": "ミクスOnline",
-      "published": "2026-09-16T19:51:00Z",
-      "published_label": "2026/09/17 04:51",
-      "summary": "中医協費用対効果評価専門部会が９月16日に開かれ、費用対効果評価制度に対する業界の意見陳述を行った。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "厚労省 新薬等32製品を承認 経口乾癬治療薬・イコタイド錠 レケンビやキイトルーダの皮下注製剤など",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80875",
-      "source": "ミクスOnline",
-      "published": "2026-09-16T19:51:00Z",
-      "published_label": "2026/09/17 04:51",
-      "summary": "厚生労働省は９月16日、新医薬品など32製品を承認した。",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "ロート製薬 RE-01細胞治療の治験製品のCDMO業務受託 難治性虚血性下肢潰瘍に対する第２相試験",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80876",
-      "source": "ミクスOnline",
-      "published": "2026-09-16T19:50:00Z",
-      "published_label": "2026/09/17 04:50",
-      "summary": "ロート製薬は9月16日、順天堂大学医学部附属順天堂医院などが行う難治性虚血性（非動脈硬化性）下肢潰瘍患者を対象とした自己末梢血培養単核球細胞群（RE-01）の第２相医師主導治験において治験製品のCDMO業務を担うと発表した。",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "タケルダ配合錠は分割NG！割線に見える「100/15」の謎",
       "link": "https://pharmacist.m3.com/column/hanjou/7808?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -979,58 +622,6 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "サノフィ DE＆Iをビジネスインパクトに直結 医療アクセス改善と日本発グローバル人材輩出で組織変革",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80873",
-      "source": "ミクスOnline",
-      "published": "2026-09-15T19:52:00Z",
-      "published_label": "2026/09/16 04:52",
-      "summary": "サノフィは、社員の人材育成で多様なアプローチを展開している。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "エクサウィザーズ エーザイが「ＡＩ対話型ロールプレイングサービス」導入 2種類のシナリオで研修実施",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80874",
-      "source": "ミクスOnline",
-      "published": "2026-09-15T19:51:00Z",
-      "published_label": "2026/09/16 04:51",
-      "summary": "エクサウィザーズは9月15日、エーザイがＡＩ対話型ロールプレイングサービス「エクサベース ロープレ(ロープレ)」を導入したと発表した。26年4月に入社した新人ＭＲ約20名を対象に、新人研修における営業ロールプレイングで活用を開始した。同社によると、ＡＩによる客観的な評価と即時フィードバックを通じ、MRの質問力・提案力の育成の高度化を目指すとしている。ロープレは、製品知識に依存しない汎用的な営業シナリオから、自社製品を題材とした実践シナ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬粧連合・松尾会長 連合傘下の産別として「より高いレベルの活動目指す」 27年度運動方針",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80872",
-      "source": "ミクスOnline",
-      "published": "2026-09-15T19:50:00Z",
-      "published_label": "2026/09/16 04:50",
-      "summary": "医薬化粧品産業労働組合連合会（薬粧連合）の松尾仁雄会長（中外製薬労働組合）は9月15日の記者会見で、2027年度の運動方針について「薬粧連合としての独自性や強みを伸ばしながら、連合としてできることを掛け合わせることで、産別組織としてより一歩高いレベルの活動ができるよう取り組んでいきたい」と述べた。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "上野厚労相 OTC類似薬の一部保険外療養導入による処方シフトの懸念に「症状に応じて最適な薬剤処方が原...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80871",
-      "source": "ミクスOnline",
-      "published": "2026-09-15T19:50:00Z",
-      "published_label": "2026/09/16 04:50",
-      "summary": "上野賢一郎厚労相は9月15日の閣議後会見で、OTC類似薬の一部保険外療養導入により、OTC類似薬からより高額な保険適用薬に変える「処方シフト」への懸念が指摘されている点について、「医師は個々の患者の症状などに応じて最適な薬剤を処方することが原則であり、制度導入後も、医療現場においてはこの原則に基づいて処方が行われることが重要だ」との見解を示した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
