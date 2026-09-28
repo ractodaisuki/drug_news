@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-09-28T03:29:27.292969Z",
-  "updated_label": "2026/09/28 12:29",
-  "count": 105,
+  "updated_at": "2026-09-28T12:50:13.038487Z",
+  "updated_label": "2026/09/28 21:50",
+  "count": 103,
   "items": [
+    {
+      "title": "【対話で学ぶ薬業界ニュース解説】OTC類似薬の「一部保険外療養」とは",
+      "link": "https://www.yakuji.co.jp/entry139847.html",
+      "source": "薬事日報",
+      "published": "2026-09-28T07:54:51Z",
+      "published_label": "2026/09/28 16:54",
+      "summary": "OTC医薬品との代替性が特に高い医療用医薬品、いわゆる「OTC類似薬」について、薬剤費の一部を保険給付の対象外とする「一部保険外療養」の実施案が9月16日にま…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会血液事業部会令和８年度第２回運営委員会（資料）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76054.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-28T07:00:00Z",
+      "published_label": "2026/09/28 16:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "埼玉県病院薬剤師会 研修会 2026/11",
+      "link": "https://www.yakuji.co.jp/entry139783.html",
+      "source": "薬事日報",
+      "published": "2026-09-28T05:00:09Z",
+      "published_label": "2026/09/28 14:00",
+      "summary": "第113回抗がん剤研修会《実技研修》 埼玉県薬剤師生涯研修センター(G15)認定単位 2単位 日本病院薬剤師会病院薬学認定薬剤師制度(P04) II-6 2.5…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "昭和医科大学薬学部 生涯研修プログラム 2026/11",
+      "link": "https://www.yakuji.co.jp/entry139781.html",
+      "source": "薬事日報",
+      "published": "2026-09-28T02:30:07Z",
+      "published_label": "2026/09/28 11:30",
+      "summary": "生涯研修プログラム「薬剤師が実践するメディケーション・レビュー演習 シリーズ2～多疾患患者における薬の見直し方～Web版」 研修形式 オンライン 該当OBE 専…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "薬学ゼミナール生涯学習センター 薬剤師生涯学習講座 2026/10",
       "link": "https://www.yakuji.co.jp/entry139746.html",
@@ -513,45 +565,6 @@
       "keywords": []
     },
     {
-      "title": "大阪市の「健康づくり推進」に協力‐26日、市民対象のイベントに参加へ nishikawa",
-      "link": "https://www.yakuji.co.jp/entry139729.html",
-      "source": "薬事日報",
-      "published": "2026-09-24T22:32:22Z",
-      "published_label": "2026/09/25 07:32",
-      "summary": "西川（nishikawa）は、大阪市が推進する「大阪市健康増進計画『すこやか大阪21』」に協力し、睡眠の質の向上を通じた地域社会の健康増進をサポートする取り組…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "「いばらき健康フェス2026」に出展‐26日に健康啓発のステージイベント・測定会を実施 オムロンHC",
-      "link": "https://www.yakuji.co.jp/entry139727.html",
-      "source": "薬事日報",
-      "published": "2026-09-24T22:31:46Z",
-      "published_label": "2026/09/25 07:31",
-      "summary": "オムロンヘルスケアは9月26日午前10時から午後3時まで、茨城県および鹿島アントラーズ・エフ・シー（鹿島アントラーズ）と連携し、水戸市のイオンモール水戸内原で…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "「GREEN MARKET & LAB.」を26日に開催‐ブランドを知り、試して、つながる「エシカルパーティー」 ピー・エス・インターナショナル",
-      "link": "https://www.yakuji.co.jp/entry139725.html",
-      "source": "薬事日報",
-      "published": "2026-09-24T22:30:43Z",
-      "published_label": "2026/09/25 07:30",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
       "title": "NTM症とは？肺MAC症との違い",
       "link": "https://yakuzaic.com/archives/144553",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -560,45 +573,6 @@
       "summary": "NTM症と肺MAC症との違い 最近、テレビなどで**「NTM症」**という言葉を耳にすることが増えてきました。 一方、薬の添付文書を見ると、 非結核性抗酸菌症 という病名が記載されています。 たとえばクラリスロマイシンの […] The post NTM症とは？肺MAC症との違い first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【東京地裁】零売裁判、原告が全面敗訴‐処方箋なし販売は「医行為」",
-      "link": "https://www.yakuji.co.jp/entry139747.html",
-      "source": "薬事日報",
-      "published": "2026-09-24T21:33:03Z",
-      "published_label": "2026/09/25 06:33",
-      "summary": "医薬品医療機器等法で定める処方箋医薬品以外の医療用医薬品の販売（零売）をめぐり、長澤薬品、まゆみ薬局、グランドヘルスの3社が国を相手取り、零売を行う地位の確認…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【兵庫県薬事審議会】地域連携薬局返納目立つ‐薬剤師要件満たせず",
-      "link": "https://www.yakuji.co.jp/entry139755.html",
-      "source": "薬事日報",
-      "published": "2026-09-24T21:32:32Z",
-      "published_label": "2026/09/25 06:32",
-      "summary": "兵庫県薬事審議会が11日に神戸市内で開かれ、2025年度事業として医薬品等の安全性確保対策や機能別薬局の認定状況など7項目が県から報告された。その中で、地域連…",
-      "tags": [
-        "薬局経営"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省 西平総務課長】今年度に薬剤師需給推計‐地方の病薬不足に対応",
-      "link": "https://www.yakuji.co.jp/entry139752.html",
-      "source": "薬事日報",
-      "published": "2026-09-24T21:31:20Z",
-      "published_label": "2026/09/25 06:31",
-      "summary": "厚生労働省医薬局の西平賢哉総務課長は17日、専門紙との共同会見で、薬剤師の地域・職域偏在問題について「年度内にも新たな薬剤師需給推計を公表する方向で作業してい…",
-      "tags": [
-        "法令・行政"
       ],
       "importance": 4,
       "keywords": []
