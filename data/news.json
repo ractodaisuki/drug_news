@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-09-29T04:05:15.628861Z",
-  "updated_label": "2026/09/29 13:05",
-  "count": 90,
+  "updated_at": "2026-09-29T12:04:53.051844Z",
+  "updated_label": "2026/09/29 21:04",
+  "count": 97,
   "items": [
+    {
+      "title": "アゼルニジピン×クラリス併用禁忌！代替案は？",
+      "link": "https://pharmacist.m3.com/column/special_feature/7872?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-09-29T12:04:52.107062Z",
+      "published_label": "2026/09/29 21:04",
+      "summary": "クラリスロマイシンとアゼルニジピンが併用禁忌となったことを受け、後編では実務への落とし込みを解説します。1枚の処方箋の中では完結しないこの組み合わせを、どう拾い上げるか。処方監査で見落としやすい場面、疑義照会の伝え方、抗菌薬と降圧薬のどちらを変更するかの考え方までを整理します。",
+      "tags": [
+        "薬剤師コラム",
+        "禁忌",
+        "医薬品情報・DI",
+        "薬物療法・作用機序",
+        "服薬指導"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-29T04:55:00Z",
+      "published_label": "2026/09/29 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-29T04:55:00Z",
+      "published_label": "2026/09/29 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "令和8年度 登録販売者試験 試験結果 【東日本】",
+      "link": "https://www.yakuji.co.jp/entry139874.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T04:51:29Z",
+      "published_label": "2026/09/29 13:51",
+      "summary": "情報には万全を期していますが、最終的には各都道府県に確認をお願いいたします。 北海道・東北 試験日 合格発表 合格者数 受験者数 その他 北海道 8月26日 9…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "11月6日に第62回植物化学シンポジウム 植物化学研究会",
       "link": "https://www.yakuji.co.jp/entry139846.html",
@@ -127,6 +183,19 @@
       "published": "2026-09-28T22:30:15Z",
       "published_label": "2026/09/29 07:30",
       "summary": "島津製作所は9月28日、東北大学が10月1日に仙台市の青葉山、星陵両キャンパスに拠点を置く「異分野融合計測イノベーションセンター」（CICMI：Center …",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い",
+      "link": "https://yakuzaic.com/archives/144508",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-28T22:00:00Z",
+      "published_label": "2026/09/29 07:00",
+      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、 など、「目によさそう」な成分がたくさん並んでいます。 しかし、これらはすべて同じように「目が悪くなるのを防ぐ」も […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
@@ -397,57 +466,16 @@
       "keywords": []
     },
     {
-      "title": "【ロート製薬】CDMO業務を受託‐再生医療等製品第II相",
-      "link": "https://www.yakuji.co.jp/entry139809.html",
-      "source": "薬事日報",
-      "published": "2026-09-27T23:30:04Z",
-      "published_label": "2026/09/28 08:30",
-      "summary": "ロート製薬は、難治性虚血性（非動脈硬化性）下肢潰瘍患者を対象とした再生医療等製品候補「RE-01」の第II相医師主導治験（PHOENIX-RE Trial）で…",
-      "tags": [
-        "業界動向",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】NONFスキンケアより『リシャインクリーム』を10月7日に発売 マッコイ",
-      "link": "https://www.yakuji.co.jp/entry139779.html",
-      "source": "薬事日報",
-      "published": "2026-09-27T22:31:45Z",
-      "published_label": "2026/09/28 07:31",
-      "summary": "マッコイ（大阪市中央区）は、「なりたいを真実に。ミネラルが導くノンフィクション。」をコンセプトに展開する「NONF」より、美容液後に使用するスキンケアアイテム…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【富士通】サイバーセキュリティサービスの提供開始‐企業等の能動的防御の実践を包括的に支援",
-      "link": "https://www.yakuji.co.jp/entry139777.html",
-      "source": "薬事日報",
-      "published": "2026-09-27T22:30:57Z",
-      "published_label": "2026/09/28 07:30",
-      "summary": "富士通は9月25日、サイバー攻撃の兆候把握から組織内のリスクの調査・対処まで包括的に支援するセキュリティサービスの提供を開始した。同サービスは、同社のサイバー…",
+      "title": "緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い",
+      "link": "https://yakuzaic.com/archives/144499",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-27T22:00:00Z",
+      "published_label": "2026/09/28 07:00",
+      "summary": "緑内障の手術の種類 緑内障というと、まず思い浮かぶ治療は点眼薬です。 プロスタグランジン関連薬、β遮断薬、炭酸脱水酵素阻害薬、α2作動薬、ROCK阻害薬など、現在は多くの緑内障治療薬があります。 しかし、点眼薬を何種類使 […] The post 緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省 中井審議官】治験支援薬局は新たな流れ‐薬剤師政策「育薬から創薬」",
-      "link": "https://www.yakuji.co.jp/entry139797.html",
-      "source": "薬事日報",
-      "published": "2026-09-27T21:33:55Z",
-      "published_label": "2026/09/28 06:33",
-      "summary": "厚生労働省の中井清人大臣官房審議官（医薬担当）は24日、専門紙と共同会見し、改正GCP省令の施行に伴い制度化される治験支援薬局について、「薬局薬剤師が創薬に関…",
-      "tags": [
-        "学術・エビデンス",
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -623,6 +651,19 @@
       "keywords": []
     },
     {
+      "title": "何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬",
+      "link": "https://yakuzaic.com/archives/144496",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-26T22:00:00Z",
+      "published_label": "2026/09/27 07:00",
+      "summary": "高齢者の減量 「高齢者では減量すること」 薬の添付文書では、このような記載をよく見かけます。 しかし、「高齢者」とは何歳なのでしょうか？ 65歳でしょうか。75歳でしょうか。それとも、その患者の体格や身体機能をみて薬剤師 […] The post 何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "【2027年3月変更】選定療養とOTC類似薬の計算方法を解説",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7870?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -640,12 +681,12 @@
       "keywords": []
     },
     {
-      "title": "SSRI、首位は変わらずエスシタロプラム",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202609/594638.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-25T15:00:00Z",
-      "published_label": "2026/09/26 00:00",
-      "summary": "日経メディカル Onlineの医師会員を対象に、選択的セロトニン再取り込み阻害薬（SSRI）のうち最も処方頻度の高いものを聞いたところ、36.0％の医師がエスシタロプラムシュウ酸塩（商品名レクサプロ他）と回答した。 第2位のパロキセチン塩酸塩水和物（パキシル他）は31.5％、第3位のセルトラリン塩酸塩（ジェイゾロフト他）は26.6％、第4位のフルボキサミンマレイン酸塩（デプロメール、ルボックス他）は6.0％の医師が最も処方頻度の高い薬…",
+      "title": "腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧",
+      "link": "https://yakuzaic.com/archives/144493",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-25T22:00:00Z",
+      "published_label": "2026/09/26 07:00",
+      "summary": "腎機能と糖尿病治療薬 糖尿病患者では、糖尿病性腎症をはじめさまざまな理由で腎機能が徐々に低下していくことがあります。 そして糖尿病治療薬には、腎機能の影響を受ける薬が少なくありません。 薬局でも、「昔から同じ糖尿病薬を飲 […] The post 腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
@@ -665,6 +706,19 @@
         "薬局経営",
         "OTC類似薬",
         "診療報酬改定"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "NTM症とは？肺MAC症との違い",
+      "link": "https://yakuzaic.com/archives/144553",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-24T22:00:00Z",
+      "published_label": "2026/09/25 07:00",
+      "summary": "NTM症と肺MAC症との違い 最近、テレビなどで**「NTM症」**という言葉を耳にすることが増えてきました。 一方、薬の添付文書を見ると、 非結核性抗酸菌症 という病名が記載されています。 たとえばクラリスロマイシンの […] The post NTM症とは？肺MAC症との違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
       ],
       "importance": 4,
       "keywords": []
@@ -794,6 +848,19 @@
       "keywords": []
     },
     {
+      "title": "モーラスパップ・モーラステープ・モーラスパップXRの違い",
+      "link": "https://yakuzaic.com/archives/144487",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-23T22:00:00Z",
+      "published_label": "2026/09/24 07:00",
+      "summary": "モーラスパップ・モーラステープ・モーラスパップXRの違い モーラスには、「モーラスパップ」「モーラステープ」「モーラスパップXR」という3種類の貼付剤があります。 いずれも有効成分はNSAIDsのケトプロフェンです。 し […] The post モーラスパップ・モーラステープ・モーラスパップXRの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "厚労省 「連続ドラマＷ MR―医薬情報担当者－」とタイアップ 適正使用と副作用被害救済制度の啓発で",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80891",
       "source": "ミクスOnline",
@@ -873,6 +940,19 @@
       "keywords": []
     },
     {
+      "title": "便秘薬はいつ飲む？―食前・食後・寝る前で効果は違うのか",
+      "link": "https://yakuzaic.com/archives/144484",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-22T22:00:00Z",
+      "published_label": "2026/09/23 07:00",
+      "summary": "便秘薬の用法 便秘症治療薬には、さまざまな服用方法があります。 同じ「便秘を改善する薬」なのに、なぜこれほど用法が違うのでしょうか。 「便秘薬だから夜飲んで、翌朝出す」というイメージを持っている患者さんも少なくありません […] The post 便秘薬はいつ飲む？―食前・食後・寝る前で効果は違うのか first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "日本で販売されているACE阻害薬の種類は、ARBよりも少ない？",
       "link": "https://pharmacist.m3.com/column/quiz/7851?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -903,6 +983,32 @@
       "keywords": []
     },
     {
+      "title": "オラドールトローチとオラドールSトローチの違い",
+      "link": "https://yakuzaic.com/archives/144481",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-21T22:00:00Z",
+      "published_label": "2026/09/22 07:00",
+      "summary": "オラドールトローチとオラドールSトローチの違い オラドールトローチ0.5mgには、よく似た名前の「オラドールSトローチ0.5mg」があります。 「S」が付いていることで成分や効果が違うようにも見えますが、有効成分、含量、 […] The post オラドールトローチとオラドールSトローチの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "なぜキャブピリンは処方しにくいのか？―バイアスピリン＋タケキャブとの不思議な違い",
+      "link": "https://yakuzaic.com/archives/144478",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-20T22:00:00Z",
+      "published_label": "2026/09/21 07:00",
+      "summary": "なぜキャブピリンは処方しにくいのか？ 薬局で処方を見ていると、バイアスピリン＋タケキャブという組み合わせは比較的よく見かけます。 一方、キャブピリン配合錠はそれほど見かけません。 キャブピリンは、 を1錠にした配合剤です […] The post なぜキャブピリンは処方しにくいのか？―バイアスピリン＋タケキャブとの不思議な違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "薬剤師が考えるべき「目指す薬剤師像」とは",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/7814?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -919,29 +1025,16 @@
       "keywords": []
     },
     {
-      "title": "「第２回 薬剤師のキャリアパスに関する懇談会」の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76155.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-18T05:00:00Z",
-      "published_label": "2026/09/18 14:00",
-      "summary": "",
+      "title": "アトピー外用薬の濃度と年齢の違い―コレクチム・プロトピック・モイゼルトは何歳から使える？",
+      "link": "https://yakuzaic.com/archives/144421",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-19T22:00:00Z",
+      "published_label": "2026/09/20 07:00",
+      "summary": "コレクチム・プロトピック・モイゼルトの違い アトピー性皮膚炎に使われる非ステロイド外用薬には、濃度の異なる製剤があります。 処方を見ていると、「低濃度が子供用で、高濃度が大人用？」と考えたくなります。 確かにプロトピック […] The post アトピー外用薬の濃度と年齢の違い―コレクチム・プロトピック・モイゼルトは何歳から使える？ first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "麻薬・覚醒剤・大麻乱用防止運動の実施について",
-      "link": "https://www.mhlw.go.jp/stf/houdou/0000179105_00025.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-18T05:00:00Z",
-      "published_label": "2026/09/18 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
+      "importance": 2,
       "keywords": []
     },
     {
