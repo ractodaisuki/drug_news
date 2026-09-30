@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T00:03:19.257232Z",
-  "updated_label": "2026/09/30 09:03",
-  "count": 100,
+  "updated_at": "2026-09-30T09:17:15.877457Z",
+  "updated_label": "2026/09/30 18:17",
+  "count": 106,
   "items": [
     {
       "title": "「なぜ点眼後に洗顔？」ラタノプロスト指導のコツ",
       "link": "https://pharmacist.m3.com/column/eye_drops/7874?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-30T00:03:18.106164Z",
-      "published_label": "2026/09/30 09:03",
+      "published": "2026-09-30T09:17:14.712634Z",
+      "published_label": "2026/09/30 18:17",
       "summary": "緑内障治療で用いられる「プロスタノイドFP受容体作動薬」の点眼後、「なぜ洗顔が必要なのか」と患者さんに聞かれて困ったことはありませんか？本記事では、洗顔が必要な理由や洗顔で予防できる副作用などを解説。患者さんの不安を和らげ、服薬アドヒアランスを高める実践的な服薬指導のコツをご紹介します。",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,86 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "最近の調剤医療費（電算処理分）の動向 令和8年度4～5月号",
+      "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/05/",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-30T05:00:00Z",
+      "published_label": "2026/09/30 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "おたふくかぜワクチンについての議論のまとめ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76495.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-09-30T04:50:00Z",
+      "published_label": "2026/09/30 13:50",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "外科医の待遇改善が病院再編を促す？新設加算と「医師引き上げ」への懸念",
+      "link": "https://www.carenet.com/hihyowed/335.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-30T01:00:08Z",
+      "published_label": "2026/09/30 10:00",
+      "summary": "診療報酬改定で、外科医らの処遇改善を図る2つの加算が新設された。取得には医師数や手術件数などの要件がある。全国自治体病院協議会と日本消化器外科学会の調査から見えた算定状況と地域病院の懸念を考察する。",
+      "tags": [
+        "薬価・制度",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "AI創薬、株価急上昇…話題満載のモデルナmRNAがんワクチン",
+      "link": "https://www.carenet.com/series/samurai/cg002850_193.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-30T01:00:00Z",
+      "published_label": "2026/09/30 10:00",
+      "summary": "ダートマス大学腫瘍内科の白井敬祐氏が、米国のがん診療の現状を語る。今回は「AI創薬、株価急上昇…話題満載のモデルナmRNAがんワクチン」。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【蛭田氏ら研究班】品質保証人材の育成課題‐製造経験なしで登用多く",
+      "link": "https://www.yakuji.co.jp/entry139901.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T23:31:40Z",
+      "published_label": "2026/09/30 08:31",
+      "summary": "東京理科大学薬学部医薬品等品質・GMP講座／熊本大学大学院薬学教育部の蛭田修客員教授を代表者とする研究班は、厚生労働行政推進調査事業「医薬品製造業者等における…",
+      "tags": [
+        "学術・エビデンス",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【製薬協調査】小児薬7割が同時開発‐欧米追随から早期参画に",
+      "link": "https://www.yakuji.co.jp/entry139909.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T23:30:44Z",
+      "published_label": "2026/09/30 08:30",
+      "summary": "日本製薬工業協会が加盟64社を対象に実施した小児開発状況の調査で、欧米の開発時期に合わせて国内小児開発を検討するプロジェクトが7割に達していたことが分かった。…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -269,6 +349,45 @@
       "keywords": []
     },
     {
+      "title": "クロモグリク酸とブロムヘキシンの混合による配合変化に注意",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594733.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-29T15:00:00Z",
+      "published_label": "2026/09/30 00:00",
+      "summary": "日本医療機能評価機構（以下、機構）は2026年9月25日、薬局ヒヤリ・ハット事例収集・分析事業の共有すべき事例「2026年No.9」を公開した。吸入液3剤を配合して交付したところ沈殿を生じた事例など2例を紹介し、注意を呼び掛けた。",
+      "tags": [
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "プロドラッグの「半券」、重篤な副作用の引き金にも",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/murasaka/202609/594678.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-29T15:00:00Z",
+      "published_label": "2026/09/30 00:00",
+      "summary": "重大かつ不可逆な転帰に至った報告もある──。 2026年6月にピボキシル基を有する抗菌薬について、こんな衝撃的な記述を伴う注意喚起が、医薬品医療機器総合機構（PMDA）から出されました。小児で低カルニチン血症に伴う重篤な低血糖が生じ、後遺症に至った症例や死亡例が報告されているという内容です（PMDA：「ピボキシル基を有する抗菌薬投与による小児等の重篤な低カルニチン血症、重篤な低血糖について（続報）」）。 薬の名前にある「ピボキシル」。…",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "アインファーマシーズ元社長らの逆転無罪判決を最高裁が破棄",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594730.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-29T15:00:00Z",
+      "published_label": "2026/09/30 00:00",
+      "summary": "最高裁判所第2小法廷は2026年9月28日、KKR札幌医療センター（札幌市）が発注した敷地内薬局の整備事業を巡り、公契約関係競売入札妨害罪に問われたアインホールディングス(HD、札幌市）元常務取締役でアインファーマシーズ（札幌市）元社長の酒井雅人氏、同社元取締役の新山典義氏に対する裁判において、両被告を逆転無罪とした二審判決を破棄した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "モビコールLDは小児限定、HDは一時出荷停止に",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594720.html",
       "source": "日経メディカル Online",
@@ -448,32 +567,6 @@
       "published": "2026-09-28T22:32:00Z",
       "published_label": "2026/09/29 07:32",
       "summary": "パナソニックは9月28日、新ナノイーX発生デバイス「ナノイーX（72兆）」を開発したと発表した。除菌・脱臭成分であるOHラジカル量を、「ナノイー」の4800億…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【京大】研究・分析装置メーカーと「KATALICE」設立‐共創オープンイノベーションで研究・技術革新を加速",
-      "link": "https://www.yakuji.co.jp/entry139840.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T22:31:42Z",
-      "published_label": "2026/09/29 07:31",
-      "summary": "京都大学はこのほど、島津製作所、日本電子、日立製作所、日立ハイテク、堀場製作所、リガク・ホールディングスのグループ会社であるリガクといった研究・分析装置メーカ…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】東北大「CICMI」に参画‐質量分析技術の高度化や若手人材育成を推進",
-      "link": "https://www.yakuji.co.jp/entry139839.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T22:30:15Z",
-      "published_label": "2026/09/29 07:30",
-      "summary": "島津製作所は9月28日、東北大学が10月1日に仙台市の青葉山、星陵両キャンパスに拠点を置く「異分野融合計測イノベーションセンター」（CICMI：Center …",
       "tags": [
         "その他"
       ],
@@ -766,19 +859,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "HPVワクチンを怖がる親子への情報提供のコツ",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/moyamoya/202609/594308.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-27T15:00:00Z",
-      "published_label": "2026/09/28 00:00",
-      "summary": "日経メディカル Onlineでは毎月最終週に、「現場のモヤモヤに答えます」と題した連載（ミニ特集）を掲載。気鋭の臨床医監修のもと、コモンな疾患・症状を取り上げ、現場のお悩み解消に向けたヒントをご提供します。 9月のテーマは「HPVワクチン」（編集幹事：齋田瑞恵）。全4本から成るミニ特集でHPVワクチンのモヤモヤに答えます。日々の診療において、副反応などへの懸念から、HPVワクチンの接種に否定的な保護者や当事者に遭遇する機会は少なくない…",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
