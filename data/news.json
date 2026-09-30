@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T17:33:45.274521Z",
-  "updated_label": "2026/10/01 02:33",
-  "count": 106,
+  "updated_at": "2026-09-30T21:50:32.210436Z",
+  "updated_label": "2026/10/01 06:50",
+  "count": 107,
   "items": [
     {
       "title": "小児の服薬後嘔吐：「30分」の先にある再投与判断",
       "link": "https://pharmacist.m3.com/column/special_feature/7890?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-30T17:33:43.949668Z",
-      "published_label": "2026/10/01 02:33",
+      "published": "2026-09-30T21:50:31.233380Z",
+      "published_label": "2026/10/01 06:50",
       "summary": "「子どもが薬を飲んだ後に吐いた。もう一度飲ませるべき？」という相談は薬局でよく受けます。服薬後の嘔吐に対する“飲み直し”には明確なルールが存在しません。現場で迷わないために、判断の目安となる「30分」の考え方や、薬剤師が押さえておきたい3つの評価ポイントを分かりやすく解説します。",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,151 @@
         "服薬指導"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "ダイト、Meiji、政投銀が「医薬品共創機構」12月設立へ 杏林製薬の後発品事業承継で最終契約締結",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80964",
+      "source": "ミクスOnline",
+      "published": "2026-09-30T21:00:00Z",
+      "published_label": "2026/10/01 06:00",
+      "summary": "ダイト、Meiji Seika ファルマ、日本政策投資銀行の３社は共同出資会社「医薬品共創機構」を12月に設立すると９月30日、発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "費用対効果 健康アウトカム改善せずICER費用増の価格調整26年中実施 業界は“対象範囲拡大ありき”...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80963",
+      "source": "ミクスOnline",
+      "published": "2026-09-30T20:00:00Z",
+      "published_label": "2026/10/01 05:00",
+      "summary": "中医協費用対効果評価専門部会は９月30日、「比較技術に対する健康アウトカム指標での改善が示されず、ICER の区分が費用増加となった分析対象集団」の価格調整について、2026年中に実施することを了承した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【中医協費用対効果評価専門部会 ９月30日 議事要旨 価格調整のあり方と薬価改定への議論の進め方】",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80962",
+      "source": "ミクスOnline",
+      "published": "2026-09-30T19:51:00Z",
+      "published_label": "2026/10/01 04:51",
+      "summary": "中医協費用対効果評価専門部会が９月30日に開かれ、令和８年度費用対効果評価制度改革における価格調整のあり方と、令和９年度薬価改定に向けた費用対効果評価制度の見直しに係る今後の進め方について議論した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "ノボ ドゥスター社長兼CEO 新コーポレート戦略を説明 消費者向け「Consumer Rx」の事業化...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80961",
+      "source": "ミクスOnline",
+      "published": "2026-09-30T19:51:00Z",
+      "published_label": "2026/10/01 04:51",
+      "summary": "ノボ ノルディスクのマイク ドゥスター社長兼CEOは9月30日、インターナショナル プレス ブリーフィングに臨み、新たなコーポレート戦略「Lasting Health Starts Now（ラスティング ヘルス スターツ ナウ）」について説明した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "中外製薬 韓国に子会社設立へ 自社販売も 承認取得から供給・販売まで一貫体制を構築",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80956",
+      "source": "ミクスOnline",
+      "published": "2026-09-30T19:51:00Z",
+      "published_label": "2026/10/01 04:51",
+      "summary": "中外製薬は９月30日、韓国における医薬品の販売承認取得及び自社販売体制の構築を目的として、現地に子会社を設立すると発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "旭化成 グローバル医薬事業ブランドを「Asahi Kasei Therapeutics」に統合 日米...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80960",
+      "source": "ミクスOnline",
+      "published": "2026-09-30T19:50:00Z",
+      "published_label": "2026/10/01 04:50",
+      "summary": "旭化成は9月30日、医薬事業のグローバル統合の一環として、米国のVeloxis PharmaceuticalsとスウェーデンのCalliditas Therapeuticsの社名を「Asahi Kasei Therapeutics」に変更すると発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "スズケンとEPファーマライン 製薬企業向け情報提供支援サービス「CS Assist Line」 10...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80957",
+      "source": "ミクスOnline",
+      "published": "2026-09-30T19:50:00Z",
+      "published_label": "2026/10/01 04:50",
+      "summary": "スズケンとEPファーマラインは９月30日、医薬品の製品情報を医療機関や保険薬局、介護施設へ届ける製薬企業向け情報提供支援サービス「CS Assist Line」を開発し、10月から共同展開すると発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "中外製薬 創製品のRAF-MEK分子糊を導出 中国・InxMedとライセンス契約締結",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80959",
+      "source": "ミクスOnline",
+      "published": "2026-09-30T19:49:00Z",
+      "published_label": "2026/10/01 04:49",
+      "summary": "中外製薬は9月29日、中国・InxMedとの間で、中外製薬が創製した固形がんを対象とするRAF-MEK分子糊・SPYK04(開発コード)に関する全世界におけるライセンス契約を締結したと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アザチオプリンや免疫チェックポイント阻害薬などに重大な副作用追加／厚労省",
+      "link": "https://www.carenet.com/news/general/carenet/63724?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-09-30T19:00:00Z",
+      "published_label": "2026/10/01 04:00",
+      "summary": "2026年9月29日、厚生労働省より添付文書の改訂指示が発出され、アザチオプリンや各種免疫チェックポイント阻害薬（ICI）、トシリズマブなどに対して、「重大な副作用」などが追記された。 免疫抑制薬のアザチ…",
+      "tags": [
+        "安全性情報",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "タクロリムス軟膏0.03％、禁忌見直しで生後6カ月から使用可能へ",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594735.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-30T15:00:00Z",
+      "published_label": "2026/10/01 00:00",
+      "summary": "厚生労働省の薬事審議会医薬品等安全対策部会安全対策調査会は2026年9月29日、アトピー性皮膚炎治療薬のタクロリムス軟膏0.03％小児用製剤（商品名プロトピック他）について、禁忌を「2歳未満の幼児」から、「生後6カ月未満の乳児」とする「使用上の注意の改訂」を了承した。",
+      "tags": [
+        "安全性情報",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "「この薬局は異常ですか？」主体性のない年上薬剤師に疲弊する管理薬剤師へ送るアドバイスは",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/gude/202610/594742.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-30T15:00:00Z",
+      "published_label": "2026/10/01 00:00",
+      "summary": "管理薬剤師として初めて、ある店舗に配属されました。勤務する薬剤師は、自分より年上で、勤務歴も長い人ばかり。前任の管理薬剤師からは「やり方は店舗それぞれだから」と引き継がれましたが、実際には、トレーシングレポートは書かない、事務作業もしない、薬の在庫が不足していても分譲依頼しない、明らかに疑義照会が必要なケースの対応も私に任せてくるような状態でした。ある時、一人の薬剤師が「言わないと何もやらない」のは故意だったことに気付き、ついに心が折…",
+      "tags": [
+        "医療安全"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -100,33 +245,6 @@
         "感染症・ワクチン"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "外科医の待遇改善が病院再編を促す？新設加算と「医師引き上げ」への懸念",
-      "link": "https://www.carenet.com/hihyowed/335.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-30T01:00:08Z",
-      "published_label": "2026/09/30 10:00",
-      "summary": "診療報酬改定で、外科医らの処遇改善を図る2つの加算が新設された。取得には医師数や手術件数などの要件がある。全国自治体病院協議会と日本消化器外科学会の調査から見えた算定状況と地域病院の懸念を考察する。",
-      "tags": [
-        "薬価・制度",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "AI創薬、株価急上昇…話題満載のモデルナmRNAがんワクチン",
-      "link": "https://www.carenet.com/series/samurai/cg002850_193.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-09-30T01:00:00Z",
-      "published_label": "2026/09/30 10:00",
-      "summary": "ダートマス大学腫瘍内科の白井敬祐氏が、米国のがん診療の現状を語る。今回は「AI創薬、株価急上昇…話題満載のモデルナmRNAがんワクチン」。",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -968,100 +1086,6 @@
       "keywords": []
     },
     {
-      "title": "アステラス製薬・谷口CRDO T細胞エンゲージャー「今後3～5年でゲームチェンジャーに」WMIF26...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80901",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:53:00Z",
-      "published_label": "2026/09/25 04:53",
-      "summary": "アステラス製薬の谷口忠明 研究開発担当Chief Research & Development Officer（CRDO）は9月22日、米ボストンで開催されたWorld Medical Innovation Forum (WMIF) 2026の対談セッションに登壇し、同社の研究開発戦略や次世代モダリティへの期待について語った。",
-      "tags": [
-        "業界動向",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "WMIF2026 米Capito上院議員 NIH研究資金「安定性が重要」 若手研究者の流出で競争力低...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80899",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:52:00Z",
-      "published_label": "2026/09/25 04:52",
-      "summary": "World Medical Innovation Forum (WMIF) 2026が9月22～23日の2日間、米国ボストンで開催された。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "卸連・会員社25年度業績 3.5％増収も粗利率0.15pt悪化 営業利益率1.04％に低下 リベート...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80900",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:51:00Z",
-      "published_label": "2026/09/25 04:51",
-      "summary": "日本医薬品卸売業連合会（卸連）は９月24日、会員企業の2025年度経営概況の速報値を発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "くすり未来塾 薬価制度は物価上昇や国際価格水準を取り込むことができる仕組みに変換を",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80904",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:50:00Z",
-      "published_label": "2026/09/25 04:50",
-      "summary": "薬価流通政策研究会・くすり未来塾は９月24日、デフレからインフレに転換する中で、「薬価制度は物価上昇や国際価格水準を取り込むことができる仕組みに変換すべき」と提言した。",
-      "tags": [
-        "薬価・制度",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "シンバイオ 多発性硬化症治療薬、予防薬候補開発の独占的グローバルライセンス契約を締結",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80903",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:50:00Z",
-      "published_label": "2026/09/25 04:50",
-      "summary": "シンバイオ製薬は９月24日、多発性硬化症（MS）治療薬、予防薬候補となるブリンシドホビル（BCV）について、共同研究を行ってきた米国国立衛生研究所（NIH）傘下の米国国立神経疾患・脳卒中研究所（NINDS）を通じ、米国保険福祉省（HHS）と、開発するための技術に関する独占的グローバルライセンス契約を締結したと発表。",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "アステラス製薬 KRAS G12D標的タンパク質分解誘導薬・setidegrasibの第３相試験開始...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80902",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:50:00Z",
-      "published_label": "2026/09/25 04:50",
-      "summary": "アステラス製薬は9月24日、KRAS G12D標的タンパク質分解誘導薬・setidegrasibについて、治療歴のある非小細胞肺がん（NSCLC）を対象とした国際共同第３相試験を開始したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "結核・呼吸器感染症予防週間でランドマークを赤くライトアップ 結核予防会が全国で普及啓発活動実施",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80898",
-      "source": "ミクスOnline",
-      "published": "2026-09-24T19:50:00Z",
-      "published_label": "2026/09/25 04:50",
-      "summary": "結核予防会は９月24日、令和８年度結核・呼吸器感染症予防週間に合わせ、全国で普及啓発活動を実施すると発表した。",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "残薬調整した場合の調剤管理料、何日分で算定？",
       "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7850?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1089,20 +1113,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "厚労省 「連続ドラマＷ MR―医薬情報担当者－」とタイアップ 適正使用と副作用被害救済制度の啓発で",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80891",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:53:00Z",
-      "published_label": "2026/09/24 04:53",
-      "summary": "厚生労働省は９月18日、医薬品の適正使用や安全対策等に対する理解を促進する目的でＷＯＷＯＷにて放送・配信する「連続ドラマＷ MR ―医薬情報担当者－」とタイアップすると発表した。",
-      "tags": [
-        "安全性情報",
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
