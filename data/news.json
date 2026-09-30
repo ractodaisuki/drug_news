@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-29T19:46:18.455126Z",
-  "updated_label": "2026/09/30 04:46",
-  "count": 97,
+  "updated_at": "2026-09-30T00:03:19.257232Z",
+  "updated_label": "2026/09/30 09:03",
+  "count": 100,
   "items": [
     {
       "title": "「なぜ点眼後に洗顔？」ラタノプロスト指導のコツ",
       "link": "https://pharmacist.m3.com/column/eye_drops/7874?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-09-29T19:46:17.415925Z",
-      "published_label": "2026/09/30 04:46",
+      "published": "2026-09-30T00:03:18.106164Z",
+      "published_label": "2026/09/30 09:03",
       "summary": "緑内障治療で用いられる「プロスタノイドFP受容体作動薬」の点眼後、「なぜ洗顔が必要なのか」と患者さんに聞かれて困ったことはありませんか？本記事では、洗顔が必要な理由や洗顔で予防できる副作用などを解説。患者さんの不安を和らげ、服薬アドヒアランスを高める実践的な服薬指導のコツをご紹介します。",
       "tags": [
         "薬剤師コラム",
@@ -18,6 +18,267 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "11月8日に「かわさきSDGsパートナーまつり2026」を開催‐川崎市などと共催し NEC",
+      "link": "https://www.yakuji.co.jp/entry139890.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T22:36:21Z",
+      "published_label": "2026/09/30 07:36",
+      "summary": "NECは11月8日午前10時から午後3時まで、川崎市やNECグループ社員有志によるNECプロボノ倶楽部などとともに、「かわさきSDGsパートナーまつり2026…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【コニカミノルタ】ベトナムでの「X線動態解析」社会実装実証事業、経産省「小規模実証・FS事業」に採択",
+      "link": "https://www.yakuji.co.jp/entry139887.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T22:35:53Z",
+      "published_label": "2026/09/30 07:35",
+      "summary": "コニカミノルタは9月29日、今年6月30日に「ベトナムにおける呼吸器疾患対策に資するX線動態解析×AIデジタル診断基盤の社会実装実証事業」が、経済産業省の「令…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【J＆J】新ブランドアンバサダーにKAZUHAさんを起用‐カラーコンタクトレンズに2色を追加",
+      "link": "https://www.yakuji.co.jp/entry139884.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T22:34:32Z",
+      "published_label": "2026/09/30 07:34",
+      "summary": "ジョンソン・エンド・ジョンソンは9月29日、「ナチュラルに盛れる」と「1日中快適なつけごこち」、どちらも叶える1日使い捨てカラーコンタクトレンズ「ワンデー ア…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【アルケア】パリのオストメイトファッションショーに参画‐ランウェイ彩るストーマ装具を提供へ",
+      "link": "https://www.yakuji.co.jp/entry139882.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T22:33:10Z",
+      "published_label": "2026/09/30 07:33",
+      "summary": "国産唯一のストーマ装具メーカーであるアルケア10月6日に、フランスのパリで開催されるファッションショー「STOMA Neo-ART Project」に協力企業…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【アイリス】「日本スタートアップ大賞」で審査委員会特別賞を受賞",
+      "link": "https://www.yakuji.co.jp/entry139880.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T22:32:57Z",
+      "published_label": "2026/09/30 07:32",
+      "summary": "医療AIのアイリスはこのほど、「日本スタートアップ大賞2026」において、審査委員会特別賞を受賞した。これに伴い9月25日、首相官邸で表彰式が開催された。 …",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】化粧品分野へ進出‐能登ヒバ発ウェルネスブランド「NOTOHIBAKARA WELLBE」を始動 加賀木材",
+      "link": "https://www.yakuji.co.jp/entry139876.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T22:31:40Z",
+      "published_label": "2026/09/30 07:31",
+      "summary": "加賀木材（本社：石川県金沢市）は、能登ヒバの新たな活用方法として、日々のスキンケアに取り入れられる化粧品を展開するブランド「NOTOHIBAKARA WELL…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】デリケートゾーン用保湿ジェル「Dolcetデリキュアジェル」（販売名：ドルセット DCジェル）を発売 マッコイ",
+      "link": "https://www.yakuji.co.jp/entry139872.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T22:30:21Z",
+      "published_label": "2026/09/30 07:30",
+      "summary": "マッコイ（大阪市中央区）は、コンフィデンスケアブランド「Dolcet（ドルセット）」より、デリケートゾーン用保湿ジェル「Dolcet DCジェル」（愛称：Do…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "尿路結石に使う薬は？適応のある薬・ない薬の違い",
+      "link": "https://yakuzaic.com/archives/144520",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-29T22:00:00Z",
+      "published_label": "2026/09/30 07:00",
+      "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【徳洲会】姫路獨協大の運営継承へ‐薬学部募集再開が焦点に",
+      "link": "https://www.yakuji.co.jp/entry139904.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T21:31:54Z",
+      "published_label": "2026/09/30 06:31",
+      "summary": "徳洲会と学校法人獨協学園は24日、姫路獨協大学の運営を2028年4月1日から学校法人徳洲会に引き継ぐことを目指した設置者変更契約を結んだ。実現には文部科学省の…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【PMDA】審査専門員を停職3日‐USBメモリ紛失で",
+      "link": "https://www.yakuji.co.jp/entry139907.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T21:30:16Z",
+      "published_label": "2026/09/30 06:30",
+      "summary": "医薬品医療機器総合機構（PMDA）は25日、非開示情報や個人情報が保存されたUSBメモリを紛失した問題を受け、審査部門の審査専門員（係長級）を停職3日の懲戒処…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ポーランドに広がる可能性",
+      "link": "https://www.yakuji.co.jp/entry139878.html",
+      "source": "薬事日報",
+      "published": "2026-09-29T21:01:51Z",
+      "published_label": "2026/09/30 06:01",
+      "summary": "◆先日、ポーランド投資・貿易庁が主催するメディア向け視察ツアーに参加した。近年、目覚ましい経済成長を続けている同国の主要都市を巡って行政、企業、大学関係者らを取…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "連続ドラマＷ MR―医薬情報担当者－完成報告会 ＭＲを知る良い機会に 社会派の新たな医療サスペンス",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80953",
+      "source": "ミクスOnline",
+      "published": "2026-09-29T19:53:00Z",
+      "published_label": "2026/09/30 04:53",
+      "summary": "「連続ドラマＷ MR―医薬情報担当者－」（WOWOW）の主要キャストらが参加したメディア向け完成報告会が9月29日、東京都内で開催された。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "肝胆膵がん診療医の治療状況と情報収集 MR接触度は初期市場 アーリーマジョリティ群は AZ、中外製薬",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80939",
+      "source": "ミクスOnline",
+      "published": "2026-09-29T19:52:00Z",
+      "published_label": "2026/09/30 04:52",
+      "summary": "メディカルトリビューンは9月29日までに、「肝細胞・胆道・膵臓がん診療医の治療状況と情報収集レポート」（2026年7月版）をまとめた。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "がん免疫療法薬 重大な副作用に「重度の胃炎、食道炎」 添付文書改訂",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80955",
+      "source": "ミクスOnline",
+      "published": "2026-09-29T19:51:00Z",
+      "published_label": "2026/09/30 04:51",
+      "summary": "ニボルマブを除く抗PD-1抗体、抗PD-L1抗体、抗CTLA-4抗体のがん免疫療法薬９製品について、重大な副作用に「重度の胃炎、食道炎」を明記する添付文書改訂が行われた。",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "RSウイルス抗体製剤 「定期接種化で多くの方が接種できる環境を」 日本産婦人科医会・石渡会長",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80954",
+      "source": "ミクスOnline",
+      "published": "2026-09-29T19:50:00Z",
+      "published_label": "2026/09/30 04:50",
+      "summary": "日本産婦人科医会の石渡勇会長は９月29日、RSウイルスヒトモノクロール抗体製剤・エヌフロンシア（一般名：クレスロビマブ）について語る。定期接種化にも期待感。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アイン子会社元幹部 逆転無罪の高裁判決を破棄 敷地内薬局巡る入札妨害 最高裁判決",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80951",
+      "source": "ミクスOnline",
+      "published": "2026-09-29T19:50:00Z",
+      "published_label": "2026/09/30 04:50",
+      "summary": "KKR札幌医療センター(札幌市)の敷地内薬局の整備入札を巡って不正を行ったとして、公契約関係競売等妨害罪に問われたアインホールディングス(HD)子会社の元幹部２人の上告審で、最高裁第２小法廷（岡村和美裁判長）は9月28日、逆転無罪とした二審判決を破棄した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ほくやく・竹山HD TSUMUGU HOLDINGSに社名変更 設立20周年「第二の創業」と位置付け",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80950",
+      "source": "ミクスOnline",
+      "published": "2026-09-29T19:50:00Z",
+      "published_label": "2026/09/30 04:50",
+      "summary": "TSUMUGU HOLDINGS（つむぐホールディングス）は９月29日、ほくやく・竹山ホールディングスから社名を変更したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "東邦HDとリプロセル 脊髄小脳変性症に対する再生医療等製品・ステムカイマルの国内流通で基本合意",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80949",
+      "source": "ミクスOnline",
+      "published": "2026-09-29T19:50:00Z",
+      "published_label": "2026/09/30 04:50",
+      "summary": "東邦ホールディングスとリプロセルは９月29日、リプロセルが承認申請中の脊髄小脳変性症に対する再生医療等製品・ステムカイマルについて、国内流通等に関する提携に向けた基本合意書を締結したと発表した。",
+      "tags": [
+        "承認・新薬",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アルフレッサHD 九州エリアの医療用医薬品等卸売事業基盤を強化 アルフレッサと宮崎温仙堂商店が合併",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80948",
+      "source": "ミクスOnline",
+      "published": "2026-09-29T19:50:00Z",
+      "published_label": "2026/09/30 04:50",
+      "summary": "アルフレッサホールディングスは９月29日、完全子会社のアルフレッサと宮崎温仙堂商店について、アルフレッサを存続会社とする合併契約を締結したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "モビコールLDは小児限定、HDは一時出荷停止に",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202609/594720.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-29T15:00:00Z",
+      "published_label": "2026/09/30 00:00",
+      "summary": "EAファーマ（東京・中央）は2026年9月28日、慢性便秘症治療薬のモビコール配合内用剤LD/HD（一般名マクロゴール4000・塩化ナトリウム・炭酸水素ナトリウム・塩化カリウム）について、限定出荷や一時出荷停止の実施を公表した。同LDは2027年6月ごろまで限定出荷となる。同HDは2026年11月まで限定出荷とし、2026年12月から2027年6月ごろまで一時出荷停止する予定。なお、LDについては、小児患者に限定して使用するよう要請し…",
+      "tags": [
+        "供給・出荷"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -233,33 +494,6 @@
       "keywords": []
     },
     {
-      "title": "【アステラス製薬】膵腺癌、肺癌で第III相試験‐KRAS標的薬剤で",
-      "link": "https://www.yakuji.co.jp/entry139805.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T21:31:07Z",
-      "published_label": "2026/09/29 06:31",
-      "summary": "アステラス製薬は、癌の増殖に関与するKRASを標的にした蛋白質分解誘導剤セチデグラシブ（ASP3082）について、今年に入って2件目の国際共同第III相試験を…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【くすり未来塾】MFN価格是正策が必要‐外国価格調整見直しを",
-      "link": "https://www.yakuji.co.jp/entry139802.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T21:30:40Z",
-      "published_label": "2026/09/29 06:30",
-      "summary": "薬価流通政策研究会・くすり未来塾は24日、米国MFN（最恵国待遇）価格政策に伴う日米の医薬品価格の格差に対し、薬価算定ルールに基づく価格是正策が必要との提言を…",
-      "tags": [
-        "薬価・制度",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "田辺ファーマ 抗IL-33抗体製剤「MT-2990」を米バイオ企業に導出 国内商業化権留保で日本市場...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80943",
       "source": "ミクスOnline",
@@ -390,19 +624,6 @@
       "keywords": []
     },
     {
-      "title": "【対話で学ぶ薬業界ニュース解説】OTC類似薬の「一部保険外療養」とは",
-      "link": "https://www.yakuji.co.jp/entry139847.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T07:54:51Z",
-      "published_label": "2026/09/28 16:54",
-      "summary": "OTC医薬品との代替性が特に高い医療用医薬品、いわゆる「OTC類似薬」について、薬剤費の一部を保険給付の対象外とする「一部保険外療養」の実施案が9月16日にま…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "薬事審議会血液事業部会令和８年度第２回運営委員会（資料）",
       "link": "https://www.mhlw.go.jp/stf/newpage_76054.html",
       "source": "厚生労働省 新着情報",
@@ -413,58 +634,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "埼玉県病院薬剤師会 研修会 2026/11",
-      "link": "https://www.yakuji.co.jp/entry139783.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T05:00:09Z",
-      "published_label": "2026/09/28 14:00",
-      "summary": "第113回抗がん剤研修会《実技研修》 埼玉県薬剤師生涯研修センター(G15)認定単位 2単位 日本病院薬剤師会病院薬学認定薬剤師制度(P04) II-6 2.5…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "昭和医科大学薬学部 生涯研修プログラム 2026/11",
-      "link": "https://www.yakuji.co.jp/entry139781.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T02:30:07Z",
-      "published_label": "2026/09/28 11:30",
-      "summary": "生涯研修プログラム「薬剤師が実践するメディケーション・レビュー演習 シリーズ2～多疾患患者における薬の見直し方～Web版」 研修形式 オンライン 該当OBE 専…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬学ゼミナール生涯学習センター 薬剤師生涯学習講座 2026/10",
-      "link": "https://www.yakuji.co.jp/entry139746.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T01:31:36Z",
-      "published_label": "2026/09/28 10:31",
-      "summary": "Ph2030プログラム 体験講座 減らすだけが正解じゃない！ ～患者中心の処方提案で挑むポリファーマシー～ 単回でのご参加も大歓迎！是非ご参加ください。 ※本講…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本薬剤師研修センター 研修会 2026/10",
-      "link": "https://www.yakuji.co.jp/entry139253.html",
-      "source": "薬事日報",
-      "published": "2026-09-28T01:30:26Z",
-      "published_label": "2026/09/28 10:30",
-      "summary": "巻頭言 2040年の地域を支える薬剤師の力―学びと実践の融合を目指して― 日本医療薬学会 会頭 崔 吉道 2040年に向けて、日本の医療は大きな転換期を迎えてい…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -480,19 +649,6 @@
         "薬物療法"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【PMDA】ワーニングレター初適用‐笠野興産がGMP不適合",
-      "link": "https://www.yakuji.co.jp/entry139796.html",
-      "source": "薬事日報",
-      "published": "2026-09-27T23:31:30Z",
-      "published_label": "2026/09/28 08:31",
-      "summary": "医薬品医療機器総合機構（PMDA）は、和歌山県が実施したGMP調査で受託製造メーカーの笠野興産（和歌山市）を不適合とした結果を公表した。安定性モニタリングにお…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -623,19 +779,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "重症患者へのPPI、継続・中止を見極める3つのポイント",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/grayzone/202609/594596.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-27T15:00:00Z",
-      "published_label": "2026/09/28 00:00",
-      "summary": "集中治療室（ICU）では、ストレス潰瘍に伴う消化管出血予防としてプロトンポンプ阻害剤（PPI）が用いられるケースにほぼ毎日遭遇します。また、一般病棟や外来では、ICUで開始されたPPI処方が漫然と継続されていることも少なくありません1）。 薬剤には有効性と有害性の両面があり、「クスリはリスク」とも言われます。PPIにおいても、メリットとデメリットを踏まえて使用することが求められます。さて、以下のケースは、呼吸困難を主訴に来院後、ICU…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -879,71 +1022,6 @@
       "keywords": []
     },
     {
-      "title": "創薬力向上官民協議会「施策検討・推進部会」が初会合 成長戦略具体化へ 基礎研究支援拡充を",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80894",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:52:00Z",
-      "published_label": "2026/09/24 04:52",
-      "summary": "政府は９月18日、「創薬力向上のための官民協議会 施策検討・推進部会」の初会合を開いた。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "スイス・ロシュ 取締役会がクリストフ・ウェバー氏の取締役推薦を承認 27年3月の年次株主総会で提案",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80893",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:52:00Z",
-      "published_label": "2026/09/24 04:52",
-      "summary": "スイスのロシュ社は9月23日、同日開催の取締役会で武田薬品社長兼CEOを務めたクリストフ・ウェバー氏を取締役に推薦することを承認したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "上野厚労相 「成長戦略踏まえ創薬・先端医療、攻めの予防医療にしっかり取り組む」 ２期目続投で抱負",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80890",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:51:00Z",
-      "published_label": "2026/09/24 04:51",
-      "summary": "第2次高市改造内閣で再任された上野賢一郎厚労相は9月18日の閣議後会見で、「成長戦略を踏まえた創薬・先端医療等の分野における対応や、攻めの予防医療の具体化も含めて、しっかり取り組んでいきたい」と抱負を述べた。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本リリー アルツハイマー病啓発で脳の健康考えるきっかけに 短歌や写真コンテスト開催",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80889",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:50:00Z",
-      "published_label": "2026/09/24 04:50",
-      "summary": "日本イーライリリーは、９月の世界アルツハイマー病月間に合わせ、KITTE丸の内（東京都千代田区）の特設会場で「私の脳が喜ぶ瞬間」をテーマにした短歌・フォトメッセージコンテストの作品展示会を開催中。脳の健康について広めるキャンペーン「あなたの日々に、脳の健康も」の一環で、「来場者が脳の健康やアルツハイマー病について正しく知り、自身や大切な人の脳の健康について考えるきっかけとしたい」としている。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "田辺ファーマ EPP及びXLP治療薬候補・デルシメラゴン LEO社への全世界の権利の譲渡完了",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80888",
-      "source": "ミクスOnline",
-      "published": "2026-09-23T19:50:00Z",
-      "published_label": "2026/09/24 04:50",
-      "summary": "田辺ファーマは９月18日、経口選択的メラノコルチン１受容体作動薬・デルシメラゴン（一般名、開発コード：MT-7117）について、デンマークのLEO Pharmaに全世界の権利を譲渡する契約を完了したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "便秘薬はいつ飲む？―食前・食後・寝る前で効果は違うのか",
       "link": "https://yakuzaic.com/archives/144484",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -1026,45 +1104,6 @@
         "転職"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "アトピー外用薬の濃度と年齢の違い―コレクチム・プロトピック・モイゼルトは何歳から使える？",
-      "link": "https://yakuzaic.com/archives/144421",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-19T22:00:00Z",
-      "published_label": "2026/09/20 07:00",
-      "summary": "コレクチム・プロトピック・モイゼルトの違い アトピー性皮膚炎に使われる非ステロイド外用薬には、濃度の異なる製剤があります。 処方を見ていると、「低濃度が子供用で、高濃度が大人用？」と考えたくなります。 確かにプロトピック […] The post アトピー外用薬の濃度と年齢の違い―コレクチム・プロトピック・モイゼルトは何歳から使える？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "サンバイオ・森社長 今期中にアクーゴで3億9000万円の事業収益予想 10月中に1例目の投与開始へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80884",
-      "source": "ミクスOnline",
-      "published": "2026-09-17T19:52:00Z",
-      "published_label": "2026/09/18 04:52",
-      "summary": "サンバイオの森敬太代表取締役社長は９月17日の決算説明会（27年1月期第2四半期）で、ヒト体性幹細胞加工製品アクーゴ脳内移植用注の発売により、今期中に３億9600万円を売上計上できるとの業績予想を発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "第2次高市改造内閣が発足 上野厚労相、片山財務相は留任 デジタル相は初入閣の古川俊治参院議員",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80883",
-      "source": "ミクスOnline",
-      "published": "2026-09-17T19:51:00Z",
-      "published_label": "2026/09/18 04:51",
-      "summary": "高市早苗首相は9月17日、第２次改造内閣を発足させた。社会保障政策の要となる厚生労働大臣は上野賢一郎氏が留任となった。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
