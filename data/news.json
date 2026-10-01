@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-01T03:59:55.719491Z",
-  "updated_label": "2026/10/01 12:59",
+  "updated_at": "2026-10-01T12:22:56.918239Z",
+  "updated_label": "2026/10/01 21:22",
   "count": 111,
   "items": [
+    {
+      "title": "「令和８年度 第１回 薬事審議会 化学物質安全対策部会 家庭用品安全対策調査会」 を開催します（開催案内）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76512.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-01T05:00:00Z",
+      "published_label": "2026/10/01 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
     {
       "title": "日本プライマリ・ケア連合学会 研修会 2026/11",
       "link": "https://www.yakuji.co.jp/entry139939.html",
@@ -28,6 +41,19 @@
         "その他"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師免許の申請手続き等について",
+      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-01T01:00:00Z",
+      "published_label": "2026/10/01 10:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
       "keywords": []
     },
     {
@@ -323,6 +349,33 @@
       "keywords": []
     },
     {
+      "title": "特集は「今知りたい 低栄養のこと」",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/di/column/premium/202610/594755.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-30T15:00:00Z",
+      "published_label": "2026/10/01 00:00",
+      "summary": "月刊誌「日経ドラッグインフォメーション プレミアム版」（日経DI プレミアム版）10月号が発売となりました。本号の見どころをご紹介します。 特集は「今知りたい 低栄養のこと」です。診療報酬の改定によって、2026年6月から医療用栄養剤の保険給付が厳格化されたのをきっかけに、薬局で患者の栄養状態に目を向ける必要性が高まっています。特に「低栄養」は、患者の病状や予後の悪化因子になるため、適切な対処が求められます。薬局で患者の低栄養にいかに…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "OTC類似薬の一部保険外療養、処方箋が空欄なら原則疑義照会を",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594749.html",
+      "source": "日経メディカル Online",
+      "published": "2026-09-30T15:00:00Z",
+      "published_label": "2026/10/01 00:00",
+      "summary": "厚生労働省は2026年9月30日、既存のOTC医薬品との代替性が特に高い医療用医薬品（OTC類似薬）について、患者に薬剤費の4分の1に相当する「特別の料金」を求める制度の運用に関する省令・通知を発出した。2027年3月1日から「一部保険外療養」の仕組みとして導入する。処方箋には、特別の料金の対象かどうかを記載する欄を新設。対象医薬品が処方されている場合、薬局はその記載に基づいて通常の負担分とは別に、特別の料金を徴収する。記載がない場合…",
+      "tags": [
+        "医療安全",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "タクロリムス軟膏0.03％、禁忌見直しで生後6カ月から使用可能へ",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594735.html",
       "source": "日経メディカル Online",
@@ -537,51 +590,12 @@
       "keywords": []
     },
     {
-      "title": "【新製品】デリケートゾーン用保湿ジェル「Dolcetデリキュアジェル」（販売名：ドルセット DCジェル）を発売 マッコイ",
-      "link": "https://www.yakuji.co.jp/entry139872.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T22:30:21Z",
-      "published_label": "2026/09/30 07:30",
-      "summary": "マッコイ（大阪市中央区）は、コンフィデンスケアブランド「Dolcet（ドルセット）」より、デリケートゾーン用保湿ジェル「Dolcet DCジェル」（愛称：Do…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "尿路結石に使う薬は？適応のある薬・ない薬の違い",
       "link": "https://yakuzaic.com/archives/144520",
       "source": "くすりの勉強（薬剤師のブログ）",
       "published": "2026-09-29T22:00:00Z",
       "published_label": "2026/09/30 07:00",
       "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【徳洲会】姫路獨協大の運営継承へ‐薬学部募集再開が焦点に",
-      "link": "https://www.yakuji.co.jp/entry139904.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T21:31:54Z",
-      "published_label": "2026/09/30 06:31",
-      "summary": "徳洲会と学校法人獨協学園は24日、姫路獨協大学の運営を2028年4月1日から学校法人徳洲会に引き継ぐことを目指した設置者変更契約を結んだ。実現には文部科学省の…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【PMDA】審査専門員を停職3日‐USBメモリ紛失で",
-      "link": "https://www.yakuji.co.jp/entry139907.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T21:30:16Z",
-      "published_label": "2026/09/30 06:30",
-      "summary": "医薬品医療機器総合機構（PMDA）は25日、非開示情報や個人情報が保存されたUSBメモリを紛失した問題を受け、審査部門の審査専門員（係長級）を停職3日の懲戒処…",
       "tags": [
         "その他"
       ],
@@ -914,19 +928,6 @@
       "summary": "みなさん、こんにちは。つなぐ薬局 足立（東京・足立）で、在宅医療に取り組んでいる小久保です。第2回、第3回と、在宅患者さんやそのご家族とのエピソードを紹介してきました。 今回は、新規に開設した施設への訪問を開始した時の経験を振り返ろうと思います。一時期、業務がパンクしそうになったものの、診療同行により処方医とコミュニケーションを取ることで、薬局とクリニック、施設の三方にとって良い形に着地できたケースです。 この施設はホスピス型住宅で、…",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ポリープ切除後の大腸内視鏡検査の推奨間隔は？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202609/594681.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-28T15:00:00Z",
-      "published_label": "2026/09/29 00:00",
-      "summary": "本コラムでは、Googleが提供する学術雑誌のインパクト指標「h5-index」から、各領域10誌を抽出。それを元に世界中で最も多くポストされた論文を紹介する。 9月14～20日に最もポスト数が多かったのは、NEJM誌の論文「Colonoscopy Intervals and Colorectal Cancer Incidence after Adenoma Removal」（腺腫切除後の大腸内視鏡検査間隔と大腸癌発生率）で208件だ…",
-      "tags": [
-        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
