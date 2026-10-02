@@ -1,8 +1,244 @@
 {
-  "updated_at": "2026-10-01T20:05:15.666864Z",
-  "updated_label": "2026/10/02 05:05",
-  "count": 113,
+  "updated_at": "2026-10-02T00:30:12.014175Z",
+  "updated_label": "2026/10/02 09:30",
+  "count": 114,
   "items": [
+    {
+      "title": "【キャリアパス懇談会】創薬進路選択へ「報奨」必要‐特色ある薬学教育重要に",
+      "link": "https://www.yakuji.co.jp/entry139991.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T23:31:11Z",
+      "published_label": "2026/10/02 08:31",
+      "summary": "厚生労働省の「薬剤師のキャリアパスに関する懇談会」が9月30日に開かれ、創薬に関わる薬剤師のキャリアについて議論した。薬局薬剤師の割合が年々増加する一方、研究…",
+      "tags": [
+        "法令・行政",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【医療機能評価機構】ヒヤリハット6年ぶり増加‐薬剤師の専門性発揮で",
+      "link": "https://www.yakuji.co.jp/entry139997.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T23:30:30Z",
+      "published_label": "2026/10/02 08:30",
+      "summary": "日本医療機能評価機構は9月29日、2025年の薬局ヒヤリ・ハット事例をまとめた集計結果を公表した。報告件数は11万4904件となり、5年連続の減少から転じて6…",
+      "tags": [
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【トプコン】「超広角眼底スリットスキャナー GAIA」、国内製造販売認証を取得",
+      "link": "https://www.yakuji.co.jp/entry140007.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:38:05Z",
+      "published_label": "2026/10/02 07:38",
+      "summary": "トプコンは9月30日、「超広角眼底スリットスキャナー GAIA」の国内製造販売認証を取得したと発表した。 同装置は、150°の撮影画角（眼内角換算：209°…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【栄研化学／極東製薬工業】培地製品の製造・販売で協業に合意",
+      "link": "https://www.yakuji.co.jp/entry140006.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:37:00Z",
+      "published_label": "2026/10/02 07:37",
+      "summary": "栄研化学は9月30日、極東製薬工業と、培地製品の製造および販売に関する協業について合意しと発表した。この協業によって、両社が有する製造技術および販売ネットワー…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士フイルム】AI創薬支援サービス「drug2drugs」、基盤技術のAI-AAMの有用性を実証",
+      "link": "https://www.yakuji.co.jp/entry140005.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:36:18Z",
+      "published_label": "2026/10/02 07:36",
+      "summary": "富士フイルムはこのほど、大阪大学、岡山大学、近畿大学、微生物化学研究会、九州大学の研究グループとの共同研究で、同社独自のAI創薬支援サービス「drug2dru…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【テルモ】米アーセナル・メディカル社買収に合意‐開発中のcSDH向け液体塞栓材「NeoCast」を取得",
+      "link": "https://www.yakuji.co.jp/entry140004.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:35:56Z",
+      "published_label": "2026/10/02 07:35",
+      "summary": "テルモはこのほど、子会社であるTerumo Neuroを通じて、脳血管の液体塞栓技術を開発する米国のArsenal Medical社（アーセナル・メディカル社…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【トモシアHD／富士通】基幹システム刷新プロジェクト「TO-One」を開始",
+      "link": "https://www.yakuji.co.jp/entry140003.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:34:23Z",
+      "published_label": "2026/10/02 07:34",
+      "summary": "食品卸売のトモシアホールディングス（トモシアHD）と富士通は9月、トモシアDHの基幹システム刷新プロジェクト「TO-One（Tomoshia Operatio…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【コニカミノルタQOLソリューションズ】HitomeQ ケアサポート導入施設、厚労省表彰で奨励賞を受賞",
+      "link": "https://www.yakuji.co.jp/entry140000.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:33:04Z",
+      "published_label": "2026/10/02 07:33",
+      "summary": "コニカミノルタQOLソリューションズはこのほど、同社の介護ICTサービス「HitomeQ ケアサポート」導入施設が、厚生労働省が実施する「令和8年度介護職員の…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【フランスベッド】「国際福祉機器展」に出展",
+      "link": "https://www.yakuji.co.jp/entry139996.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:32:19Z",
+      "published_label": "2026/10/02 07:32",
+      "summary": "フランスベッドは10月7～9日、東京・有明の東京ビッグサイトで行われる「第53回国際福祉機器展＆フォーラム」に出展する。また、9月1日から11月13日に開催さ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】アインズ＆トルペオリジナルメイクツールブランド「ONEUSE（ワンユース）」、新デザインへリニューアル‐日常に取り入れやすい全16種類をラインアップ アインファーマシーズ",
+      "link": "https://www.yakuji.co.jp/entry139990.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:31:57Z",
+      "published_label": "2026/10/02 07:31",
+      "summary": "アインファーマシーズが展開するコスメティックストア「アインズ＆トルぺ」は9月24日、オリジナルメイクツールブランド「ONEUSE(ワンユース)」をリニューアル…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【アイスタイル】@cosme「化粧品ギフト利用需要」を調査‐化粧品を贈る機会は若い世代ほど増加",
+      "link": "https://www.yakuji.co.jp/entry139987.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T22:30:05Z",
+      "published_label": "2026/10/02 07:30",
+      "summary": "アイスタイルは、15歳～59歳の@cosmeプロデュースメンバーの女性4353人を対象に「化粧品のギフト利用需要」に関するアンケート調査を実施した。それによる…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み",
+      "link": "https://yakuzaic.com/archives/144528",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-01T22:00:00Z",
+      "published_label": "2026/10/02 07:00",
+      "summary": "プラリアと関節リウマチ プラリア（一般名：デノスマブ）は、骨粗鬆症治療薬としてよく知られている薬です。 しかし、プラリアの効能・効果を見ると、 の2つが記載されています。 「骨粗鬆症の薬なのに、なぜ関節リウマチに使うの？ […] The post プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【PMDA】無菌試験で不適合事例発生‐外部ベンダー任せに警鐘",
+      "link": "https://www.yakuji.co.jp/entry139994.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T21:31:47Z",
+      "published_label": "2026/10/02 06:31",
+      "summary": "医薬品医療機器総合機構（PMDA）は、無菌試験の不適合事例に関するオレンジレター（GMP／GCTP調査事例速報）を発出し、設備機器の設計やバリデーションを含む…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【費用対評価部会】費用増加品を価格調整‐年内実施、業界は懸念",
+      "link": "https://www.yakuji.co.jp/entry139995.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T21:30:47Z",
+      "published_label": "2026/10/02 06:30",
+      "summary": "厚生労働省は9月30日の中央社会保険医療協議会費用対効果評価専門部会で、比較対照技術に対する健康アウトカム指標の改善が示されず、増分費用効果比（ICER）の区…",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】ドリンク剤など新発売‐「PLIFT」から2製品 アインファーマシーズ",
+      "link": "https://www.yakuji.co.jp/entry139979.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T21:04:03Z",
+      "published_label": "2026/10/02 06:04",
+      "summary": "アインファーマシーズが展開するコスメティックストア「アインズ＆トルペ」は、オリジナルブランド「PLIFT（プリフト）」から女性のインナービューティをサポートす…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】頭皮保湿ローション発売‐「ミノン」ブランドから 第一三共ヘルスケア",
+      "link": "https://www.yakuji.co.jp/entry139977.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T21:03:03Z",
+      "published_label": "2026/10/02 06:03",
+      "summary": "第一三共ヘルスケアは、敏感肌向けスキンケアブランド「ミノン」から、敏感な頭皮に潤いを与える保湿ケア製品として「ミノン頭皮保湿ローション」（化粧品）を新発売した…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "小児薬開発の努力義務化に成果",
+      "link": "https://www.yakuji.co.jp/entry139975.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T21:02:13Z",
+      "published_label": "2026/10/02 06:02",
+      "summary": "ドラッグラグ・ロスの解消に向けた小児用医薬品開発改革が成果を上げ始めている。日本製薬工業協会が4月に加盟企業を対象に実施した調査では、欧米の開発時期に合わせて…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "患者のためとは何か",
+      "link": "https://www.yakuji.co.jp/entry139974.html",
+      "source": "薬事日報",
+      "published": "2026-10-01T21:01:52Z",
+      "published_label": "2026/10/02 06:01",
+      "summary": "◆連続ドラマ「MR―医薬情報担当者」が4日からWOWOWで放映される。主演の向井理さん演じる患者第一が信念のMRと、要潤さん演じる自社利益第一のMRの対峙が見ど…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "Pharma Delegates・グレン会長 設立65周年「業界課題を討議、見識深める場」次世代リー...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80947",
@@ -319,85 +555,6 @@
       "keywords": []
     },
     {
-      "title": "【A＆T】日本高血圧学会総会でランチョンセミナー共催",
-      "link": "https://www.yakuji.co.jp/entry139947.html",
-      "source": "薬事日報",
-      "published": "2026-09-30T22:35:22Z",
-      "published_label": "2026/10/01 07:35",
-      "summary": "エー・アンド・デイは10月10～12日、宇都宮市のライトキューブ宇都宮で開かれる第48回日本高血圧学会総会で、ランチョンセミナーの共催および企業展示へ出展する…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日立／ファナック】戦略的パートナーシップを締結‐フィジカルAI実装の共同事業化に向け",
-      "link": "https://www.yakuji.co.jp/entry139946.html",
-      "source": "薬事日報",
-      "published": "2026-09-30T22:34:05Z",
-      "published_label": "2026/10/01 07:34",
-      "summary": "日立製作所とファナックはこのほど、フィジカルAI実装の共同事業化に向けた戦略的パートナーシップを締結した。同パートナーシップでは、日立の「HMAX Indus…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】「国際福祉機器展」に出展",
-      "link": "https://www.yakuji.co.jp/entry139945.html",
-      "source": "薬事日報",
-      "published": "2026-09-30T22:33:35Z",
-      "published_label": "2026/10/01 07:33",
-      "summary": "パラマウントベッドおよびパラマウントケアサービスは10月7～9日、東京・有明の東京ビッグサイトで開催される「H.C.R.2026第53回国際福祉機器展…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【アークレイ】新発売の口内を測るシステム、厚労省「歯科健診パイロット事業」で想定試薬とし掲載",
-      "link": "https://www.yakuji.co.jp/entry139944.html",
-      "source": "薬事日報",
-      "published": "2026-09-30T22:32:55Z",
-      "published_label": "2026/10/01 07:32",
-      "summary": "アークレイは7月15日に、洗口吐出液中のヘモグロビンを定性測定する口内環境測定システム「シルハ ケンシン LH-4920」と専用試薬「シルハペーパー ケンシン…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】名古屋市大のtele-stewardship実装検証を支援‐感染症マネジメント支援システム「ExpertTWIN」を使用",
-      "link": "https://www.yakuji.co.jp/entry139942.html",
-      "source": "薬事日報",
-      "published": "2026-09-30T22:31:48Z",
-      "published_label": "2026/10/01 07:31",
-      "summary": "島津製作所はこのほど、名古屋市立大学大学院医学研究科感染症学・臨床感染症学分野、同東部医療センターの伊東直哉教授らのグループに協力し、感染症専門医への電子コン…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日本光電】東京レガシーハーフマラソン2026に協力‐モバイルAED90台を提供",
-      "link": "https://www.yakuji.co.jp/entry139940.html",
-      "source": "薬事日報",
-      "published": "2026-09-30T22:30:50Z",
-      "published_label": "2026/10/01 07:30",
-      "summary": "「東京レガシーハーフマラソン2026」が10月18日に開催されるが、日本光電は大会当日、コース上でランナーを見守るモバイルAED隊や救護所に待機する医療関係者…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？",
       "link": "https://yakuzaic.com/archives/144524",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -425,32 +582,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【PMDA】AI活用の考え方公表へ‐審査報告書作成視野に",
-      "link": "https://www.yakuji.co.jp/entry139906.html",
-      "source": "薬事日報",
-      "published": "2026-09-30T21:31:12Z",
-      "published_label": "2026/10/01 06:31",
-      "summary": "医薬品医療機器総合機構（PMDA）は今年度中をメドに、「AI利活用に関する基本的な考え方」を公表する方針だ。海外規制当局でAI活用に向けた取り組みが加速する中…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【健保連】トップは「利便性の高さ」‐薬局・薬剤師への期待",
-      "link": "https://www.yakuji.co.jp/entry139911.html",
-      "source": "薬事日報",
-      "published": "2026-09-30T21:30:38Z",
-      "published_label": "2026/10/01 06:30",
-      "summary": "一般国民3000人を対象に薬局・薬剤師に期待することを聞いたところ、半数弱が「利便性が高いこと」と回答していたことが、健康保険組合連合会の「医療・介護に関する…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -691,111 +822,6 @@
         "感染症・ワクチン"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【蛭田氏ら研究班】品質保証人材の育成課題‐製造経験なしで登用多く",
-      "link": "https://www.yakuji.co.jp/entry139901.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T23:31:40Z",
-      "published_label": "2026/09/30 08:31",
-      "summary": "東京理科大学薬学部医薬品等品質・GMP講座／熊本大学大学院薬学教育部の蛭田修客員教授を代表者とする研究班は、厚生労働行政推進調査事業「医薬品製造業者等における…",
-      "tags": [
-        "学術・エビデンス",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【製薬協調査】小児薬7割が同時開発‐欧米追随から早期参画に",
-      "link": "https://www.yakuji.co.jp/entry139909.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T23:30:44Z",
-      "published_label": "2026/09/30 08:30",
-      "summary": "日本製薬工業協会が加盟64社を対象に実施した小児開発状況の調査で、欧米の開発時期に合わせて国内小児開発を検討するプロジェクトが7割に達していたことが分かった。…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "11月8日に「かわさきSDGsパートナーまつり2026」を開催‐川崎市などと共催し NEC",
-      "link": "https://www.yakuji.co.jp/entry139890.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T22:36:21Z",
-      "published_label": "2026/09/30 07:36",
-      "summary": "NECは11月8日午前10時から午後3時まで、川崎市やNECグループ社員有志によるNECプロボノ倶楽部などとともに、「かわさきSDGsパートナーまつり2026…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【コニカミノルタ】ベトナムでの「X線動態解析」社会実装実証事業、経産省「小規模実証・FS事業」に採択",
-      "link": "https://www.yakuji.co.jp/entry139887.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T22:35:53Z",
-      "published_label": "2026/09/30 07:35",
-      "summary": "コニカミノルタは9月29日、今年6月30日に「ベトナムにおける呼吸器疾患対策に資するX線動態解析×AIデジタル診断基盤の社会実装実証事業」が、経済産業省の「令…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【J＆J】新ブランドアンバサダーにKAZUHAさんを起用‐カラーコンタクトレンズに2色を追加",
-      "link": "https://www.yakuji.co.jp/entry139884.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T22:34:32Z",
-      "published_label": "2026/09/30 07:34",
-      "summary": "ジョンソン・エンド・ジョンソンは9月29日、「ナチュラルに盛れる」と「1日中快適なつけごこち」、どちらも叶える1日使い捨てカラーコンタクトレンズ「ワンデー ア…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【アルケア】パリのオストメイトファッションショーに参画‐ランウェイ彩るストーマ装具を提供へ",
-      "link": "https://www.yakuji.co.jp/entry139882.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T22:33:10Z",
-      "published_label": "2026/09/30 07:33",
-      "summary": "国産唯一のストーマ装具メーカーであるアルケア10月6日に、フランスのパリで開催されるファッションショー「STOMA Neo-ART Project」に協力企業…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【アイリス】「日本スタートアップ大賞」で審査委員会特別賞を受賞",
-      "link": "https://www.yakuji.co.jp/entry139880.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T22:32:57Z",
-      "published_label": "2026/09/30 07:32",
-      "summary": "医療AIのアイリスはこのほど、「日本スタートアップ大賞2026」において、審査委員会特別賞を受賞した。これに伴い9月25日、首相官邸で表彰式が開催された。 …",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】化粧品分野へ進出‐能登ヒバ発ウェルネスブランド「NOTOHIBAKARA WELLBE」を始動 加賀木材",
-      "link": "https://www.yakuji.co.jp/entry139876.html",
-      "source": "薬事日報",
-      "published": "2026-09-29T22:31:40Z",
-      "published_label": "2026/09/30 07:31",
-      "summary": "加賀木材（本社：石川県金沢市）は、能登ヒバの新たな活用方法として、日々のスキンケアに取り入れられる化粧品を展開するブランド「NOTOHIBAKARA WELL…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -1249,19 +1275,6 @@
         "薬物療法・作用機序",
         "服薬指導",
         "医療過誤・ヒヤリハット"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "オラドールトローチとオラドールSトローチの違い",
-      "link": "https://yakuzaic.com/archives/144481",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-21T22:00:00Z",
-      "published_label": "2026/09/22 07:00",
-      "summary": "オラドールトローチとオラドールSトローチの違い オラドールトローチ0.5mgには、よく似た名前の「オラドールSトローチ0.5mg」があります。 「S」が付いていることで成分や効果が違うようにも見えますが、有効成分、含量、 […] The post オラドールトローチとオラドールSトローチの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "感染症・ワクチン"
       ],
       "importance": 3,
       "keywords": []
