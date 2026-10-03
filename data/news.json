@@ -1,8 +1,36 @@
 {
-  "updated_at": "2026-10-02T21:47:44.132443Z",
-  "updated_label": "2026/10/03 06:47",
-  "count": 103,
+  "updated_at": "2026-10-03T03:41:13.059327Z",
+  "updated_label": "2026/10/03 12:41",
+  "count": 114,
   "items": [
+    {
+      "title": "グレープフルーツは「果実」でも相互作用あり？",
+      "link": "https://pharmacist.m3.com/column/treatise/7913?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-03T03:41:11.995800Z",
+      "published_label": "2026/10/03 12:41",
+      "summary": "グレープフルーツジュースは、多くの薬と相互作用を起こすことが知られています。そのため、薬剤師としてもグレープフルーツジュースの飲用を避けるように服薬指導をすることは多いですが、グレープフルーツの「果実」そのものを食べるのも避けた方良いのでしょうか？患者さんからの質問に回答する際に参考になる論文をご紹介します。",
+      "tags": [
+        "薬剤師コラム",
+        "薬物療法・作用機序",
+        "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "高齢者向けの吸入デバイスは？使いやすい吸入器の選び方",
+      "link": "https://yakuzaic.com/archives/144540",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-02T22:00:00Z",
+      "published_label": "2026/10/03 07:00",
+      "summary": "高齢者向けの吸入デバイスは？ 吸入薬には、エリプタ、ディスカス、タービュヘイラー、ブリーズヘラー、レスピマット、エアゾール製剤など、さまざまな吸入デバイスがあります。 薬剤師「高齢者には、どの吸入デバイスが一番使いやすい […] The post 高齢者向けの吸入デバイスは？使いやすい吸入器の選び方 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "スタチン市場、ロスバスタチンとアトルバスタチンの2強で約7割のシェア",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202610/594752.html",
@@ -206,6 +234,19 @@
       "published": "2026-10-01T22:30:05Z",
       "published_label": "2026/10/02 07:30",
       "summary": "アイスタイルは、15歳～59歳の@cosmeプロデュースメンバーの女性4353人を対象に「化粧品のギフト利用需要」に関するアンケート調査を実施した。それによる…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み",
+      "link": "https://yakuzaic.com/archives/144528",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-01T22:00:00Z",
+      "published_label": "2026/10/02 07:00",
+      "summary": "プラリアと関節リウマチ プラリア（一般名：デノスマブ）は、骨粗鬆症治療薬としてよく知られている薬です。 しかし、プラリアの効能・効果を見ると、 の2つが記載されています。 「骨粗鬆症の薬なのに、なぜ関節リウマチに使うの？ […] The post プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
@@ -581,6 +622,19 @@
       "keywords": []
     },
     {
+      "title": "水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？",
+      "link": "https://yakuzaic.com/archives/144524",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-30T22:00:00Z",
+      "published_label": "2026/10/01 07:00",
+      "summary": "水溶性ビタミンならいくら摂っても大丈夫？ 「ビタミンはたくさん摂っても、余った分は尿から出るから大丈夫」 そんな話を聞いたことはないでしょうか。 確かに、ビタミンCやビタミンB群は「水溶性ビタミン」と呼ばれ、脂溶性ビタミ […] The post 水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "小児の服薬後嘔吐：「30分」の先にある再投与判断",
       "link": "https://pharmacist.m3.com/column/special_feature/7890?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -838,6 +892,19 @@
       "keywords": []
     },
     {
+      "title": "尿路結石に使う薬は？適応のある薬・ない薬の違い",
+      "link": "https://yakuzaic.com/archives/144520",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-29T22:00:00Z",
+      "published_label": "2026/09/30 07:00",
+      "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "連続ドラマＷ MR―医薬情報担当者－完成報告会 ＭＲを知る良い機会に 社会派の新たな医療サスペンス",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80953",
       "source": "ミクスOnline",
@@ -986,6 +1053,19 @@
       "keywords": []
     },
     {
+      "title": "目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い",
+      "link": "https://yakuzaic.com/archives/144508",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-28T22:00:00Z",
+      "published_label": "2026/09/29 07:00",
+      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、 など、「目によさそう」な成分がたくさん並んでいます。 しかし、これらはすべて同じように「目が悪くなるのを防ぐ」も […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "田辺ファーマ 抗IL-33抗体製剤「MT-2990」を米バイオ企業に導出 国内商業化権留保で日本市場...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80943",
       "source": "ミクスOnline",
@@ -1040,6 +1120,19 @@
       "keywords": []
     },
     {
+      "title": "緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い",
+      "link": "https://yakuzaic.com/archives/144499",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-27T22:00:00Z",
+      "published_label": "2026/09/28 07:00",
+      "summary": "緑内障の手術の種類 緑内障というと、まず思い浮かぶ治療は点眼薬です。 プロスタグランジン関連薬、β遮断薬、炭酸脱水酵素阻害薬、α2作動薬、ROCK阻害薬など、現在は多くの緑内障治療薬があります。 しかし、点眼薬を何種類使 […] The post 緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "薬剤師の第二新卒、1年目で転職したいと思ったら",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/7866?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1053,6 +1146,19 @@
         "転職"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬",
+      "link": "https://yakuzaic.com/archives/144496",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-26T22:00:00Z",
+      "published_label": "2026/09/27 07:00",
+      "summary": "高齢者の減量 「高齢者では減量すること」 薬の添付文書では、このような記載をよく見かけます。 しかし、「高齢者」とは何歳なのでしょうか？ 65歳でしょうか。75歳でしょうか。それとも、その患者の体格や身体機能をみて薬剤師 […] The post 何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -1073,6 +1179,19 @@
       "keywords": []
     },
     {
+      "title": "腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧",
+      "link": "https://yakuzaic.com/archives/144493",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-25T22:00:00Z",
+      "published_label": "2026/09/26 07:00",
+      "summary": "腎機能と糖尿病治療薬 糖尿病患者では、糖尿病性腎症をはじめさまざまな理由で腎機能が徐々に低下していくことがあります。 そして糖尿病治療薬には、腎機能の影響を受ける薬が少なくありません。 薬局でも、「昔から同じ糖尿病薬を飲 […] The post 腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "処方箋受付時以外のタイミングで算定する点数を解説",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7865?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1085,6 +1204,19 @@
         "薬局経営",
         "OTC類似薬",
         "診療報酬改定"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "NTM症とは？肺MAC症との違い",
+      "link": "https://yakuzaic.com/archives/144553",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-24T22:00:00Z",
+      "published_label": "2026/09/25 07:00",
+      "summary": "NTM症と肺MAC症との違い 最近、テレビなどで**「NTM症」**という言葉を耳にすることが増えてきました。 一方、薬の添付文書を見ると、 非結核性抗酸菌症 という病名が記載されています。 たとえばクラリスロマイシンの […] The post NTM症とは？肺MAC症との違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
       ],
       "importance": 4,
       "keywords": []
@@ -1104,6 +1236,19 @@
         "診療報酬改定"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "モーラスパップ・モーラステープ・モーラスパップXRの違い",
+      "link": "https://yakuzaic.com/archives/144487",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-23T22:00:00Z",
+      "published_label": "2026/09/24 07:00",
+      "summary": "モーラスパップ・モーラステープ・モーラスパップXRの違い モーラスには、「モーラスパップ」「モーラステープ」「モーラスパップXR」という3種類の貼付剤があります。 いずれも有効成分はNSAIDsのケトプロフェンです。 し […] The post モーラスパップ・モーラステープ・モーラスパップXRの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
