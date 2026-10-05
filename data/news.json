@@ -1,8 +1,146 @@
 {
-  "updated_at": "2026-10-05T13:31:45.070580Z",
-  "updated_label": "2026/10/05 22:31",
-  "count": 109,
+  "updated_at": "2026-10-05T21:48:24.491613Z",
+  "updated_label": "2026/10/06 06:48",
+  "count": 108,
   "items": [
+    {
+      "title": "マグミット×タケキャブで効かない機序と服薬指導",
+      "link": "https://pharmacist.m3.com/column/knowledge/7916?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-05T21:48:22.387619Z",
+      "published_label": "2026/10/06 06:48",
+      "summary": "酸化マグネシウム（マグミット）とボノプラザン（タケキャブ）の併用処方で「下剤が効かない」と相談された経験はありませんか？本コラムでは、胃酸抑制による緩下作用減弱の機序、臨床データ、服薬指導や疑義照会のポイントを薬剤師向けに解説。患者さんの疑問に対して根拠を持って回答できるようになりましょう。",
+      "tags": [
+        "薬剤師コラム",
+        "医薬品情報・DI",
+        "薬物療法・作用機序",
+        "服薬指導",
+        "副作用"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "塩野義製薬 米イントラバイオを3155億円で買収へ 希少疾患の事業基盤を強化",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80986",
+      "source": "ミクスOnline",
+      "published": "2026-10-05T19:52:00Z",
+      "published_label": "2026/10/06 04:52",
+      "summary": "塩野義製薬は10月５日、米バイオ医薬品企業・イントラバイオ社（IntraBio）を20億米ドル（約3155億6000万円）で買収し、完全子会社化すると発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「Active-T」創設5周年記念総会 日本の創薬力向上に製薬OBの知見を活かす アカデミアと連携支...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80990",
+      "source": "ミクスOnline",
+      "published": "2026-10-05T19:51:00Z",
+      "published_label": "2026/10/06 04:51",
+      "summary": "創設5周年を迎えた「Active-T」は10月3日、大阪市内で記念総会を開催した。総会では、「日本のアカデミアシーズで世界と勝負するには～製薬企業出身者が果たせる役割～」をテーマにタケダ研究者OBによるパネルディスカッションが行われた。",
+      "tags": [
+        "業界動向",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日本BI デュアルアゴニストsurvodutide の第3相試験 日本人肥満症患者で有意な体重減 肝...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80988",
+      "source": "ミクスOnline",
+      "published": "2026-10-05T19:50:00Z",
+      "published_label": "2026/10/06 04:50",
+      "summary": "日本ベーリンガーインゲルハイムは10月５日、日本人の肥満症患者を対象とした新規グルカゴン受容体／GLP-1受容体デュアルアゴニスト・survodutide（開発コード：BI456906）の第３相臨床試験「SYNCHRONIZE-JP」結果を発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アッヴィ イノベーション・アワード最高賞にTuning Fork Bioを選出 BioLabsの無料...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80987",
+      "source": "ミクスOnline",
+      "published": "2026-10-05T19:50:00Z",
+      "published_label": "2026/10/06 04:50",
+      "summary": "アッヴィは10月5日、米BioLabsと共同開催する「アッヴィ・ジャパン・イノベーション・アワード」で、独自の抗体プロファイリング技術を持つTuning Fork Bioが「ゴールデン・チケット・プログラム」を受賞したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "科研製薬 フィブラストの美容目的の適応外使用 医療従事者に再度注意喚起 PMDAを通じて",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80985",
+      "source": "ミクスOnline",
+      "published": "2026-10-05T19:50:00Z",
+      "published_label": "2026/10/06 04:50",
+      "summary": "科研製薬は10月５日、しわ取りなどの美容目的での適応外使用が問題となっている褥瘡・皮膚潰瘍治療用外用薬・フィブラストスプレー（一般名：トラフェルミン（遺伝子組換え））の適正使用に向け、初めてPMDAを通じた医療従事者への注意喚起を行った。",
+      "tags": [
+        "業界動向",
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "扶桑薬品 岡山第二工場に粉末透析剤ライン新設、140億円投資 国内生産拠点を再編・集約",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80989",
+      "source": "ミクスOnline",
+      "published": "2026-10-05T19:48:00Z",
+      "published_label": "2026/10/06 04:48",
+      "summary": "扶桑薬品は９月30日、岡山第二工場の建設に約140億円を投資すると発表した。粉末透析剤ラインを新設し、供給能力を拡大。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "TTR遺伝子サイレンサーは、ATTR-CMの転帰を改善するか／JAMA",
+      "link": "https://www.carenet.com/news/journal/carenet/63741?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-05T19:00:00Z",
+      "published_label": "2026/10/06 04:00",
+      "summary": "TTR遺伝子サイレンサーは、肝臓での野生型、変異型双方のトランスサイレチン（TTR）の産生を抑制し、アミロイド線維の継続的な形成と組織への沈着に関与する循環血中の前駆体タンパク質の供給を低減する。TTR遺伝…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "高齢者の過活動膀胱において開始を考慮するべき薬物は？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/jissenyakugaku/202610/594703.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-05T15:00:00Z",
+      "published_label": "2026/10/06 00:00",
+      "summary": "「高齢者の安全な薬物療法ガイドライン2025」（日本老年医学会）には、領域別の薬物リストとして、「特に慎重な投与を要する薬物のリスト」と「開始を考慮するべき薬物のリスト」が掲載されています。「特に慎重な投与を要する薬物のリスト」の目的は薬物有害事象の回避、そして服薬数減少に伴うアドヒアランスの改善。「開始を考慮するべき薬物のリスト」の目的は、高齢者に対する過少医療の回避とされています。 さて、今回は「過活動膀胱（OAB）」の薬物リスト…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "出荷調整を方便として使っていませんか",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202610/594751.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-05T15:00:00Z",
+      "published_label": "2026/10/06 00:00",
+      "summary": "後発医薬品を中心とした医薬品の供給不安が続いています。卸会社の納品状況やメーカーの案内に目を通し、代替薬探しや疑義照会に追われる日々も、既に日常と言っていいでしょう。 最近、この長引く混乱の中で、ちょっとした違和感を覚えました。先日、ある医薬品を発注したところ、出荷調整を理由に、かなりの品目で在庫が無い、あるいは納品に日数がかかるといった返答をいただきました。しかし、急ぎで必要な品目もあったため、別の卸会社に問い合わせてみると、「あり…",
+      "tags": [
+        "供給・出荷",
+        "薬価・制度",
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "第78回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_76200.html",
@@ -40,19 +178,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "海外渡航時に接種を検討したいワクチン",
-      "link": "https://www.carenet.com/series/vaccine/cg002544_g009.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-05T01:00:00Z",
-      "published_label": "2026/10/05 10:00",
-      "summary": "海外渡航では、渡航先の衛生状態が体調の維持に大きく影響します。渡航時に接種しておくべきワクチンについて「狂犬病」と「腸チフス」を取り上げ、疾患概要からワクチンの種類、接種の内容、接種でのポイントなどを中山久仁子氏が説明します。",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -302,19 +427,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "MASLD合併2型糖尿病、GLP-1RA＋SGLT2阻害薬併用は有益か",
-      "link": "https://www.carenet.com/news/general/carenet/63665?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-04T19:00:00Z",
-      "published_label": "2026/10/05 04:00",
-      "summary": "代謝機能障害関連脂肪性肝疾患（MASLD）と2型糖尿病の併存は、肝線維化進展や心血管イベント、死亡リスクの上昇と関連する。GLP-1受容体作動薬（GLP-1RA）とSGLT2阻害薬はいずれも心血管・代謝面での有用性が示され…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -767,19 +879,6 @@
       "keywords": []
     },
     {
-      "title": "治療中止後も持続的なHBV制御が可能な核酸医薬が登場",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202610/594739.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-01T15:00:00Z",
-      "published_label": "2026/10/02 00:00",
-      "summary": "2026年8月24日、B型肝炎治療薬ベピロビルセンナトリウム（商品名ヒブサーゴ皮下注150mgシリンジ）の製造販売が承認された。適応は「B型肝炎ウイルス持続感染における機能的治癒」、用法用量は「1回300mgを、投与1週目および2週目は3～4日ごとに週2回、投与3週目以降は24週目まで週1回皮下注射する。投与に際しては、必ず核酸アナログと併用すること」となっている。 ヘパドナウイルス科のDNAウイルスであるB型肝炎ウイルス（HBV）は…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "「令和８年度 第１回 薬事審議会 化学物質安全対策部会 家庭用品安全対策調査会」 を開催します（開催案内）",
       "link": "https://www.mhlw.go.jp/stf/newpage_76512.html",
       "source": "厚生労働省 新着情報",
@@ -875,98 +974,6 @@
       "keywords": []
     },
     {
-      "title": "ノボ ドゥスター社長兼CEO 新コーポレート戦略を説明 消費者向け「Consumer Rx」の事業化...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80961",
-      "source": "ミクスOnline",
-      "published": "2026-09-30T19:51:00Z",
-      "published_label": "2026/10/01 04:51",
-      "summary": "ノボ ノルディスクのマイク ドゥスター社長兼CEOは9月30日、インターナショナル プレス ブリーフィングに臨み、新たなコーポレート戦略「Lasting Health Starts Now（ラスティング ヘルス スターツ ナウ）」について説明した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "中外製薬 韓国に子会社設立へ 自社販売も 承認取得から供給・販売まで一貫体制を構築",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80956",
-      "source": "ミクスOnline",
-      "published": "2026-09-30T19:51:00Z",
-      "published_label": "2026/10/01 04:51",
-      "summary": "中外製薬は９月30日、韓国における医薬品の販売承認取得及び自社販売体制の構築を目的として、現地に子会社を設立すると発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "旭化成 グローバル医薬事業ブランドを「Asahi Kasei Therapeutics」に統合 日米...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80960",
-      "source": "ミクスOnline",
-      "published": "2026-09-30T19:50:00Z",
-      "published_label": "2026/10/01 04:50",
-      "summary": "旭化成は9月30日、医薬事業のグローバル統合の一環として、米国のVeloxis PharmaceuticalsとスウェーデンのCalliditas Therapeuticsの社名を「Asahi Kasei Therapeutics」に変更すると発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "スズケンとEPファーマライン 製薬企業向け情報提供支援サービス「CS Assist Line」 10...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80957",
-      "source": "ミクスOnline",
-      "published": "2026-09-30T19:50:00Z",
-      "published_label": "2026/10/01 04:50",
-      "summary": "スズケンとEPファーマラインは９月30日、医薬品の製品情報を医療機関や保険薬局、介護施設へ届ける製薬企業向け情報提供支援サービス「CS Assist Line」を開発し、10月から共同展開すると発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "中外製薬 創製品のRAF-MEK分子糊を導出 中国・InxMedとライセンス契約締結",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80959",
-      "source": "ミクスOnline",
-      "published": "2026-09-30T19:49:00Z",
-      "published_label": "2026/10/01 04:49",
-      "summary": "中外製薬は9月29日、中国・InxMedとの間で、中外製薬が創製した固形がんを対象とするRAF-MEK分子糊・SPYK04(開発コード)に関する全世界におけるライセンス契約を締結したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "特集は「今知りたい 低栄養のこと」",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/di/column/premium/202610/594755.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-30T15:00:00Z",
-      "published_label": "2026/10/01 00:00",
-      "summary": "月刊誌「日経ドラッグインフォメーション プレミアム版」（日経DI プレミアム版）10月号が発売となりました。本号の見どころをご紹介します。 特集は「今知りたい 低栄養のこと」です。診療報酬の改定によって、2026年6月から医療用栄養剤の保険給付が厳格化されたのをきっかけに、薬局で患者の栄養状態に目を向ける必要性が高まっています。特に「低栄養」は、患者の病状や予後の悪化因子になるため、適切な対処が求められます。薬局で患者の低栄養にいかに…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "OTC類似薬の一部保険外療養、処方箋が空欄なら原則疑義照会を",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594749.html",
-      "source": "日経メディカル Online",
-      "published": "2026-09-30T15:00:00Z",
-      "published_label": "2026/10/01 00:00",
-      "summary": "厚生労働省は2026年9月30日、既存のOTC医薬品との代替性が特に高い医療用医薬品（OTC類似薬）について、患者に薬剤費の4分の1に相当する「特別の料金」を求める制度の運用に関する省令・通知を発出した。2027年3月1日から「一部保険外療養」の仕組みとして導入する。処方箋には、特別の料金の対象かどうかを記載する欄を新設。対象医薬品が処方されている場合、薬局はその記載に基づいて通常の負担分とは別に、特別の料金を徴収する。記載がない場合…",
-      "tags": [
-        "医療安全",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "「なぜ点眼後に洗顔？」ラタノプロスト指導のコツ",
       "link": "https://pharmacist.m3.com/column/eye_drops/7874?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1016,19 +1023,6 @@
       "published": "2026-09-29T22:00:00Z",
       "published_label": "2026/09/30 07:00",
       "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "連続ドラマＷ MR―医薬情報担当者－完成報告会 ＭＲを知る良い機会に 社会派の新たな医療サスペンス",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80953",
-      "source": "ミクスOnline",
-      "published": "2026-09-29T19:53:00Z",
-      "published_label": "2026/09/30 04:53",
-      "summary": "「連続ドラマＷ MR―医薬情報担当者－」（WOWOW）の主要キャストらが参加したメディア向け完成報告会が9月29日、東京都内で開催された。",
       "tags": [
         "その他"
       ],
