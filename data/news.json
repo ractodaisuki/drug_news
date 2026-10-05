@@ -1,8 +1,125 @@
 {
-  "updated_at": "2026-10-04T23:48:35.952515Z",
-  "updated_label": "2026/10/05 08:48",
-  "count": 108,
+  "updated_at": "2026-10-05T03:55:47.697292Z",
+  "updated_label": "2026/10/05 12:55",
+  "count": 111,
   "items": [
+    {
+      "title": "海外渡航時に接種を検討したいワクチン",
+      "link": "https://www.carenet.com/series/vaccine/cg002544_g009.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-05T01:00:00Z",
+      "published_label": "2026/10/05 10:00",
+      "summary": "海外渡航では、渡航先の衛生状態が体調の維持に大きく影響します。渡航時に接種しておくべきワクチンについて「狂犬病」と「腸チフス」を取り上げ、疾患概要からワクチンの種類、接種の内容、接種でのポイントなどを中山久仁子氏が説明します。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【ダイト／Meiji Seika ファルマ／日本政策投資銀行】後発品新社、枠組み固まる‐少品種大量生産モデル工場も",
+      "link": "https://www.yakuji.co.jp/entry140001.html",
+      "source": "薬事日報",
+      "published": "2026-10-04T23:30:40Z",
+      "published_label": "2026/10/05 08:30",
+      "summary": "ダイト、Meiji Seika ファルマ、日本政策投資銀行（DBJ）は9月30日、後発品事業を行う合弁会社「医薬品共創機構」（予定）を12月に設立し、2027…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【パナソニック】「ドルツ デンティストリー」シリーズ開発‐歯科医院専用モデルで10月下旬に受注開始",
+      "link": "https://www.yakuji.co.jp/entry140067.html",
+      "source": "薬事日報",
+      "published": "2026-10-04T22:36:12Z",
+      "published_label": "2026/10/05 07:36",
+      "summary": "パナソニックは、歯科医院専売モデルをそろえた「ドルツ デンティストリー」シリーズを開発し、10月下旬から順次受注を開始する。同シリーズは、歯科医師や歯科衛生士…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【フクダ電子】フクダ電子AED首都圏本部を設立‐東京23区の医療機関以外対象にAED事業",
+      "link": "https://www.yakuji.co.jp/entry140066.html",
+      "source": "薬事日報",
+      "published": "2026-10-04T22:35:57Z",
+      "published_label": "2026/10/05 07:35",
+      "summary": "フクダ電子はこのほど、東京23区の医療機関以外を対象としたAED事業に関し「フクダ電子AED首都圏本部株式会社」を発足させた。これまでフクダ電子東京販売が担当…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】体組成計「BC-204XL」を発売‐計測結果と健康アドバイスを読み上げる タニタ",
+      "link": "https://www.yakuji.co.jp/entry140064.html",
+      "source": "薬事日報",
+      "published": "2026-10-04T22:34:10Z",
+      "published_label": "2026/10/05 07:34",
+      "summary": "健康総合企業のタニタは10月2日、計測結果と筋肉量・体脂肪率に応じた健康アドバイスを音声で読み上げる音声体組成計「BC-204XL」を発売した。家事や身支度な…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【パラマウントベッド】広域認定制度活用の回収・再資源化‐ベッドが累計10万台を突破",
+      "link": "https://www.yakuji.co.jp/entry140062.html",
+      "source": "薬事日報",
+      "published": "2026-10-04T22:33:17Z",
+      "published_label": "2026/10/05 07:33",
+      "summary": "パラマウントベッドは、サーキュラーエコノミー（循環型経済）の実現に向けて、資源の効率的な再生利用と廃棄物の適正な処理に関する活動「RE-BED project…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】細胞自動培養装置「iACE3」を発売‐省スペース化と運用効率向上を実現 日立ハイテク",
+      "link": "https://www.yakuji.co.jp/entry140060.html",
+      "source": "薬事日報",
+      "published": "2026-10-04T22:32:20Z",
+      "published_label": "2026/10/05 07:32",
+      "summary": "日立ハイテクは10月2日、iPS細胞をはじめとした細胞を大量かつ自動で培養する装置「iACE3」の販売を開始した。同装置は、「iACE2」の後継機種で、新たに…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【ニプロ】米国でのPAD向けアテレクトミーシステム「Golazo」、臨床試験で全患者登録を完了",
+      "link": "https://www.yakuji.co.jp/entry140059.html",
+      "source": "薬事日報",
+      "published": "2026-10-04T22:31:28Z",
+      "published_label": "2026/10/05 07:31",
+      "summary": "ニプロは10月1日、同社の連結子会社である米国のニプロバスキュラーイノベーションズアメリカス, Inc.が開発を進める末梢血管用アテレクトミー（動脈硬化切除）…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【サクラグローバルHD】コーポレートサイトを全面リニューアル‐400年以上の歴史とブローバルナ事業展開を発信",
+      "link": "https://www.yakuji.co.jp/entry140056.html",
+      "source": "薬事日報",
+      "published": "2026-10-04T22:30:26Z",
+      "published_label": "2026/10/05 07:30",
+      "summary": "感染制御、病理診断分野での医療機器関連事業をグローバルに展開するサクラグローバルホールディン（サクラグローバルHD）は10月1日、コーポレートサイト（http…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "蛋白尿は何が悪い？―腎機能低下のサインだけではない",
       "link": "https://yakuzaic.com/archives/144490",
@@ -446,85 +563,6 @@
       "published": "2026-10-01T22:00:00Z",
       "published_label": "2026/10/02 07:00",
       "summary": "プラリアと関節リウマチ プラリア（一般名：デノスマブ）は、骨粗鬆症治療薬としてよく知られている薬です。 しかし、プラリアの効能・効果を見ると、 の2つが記載されています。 「骨粗鬆症の薬なのに、なぜ関節リウマチに使うの？ […] The post プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【PMDA】無菌試験で不適合事例発生‐外部ベンダー任せに警鐘",
-      "link": "https://www.yakuji.co.jp/entry139994.html",
-      "source": "薬事日報",
-      "published": "2026-10-01T21:31:47Z",
-      "published_label": "2026/10/02 06:31",
-      "summary": "医薬品医療機器総合機構（PMDA）は、無菌試験の不適合事例に関するオレンジレター（GMP／GCTP調査事例速報）を発出し、設備機器の設計やバリデーションを含む…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【費用対評価部会】費用増加品を価格調整‐年内実施、業界は懸念",
-      "link": "https://www.yakuji.co.jp/entry139995.html",
-      "source": "薬事日報",
-      "published": "2026-10-01T21:30:47Z",
-      "published_label": "2026/10/02 06:30",
-      "summary": "厚生労働省は9月30日の中央社会保険医療協議会費用対効果評価専門部会で、比較対照技術に対する健康アウトカム指標の改善が示されず、増分費用効果比（ICER）の区…",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】ドリンク剤など新発売‐「PLIFT」から2製品 アインファーマシーズ",
-      "link": "https://www.yakuji.co.jp/entry139979.html",
-      "source": "薬事日報",
-      "published": "2026-10-01T21:04:03Z",
-      "published_label": "2026/10/02 06:04",
-      "summary": "アインファーマシーズが展開するコスメティックストア「アインズ＆トルペ」は、オリジナルブランド「PLIFT（プリフト）」から女性のインナービューティをサポートす…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】頭皮保湿ローション発売‐「ミノン」ブランドから 第一三共ヘルスケア",
-      "link": "https://www.yakuji.co.jp/entry139977.html",
-      "source": "薬事日報",
-      "published": "2026-10-01T21:03:03Z",
-      "published_label": "2026/10/02 06:03",
-      "summary": "第一三共ヘルスケアは、敏感肌向けスキンケアブランド「ミノン」から、敏感な頭皮に潤いを与える保湿ケア製品として「ミノン頭皮保湿ローション」（化粧品）を新発売した…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "小児薬開発の努力義務化に成果",
-      "link": "https://www.yakuji.co.jp/entry139975.html",
-      "source": "薬事日報",
-      "published": "2026-10-01T21:02:13Z",
-      "published_label": "2026/10/02 06:02",
-      "summary": "ドラッグラグ・ロスの解消に向けた小児用医薬品開発改革が成果を上げ始めている。日本製薬工業協会が4月に加盟企業を対象に実施した調査では、欧米の開発時期に合わせて…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "患者のためとは何か",
-      "link": "https://www.yakuji.co.jp/entry139974.html",
-      "source": "薬事日報",
-      "published": "2026-10-01T21:01:52Z",
-      "published_label": "2026/10/02 06:01",
-      "summary": "◆連続ドラマ「MR―医薬情報担当者」が4日からWOWOWで放映される。主演の向井理さん演じる患者第一が信念のMRと、要潤さん演じる自社利益第一のMRの対峙が見ど…",
       "tags": [
         "その他"
       ],
