@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-06T04:43:47.624408Z",
-  "updated_label": "2026/10/06 13:43",
-  "count": 114,
+  "updated_at": "2026-10-06T12:42:29.989884Z",
+  "updated_label": "2026/10/06 21:42",
+  "count": 109,
   "items": [
+    {
+      "title": "石川県薬剤師会 研修会 2026/10",
+      "link": "https://www.yakuji.co.jp/entry140091.html",
+      "source": "薬事日報",
+      "published": "2026-10-06T05:00:12Z",
+      "published_label": "2026/10/06 14:00",
+      "summary": "令和8年度 第7回 薬剤師PS講座プログレス(10月)研修会 今回は、入退院など「ケア移行」の場面における薬剤情報の連携と多職種連携について学びます。患者の薬歴…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "成長に合わせて拡張できる心臓弁を米FDAが承認",
       "link": "https://www.yakuji.co.jp/entry140133.html",
@@ -147,7 +160,7 @@
       "keywords": []
     },
     {
-      "title": "【フォーネスライフ】フォーネスビジュアス」、5年以内の胃がん発症リスク項目を追加",
+      "title": "【フォーネスライフ】「フォーネスビジュアス」、5年以内の胃がん発症リスク項目を追加",
       "link": "https://www.yakuji.co.jp/entry140101.html",
       "source": "薬事日報",
       "published": "2026-10-05T22:33:21Z",
@@ -437,58 +450,6 @@
       "summary": "フクダ電子はこのほど、東京23区の医療機関以外を対象としたAED事業に関し「フクダ電子AED首都圏本部株式会社」を発足させた。これまでフクダ電子東京販売が担当…",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】体組成計「BC-204XL」を発売‐計測結果と健康アドバイスを読み上げる タニタ",
-      "link": "https://www.yakuji.co.jp/entry140064.html",
-      "source": "薬事日報",
-      "published": "2026-10-04T22:34:10Z",
-      "published_label": "2026/10/05 07:34",
-      "summary": "健康総合企業のタニタは10月2日、計測結果と筋肉量・体脂肪率に応じた健康アドバイスを音声で読み上げる音声体組成計「BC-204XL」を発売した。家事や身支度な…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】広域認定制度活用の回収・再資源化‐ベッドが累計10万台を突破",
-      "link": "https://www.yakuji.co.jp/entry140062.html",
-      "source": "薬事日報",
-      "published": "2026-10-04T22:33:17Z",
-      "published_label": "2026/10/05 07:33",
-      "summary": "パラマウントベッドは、サーキュラーエコノミー（循環型経済）の実現に向けて、資源の効率的な再生利用と廃棄物の適正な処理に関する活動「RE-BED project…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】細胞自動培養装置「iACE3」を発売‐省スペース化と運用効率向上を実現 日立ハイテク",
-      "link": "https://www.yakuji.co.jp/entry140060.html",
-      "source": "薬事日報",
-      "published": "2026-10-04T22:32:20Z",
-      "published_label": "2026/10/05 07:32",
-      "summary": "日立ハイテクは10月2日、iPS細胞をはじめとした細胞を大量かつ自動で培養する装置「iACE3」の販売を開始した。同装置は、「iACE2」の後継機種で、新たに…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【ニプロ】米国でのPAD向けアテレクトミーシステム「Golazo」、臨床試験で全患者登録を完了",
-      "link": "https://www.yakuji.co.jp/entry140059.html",
-      "source": "薬事日報",
-      "published": "2026-10-04T22:31:28Z",
-      "published_label": "2026/10/05 07:31",
-      "summary": "ニプロは10月1日、同社の連結子会社である米国のニプロバスキュラーイノベーションズアメリカス, Inc.が開発を進める末梢血管用アテレクトミー（動脈硬化切除）…",
-      "tags": [
-        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
@@ -957,19 +918,6 @@
       "keywords": []
     },
     {
-      "title": "薬局は「処方箋を持って行く場所」から「まず相談する場所」へ",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/hazama/202610/594704.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-01T15:00:00Z",
-      "published_label": "2026/10/02 00:00",
-      "summary": "2026年度調剤報酬改定の影響は、思いのほか大きい。大阪で中小薬局チェーンを運営する私を含めて、そう感じておられる方は多いと思います。業績の伸びが鈍化したり悪化したりすると、多くの経営者がまず考えるのは、経費削減や業務効率化ではないかと思います。 残業を減らす。在庫を圧縮する。人員配置を見直す。ICTや機械を導入して生産性を上げる。 もちろん、どれも必要なことです。しかし、私は、それだけでは足りないと思っています。なぜなら、今回起こっ…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "「令和８年度 第１回 薬事審議会 化学物質安全対策部会 家庭用品安全対策調査会」 を開催します（開催案内）",
       "link": "https://www.mhlw.go.jp/stf/newpage_76512.html",
       "source": "厚生労働省 新着情報",
@@ -1079,19 +1027,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "おたふくかぜワクチンについての議論のまとめ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76495.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-30T04:50:00Z",
-      "published_label": "2026/09/30 13:50",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
