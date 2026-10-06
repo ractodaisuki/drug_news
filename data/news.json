@@ -1,8 +1,142 @@
 {
-  "updated_at": "2026-10-06T12:42:29.989884Z",
-  "updated_label": "2026/10/06 21:42",
-  "count": 109,
+  "updated_at": "2026-10-06T19:57:55.837257Z",
+  "updated_label": "2026/10/07 04:57",
+  "count": 103,
   "items": [
+    {
+      "title": "旭化成セラピューティクス 医療者向けサイト委託会社でサイバー攻撃 約56万人分の情報漏洩の可能性も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80999",
+      "source": "ミクスOnline",
+      "published": "2026-10-06T19:52:00Z",
+      "published_label": "2026/10/07 04:52",
+      "summary": "旭化成セラピューティクスは10月６日、医療従事者向け情報提供ウェブサイトの運営等を委託している医薬情報ネットの「Pharma DIGITAL」がサイバー攻撃を受け、不正アクセスおよび個人情報漏洩の可能性があると発表した。漏洩の可能性のある情報は、医師や医療従事者の氏名、所属施設名、メールアドレスなど約55万8000人分、旭化成セラピューティクス社員のメールアドレスなど約700人分で、最大約55万8700人分の情報漏洩の可能性はある。同…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "医師の生成ＡＩへの質問 経験年数で変化 若手は目の前の実務手順 中堅は用量調整や選択肢で「悩む」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80992",
+      "source": "ミクスOnline",
+      "published": "2026-10-06T19:52:00Z",
+      "published_label": "2026/10/07 04:52",
+      "summary": "医師が生成AIを利用する際の質問傾向は、医師の「経験年数」で異なる――。医師向けAI検索サービスなどを手掛けるMediiの分析で判明した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "富士フイルム 国内初ワンストップでADC-CDMOサービス実現 まず日本・アジア系企業ニーズに応える",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80995",
+      "source": "ミクスOnline",
+      "published": "2026-10-06T19:51:00Z",
+      "published_label": "2026/10/07 04:51",
+      "summary": "富士フイルムは10月6日、グループ会社である富士フイルム和光純薬の生産子会社が運営する広野工場にADC（抗体薬物複合体）原料の製造設備を導入すると発表した。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "PhRMA 新たな日本代表にジョナサン・クシュナー氏 在日米国商工会議所の副会頭など歴任",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80998",
+      "source": "ミクスOnline",
+      "published": "2026-10-06T19:50:00Z",
+      "published_label": "2026/10/07 04:50",
+      "summary": "米国研究製薬工業協会（PhRMA）の新たな日本代表として、10月からジョナサン・クシュナー氏が就任した。PhRMAが10月6日、発表した。2022年から代表を務めたハンス・クレム氏の後任。",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "田辺ファーマ・辻村社長COO gMGを効能追加したユプリズナ イムノロジー営業本部で適正使用を推進",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80997",
+      "source": "ミクスOnline",
+      "published": "2026-10-06T19:50:00Z",
+      "published_label": "2026/10/07 04:50",
+      "summary": "田辺ファーマの辻村明広代表取締役社長COOは10月6日、抗CD19モノクローナル抗体製剤・ユプリズナ点滴静注100mg（イネビリズマブ（遺伝子組換え））の全身型重症筋無力症（gMG）の適応追加について、「免疫炎症領域、希少疾患領域の戦略を一段前に進める重要な節目だ」と期待を込めた。",
+      "tags": [
+        "承認・新薬",
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "上野厚労相 高齢者窓口負担の見直し「公費負担のあり方とともに総合的に検討」26年末に「一定の結論」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80996",
+      "source": "ミクスOnline",
+      "published": "2026-10-06T19:50:00Z",
+      "published_label": "2026/10/07 04:50",
+      "summary": "上野賢一郎厚労相は10月6日の閣議後会見で、「高齢者の窓口負担の抜本的な見直しについて、現役世代の負担軽減の観点からの公費負担のあり方とともに総合的に検討していく」と述べた。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "塩野義製薬 減感作療法薬・アシテアの製造販売承認をセオリアファーマに承継 販売移管も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80993",
+      "source": "ミクスOnline",
+      "published": "2026-10-06T19:50:00Z",
+      "published_label": "2026/10/07 04:50",
+      "summary": "塩野義製薬は10月６日、減感作療法薬・アシテアダニ舌下錠について、12月に製造販売承認をセオリアファーマに承継すると発表した。",
+      "tags": [
+        "承認・新薬",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ネット接続しない医療専用閉域ネットワーク「WCI」 29年に5000施設へ まず治験・臨床研究で活用...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=80994",
+      "source": "ミクスOnline",
+      "published": "2026-10-06T19:49:00Z",
+      "published_label": "2026/10/07 04:49",
+      "summary": "アライドテレシス、ビットブレイン、EPLinkの３社は10月６日、医療機関と外部関係者をつなぐ通信環境の安全性・運用性の向上に向けた協業を開始したと発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "チスレリズマブ、HER2陰性胃がん1次治療に適応拡大／ビーワン・メディシンズ",
+      "link": "https://www.carenet.com/news/general/carenet/63740?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-06T19:00:00Z",
+      "published_label": "2026/10/07 04:00",
+      "summary": "抗PD-1抗体チスレリズマブ（商品名：テビムブラ）が、胃がんの1次治療に新たな選択肢として加わった。2026年6月19日、「治癒切除不能な進行・再発の胃癌」に対する適応追加の承認を取得。8月20日にビーワン・メデ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "第2世代抗精神病薬の遅発性ジスキネジアリスク、第1世代よりも低いのか？",
+      "link": "https://www.carenet.com/news/general/carenet/63729?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-06T19:00:00Z",
+      "published_label": "2026/10/07 04:00",
+      "summary": "遅発性ジスキネジアは、抗精神病薬の既知の副作用である。第2世代抗精神病薬は、第1世代抗精神病薬と比較し、遅発性ジスキネジアのリスクが低いと考えられているが、そのエビデンスは一貫していない。米国・Lake …",
+      "tags": [
+        "安全性情報",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "石川県薬剤師会 研修会 2026/10",
       "link": "https://www.yakuji.co.jp/entry140091.html",
@@ -36,45 +170,6 @@
       "published": "2026-10-06T02:00:14Z",
       "published_label": "2026/10/06 11:00",
       "summary": "本セミナーでは地域医療を牽引する竹田綜合病院の取り組みを徹底解説。 次世代薬剤師の育成方法や、チーム医療を加速させる患者コミュニケーション、それを可能にする組織…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "脳卒中後、7割超に「ある異常」",
-      "link": "https://www.carenet.com/series/upgrade/cg004493_066.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-06T01:00:10Z",
-      "published_label": "2026/10/06 10:00",
-      "summary": "3ヵ月前に脳梗塞を発症した後、疲労や記憶障害を訴えて、48歳男性が受診。内服薬はアスピリン、ロサルタン、カルベジロール。血液検査では異常を認めません。実施すべき検査は？",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "バイオマーカーで診断・処方は決められる？",
-      "link": "https://www.carenet.com/series/tanaka/cg005721_002.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-06T01:00:00Z",
-      "published_label": "2026/10/06 10:00",
-      "summary": "長引く咳や息切れを訴える患者を診るとき、「血中好酸球数が低いから、喘息ではなくCOPDだろう」などと判断していませんか？ 今回は、2型炎症に関する2つのバイオマーカーについて解説します。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "GLP-1受容体作動薬はdual agonistのステージへ―ベストパートナーはGIPか、グルカゴンか、それともアミリンか？（解説：住谷哲氏）",
-      "link": "https://www.carenet.com/news/clear/journal/63712?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-06T01:00:00Z",
-      "published_label": "2026/10/06 10:00",
-      "summary": "アミリンは膵臓のβ細胞からインスリンと同時に分泌されるホルモンで、延髄の最後野area postrema に作用して食欲抑制や消化管運動抑制などの作用を有する。既にノボノルディスク社（以下ノボ社）が開発したアミリン…",
       "tags": [
         "その他"
       ],
@@ -331,19 +426,6 @@
       "summary": "扶桑薬品は９月30日、岡山第二工場の建設に約140億円を投資すると発表した。粉末透析剤ラインを新設し、供給能力を拡大。",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "TTR遺伝子サイレンサーは、ATTR-CMの転帰を改善するか／JAMA",
-      "link": "https://www.carenet.com/news/journal/carenet/63741?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-05T19:00:00Z",
-      "published_label": "2026/10/06 04:00",
-      "summary": "TTR遺伝子サイレンサーは、肝臓での野生型、変異型双方のトランスサイレチン（TTR）の産生を抑制し、アミロイド線維の継続的な形成と組織への沈着に関与する循環血中の前駆体タンパク質の供給を低減する。TTR遺伝…",
-      "tags": [
-        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
@@ -669,19 +751,6 @@
       "keywords": []
     },
     {
-      "title": "スタチン市場、ロスバスタチンとアトルバスタチンの2強で約7割のシェア",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202610/594752.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-02T15:00:00Z",
-      "published_label": "2026/10/03 00:00",
-      "summary": "日経メディカル Onlineの医師会員を対象に、スタチンのうち最も処方頻度の高いものを聞いたところ、36.9％の医師がロスバスタチンカルシウム（商品名クレストール他）と回答した。 第2位のアトルバスタチンカルシウム水和物（リピトール他）は32.2％、第3位のピタバスタチンカルシウム水和物（リバロ他）は16.6％の医師が最も処方頻度の高い薬剤として選んだ。 図には示していないが、4位以下は次の通り。・プラバスタチンナトリウム（メバロチン…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
       "source": "厚生労働省 新着情報",
@@ -800,124 +869,6 @@
       "keywords": []
     },
     {
-      "title": "大日本印刷 協和ファーマケミカルの子会社化完了 27年2月に「DNPファーマケミカル」へ社名変更",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80970",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:50:00Z",
-      "published_label": "2026/10/02 04:50",
-      "summary": "大日本印刷（DNP）は10月１日、原薬製造などを手掛ける協和ファーマケミカル（富山県高岡市）について、親会社である協和発酵バイオから全株式を取得し、完全子会社化したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "PHC HD 東邦HDから初期的な買収提案を受領と発表 両社「決定している事実ない」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80969",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:50:00Z",
-      "published_label": "2026/10/02 04:50",
-      "summary": "PHCホールディングスは10月１日、東邦ホールディングスから初期的な買収提案を受けていると発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "CSLベーリング 日本法人社長にエドワード・ライト氏就任 10月19日付 クリニジェン社長など歴任",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80966",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:50:00Z",
-      "published_label": "2026/10/02 04:50",
-      "summary": "CSLベーリングは10月１日、エドワード・ライト氏が19日付で日本法人の代表取締役社長に就任すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "EFPIA Japan・対日投資サーベイ 主要投資先の好位置に、一方で薬価制度改革停滞で開発・製造投...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80976",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:49:00Z",
-      "published_label": "2026/10/02 04:49",
-      "summary": "欧州製薬団体連合会（EFPIA Japan）は10月1日、加盟企業を対象に実施した「対日投資サーベイ」結果を公表した。",
-      "tags": [
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "製薬協の一般社団法人移行で宮柱会長がビデオメッセージ「変化する社会、医療環境に機動力もって対応」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80975",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:49:00Z",
-      "published_label": "2026/10/02 04:49",
-      "summary": "日本製薬工業協会（製薬協）の宮柱明日香会長は10月1日、一般社団法人への移行に際してビデオメッセージをHP上に公開し、「事業戦略本部が本格的に始動し、新たな組織体制の下での活動を展開する」と強調した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ロート製薬 近視性網脈絡膜萎縮対象の再生医療等製品の独占販売契約締結 開発元のファーマバイオと",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80958",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:48:00Z",
-      "published_label": "2026/10/02 04:48",
-      "summary": "ロート製薬は9月30日、ファーマバイオ（名古屋市）との間で、同社が開発中のヒト（同種）脂肪由来間葉系間質細胞シート・PAL-222について、日本国内における独占販売契約を締結したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "HPVワクチンのモヤモヤに答えます",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/report/Weekly/202610/594734.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-01T15:00:00Z",
-      "published_label": "2026/10/02 00:00",
-      "summary": "日経メディカル Onlineでは毎月最終週に、「現場のモヤモヤに答えます」と題したミニ特集を掲載中です。気鋭の臨床医監修のもと、コモンな疾患・症状を取り上げます。9月のテーマは「HPVワクチン」（編集幹事：齋田瑞恵）。最前線で活躍する医師による4本の記事を通じて、現場の悩み解消に向けたヒントを提供していきます。 「HPVワクチンのモヤモヤに答えます」の各記事をご覧になりたい方は、下部の記事リストからどうぞ。まだ日経メディカルOnlin…",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "バルトレックスのAGが発売中止に",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202610/594716.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-01T15:00:00Z",
-      "published_label": "2026/10/02 00:00",
-      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年9月20〜26日のランキングです。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "トレーシングレポートは書かず、疑義照会も人任せ…「管理薬剤師は任せる力を身に付けて」",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/gude/202610/594743.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-01T15:00:00Z",
-      "published_label": "2026/10/02 00:00",
-      "summary": "管理薬剤師として初めて、ある店舗に配属されました。勤務する薬剤師は、自分より年上で、勤務歴も長い人ばかり。前任の管理薬剤師からは「やり方は店舗それぞれだから」と引き継がれましたが、実際には、トレーシングレポートは書かない、事務作業もしない、薬の在庫が不足していても分譲依頼しない、明らかに疑義照会が必要なケースの対応も私に任せてくるような状態でした。ある時、一人の薬剤師が「言わないと何もやらない」のは故意だったことに気付き、ついに心が折…",
-      "tags": [
-        "医療安全"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "「令和８年度 第１回 薬事審議会 化学物質安全対策部会 家庭用品安全対策調査会」 を開催します（開催案内）",
       "link": "https://www.mhlw.go.jp/stf/newpage_76512.html",
       "source": "厚生労働省 新着情報",
@@ -971,32 +922,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "ダイト、Meiji、政投銀が「医薬品共創機構」12月設立へ 杏林製薬の後発品事業承継で最終契約締結",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80964",
-      "source": "ミクスOnline",
-      "published": "2026-09-30T21:00:00Z",
-      "published_label": "2026/10/01 06:00",
-      "summary": "ダイト、Meiji Seika ファルマ、日本政策投資銀行の３社は共同出資会社「医薬品共創機構」を12月に設立すると９月30日、発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "費用対効果 健康アウトカム改善せずICER費用増の価格調整26年中実施 業界は“対象範囲拡大ありき”...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80963",
-      "source": "ミクスOnline",
-      "published": "2026-09-30T20:00:00Z",
-      "published_label": "2026/10/01 05:00",
-      "summary": "中医協費用対効果評価専門部会は９月30日、「比較技術に対する健康アウトカム指標での改善が示されず、ICER の区分が費用増加となった分析対象集団」の価格調整について、2026年中に実施することを了承した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
