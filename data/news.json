@@ -1,8 +1,51 @@
 {
-  "updated_at": "2026-10-07T00:20:40.562723Z",
-  "updated_label": "2026/10/07 09:20",
-  "count": 105,
+  "updated_at": "2026-10-07T09:45:18.998717Z",
+  "updated_label": "2026/10/07 18:45",
+  "count": 106,
   "items": [
+    {
+      "title": "「太るから嫌」の対応は？ミルタザピン服薬指導",
+      "link": "https://pharmacist.m3.com/column/psychotropic_drug/7918?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-07T09:45:17.460370Z",
+      "published_label": "2026/10/07 18:45",
+      "summary": "向精神薬による体重増加に悩む患者さんへ、「食べすぎに気をつけて」以外の適切な言葉を掛けられていますか？本記事では、「ミルタザピン」などの薬理学的メカニズムから食欲変化の早期検知、指導フレーズ、医師への連携法まで解説。患者の服薬自己中断を防ぎ、寄り添う服薬指導の具体策が学べます。",
+      "tags": [
+        "薬剤師コラム",
+        "禁忌",
+        "医薬品情報・DI",
+        "薬物療法・作用機序",
+        "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76638.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-07T06:26:00Z",
+      "published_label": "2026/10/07 15:26",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会 医薬品第二部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76547.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-07T05:00:00Z",
+      "published_label": "2026/10/07 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
     {
       "title": "単科薬大の将来見据え決断‐岐阜薬大 原学長、大学統合「改革で生き残る」",
       "link": "https://www.yakuji.co.jp/entry140158.html",
@@ -293,6 +336,19 @@
       "keywords": []
     },
     {
+      "title": "在宅医療の特例が適用される疾病や患者の状態を知っていますか？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594808.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-06T15:00:00Z",
+      "published_label": "2026/10/07 00:00",
+      "summary": "問い 診療報酬上の特例が適用される「厚生労働大臣が定める疾病等」（別表第7）、「厚生労働大臣が定める状態等」（別表第8）や、「第2号被保険者が要介護認定の給付対象となる特定疾病」について、正しい記述はどれでしょうか？ （1）在宅ハイフローセラピー指導管理を受けている者は、「厚生労働大臣が定める状態等」（別表第8）に該当する（2）厚生労働大臣が定める状態等」（別表第8）に該当すれば、介護老人保健施設の退所日に訪問看護費の算定が可能である…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "薬局薬剤師の3割超が1年以内にカスハラ経験、現場の実態は？",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594784.html",
       "source": "日経メディカル Online",
@@ -368,32 +424,6 @@
         "承認・新薬"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「富士ドライケム IMMUNO AG カートリッジ RSV/hMPV」発売へ‐銀塩増幅反応による高感度検出技術を応用 富士フイルム",
-      "link": "https://www.yakuji.co.jp/entry140106.html",
-      "source": "薬事日報",
-      "published": "2026-10-05T22:38:45Z",
-      "published_label": "2026/10/06 07:38",
-      "summary": "富士フイルムは11月末、RSウイルス抗原およびヒトメタニューモウイルス抗原を同時に検出できる抗原検査キット「富士ドライケム IMMUNO AG カートリッジ …",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【PHC】「パスファースト」リニューアルモデル、欧州での販売を開始",
-      "link": "https://www.yakuji.co.jp/entry140104.html",
-      "source": "薬事日報",
-      "published": "2026-10-05T22:37:32Z",
-      "published_label": "2026/10/06 07:37",
-      "summary": "PHCライフサイエンス事業部診断薬事業グループはこのほど、移動式免疫発光測定装置「パスファースト」リニューアルモデルが、欧州体外診断用医療機器規則（IVDR）…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -964,19 +994,6 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "最近の調剤医療費（電算処理分）の動向 令和8年度4～5月号",
-      "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/05/",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-09-30T05:00:00Z",
-      "published_label": "2026/09/30 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
