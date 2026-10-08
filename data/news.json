@@ -1,8 +1,233 @@
 {
-  "updated_at": "2026-10-07T18:23:42.819593Z",
-  "updated_label": "2026/10/08 03:23",
-  "count": 106,
+  "updated_at": "2026-10-08T00:41:50.147078Z",
+  "updated_label": "2026/10/08 09:41",
+  "count": 113,
   "items": [
+    {
+      "title": "【扶桑薬品】岡山第二工場が着工へ‐28年12月の製造開始目指す",
+      "link": "https://www.yakuji.co.jp/entry140170.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T23:31:20Z",
+      "published_label": "2026/10/08 08:31",
+      "summary": "扶桑薬品は12月にも、中期経営方針で安定供給の強化策の一環として計画していた岡山第二工場の建設に着工する。2028年3月竣工、同年12月の製造開始を目指す。新…",
+      "tags": [
+        "供給・出荷"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【内閣府専門部会】放射性医薬品薬剤師を育成‐新たな行動計画策定へ",
+      "link": "https://www.yakuji.co.jp/entry140167.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T23:30:39Z",
+      "published_label": "2026/10/08 08:30",
+      "summary": "内閣府の「放射性医薬品の開発・製造・利用の促進およびそのサプライチェーン強化に関する専門部会」は1日、新たなアクションプラン策定に向けたこれまでの議論のまとめ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【メディクリふくしま2026】MCF大賞に三洲電線",
+      "link": "https://www.yakuji.co.jp/entry140230.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T22:35:26Z",
+      "published_label": "2026/10/08 07:35",
+      "summary": "メディカルクリエーションふくしま（MCF）の特別企画として実施されているMCF大賞に今年は三洲電線株式会社（本社：愛知県西尾市）の「自動車で採用された細径化技…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】matsukiyo LABの人気美容サプリ「BEAUSTER」から夜間美容に着目した新シリーズ「BEAUSTER Sleeping＋」が誕生 マツキヨココカラ＆カンパニー",
+      "link": "https://www.yakuji.co.jp/entry140227.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T22:34:52Z",
+      "published_label": "2026/10/08 07:34",
+      "summary": "マツキヨココカラ＆カンパニーは、プライベートブランド「matsukiyo LAB」より、夜間美容に着目した新シリーズ「BEAUSTER Sleeping＋（ビ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【ダイキン、ニプロなど6社】製品の鉄道長距離ラウンドマッチング輸送を開始‐運送効率化とCO2排出量の削減に貢献",
+      "link": "https://www.yakuji.co.jp/entry140224.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T22:33:04Z",
+      "published_label": "2026/10/08 07:33",
+      "summary": "ダイキン工業とグループ会社のオーケー器材、ニプロ、合通ロジ、白金運輸、日本貨物鉄道（JR貨物）は2日から、JR貨物が所有する31フィートコンテナを活用した鉄道…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【アルケア】「第2回 ナースともCafe」を開催‐「身体拘束最小化」の実現に向けて",
+      "link": "https://www.yakuji.co.jp/entry140223.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T22:32:32Z",
+      "published_label": "2026/10/08 07:32",
+      "summary": "アルケアはこのほど、6月24日に双方向型対話の場「第2回ナースともCafe」を開催したと報告した。この取り組みは、医療・福祉の現場で働く医療従事者と企業が語り…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【積水ホームテクノ】介護設備の安心・安全使用のショート動画と「wells」の動画を同時公開",
+      "link": "https://www.yakuji.co.jp/entry140220.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T22:31:19Z",
+      "published_label": "2026/10/08 07:31",
+      "summary": "積水ホームテクノはこのほど、介護・自立支援設備「wells（ウェルス）」をより安心・安全に使用してもらうための情報をショート動画に取りまとめ、多数ラインアップ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【PHC／積水化学】幹細胞の大量培養プロセス構築に向け‐共同実証を開始",
+      "link": "https://www.yakuji.co.jp/entry140217.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T22:30:51Z",
+      "published_label": "2026/10/08 07:30",
+      "summary": "PHCと積水化学工業は、PHCが開発・販売する自動培養装置「LiCellGrow」と、積水化学が製造・販売展開する化学合成足場材「Ceglu」をコーティングし…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日薬】指定第2類移行に「反対」‐ロキソプロフェンで意見",
+      "link": "https://www.yakuji.co.jp/entry140164.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T21:31:01Z",
+      "published_label": "2026/10/08 06:31",
+      "summary": "日本薬剤師会は、薬事審議会医薬品等安全対策部会安全対策調査会で、第1類医薬品から指定第2類医薬品への移行が了承されたかぜ薬「ロキソプロフェン」について、「指定…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【大木ヘルスケアHD】韓国人蔘公社と業務提携‐共同開発商品販売など協業",
+      "link": "https://www.yakuji.co.jp/entry140169.html",
+      "source": "薬事日報",
+      "published": "2026-10-07T21:30:25Z",
+      "published_label": "2026/10/08 06:30",
+      "summary": "大木ヘルスケアホールディングスは9月29日、韓国の高麗人参ブランド「正官庄（せいかんしょう）」を展開する韓国人蔘公社（KGC）と、日本のヘルス＆ビューティー市…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "中医協 27年度薬価改定で支払側・佐竹委員「共連れ廃止踏まえ、再算定毎年適用すべき」 業界は反発",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81004",
+      "source": "ミクスOnline",
+      "published": "2026-10-07T21:00:00Z",
+      "published_label": "2026/10/08 06:00",
+      "summary": "中医協薬価専門部会は10月７日、2027年度薬価改定の対象範囲や適用ルールについて議論した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【中医協薬価専門部会 10月７日 議事要旨 令和９年度薬価改定について】",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81003",
+      "source": "ミクスOnline",
+      "published": "2026-10-07T19:51:00Z",
+      "published_label": "2026/10/08 04:51",
+      "summary": "中医協薬価専門部会が10月７日に開かれ、令和９年度薬価改定について議論した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "新薬11製品 10月14日収載へ B肝薬ヒブサーゴはピーク時398億円 NCFB用薬ブリヌスプリは4...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81001",
+      "source": "ミクスOnline",
+      "published": "2026-10-07T19:51:00Z",
+      "published_label": "2026/10/08 04:51",
+      "summary": "中医協総会は10月７日、新薬11成分14品目の薬価収載を了承した。",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "日米欧製薬3団体が共同声明 費用対効果評価制度における価格調整範囲の拡大「日本政府に再考」求める",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81002",
+      "source": "ミクスOnline",
+      "published": "2026-10-07T19:50:00Z",
+      "published_label": "2026/10/08 04:50",
+      "summary": "日本製薬工業協会（製薬協）、米国研究製薬工業協会（PhRMA）、欧州製薬団体連合会（EFPIA）の製薬3団体は10月7日、厚労省が費用対効果評価制度における薬価引下げの拡大を中医協に提案したことに対し、「日本政府に再考を強く求める」との共同声明を発表した。",
+      "tags": [
+        "業界動向",
+        "薬価・制度",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "新薬４製品を審議へ ヘルネクシオスのHER2陽性NSCLC１次治療の追加など 10月21日の第二部会...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81000",
+      "source": "ミクスOnline",
+      "published": "2026-10-07T19:49:00Z",
+      "published_label": "2026/10/08 04:49",
+      "summary": "厚生労働省は10月21日に薬事審議会・医薬品第二部会を開き、日本ベーリンガーインゲルハイムのHER2阻害剤・ヘルネクシオス錠のHER2変異陽性の非小細胞肺がん１次治療の効能追加など新薬４製品の承認の可否を審議する。",
+      "tags": [
+        "承認・新薬",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "薬局のカスハラ対策、「従業員を守る」視点で体制整備を",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594785.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-07T15:00:00Z",
+      "published_label": "2026/10/08 00:00",
+      "summary": "患者からの暴言や威圧的な言動など、カスタマーハラスメント（以下、カスハラ）は、薬局でも深刻な問題となっている。2026年10月に、全ての事業主に対してカスハラ対策が義務化された。薬局にはどのような体制整備が求められるのか。現場の実態とともに解説する。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「痛みが強くなってから薬を飲む」片頭痛治療薬は過小使用にも留意を",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594328.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-07T15:00:00Z",
+      "published_label": "2026/10/08 00:00",
+      "summary": "片頭痛の慢性化の要因の一つとして、非ステロイド抗炎症薬（NSAIDs）やトリプタンなどの片頭痛治療薬の過剰使用による頭痛（medication overuse headache：MOH）が知られています。それに加えて近年、慢性化への寄与が指摘されているのが、片頭痛治療薬の不十分な使用、すなわち「過少使用」によるリスクです1）。 過少使用とは、適切な薬剤を選択していても、「服薬タイミングが遅れる」「必要量を控える」「費用や副作用への不安…",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "インフルワクチン、約36％の医師が「接種開始を早めた」",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/1000research/202610/594779.html",
@@ -45,6 +270,19 @@
         "服薬指導"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "令和８年度第５回医薬品等安全対策部会安全対策調査会 議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76578.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-07T07:00:00Z",
+      "published_label": "2026/10/07 16:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
       "keywords": []
     },
     {
@@ -243,19 +481,6 @@
       "keywords": []
     },
     {
-      "title": "国内の医薬品基盤を強く",
-      "link": "https://www.yakuji.co.jp/entry140147.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T21:01:28Z",
-      "published_label": "2026/10/07 06:01",
-      "summary": "◆「『強い経済』の構築による、強く豊かな日本列島の実現」。高市早苗政権は日本成長戦略の第I章表題にそう掲げる。9月17日に第二次内閣が決定した基本方針も踏まえる…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "旭化成セラピューティクス 医療者向けサイト委託会社でサイバー攻撃 約56万人分の情報漏洩の可能性も",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80999",
       "source": "ミクスOnline",
@@ -386,71 +611,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "石川県薬剤師会 研修会 2026/10",
-      "link": "https://www.yakuji.co.jp/entry140091.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T05:00:12Z",
-      "published_label": "2026/10/06 14:00",
-      "summary": "令和8年度 第7回 薬剤師PS講座プログレス(10月)研修会 今回は、入退院など「ケア移行」の場面における薬剤情報の連携と多職種連携について学びます。患者の薬歴…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "成長に合わせて拡張できる心臓弁を米FDAが承認",
-      "link": "https://www.yakuji.co.jp/entry140133.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T03:00:05Z",
-      "published_label": "2026/10/06 12:00",
-      "summary": "米食品医薬品局（FDA）は10月1日、植込み後に拡張できるよう設計された初の心臓弁「Autus Size-Adjustable Valve」（以下、Autus…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "20日に病院薬剤師向けWEBセミナー「竹田綜合病院に学ぶ患者コミュニケーションと組織づくり」開催 JMDC",
-      "link": "https://www.yakuji.co.jp/entry140089.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T02:00:14Z",
-      "published_label": "2026/10/06 11:00",
-      "summary": "本セミナーでは地域医療を牽引する竹田綜合病院の取り組みを徹底解説。 次世代薬剤師の育成方法や、チーム医療を加速させる患者コミュニケーション、それを可能にする組織…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【アリナミン製薬】約6割が寝つき悪い日経験‐週1日以上、ストレスなど",
-      "link": "https://www.yakuji.co.jp/entry139999.html",
-      "source": "薬事日報",
-      "published": "2026-10-05T23:30:12Z",
-      "published_label": "2026/10/06 08:30",
-      "summary": "アリナミン製薬は、全国の20～60代の社会人男女500人を対象に入眠をテーマとしたアンケート調査を実施した結果を公表した。それによると、約6割が直近1週間に1…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】美容液レベルの成分を手肌にも 濃度にこだわる「matsukiyo CONCRED」からハリ肌美容ハンドクリームが新登場 マツキヨココカラ＆カンパニー",
-      "link": "https://www.yakuji.co.jp/entry140108.html",
-      "source": "薬事日報",
-      "published": "2026-10-05T22:39:44Z",
-      "published_label": "2026/10/06 07:39",
-      "summary": "マツキヨココカラ＆カンパニーの「濃度」にこだわったビューティブランド「matsukiyo CONCRED（マツキヨ コンクレッド）」から、ヘアケアラインで培っ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -852,72 +1012,6 @@
       "published": "2026-10-01T19:52:00Z",
       "published_label": "2026/10/02 04:52",
       "summary": "設立65周年を迎えた「Pharma Delegates」のアーガイル グレン会長（バクスター・ジャパン代表取締役社長）は本誌インタビューに応じ、「これからもヘルスケア・医薬品業界に関する学びと交流の場として更なる発展を目指したい」と強調した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "帝人ファーマ ムコソルバンは日本ケミファに ラキソベロン内用液はアルフレッサファーマに承継・移管",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80968",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:51:00Z",
-      "published_label": "2026/10/02 04:51",
-      "summary": "帝人ファーマは10月１日、去痰剤・ムコソルバンは日本ケミファに、緩下剤・大腸検査前処置用下剤のラキソベロン内用液はアルフレッサファーマにそれぞれ製造販売承認を承継し、販売を移管すると発表した。",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "協和キリン 5-FUをチェプラファームに承継・移管 アブストラルは丸石製薬に フェントスは販売契約終...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80967",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:51:00Z",
-      "published_label": "2026/10/02 04:51",
-      "summary": "協和キリンは、抗がん剤・5-FU注/軟膏、がん疼痛治療薬・アブストラル舌下錠、経皮吸収型持続性疼痛治療薬・フェントステープの３製品について、製造販売承認や販売のスキームを変更する。",
-      "tags": [
-        "業界動向",
-        "承認・新薬"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "あすか製薬HD 営業拠点を６拠点に集約 効率的な業務運営推進で経営基盤強化",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80974",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:50:00Z",
-      "published_label": "2026/10/02 04:50",
-      "summary": "あすか製薬ホールディングスは10月１日、営業拠点を20拠点から６拠点に集約すると発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "武田薬品が内定式 27年度入社予定者は39人 グローバルと一体化する環境での活躍にエール",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80972",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:50:00Z",
-      "published_label": "2026/10/02 04:50",
-      "summary": "武田薬品は10月１日、2027年度入社予定者の内定式を武田グローバル本社で開催した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本化薬 富士薬品の富山第二工場の事業を承継 子会社の株式取得が完了",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80971",
-      "source": "ミクスOnline",
-      "published": "2026-10-01T19:50:00Z",
-      "published_label": "2026/10/02 04:50",
-      "summary": "日本化薬は10月１日、富士薬品の富山第二工場（富山市）を承継する子会社の全株式取得が完了したと発表した。",
       "tags": [
         "その他"
       ],
