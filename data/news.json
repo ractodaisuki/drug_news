@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-10-08T00:41:50.147078Z",
-  "updated_label": "2026/10/08 09:41",
-  "count": 113,
+  "updated_at": "2026-10-08T09:55:58.782899Z",
+  "updated_label": "2026/10/08 18:55",
+  "count": 110,
   "items": [
+    {
+      "title": "【グラフィックレコーディング～言葉にならない想いを描き、心と未来を繋げる仕事～】第3回 「世界で働くグラフィックレコーダー」に出会って～IFVPでの学び グラフィックレコーダー 吉川観奈",
+      "link": "https://www.yakuji.co.jp/entry139776.html",
+      "source": "薬事日報",
+      "published": "2026-10-08T05:00:09Z",
+      "published_label": "2026/10/08 14:00",
+      "summary": "2年前、アメリカで開催されたIFVP https://www.ifvp.org/ (International Forum of Visual Practiti…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会 再生医療等製品・生物由来技術部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76385.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-08T05:00:00Z",
+      "published_label": "2026/10/08 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "薬学ゼミナール生涯学習センター 薬剤師生涯学習講座 2026/11",
+      "link": "https://www.yakuji.co.jp/entry140215.html",
+      "source": "薬事日報",
+      "published": "2026-10-08T01:30:09Z",
+      "published_label": "2026/10/08 10:30",
+      "summary": "Ph2030プログラム 体験講座 検査値から読み解く症例解析 単回でのご参加も大歓迎！是非ご参加ください。 ※本講座は日本プライマリ・ケア連合学会（P02）20…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "【扶桑薬品】岡山第二工場が着工へ‐28年12月の製造開始目指す",
       "link": "https://www.yakuji.co.jp/entry140170.html",
@@ -413,71 +452,6 @@
         "承認・新薬"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【日本ライフライン】米国Cross Vascular社を買収",
-      "link": "https://www.yakuji.co.jp/entry140148.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T22:31:44Z",
-      "published_label": "2026/10/07 07:31",
-      "summary": "日本ライフラインは、9月開催の取締役会で、不整脈アブレーション治療に必須な手技である心房中隔穿刺に関連する製品を有する米国のCross Vascular, I…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】本社ショールームをリニューアル",
-      "link": "https://www.yakuji.co.jp/entry140143.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T22:30:06Z",
-      "published_label": "2026/10/07 07:30",
-      "summary": "パラマウントベッドはこのほど、東京・東砂の本社ショールームを約10年ぶりにリニューアルし、10月1日にオープンした。今回のリニューアルでは、医療・介護施設向け…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】リスク最小化策評価義務化‐来年5月RMP法制化で",
-      "link": "https://www.yakuji.co.jp/entry140160.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T21:31:11Z",
-      "published_label": "2026/10/07 06:31",
-      "summary": "厚生労働省は、2027年5月20日に施行する改正医薬品医療機器等法に伴う整備省令を公布し、医薬品の製造販売業者に対し医薬品リスク管理計画（RMP）の作成・実施…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】OTC類似薬の詳細通知‐来年3月1日に施行",
-      "link": "https://www.yakuji.co.jp/entry140166.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T21:30:52Z",
-      "published_label": "2026/10/07 06:30",
-      "summary": "厚生労働省は9月30日、OTC類似薬77成分1042品目を対象とした「一部保険外療養制度」の詳細を定めた通知や事務連絡、対象医薬品リストを発出した。特別料金の…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "ライト氏が新社長就任‐前クリニジェン日本法人社長 CSLベーリング",
-      "link": "https://www.yakuji.co.jp/entry140151.html",
-      "source": "薬事日報",
-      "published": "2026-10-06T21:02:38Z",
-      "published_label": "2026/10/07 06:02",
-      "summary": "CSLベーリング日本法人の新社長に、19日付でエドワード・ライト氏が就任する。同社によると、ライト氏の前職は英クリニジェンで日本法人のジェネラルマネージャー兼…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1024,19 +998,6 @@
       "source": "厚生労働省 新着情報",
       "published": "2026-10-01T05:00:00Z",
       "published_label": "2026/10/01 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師免許の申請手続き等について",
-      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-01T01:00:00Z",
-      "published_label": "2026/10/01 10:00",
       "summary": "",
       "tags": [
         "その他"
