@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-10-09T00:57:39.716632Z",
-  "updated_label": "2026/10/09 09:57",
-  "count": 104,
+  "updated_at": "2026-10-09T09:59:47.322129Z",
+  "updated_label": "2026/10/09 18:59",
+  "count": 113,
   "items": [
+    {
+      "title": "薬事審議会 医薬品第一部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76600.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-09T05:00:00Z",
+      "published_label": "2026/10/09 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-09T04:55:00Z",
+      "published_label": "2026/10/09 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-09T04:55:00Z",
+      "published_label": "2026/10/09 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "DPP-4阻害薬9剤の見逃しやすい相互作用と使い分け",
       "link": "https://pharmacist.m3.com/column/dokoyaku/7922?promotionCode=op_pcolumn",
@@ -431,16 +470,16 @@
       "keywords": []
     },
     {
-      "title": "【グラフィックレコーディング～言葉にならない想いを描き、心と未来を繋げる仕事～】第3回 「世界で働くグラフィックレコーダー」に出会って～IFVPでの学び グラフィックレコーダー 吉川観奈",
-      "link": "https://www.yakuji.co.jp/entry139776.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T05:00:09Z",
-      "published_label": "2026/10/08 14:00",
-      "summary": "2年前、アメリカで開催されたIFVP https://www.ifvp.org/ (International Forum of Visual Practiti…",
+      "title": "令和８年度 地域における医薬品提供体制等の構築・強化に係るモデル事業",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76653.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-08T05:51:00Z",
+      "published_label": "2026/10/08 14:51",
+      "summary": "",
       "tags": [
         "その他"
       ],
-      "importance": 2,
+      "importance": 1,
       "keywords": []
     },
     {
@@ -454,19 +493,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "薬学ゼミナール生涯学習センター 薬剤師生涯学習講座 2026/11",
-      "link": "https://www.yakuji.co.jp/entry140215.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T01:30:09Z",
-      "published_label": "2026/10/08 10:30",
-      "summary": "Ph2030プログラム 体験講座 検査値から読み解く症例解析 単回でのご参加も大歓迎！是非ご参加ください。 ※本講座は日本プライマリ・ケア連合学会（P02）20…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -918,6 +944,19 @@
       "keywords": []
     },
     {
+      "title": "蛋白尿は何が悪い？―腎機能低下のサインだけではない",
+      "link": "https://yakuzaic.com/archives/144490",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-04T22:00:00Z",
+      "published_label": "2026/10/05 07:00",
+      "summary": "蛋白尿と腎機能 健康診断などで「尿蛋白＋」と言われると、「尿から蛋白が出ているから、体の蛋白が減ってしまうのだろうか？」と思うかもしれない。 確かにネフローゼ症候群のように大量の蛋白が尿中へ失われれば、低アルブミン血症や […] The post 蛋白尿は何が悪い？―腎機能低下のサインだけではない first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "ダイト松森社長 国の安定供給実現へ共創機構を「絶対成功させる」 過去最大規模の投資で「背水の陣」",
       "link": "https://www.mixonline.jp/tabid55.html?artid=80982",
       "source": "ミクスOnline",
@@ -960,6 +999,19 @@
       "keywords": []
     },
     {
+      "title": "においのする薬は？臭い薬とその原因",
+      "link": "https://yakuzaic.com/archives/144549",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-03T22:00:00Z",
+      "published_label": "2026/10/04 07:00",
+      "summary": "においのする薬 薬局で一包化した薬を確認していると、「この薬が入ると独特のにおいがする」「分包紙を開けた瞬間に、いつものにおいがする」という薬があります。 患者さんから、「この薬、臭いんだけど大丈夫？」と聞かれることもあ […] The post においのする薬は？臭い薬とその原因 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "グレープフルーツは「果実」でも相互作用あり？",
       "link": "https://pharmacist.m3.com/column/treatise/7913?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -975,42 +1027,42 @@
       "keywords": []
     },
     {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-02T04:55:00Z",
-      "published_label": "2026/10/02 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-02T04:55:00Z",
-      "published_label": "2026/10/02 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "「令和８年度 第１回 薬事審議会 化学物質安全対策部会 家庭用品安全対策調査会」 を開催します（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76512.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-01T05:00:00Z",
-      "published_label": "2026/10/01 14:00",
-      "summary": "",
+      "title": "高齢者向けの吸入デバイスは？使いやすい吸入器の選び方",
+      "link": "https://yakuzaic.com/archives/144540",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-02T22:00:00Z",
+      "published_label": "2026/10/03 07:00",
+      "summary": "高齢者向けの吸入デバイスは？ 吸入薬には、エリプタ、ディスカス、タービュヘイラー、ブリーズヘラー、レスピマット、エアゾール製剤など、さまざまな吸入デバイスがあります。 薬剤師「高齢者には、どの吸入デバイスが一番使いやすい […] The post 高齢者向けの吸入デバイスは？使いやすい吸入器の選び方 first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
-      "importance": 1,
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み",
+      "link": "https://yakuzaic.com/archives/144528",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-01T22:00:00Z",
+      "published_label": "2026/10/02 07:00",
+      "summary": "プラリアと関節リウマチ プラリア（一般名：デノスマブ）は、骨粗鬆症治療薬としてよく知られている薬です。 しかし、プラリアの効能・効果を見ると、 の2つが記載されています。 「骨粗鬆症の薬なのに、なぜ関節リウマチに使うの？ […] The post プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？",
+      "link": "https://yakuzaic.com/archives/144524",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-30T22:00:00Z",
+      "published_label": "2026/10/01 07:00",
+      "summary": "水溶性ビタミンならいくら摂っても大丈夫？ 「ビタミンはたくさん摂っても、余った分は尿から出るから大丈夫」 そんな話を聞いたことはないでしょうか。 確かに、ビタミンCやビタミンB群は「水溶性ビタミン」と呼ばれ、脂溶性ビタミ […] The post 水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1048,6 +1100,19 @@
       "keywords": []
     },
     {
+      "title": "尿路結石に使う薬は？適応のある薬・ない薬の違い",
+      "link": "https://yakuzaic.com/archives/144520",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-29T22:00:00Z",
+      "published_label": "2026/09/30 07:00",
+      "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "アゼルニジピン×クラリス併用禁忌！代替案は？",
       "link": "https://pharmacist.m3.com/column/special_feature/7872?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1065,6 +1130,19 @@
       "keywords": []
     },
     {
+      "title": "目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い",
+      "link": "https://yakuzaic.com/archives/144508",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-28T22:00:00Z",
+      "published_label": "2026/09/29 07:00",
+      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、 など、「目によさそう」な成分がたくさん並んでいます。 しかし、これらはすべて同じように「目が悪くなるのを防ぐ」も […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "「第2世代抗ヒスタミン薬の併用」について医師が回答",
       "link": "https://pharmacist.m3.com/column/clinical-soudan/7868?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1077,6 +1155,19 @@
         "薬物療法"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い",
+      "link": "https://yakuzaic.com/archives/144499",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-27T22:00:00Z",
+      "published_label": "2026/09/28 07:00",
+      "summary": "緑内障の手術の種類 緑内障というと、まず思い浮かぶ治療は点眼薬です。 プロスタグランジン関連薬、β遮断薬、炭酸脱水酵素阻害薬、α2作動薬、ROCK阻害薬など、現在は多くの緑内障治療薬があります。 しかし、点眼薬を何種類使 […] The post 緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1096,6 +1187,19 @@
       "keywords": []
     },
     {
+      "title": "何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬",
+      "link": "https://yakuzaic.com/archives/144496",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-26T22:00:00Z",
+      "published_label": "2026/09/27 07:00",
+      "summary": "高齢者の減量 「高齢者では減量すること」 薬の添付文書では、このような記載をよく見かけます。 しかし、「高齢者」とは何歳なのでしょうか？ 65歳でしょうか。75歳でしょうか。それとも、その患者の体格や身体機能をみて薬剤師 […] The post 何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "【2027年3月変更】選定療養とOTC類似薬の計算方法を解説",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7870?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1110,6 +1214,19 @@
         "選定療養"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧",
+      "link": "https://yakuzaic.com/archives/144493",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-25T22:00:00Z",
+      "published_label": "2026/09/26 07:00",
+      "summary": "腎機能と糖尿病治療薬 糖尿病患者では、糖尿病性腎症をはじめさまざまな理由で腎機能が徐々に低下していくことがあります。 そして糖尿病治療薬には、腎機能の影響を受ける薬が少なくありません。 薬局でも、「昔から同じ糖尿病薬を飲 […] The post 腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
