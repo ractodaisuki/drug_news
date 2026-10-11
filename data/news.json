@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-10T16:55:03.900684Z",
-  "updated_label": "2026/10/11 01:55",
-  "count": 114,
+  "updated_at": "2026-10-11T12:03:32.768177Z",
+  "updated_label": "2026/10/11 21:03",
+  "count": 118,
   "items": [
     {
       "title": "薬剤師の「正論」が裏目に出るとき、あるある",
@@ -821,6 +821,45 @@
       "keywords": []
     },
     {
+      "title": "脳卒中後、7割超に「ある異常」",
+      "link": "https://www.carenet.com/series/upgrade/cg004493_066.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-06T01:00:10Z",
+      "published_label": "2026/10/06 10:00",
+      "summary": "3ヵ月前に脳梗塞を発症した後、疲労や記憶障害を訴えて、48歳男性が受診。内服薬はアスピリン、ロサルタン、カルベジロール。血液検査では異常を認めません。実施すべき検査は？",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "バイオマーカーで診断・処方は決められる？",
+      "link": "https://www.carenet.com/series/tanaka/cg005721_002.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-06T01:00:00Z",
+      "published_label": "2026/10/06 10:00",
+      "summary": "長引く咳や息切れを訴える患者を診るとき、「血中好酸球数が低いから、喘息ではなくCOPDだろう」などと判断していませんか？ 今回は、2型炎症に関する2つのバイオマーカーについて解説します。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "GLP-1受容体作動薬はdual agonistのステージへ―ベストパートナーはGIPか、グルカゴンか、それともアミリンか？（解説：住谷哲氏）",
+      "link": "https://www.carenet.com/news/clear/journal/63712?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-06T01:00:00Z",
+      "published_label": "2026/10/06 10:00",
+      "summary": "アミリンは膵臓のβ細胞からインスリンと同時に分泌されるホルモンで、延髄の最後野area postrema に作用して食欲抑制や消化管運動抑制などの作用を有する。既にノボノルディスク社（以下ノボ社）が開発したアミリン…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "マグミット×タケキャブで効かない機序と服薬指導",
       "link": "https://pharmacist.m3.com/column/knowledge/7916?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -927,6 +966,19 @@
       "summary": "扶桑薬品は９月30日、岡山第二工場の建設に約140億円を投資すると発表した。粉末透析剤ラインを新設し、供給能力を拡大。",
       "tags": [
         "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "TTR遺伝子サイレンサーは、ATTR-CMの転帰を改善するか／JAMA",
+      "link": "https://www.carenet.com/news/journal/carenet/63741?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-05T19:00:00Z",
+      "published_label": "2026/10/06 04:00",
+      "summary": "TTR遺伝子サイレンサーは、肝臓での野生型、変異型双方のトランスサイレチン（TTR）の産生を抑制し、アミロイド線維の継続的な形成と組織への沈着に関与する循環血中の前駆体タンパク質の供給を低減する。TTR遺伝…",
+      "tags": [
+        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
