@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-11T12:03:32.768177Z",
-  "updated_label": "2026/10/11 21:03",
-  "count": 118,
+  "updated_at": "2026-10-11T19:19:13.772835Z",
+  "updated_label": "2026/10/12 04:19",
+  "count": 119,
   "items": [
+    {
+      "title": "教えて！化学療法開始後の看護のポイント",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/anursing/hatenurse/202610/594776.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-11T15:00:00Z",
+      "published_label": "2026/10/12 00:00",
+      "summary": "最近、外科病棟に配属された3年目の看護師です。先輩からケモ（癌化学療法）2～3日目の看護を勉強してきてと言われました。しかし、何から始めたらいいのかよく分かりません。病棟でよく使われている薬剤を調べて、その副作用に対する看護や観察項目、感染対策などを勉強すればよいのでしょうか？ 他にも勉強した方がいいことがあれば教えていただきたいです。",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "薬剤師の「正論」が裏目に出るとき、あるある",
       "link": "https://pharmacist.m3.com/column/shikujiri/7924?promotionCode=op_pcolumn",
