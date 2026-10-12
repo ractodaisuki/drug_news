@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-11T19:19:13.772835Z",
-  "updated_label": "2026/10/12 04:19",
+  "updated_at": "2026-10-12T10:11:07.805238Z",
+  "updated_label": "2026/10/12 19:11",
   "count": 119,
   "items": [
+    {
+      "title": "薬局実習、薬学生指導のポイントは【第9週目】",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/practicenavi/202610/594671.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-11T15:00:00Z",
+      "published_label": "2026/10/12 00:00",
+      "summary": "本連載では、2026年度第3期の実習日に合わせて、指導薬剤師が押さえておきたい「指導のポイント」を毎週月曜日に公開。さらに、その週に学んだ内容を学生がどれくらい理解しているかチェックできる「理解度チェック問題」を1問、薬剤師国家試験の過去問より出題します。解答・解説は、メディックメディアが提供します。メディックメディアの過去問演習サービス「QB薬剤師国試」を利用すれば、実習に関連した毎週20問前後の過去問にも挑戦できます。（※ご利⽤に…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "教えて！化学療法開始後の看護のポイント",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/anursing/hatenurse/202610/594776.html",
@@ -654,20 +667,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "26種のNTMを同定できるキットの保険適用で学会が「提言」公表",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202610/594811.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-07T15:00:00Z",
-      "published_label": "2026/10/08 00:00",
-      "summary": "2026年10月1日、日本結核・非結核性抗酸菌症学会は「MEBGEN抗酸菌核酸同定キットの臨床活用の提言」を公表した。2種類の結核菌に加えて、26種類の非結核性抗酸菌（NTM）症を同定できるMEBGEN抗酸菌核酸同定キットの保険適用を受けたもの。 提言では、キットの使用が想定される場面として、結核またはNTM症の疑い患者に対する検査フローのうち、従来検査（結核菌群核酸検出検査、Mycobacterium avium complex［M…",
-      "tags": [
-        "薬価・制度",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
