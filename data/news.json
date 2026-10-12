@@ -1,8 +1,114 @@
 {
-  "updated_at": "2026-10-12T10:11:07.805238Z",
-  "updated_label": "2026/10/12 19:11",
+  "updated_at": "2026-10-12T20:52:02.621545Z",
+  "updated_label": "2026/10/13 05:52",
   "count": 119,
   "items": [
+    {
+      "title": "上野厚労相 マンジャロの韓国への持ち込み増 帰国後の使用目的での処方は「医療安全の観点から適切ではな...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81017",
+      "source": "ミクスOnline",
+      "published": "2026-10-12T19:51:00Z",
+      "published_label": "2026/10/13 04:51",
+      "summary": "上野賢一郎厚労相は10月９日の定例会見で、２型糖尿病治療薬・マンジャロの日本から韓国への持ち込みが増えているとの一部報道について、「帰国後に使用するなどの目的で、医師が外国人旅行者に過剰な期間分の医薬品を処方することは、患者の医療安全の観点からも適切ではない」との認識を示した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "東邦HD PHC HD買収の「検討を終了」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81016",
+      "source": "ミクスOnline",
+      "published": "2026-10-12T19:51:00Z",
+      "published_label": "2026/10/13 04:51",
+      "summary": "東邦ホールディングスは10月９日、PHCホールディングスの買収検討について、「本件に関する検討を終了することにした」と発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "NPhA・藤井会長 中医協への保険薬局事業者の参画を要望 「実態を制度設計に反映できる体制求める」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81018",
+      "source": "ミクスOnline",
+      "published": "2026-10-12T19:50:00Z",
+      "published_label": "2026/10/13 04:50",
+      "summary": "日本保険薬局協会（NPhA）の藤井江美会長は10月８日の定例会見で、中央社会保険医療協議会（中医協）の機能・委員構成の見直しに関する議論について、「保険薬局事業者の代表が参画し、現在の実態を制度設計に反映できる体制を求める」との意向を表明した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "美容医療用のE型ボツリヌス毒素製剤・ボーウィを審議へ 10月26日の第一部会で",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81015",
+      "source": "ミクスOnline",
+      "published": "2026-10-12T19:50:00Z",
+      "published_label": "2026/10/13 04:50",
+      "summary": "厚生労働省は10月26日に薬事審議会・医薬品第一部会を開き、アッヴィの眉間の表情皺に使用する美容医療用のE型ボツリヌス毒素製剤・ボーウィ注用（一般名：トレニボツリヌストキシンＥ）の承認の可否を審議する。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "往診料と訪問診療料の違い、分かりますか？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594856.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-12T15:00:00Z",
+      "published_label": "2026/10/13 00:00",
+      "summary": "問い 往診料と訪問診療料について、正しい記述はどれでしょうか？ （1）「在宅患者訪問診療料（I）の1」は原則週3回まで算定できるが、「在宅患者訪問診療料（I）の2」は月1回しか算定できない（2）同一世帯で同一日に2人以上の患者に訪問診療を行った場合、2人目以降も訪問診療料を算定する（3）在宅患者訪問診療料は、訪問診療の開始時刻と終了時刻、診療場所をカルテに記載しなければならない（4）往診料は、定期的・計画的な訪問の場合は算定できない（…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "「どうせ先生は、私のことなんか忘れちゃうでしょ」…あの注射薬が消える日に",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/hirohashi/202610/594831.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-12T15:00:00Z",
+      "published_label": "2026/10/13 00:00",
+      "summary": "皆さん、こんにちは。 吐き気止めの注射薬が1つ、静かに姿を消しつつあります。プロクロルペラジン（商品名ノバミン）の筋注製剤です。原薬の確保が難しくなったことから販売中止となり、私の勤務する病院でも、もうほとんど処方できなくなりました。同じような状況の施設が、多いのではないでしょうか。錠剤は引き続き使えますが、同じ成分の注射薬は他にありません。 病棟で吐き気止めの指示を出したことのある方なら、一度はこの薬にお世話になったのではないでしょ…",
+      "tags": [
+        "供給・出荷"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "トリプルアゴニスト「retatrutide」の臨床試験",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202610/594822.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-12T15:00:00Z",
+      "published_label": "2026/10/13 00:00",
+      "summary": "本コラムでは、Googleが提供する学術雑誌のインパクト指標「h5-index」から、各領域10誌を抽出。それを元に世界中で最も多くポストされた論文を紹介する。 9月28日～10月4日に最もポスト数が多かったのは、NEJM誌の論文「Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity」（トリプルホルモン受容体作動薬retatrutideによる肥…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "製薬各社に聞く「開発中のGLP-1関連薬、何が新しい？」",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/202610/594829.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-12T15:00:00Z",
+      "published_label": "2026/10/13 00:00",
+      "summary": "肥満症・糖尿病領域におけるゲームチェンジャーとも言える、グルカゴン様ペプチド（GLP）-1受容体作動薬。高い治療効果はさることながら、その適正使用については国が定期的に注意喚起しており、日本肥満学会も見解を表明したばかりだ（関連記事：「安全な減量に関するステートメント」公表、GLP-1関連薬使用者のケトーシス報告増加受け）。実用化から数年がたった今でも日々の報道で目にする機会は多く、話題が尽きない。 そんなGLP-1関連薬だが、今最も…",
+      "tags": [
+        "業界動向",
+        "安全性情報",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "薬局実習、薬学生指導のポイントは【第9週目】",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/practicenavi/202610/594671.html",
@@ -523,19 +629,6 @@
       "keywords": []
     },
     {
-      "title": "気管支拡張症の好中球性炎症を抑えるDPP1阻害薬",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202610/594810.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-08T15:00:00Z",
-      "published_label": "2026/10/09 00:00",
-      "summary": "2026年8月24日、選択的可逆的DPP1阻害薬ブレンソカチブ水和物（商品名ブリヌスプリ錠25mg）の製造販売が承認された。適応は「非嚢胞性線維症性気管支拡張症」、用法用量は「成人および12歳以上の小児に、1日1回25mgを経口投与する」となっている。 気管支拡張症は、咳嗽、喀痰、反復性の気道感染などを主症状とした慢性炎症性肺疾患であり、気道の不可逆的な拡張を伴い、しばしば急性増悪を繰り返す。気管支拡張症の背景疾患は、嚢胞性線維症（C…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "令和８年度 地域における医薬品提供体制等の構築・強化に係るモデル事業",
       "link": "https://www.mhlw.go.jp/stf/newpage_76653.html",
       "source": "厚生労働省 新着情報",
@@ -628,45 +721,6 @@
         "法令・行政"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬局のカスハラ対策、「従業員を守る」視点で体制整備を",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594785.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-07T15:00:00Z",
-      "published_label": "2026/10/08 00:00",
-      "summary": "患者からの暴言や威圧的な言動など、カスタマーハラスメント（以下、カスハラ）は、薬局でも深刻な問題となっている。2026年10月に、全ての事業主に対してカスハラ対策が義務化された。薬局にはどのような体制整備が求められるのか。現場の実態とともに解説する。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "「痛みが強くなってから薬を飲む」片頭痛治療薬は過小使用にも留意を",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594328.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-07T15:00:00Z",
-      "published_label": "2026/10/08 00:00",
-      "summary": "片頭痛の慢性化の要因の一つとして、非ステロイド抗炎症薬（NSAIDs）やトリプタンなどの片頭痛治療薬の過剰使用による頭痛（medication overuse headache：MOH）が知られています。それに加えて近年、慢性化への寄与が指摘されているのが、片頭痛治療薬の不十分な使用、すなわち「過少使用」によるリスクです1）。 過少使用とは、適切な薬剤を選択していても、「服薬タイミングが遅れる」「必要量を控える」「費用や副作用への不安…",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "インフルワクチン、約36％の医師が「接種開始を早めた」",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/1000research/202610/594779.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-07T15:00:00Z",
-      "published_label": "2026/10/08 00:00",
-      "summary": "「9月からインフルエンザの患者で病床が埋まってきた」という声が聞かれるなど、例年より大幅に早く流行が始まった、2026/27シーズンのインフルエンザ。流行の早期開始は、医療現場のワクチン接種体制にどのような影響を及ぼしているのだろうか。 その実態を明らかにする目的で、日経メディカル Onlineは、医師会員を対象に、2026年9月21日～10月4日にかけて、今シーズンのインフルエンザ予防接種に関するインターネット調査を実施。8777人…",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -956,33 +1010,6 @@
       "keywords": []
     },
     {
-      "title": "科研製薬 フィブラストの美容目的の適応外使用 医療従事者に再度注意喚起 PMDAを通じて",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80985",
-      "source": "ミクスOnline",
-      "published": "2026-10-05T19:50:00Z",
-      "published_label": "2026/10/06 04:50",
-      "summary": "科研製薬は10月５日、しわ取りなどの美容目的での適応外使用が問題となっている褥瘡・皮膚潰瘍治療用外用薬・フィブラストスプレー（一般名：トラフェルミン（遺伝子組換え））の適正使用に向け、初めてPMDAを通じた医療従事者への注意喚起を行った。",
-      "tags": [
-        "業界動向",
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "扶桑薬品 岡山第二工場に粉末透析剤ライン新設、140億円投資 国内生産拠点を再編・集約",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80989",
-      "source": "ミクスOnline",
-      "published": "2026-10-05T19:48:00Z",
-      "published_label": "2026/10/06 04:48",
-      "summary": "扶桑薬品は９月30日、岡山第二工場の建設に約140億円を投資すると発表した。粉末透析剤ラインを新設し、供給能力を拡大。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "TTR遺伝子サイレンサーは、ATTR-CMの転帰を改善するか／JAMA",
       "link": "https://www.carenet.com/news/journal/carenet/63741?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
@@ -1030,33 +1057,6 @@
       "summary": "蛋白尿と腎機能 健康診断などで「尿蛋白＋」と言われると、「尿から蛋白が出ているから、体の蛋白が減ってしまうのだろうか？」と思うかもしれない。 確かにネフローゼ症候群のように大量の蛋白が尿中へ失われれば、低アルブミン血症や […] The post 蛋白尿は何が悪い？―腎機能低下のサインだけではない first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ダイト松森社長 国の安定供給実現へ共創機構を「絶対成功させる」 過去最大規模の投資で「背水の陣」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80982",
-      "source": "ミクスOnline",
-      "published": "2026-10-04T21:00:00Z",
-      "published_label": "2026/10/05 06:00",
-      "summary": "ダイトの松森浩士代表取締役社長兼CEOは10月２日、本誌取材に応じ、「日本の医薬品安定供給に向けて、 “医薬品共創機構”のビジネスを絶対成功させる」と力を込めた。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "第一三共 Dato-DXdとPD-1/VEGF二重特異性抗体の併用療法で米Summit社と提携 TN...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80980",
-      "source": "ミクスOnline",
-      "published": "2026-10-04T19:52:00Z",
-      "published_label": "2026/10/05 04:52",
-      "summary": "第一三共は10月２日、ダトポタマブ デルクステカン（Dato-DXd/DS-1062、抗TROP2抗体薬物複合体（ADC）とIvonescimab（PD-1/VEGF二重特異性抗体）の併用療法に関する臨床試験の提携で米・Summit Therapeutics社と合意したと発表した。",
-      "tags": [
-        "業界動向",
-        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
