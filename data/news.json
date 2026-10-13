@@ -1,10 +1,219 @@
 {
-  "updated_at": "2026-10-12T20:52:02.621545Z",
-  "updated_label": "2026/10/13 05:52",
-  "count": 119,
+  "updated_at": "2026-10-13T02:24:17.603432Z",
+  "updated_label": "2026/10/13 11:24",
+  "count": 122,
   "items": [
     {
-      "title": "上野厚労相 マンジャロの韓国への持ち込み増 帰国後の使用目的での処方は「医療安全の観点から適切ではな...",
+      "title": "昭薬同窓会・平成塾 生涯学習講座 2026/11",
+      "link": "https://www.yakuji.co.jp/entry140345.html",
+      "source": "薬事日報",
+      "published": "2026-10-13T01:30:18Z",
+      "published_label": "2026/10/13 10:30",
+      "summary": "平成塾薬剤師業務支援講座4 開催日時 2026年11月8日(日)13:00～14:30 開催方法 Web(Zoom)による遠隔研修会 受講料 1,000円(昭和…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【大塚製薬】実行機能障害など改善‐新規ADHD薬の追加解析",
+      "link": "https://www.yakuji.co.jp/entry140298.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T23:31:10Z",
+      "published_label": "2026/10/13 08:31",
+      "summary": "大塚製薬は、米国で7月に成人ADHD治療薬として米国で承認された1日1回投与の徐放性経口剤センタナファジンについて、不安症を併発する成人患者を対象とした第II…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【エーザイ／米メルク】腎細胞癌で米承認取得‐レンビマ、ウェリレグ併用療法",
+      "link": "https://www.yakuji.co.jp/entry140299.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T23:30:38Z",
+      "published_label": "2026/10/13 08:30",
+      "summary": "エーザイと米メルクは9月28日、エーザイが創製した経口マルチキナーゼ阻害剤「レンビマ」（一般名：レンバチニブメシル酸塩）と、メルクの経口低酸素誘導因子2アルフ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【第一三共ヘルスケア】独自開発の香りを付与した化粧品を用いたスキンケアが、リラックス状態の誘導やストレス反応の緩和に寄与する可能性があることを確認",
+      "link": "https://www.yakuji.co.jp/entry140361.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:39:49Z",
+      "published_label": "2026/10/13 07:39",
+      "summary": "第一三共ヘルスケアは、同社が開発した香りを付与した化粧品を用いたスキンケアが、作業ストレス負荷時の気分状態やストレス反応に与える影響を検証。その結果、主観的気…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】2IN1オイル美容液ミスト、ラックストリートメントシリーズが新登場‐「MIRRORIST by LUX（ミラリスト バイ ラックス）」 ユニリーバ・ジャパン・カスタマーマーケティング",
+      "link": "https://www.yakuji.co.jp/entry140359.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:38:32Z",
+      "published_label": "2026/10/13 07:38",
+      "summary": "ユニリーバ・ジャパン・カスタマーマーケティングが展開するトータルビューティーケアブランド「LUX（ラックス）」は、新たなトリートメントライン「MIRRORIS…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【テルモ】TerumoBCTとCSL Plasma社との供給契約を合意解除",
+      "link": "https://www.yakuji.co.jp/entry140357.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:36:03Z",
+      "published_label": "2026/10/13 07:36",
+      "summary": "テルモは10月8日、同社の完全子会社であるTerumo Blood and Cell Technologies（Terumo BCT）の主要取引先であるCSL…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【nishikawa】「はじめよう。＃寝たよアピール」キャンペーン実施へ",
+      "link": "https://www.yakuji.co.jp/entry140355.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:35:51Z",
+      "published_label": "2026/10/13 07:35",
+      "summary": "西川（nishikawa）は「ふとんの日」の10月10日から10月23日まで、創業460周年事業の一環として10月2日から展開している日本中を眠りで元気にする…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士通】量子コンピューティング研究センター設立へ‐米ニューメキシコ州と協業を開始",
+      "link": "https://www.yakuji.co.jp/entry140354.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:34:51Z",
+      "published_label": "2026/10/13 07:34",
+      "summary": "富士通は10月8日、米国ニューメキシコ州と、量子コンピューティングにおける技術開発と専門人材育成を行う量子コンピューティング研究センター設立に向けた協業を開始…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【キュアコード】「とやま健康企業宣言 Step2（金）」に認定",
+      "link": "https://www.yakuji.co.jp/entry140352.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:33:15Z",
+      "published_label": "2026/10/13 07:33",
+      "summary": "キュアコードは10月9日、9月17日に健康企業宣言富山推進協議会が実施している「とやま健康企業宣言」の「Step2（金）」の認定を交付されたと発表した。 同…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【J&J】「更年期と目の健康」で調査を実施‐「目の不調」感じるは7割、眼科医へ相談が1割",
+      "link": "https://www.yakuji.co.jp/entry140351.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:32:38Z",
+      "published_label": "2026/10/13 07:32",
+      "summary": "ジョンソン・エンド・ジョンソンはこのほど、日本を含む世界6カ国（日本、米国、英国、ブラジル、韓国、中国）の女性6000人を対象に、「更年期と目の健康」の関連性…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【オムロンHC】Bリーグ・東京サンロッカーズとサプライヤー契約",
+      "link": "https://www.yakuji.co.jp/entry140350.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:31:18Z",
+      "published_label": "2026/10/13 07:31",
+      "summary": "オムロンヘルスケアはこのほど、プロバスケットボールリーグB.LEAGUE（Bリーグ）所属の「東京サンロッカーズ」と、2026-27シーズンのサプライヤー契約を…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【ウィーメックス】処方箋入力業務で「リモートアシスト機能」の提供開始‐遠隔での分担を可能にする新機能",
+      "link": "https://www.yakuji.co.jp/entry140349.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T22:30:51Z",
+      "published_label": "2026/10/13 07:30",
+      "summary": "ウィーメックスは10月下旬から、保険薬局における処方箋入力業務の遠隔での分担を可能にする新機能「リモートアシスト機能」の提供を開始する。同機能は、保険薬局用ハ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "OTCの知識や使い方発信‐一般薬連など、普及啓発イベント開催",
+      "link": "https://www.yakuji.co.jp/entry140296.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T21:31:15Z",
+      "published_label": "2026/10/13 06:31",
+      "summary": "一般用医薬品関連の各団体共催によるOTC医薬品普及啓発イベント「よく知って、正しく使おうOTC医薬品―今こそセルフメディケーション、さあ実践。」が今月2、3日…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【GE薬協 川俣会長】需要急増、増産追いつかず‐数量シェア拡大に貢献も",
+      "link": "https://www.yakuji.co.jp/entry140291.html",
+      "source": "薬事日報",
+      "published": "2026-10-12T21:30:23Z",
+      "published_label": "2026/10/13 06:30",
+      "summary": "日本ジェネリック製薬協会会長の川俣知己氏（日新製薬社長）は10月1日、大阪市で開かれたインターフェックスで講演し、業界が増産を重ねて数量シェアの拡大を支えた一…",
+      "tags": [
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "創薬力官民協議会部会 官民共同AI創薬基盤構築は「日本の勝ち筋」 国際拠点型臨床研究中核病院整備も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81019",
+      "source": "ミクスOnline",
+      "published": "2026-10-12T20:45:00Z",
+      "published_label": "2026/10/13 05:45",
+      "summary": "「創薬力向上のための官民協議会 施策検討・推進部会」は10月９日、ＡＩやデータ利活用をテーマに議論した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬局DX推進コンソーシアム 改正薬機法に対応した特区提案を実施 受託薬局から患者宅への直送など想定",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81005",
+      "source": "ミクスOnline",
+      "published": "2026-10-12T19:52:00Z",
+      "published_label": "2026/10/13 04:52",
+      "summary": "一般社団法人 薬局DX推進コンソーシアムは10月7日、幕張メッセで開催されたメディカルジャパン・セミナーで、「一包化の先へ―調剤外部委託は薬局DXをどこまで進化させるか」と題するパネルディスカッションを開催した。同コンソーシアムの中崎正太郎事務局長は、27年5月20日施行の改正薬機法により調剤業務の一部（一包化および同一時点で服用する薬剤の組み合わせ作業）を同一都道府県内の他の薬局に外部委託できるようになると説明。法改正に対応した特区…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "上野厚労相 マンジャロの韓国への持ち込み増 帰国後の使用目的の処方「医療安全の観点から適切でない」",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81017",
       "source": "ミクスOnline",
       "published": "2026-10-12T19:51:00Z",
@@ -51,6 +260,19 @@
       "summary": "厚生労働省は10月26日に薬事審議会・医薬品第一部会を開き、アッヴィの眉間の表情皺に使用する美容医療用のE型ボツリヌス毒素製剤・ボーウィ注用（一般名：トレニボツリヌストキシンＥ）の承認の可否を審議する。",
       "tags": [
         "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "新たな後発品「ステルスAG」が業界を席巻する?",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/inout/202610/594852.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-12T15:00:00Z",
+      "published_label": "2026/10/13 00:00",
+      "summary": "先発品メーカーから許諾を得て製造・販売される、オーソライズド・ジェネリック（AG）。2026年度の薬価制度改革で、26年10月以降に登場するAGの薬価は、先発品と同額にするという新ルールとなった。これは、AGが市場で大きなシェアを取り、後発品の適正な市場競争を妨げているという指摘などに、国が対応した結果だ。しかし、現場では新たな疑念が生じている。",
+      "tags": [
+        "薬価・制度"
       ],
       "importance": 4,
       "keywords": []
@@ -317,166 +539,6 @@
       "summary": "フィリップス・ジャパンはこのほど、9月2日に、同社麻布台本社で9月3日の「睡眠の日」に向け、睡眠時無呼吸症候群（SAS）の早期発見・早期治療の重要性をテーマと…",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "24、25日に板橋区で野外音楽フェスティバルを開催 タニタ",
-      "link": "https://www.yakuji.co.jp/entry140293.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T22:33:32Z",
-      "published_label": "2026/10/09 07:33",
-      "summary": "タニタは10月24、25日の両日、東京・板橋区新河岸の荒川戸田橋緑地バーベキュー場（板橋区新河岸1-25）で、板橋区出身の4人組ロックバンド「the band…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】研究・イノベーション分野でタイの研究機関と協力意向表明書を締結",
-      "link": "https://www.yakuji.co.jp/entry140288.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T22:32:32Z",
-      "published_label": "2026/10/09 07:32",
-      "summary": "島津製作所は10月5日、タイ国家研究評議会（National Research Council of Thailand：NRCT）およびタイ科学技術研究所（T…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】ラブ・ライナーから下まぶたんに仕込む、透け色ペンシルアイライナーが数量限定で登場 msh",
-      "link": "https://www.yakuji.co.jp/entry140283.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T22:31:15Z",
-      "published_label": "2026/10/09 07:31",
-      "summary": "mshが展開するアイメイクブランド「ラブ・ライナー」は、ペンシルアイライナーからシアー発色の限定色「シアーコレクション」を、10月上旬より順次数量限定で発売。…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【第一三共ヘルスケア】ビタミンCなどの内服成分と外用成分トラネキサム酸の組み合わせにより、紫外線による皮膚の明度低下に対し、単独の場合を上回る抑制効果を確認",
-      "link": "https://www.yakuji.co.jp/entry140281.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T22:30:59Z",
-      "published_label": "2026/10/09 07:30",
-      "summary": "第一三共ヘルスケアは、ヒトの摘出皮膚を用いた内外適用モデルによる試験を行い、ビタミンCなどの内服成分と外用成分であるトラネキサム酸を組み合わせることで、単独の…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【薬価専門部会】新薬は「乖離率1倍以上に」‐中間年改定で日薬委員主張",
-      "link": "https://www.yakuji.co.jp/entry140285.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T21:31:14Z",
-      "published_label": "2026/10/09 06:31",
-      "summary": "中央社会保険医療協議会薬価専門部会は、2027年度中間年薬価改定に向け、既収載品のうち長期収載品を含む新薬の取り扱いについて議論した。診療側の渡邊大記委員（日…",
-      "tags": [
-        "薬価・制度",
-        "承認・新薬"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】加算係数ゼロは5品目に‐14日に11成分14品目収載",
-      "link": "https://www.yakuji.co.jp/entry140295.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T21:30:07Z",
-      "published_label": "2026/10/09 06:30",
-      "summary": "ナルコレプシーの新薬も 厚生労働省は14日付で、新薬11成分14品目を薬価基準に収載する（表参照）。グラクソ・スミスクラインの抗ウイルス剤「ヒブサーゴ皮下注1…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【人事・組織】1日付 トモズ",
-      "link": "https://www.yakuji.co.jp/entry140278.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T21:06:25Z",
-      "published_label": "2026/10/09 06:06",
-      "summary": "執行役員人事 開発部兼店装部分掌渡邊晋 組織改正 開発一部と開発二部を廃止し、開発部を新設する",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【人事】16日付 ツルハグループマーチャンダイジング",
-      "link": "https://www.yakuji.co.jp/entry140277.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T21:05:49Z",
-      "published_label": "2026/10/09 06:05",
-      "summary": "物流本部物流部長（ツルハグループマーチャンダイジング出向とする）板嶌貴之、（ウエルシア薬局人事部長付）（ツルハグループマーチャンダイジング出向を解く）千葉義樹",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【人事】1日付 ツルハホールディングス",
-      "link": "https://www.yakuji.co.jp/entry140276.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T21:04:27Z",
-      "published_label": "2026/10/09 06:04",
-      "summary": "取締役執行役員グループ営業・商品管掌兼グループ調剤運営部門担当調剤運営本部長兼ウエルシアHD管掌桐澤英明、執行役員グループ調剤運営部門担当調剤運営副本部長野村…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "クシュナー氏が日本代表に 米国研究製薬工業協会",
-      "link": "https://www.yakuji.co.jp/entry140272.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T21:03:35Z",
-      "published_label": "2026/10/09 06:03",
-      "summary": "米国研究製薬工業協会（PhRMA）は6日、日本代表のハンス・クレム氏の後任に、ジョナサン・クシュナー氏を任命したと発表した。クシュナー氏は、主に日本を拠点にア…",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "事業主のカスハラ対策義務化始まる",
-      "link": "https://www.yakuji.co.jp/entry140273.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T21:02:19Z",
-      "published_label": "2026/10/09 06:02",
-      "summary": "2026年度は下半期に入ったが、10月1日からは値上げラッシュとなった。帝国データバンクによると、10月に値上げする飲食料品は3000品目を超え、9月の約50…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "身近な医療者",
-      "link": "https://www.yakuji.co.jp/entry140274.html",
-      "source": "薬事日報",
-      "published": "2026-10-08T21:01:48Z",
-      "published_label": "2026/10/09 06:01",
-      "summary": "◆ある学会で、薬剤師は薬を渡すだけでなく、困った時に相談できる「身近な医療者」だという話を聞いた ◆学生時代にラオスを旅した。胃腸だけは強い無季言子は、屋台で調…",
-      "tags": [
-        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
@@ -979,32 +1041,6 @@
       "tags": [
         "業界動向",
         "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本BI デュアルアゴニストsurvodutide の第3相試験 日本人肥満症患者で有意な体重減 肝...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80988",
-      "source": "ミクスOnline",
-      "published": "2026-10-05T19:50:00Z",
-      "published_label": "2026/10/06 04:50",
-      "summary": "日本ベーリンガーインゲルハイムは10月５日、日本人の肥満症患者を対象とした新規グルカゴン受容体／GLP-1受容体デュアルアゴニスト・survodutide（開発コード：BI456906）の第３相臨床試験「SYNCHRONIZE-JP」結果を発表した。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "アッヴィ イノベーション・アワード最高賞にTuning Fork Bioを選出 BioLabsの無料...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80987",
-      "source": "ミクスOnline",
-      "published": "2026-10-05T19:50:00Z",
-      "published_label": "2026/10/06 04:50",
-      "summary": "アッヴィは10月5日、米BioLabsと共同開催する「アッヴィ・ジャパン・イノベーション・アワード」で、独自の抗体プロファイリング技術を持つTuning Fork Bioが「ゴールデン・チケット・プログラム」を受賞したと発表した。",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
