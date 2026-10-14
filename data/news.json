@@ -1,8 +1,100 @@
 {
-  "updated_at": "2026-10-14T14:19:06.210884Z",
-  "updated_label": "2026/10/14 23:19",
-  "count": 118,
+  "updated_at": "2026-10-14T19:09:34.596792Z",
+  "updated_label": "2026/10/15 04:09",
+  "count": 115,
   "items": [
+    {
+      "title": "クラビットとフルメトロンどっちが先？点眼指導法",
+      "link": "https://pharmacist.m3.com/column/eye_drops/7932?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-14T19:09:33.558251Z",
+      "published_label": "2026/10/15 04:09",
+      "summary": "複数点眼薬の併用時、「なぜこの順番？」という患者さんの疑問に根拠を持って答えられますか？本記事では、剤形ごとの基本ルールから添付文書上の注意点、迷いがちな組み合わせの判断基準までを整理します。日常業務に即活用できる「患者さんが納得し正しく使える服薬指導法」をわかりやすく紹介します。",
+      "tags": [
+        "薬剤師コラム"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "情報漏洩のごめんなさいに見る大企業と薬局の圧倒的格差",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202610/594821.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-14T15:00:00Z",
+      "published_label": "2026/10/15 00:00",
+      "summary": "最近、大企業や公的機関による個人情報の漏洩ニュースをよく目にします。数十万件、数百万件といった途方もない数字が並びますが、あまりに頻繁に起きるせいか、世間の反応もどこか麻痺してきているように感じます。今がチャンスとばかりに、どさくさに紛れて公表している企業もあるとかないとか。そうした企業などのニュースリリースを見ると、決まって「現時点で悪用された形跡は確認されておりません」という言葉が添えられています。あれを見るたびに、「そりゃそうだ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "生成AI時代に価値が高まるのは「気づき」の感性と「問い」への変換",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/aiaoshima/202610/594745.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-14T15:00:00Z",
+      "published_label": "2026/10/15 00:00",
+      "summary": "2022年11月にChatGPTが一般公開されて以来、テキスト生成AI（人工知能）の性能は飛躍的に向上しました。最新のAIモデルにあっては、多くのベンチマークテストで平均的な人間の知能指数を上回ることが示されています。 これまでの社会では、論理的に思考する知的労働に高い価値が置かれてきました。しかし、知的労働において高い生産性を誇る生成AIが登場したことにより、人の専門性が脅かされるのでなかいかという議論も増えています。 こうした時代…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "タブネオスのブルーレターから考える、薬剤師が担うべき4つの役割とは",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/yorinukidi/202610/594746.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-14T15:00:00Z",
+      "published_label": "2026/10/15 00:00",
+      "summary": "医薬品の市販後安全対策において、緊急安全性情報（イエローレター）や安全性速報（ブルーレター）は、通常の「使用上の注意」の改訂よりも迅速な対応が求められる、緊急性の高い安全性情報です。イエローレターは、緊急に安全対策上の措置を講じる必要がある場合に発出され、ブルーレターはこれに準じ、迅速な注意喚起や適正使用のための対応が必要な場合に発出されます（表1）。 薬局や病院薬剤部において、医薬品に関する情報を、必要な職員や対象患者へ適切に伝達・…",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 5,
+      "keywords": []
+    },
+    {
+      "title": "バイオシミラー、切り替えの支援は薬剤師の役割",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/interview/202610/594787.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-14T15:00:00Z",
+      "published_label": "2026/10/15 00:00",
+      "summary": "医療費抑制のため、バイオ後続品（バイオシミラー）の使用促進を図る医療機関が増えている。2026年度診療報酬改定では、バイオシミラーが一般名処方加算の対象となり、薬局でもバイオシミラーの情報提供や、調剤の体制・実績が評価されるようになった。先駆的に薬局と連携し、使用推進に取り組んできた福岡大学病院の兼重晋氏に、効果的な連携の取り組みや、薬剤師に求められる役割を聞いた。",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "「顔のほてりなど様々な症状を訴える中年女性」に処方すべき漢方薬は？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/ito/202610/594623.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-14T15:00:00Z",
+      "published_label": "2026/10/15 00:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "書籍紹介『訪問看護師のための診療報酬＆介護報酬のしくみと基本』（メディカ出版）",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/clinic/nhc/jyoho/202610/594839.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-14T15:00:00Z",
+      "published_label": "2026/10/15 00:00",
+      "summary": "訪問看護ならではの複雑な制度や仕組みを分かりやすく図解し、ビジュアルで理解できる解説書。医療保険及び介護保険の制度と訪問看護との関係性を中心に整理・解説しており、訪問看護制度を理解するための入門書となっている。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「不眠を訴える患者にベルソムラからデエビゴへ処方変更されたのはなぜ？」",
       "link": "https://pharmacist.m3.com/column/movie/7894?promotionCode=op_pcolumn",
@@ -15,45 +107,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "ロボット支援手術「年間200例」の壁、集約化で病院はどうなる",
-      "link": "https://www.carenet.com/hihyowed/336.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-14T01:00:00Z",
-      "published_label": "2026/10/14 10:00",
-      "summary": "年間200例以上の実績を要件に新設の「内視鏡手術用支援機器加算」。ロボット支援手術の採算改善が期待される一方、基準を満たせない病院はどうなるか。集約化と外科医確保の両立を目指す診療報酬の課題を考える。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "注目の膵がん治療薬daraxonrasib（RASONQUE）が米国で承認…その余波は？",
-      "link": "https://www.carenet.com/series/samurai/cg002850_194.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-14T01:00:00Z",
-      "published_label": "2026/10/14 10:00",
-      "summary": "ダートマス大学 腫瘍内科の白井敬祐氏が、米国のがん診療の現状を語る。今回は「注目の膵がん治療薬daraxonrasib（RASONQUE）が米国で承認…その余波は？」。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "急性前立腺炎の治療、薬剤の移行性を考慮すべき？",
-      "link": "https://www.carenet.com/series/yamamoto/cg005130_035.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-14T01:00:00Z",
-      "published_label": "2026/10/14 10:00",
-      "summary": "抗菌薬処方を考慮する際、適応菌種や適応症はもちろんのこと、感受性や臓器移行性などの考慮が必要ですが、今回の急性前立腺炎の治療を決定づける際にはどのように判断するとよいでしょう。山本舜悟氏が答えます。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -501,73 +554,6 @@
       "keywords": []
     },
     {
-      "title": "「どうせ先生は、私のことなんか忘れちゃうでしょ」…あの注射薬が消える日に",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/hirohashi/202610/594831.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-12T15:00:00Z",
-      "published_label": "2026/10/13 00:00",
-      "summary": "皆さん、こんにちは。 吐き気止めの注射薬が1つ、静かに姿を消しつつあります。プロクロルペラジン（商品名ノバミン）の筋注製剤です。原薬の確保が難しくなったことから販売中止となり、私の勤務する病院でも、もうほとんど処方できなくなりました。同じような状況の施設が、多いのではないでしょうか。錠剤は引き続き使えますが、同じ成分の注射薬は他にありません。 病棟で吐き気止めの指示を出したことのある方なら、一度はこの薬にお世話になったのではないでしょ…",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "トリプルアゴニスト「retatrutide」の臨床試験",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202610/594822.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-12T15:00:00Z",
-      "published_label": "2026/10/13 00:00",
-      "summary": "本コラムでは、Googleが提供する学術雑誌のインパクト指標「h5-index」から、各領域10誌を抽出。それを元に世界中で最も多くポストされた論文を紹介する。 9月28日～10月4日に最もポスト数が多かったのは、NEJM誌の論文「Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity」（トリプルホルモン受容体作動薬retatrutideによる肥…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "製薬各社に聞く「開発中のGLP-1関連薬、何が新しい？」",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/202610/594829.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-12T15:00:00Z",
-      "published_label": "2026/10/13 00:00",
-      "summary": "肥満症・糖尿病領域におけるゲームチェンジャーとも言える、グルカゴン様ペプチド（GLP）-1受容体作動薬。高い治療効果はさることながら、その適正使用については国が定期的に注意喚起しており、日本肥満学会も見解を表明したばかりだ（関連記事：「安全な減量に関するステートメント」公表、GLP-1関連薬使用者のケトーシス報告増加受け）。実用化から数年がたった今でも日々の報道で目にする機会は多く、話題が尽きない。 そんなGLP-1関連薬だが、今最も…",
-      "tags": [
-        "業界動向",
-        "安全性情報",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬局実習、薬学生指導のポイントは【第9週目】",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/practicenavi/202610/594671.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-11T15:00:00Z",
-      "published_label": "2026/10/12 00:00",
-      "summary": "本連載では、2026年度第3期の実習日に合わせて、指導薬剤師が押さえておきたい「指導のポイント」を毎週月曜日に公開。さらに、その週に学んだ内容を学生がどれくらい理解しているかチェックできる「理解度チェック問題」を1問、薬剤師国家試験の過去問より出題します。解答・解説は、メディックメディアが提供します。メディックメディアの過去問演習サービス「QB薬剤師国試」を利用すれば、実習に関連した毎週20問前後の過去問にも挑戦できます。（※ご利⽤に…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "教えて！化学療法開始後の看護のポイント",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/anursing/hatenurse/202610/594776.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-11T15:00:00Z",
-      "published_label": "2026/10/12 00:00",
-      "summary": "最近、外科病棟に配属された3年目の看護師です。先輩からケモ（癌化学療法）2～3日目の看護を勉強してきてと言われました。しかし、何から始めたらいいのかよく分かりません。病棟でよく使われている薬剤を調べて、その副作用に対する看護や観察項目、感染対策などを勉強すればよいのでしょうか？ 他にも勉強した方がいいことがあれば教えていただきたいです。",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "薬剤師の「正論」が裏目に出るとき、あるある",
       "link": "https://pharmacist.m3.com/column/shikujiri/7924?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -578,33 +564,6 @@
         "薬剤師コラム"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "ナルコレプシー治療薬のオーゼイフルなど薬価収載へ",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594845.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-09T15:00:00Z",
-      "published_label": "2026/10/10 00:00",
-      "summary": "2026年10月7日、中央社会保険医療協議会（中医協）総会で、新薬11成分14品目の薬価収載が了承された。10月14日に薬価収載予定（表1）。内用薬では7成分9品目、注射薬では3成分3品目、外用薬では1成分2品目が収載される。 内用薬のオーゼイフル（一般名オベポレクストン）は、ナルコレプシータイプ１（NT1）を効能・効果に持つ国内初の薬剤となる。ナルコレプシーはNT1とナルコレプシータイプ２に大きく分類され、NT1は、日中の過度の眠気…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "トリプタンはスマトリプタンが安定の首位、剤形の豊富さを評価",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202610/594774.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-09T15:00:00Z",
-      "published_label": "2026/10/10 00:00",
-      "summary": "日経メディカル Onlineの医師会員を対象に、トリプタンのうち最も処方頻度の高いものを聞いたところ、43.1％の医師がスマトリプタン（商品名イミグラン他）と回答した。 第2位のエレトリプタン（レルパックス他）は16.3％、第3位のゾルミトリプタン（ゾーミッグ他）は15.3％の医師が最も処方頻度の高い薬剤として選んだ。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
