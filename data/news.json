@@ -1,8 +1,74 @@
 {
-  "updated_at": "2026-10-14T00:07:15.389589Z",
-  "updated_label": "2026/10/14 09:07",
-  "count": 118,
+  "updated_at": "2026-10-14T08:22:13.870179Z",
+  "updated_label": "2026/10/14 17:22",
+  "count": 119,
   "items": [
+    {
+      "title": "ロボット支援手術「年間200例」の壁、集約化で病院はどうなる",
+      "link": "https://www.carenet.com/hihyowed/336.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-14T01:00:00Z",
+      "published_label": "2026/10/14 10:00",
+      "summary": "年間200例以上の実績を要件に新設の「内視鏡手術用支援機器加算」。ロボット支援手術の採算改善が期待される一方、基準を満たせない病院はどうなるか。集約化と外科医確保の両立を目指す診療報酬の課題を考える。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "注目の膵がん治療薬daraxonrasib（RASONQUE）が米国で承認…その余波は？",
+      "link": "https://www.carenet.com/series/samurai/cg002850_194.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-14T01:00:00Z",
+      "published_label": "2026/10/14 10:00",
+      "summary": "ダートマス大学 腫瘍内科の白井敬祐氏が、米国のがん診療の現状を語る。今回は「注目の膵がん治療薬daraxonrasib（RASONQUE）が米国で承認…その余波は？」。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "急性前立腺炎の治療、薬剤の移行性を考慮すべき？",
+      "link": "https://www.carenet.com/series/yamamoto/cg005130_035.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-14T01:00:00Z",
+      "published_label": "2026/10/14 10:00",
+      "summary": "抗菌薬処方を考慮する際、適応菌種や適応症はもちろんのこと、感受性や臓器移行性などの考慮が必要ですが、今回の急性前立腺炎の治療を決定づける際にはどのように判断するとよいでしょう。山本舜悟氏が答えます。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "獣医療、日薬は大動物から‐12薬局は他業種と連携",
+      "link": "https://www.yakuji.co.jp/entry140431.html",
+      "source": "薬事日報",
+      "published": "2026-10-13T23:31:25Z",
+      "published_label": "2026/10/14 08:31",
+      "summary": "獣医療で薬剤師の役割を広げる動きが活発化している。日本薬剤師会は日本獣医師会が掲げる「ワンヘルス」を接点に連携を模索し、まずは産業動物への医薬品提供への参画を…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【GE薬協】見直し求める意見書発表‐医薬品特許期間延長制度",
+      "link": "https://www.yakuji.co.jp/entry140437.html",
+      "source": "薬事日報",
+      "published": "2026-10-13T23:30:36Z",
+      "published_label": "2026/10/14 08:30",
+      "summary": "日本ジェネリック製薬協会（GE薬協）知的財産委員会は8日、医薬品特許期間延長制度の見直しを求める意見書を発表した。意見書では「延長された特許権の効力範囲は不明…",
+      "tags": [
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "【積水メディカル】ポッドキャストCMの配信を開始‐拡大新生児スクリーニング検査の大切さ伝える",
       "link": "https://www.yakuji.co.jp/entry140414.html",
@@ -336,32 +402,6 @@
       "published": "2026-10-12T22:35:51Z",
       "published_label": "2026/10/13 07:35",
       "summary": "西川（nishikawa）は「ふとんの日」の10月10日から10月23日まで、創業460周年事業の一環として10月2日から展開している日本中を眠りで元気にする…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【富士通】量子コンピューティング研究センター設立へ‐米ニューメキシコ州と協業を開始",
-      "link": "https://www.yakuji.co.jp/entry140354.html",
-      "source": "薬事日報",
-      "published": "2026-10-12T22:34:51Z",
-      "published_label": "2026/10/13 07:34",
-      "summary": "富士通は10月8日、米国ニューメキシコ州と、量子コンピューティングにおける技術開発と専門人材育成を行う量子コンピューティング研究センター設立に向けた協業を開始…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【キュアコード】「とやま健康企業宣言 Step2（金）」に認定",
-      "link": "https://www.yakuji.co.jp/entry140352.html",
-      "source": "薬事日報",
-      "published": "2026-10-12T22:33:15Z",
-      "published_label": "2026/10/13 07:33",
-      "summary": "キュアコードは10月9日、9月17日に健康企業宣言富山推進協議会が実施している「とやま健康企業宣言」の「Step2（金）」の認定を交付されたと発表した。 同…",
       "tags": [
         "その他"
       ],
@@ -1001,32 +1041,6 @@
         "副作用"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "第78回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76200.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-05T06:00:00Z",
-      "published_label": "2026/10/05 15:00",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "令和８年度 薬事功労者厚生労働大臣表彰を行います",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76394.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-05T05:00:00Z",
-      "published_label": "2026/10/05 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
