@@ -1,8 +1,209 @@
 {
-  "updated_at": "2026-10-14T19:09:34.596792Z",
-  "updated_label": "2026/10/15 04:09",
-  "count": 115,
+  "updated_at": "2026-10-14T23:38:55.730340Z",
+  "updated_label": "2026/10/15 08:38",
+  "count": 119,
   "items": [
+    {
+      "title": "動画で見て聞く「1文字の重みと向き合う『今日の治療薬』制作1年の舞台裏」",
+      "link": "https://pharmacist.m3.com/column/movie/7895?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-14T23:38:54.722691Z",
+      "published_label": "2026/10/15 08:38",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム",
+        "選定療養"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】『エクセル』の贅沢美容液パウダーが、リニューアル後初の限定ハーフサイズで登場 常盤薬品工業",
+      "link": "https://www.yakuji.co.jp/entry140470.html",
+      "source": "薬事日報",
+      "published": "2026-10-14T22:35:39Z",
+      "published_label": "2026/10/15 07:35",
+      "summary": "常盤薬品工業は、メイクアップブランド『エクセル』から、美容液で包み込むプレミアムなスキンケアパウダー「エクストラリッチ セラムインパウダー」のミニサイズを10…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【オリンパス】FDAからWarning Letterを受領",
+      "link": "https://www.yakuji.co.jp/entry140469.html",
+      "source": "薬事日報",
+      "published": "2026-10-14T22:34:15Z",
+      "published_label": "2026/10/15 07:34",
+      "summary": "オリンパスは10月13日、2025年後半に米国、日本および欧州の同社施設に対して実施された米国食品医薬品局（FDA）による査察における指摘事項に基づき、米国時…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【サクラファインテックジャパン】社員の7割がコロナ禍以降、感染症意識が低下‐社内調査から平時の感染症対策が重要",
+      "link": "https://www.yakuji.co.jp/entry140468.html",
+      "source": "薬事日報",
+      "published": "2026-10-14T22:33:51Z",
+      "published_label": "2026/10/15 07:33",
+      "summary": "サクラファインテックジャパンは10月14日、同月29日の社員を対象に実施するワクチン集団接種にあわせ、社員に実施した感染症への意識やワクチン接種に関するアンケ…",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【サクラファインテックジャパン】社員の希望者対象に5種類のワクチン接種",
+      "link": "https://www.yakuji.co.jp/entry140467.html",
+      "source": "薬事日報",
+      "published": "2026-10-14T22:32:23Z",
+      "published_label": "2026/10/15 07:32",
+      "summary": "サクラファインテックジャパンは10月29日、社員の健康を守り、安心して働ける職場環境づくりの一環として、希望する社員を対象にしたワクチンの集団接種を、東京・日…",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【パナソニック】ナノイー（帯電微粒子水）技術、欧州の主要花粉アレルゲンの抑制効果実証",
+      "link": "https://www.yakuji.co.jp/entry140465.html",
+      "source": "薬事日報",
+      "published": "2026-10-14T22:31:30Z",
+      "published_label": "2026/10/15 07:31",
+      "summary": "パナソニックは10月14日、欧州を代表するアレルギー・臨床免疫学の専門家であるロレンツォ・チェッキ氏との共同研究によって、欧州で主要とされる花粉アレルゲン6種…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【リオン】2026世界ろう野球大会（WDBC）に協賛",
+      "link": "https://www.yakuji.co.jp/entry140464.html",
+      "source": "薬事日報",
+      "published": "2026-10-14T22:30:24Z",
+      "published_label": "2026/10/15 07:30",
+      "summary": "リオンは11月1～3日、神奈川県内で開催される「2026世界ろう野球大会（2026 World Deaf Baseball Championship：WDBC…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【ツムラ／熊本県】生薬栽培通じ地域活性化‐連携協定を締結",
+      "link": "https://www.yakuji.co.jp/entry140442.html",
+      "source": "薬事日報",
+      "published": "2026-10-14T21:31:31Z",
+      "published_label": "2026/10/15 06:31",
+      "summary": "ツムラは、漢方製剤の原料生薬の国内産地の重要拠点の一つ熊本県と「薬用作物生産を通じた地域活性化に関する包括連携協定」を締結した。球磨郡あさぎり町は、抑肝散など…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【NPhA】中医協委員参画に名乗り‐治験支援薬局で創薬に貢献",
+      "link": "https://www.yakuji.co.jp/entry140435.html",
+      "source": "薬事日報",
+      "published": "2026-10-14T21:30:32Z",
+      "published_label": "2026/10/15 06:30",
+      "summary": "日本保険薬局協会（NPhA）は、社会保障審議会の関係部会や中央社会保険医療協議会に保険薬局事業者を代表する委員の参画を求める方針を示した。7月に自民党と日本維…",
+      "tags": [
+        "薬価・制度",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "参天製薬 生成ＡＩ活用の「アンバサダー」を配置 現場起点で効果的なＡＩエージェントを創出",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81030",
+      "source": "ミクスOnline",
+      "published": "2026-10-14T19:52:00Z",
+      "published_label": "2026/10/15 04:52",
+      "summary": "参天製薬は、生成ＡＩ活用を自律的に推進するための「アンバサダー体制」を導入した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "EFPIA・エルリヒ会長 米中台頭で投資競争激化を警戒 日本政府は一貫性ある薬価改革と成長投資実現を",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81029",
+      "source": "ミクスOnline",
+      "published": "2026-10-14T19:51:00Z",
+      "published_label": "2026/10/15 04:51",
+      "summary": "欧州製薬団体連合会 (EFPIA) のシュテファン・エルリヒ会長は10月14日、東京都内で記者会見に臨み、高市政権の掲げる日本成長戦略について、「国際的な投資競争が強まるなかで研究開発・製造への投資を呼び込む前向きなシグナルだ」と評価した。",
+      "tags": [
+        "薬価・制度",
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "高市首相 官民協議会「薬価も含めて革新的新薬のイノベーション評価を議論」業界の意見も踏まえて検討",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81028",
+      "source": "ミクスOnline",
+      "published": "2026-10-14T19:50:00Z",
+      "published_label": "2026/10/15 04:50",
+      "summary": "高市早苗首相は10月14日の衆院予算委員会で、創薬力向上のための官民協議会に施策検討・推進部会を設置し、議論を開始したと述べた。",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "新薬11製品が薬価収載 B肝薬ヒブサーゴなど３製品が即日発売 NT1治療薬オーゼイフルは15日発売予...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81027",
+      "source": "ミクスOnline",
+      "published": "2026-10-14T19:50:00Z",
+      "published_label": "2026/10/15 04:50",
+      "summary": "新医薬品11製品が10月14日に薬価収載された。",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "丸石製薬と東邦薬品 新幹線による全身麻酔薬の緊急輸送で「実効性を確認」 災害時の道路寸断など想定",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81026",
+      "source": "ミクスOnline",
+      "published": "2026-10-14T19:50:00Z",
+      "published_label": "2026/10/15 04:50",
+      "summary": "丸石製薬と東邦ホールディングスは10月14日、丸石製薬と東邦HD子会社の東邦薬品の両社で、JR東海、JR西日本、JR東日本、及びJRグループ会社の協力のもと、新幹線を活用した全身麻酔薬などの緊急輸送実証実験を実施し、実効性を確認できたと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "エーザイ カビゴンとの日常通じ眠りの大切さを伝える啓発動画を公開",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81025",
+      "source": "ミクスOnline",
+      "published": "2026-10-14T19:49:00Z",
+      "published_label": "2026/10/15 04:49",
+      "summary": "エーザイ、ポケモン・カビゴンとの日常を通じて眠りの大切さを伝える啓発動画を公開。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "クラビットとフルメトロンどっちが先？点眼指導法",
       "link": "https://pharmacist.m3.com/column/eye_drops/7932?promotionCode=op_pcolumn",
@@ -382,71 +583,6 @@
         "感染症・ワクチン"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "昭薬同窓会・平成塾 生涯学習講座 2026/11",
-      "link": "https://www.yakuji.co.jp/entry140345.html",
-      "source": "薬事日報",
-      "published": "2026-10-13T01:30:18Z",
-      "published_label": "2026/10/13 10:30",
-      "summary": "平成塾薬剤師業務支援講座4 開催日時 2026年11月8日(日)13:00～14:30 開催方法 Web(Zoom)による遠隔研修会 受講料 1,000円(昭和…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【大塚製薬】実行機能障害など改善‐新規ADHD薬の追加解析",
-      "link": "https://www.yakuji.co.jp/entry140298.html",
-      "source": "薬事日報",
-      "published": "2026-10-12T23:31:10Z",
-      "published_label": "2026/10/13 08:31",
-      "summary": "大塚製薬は、米国で7月に成人ADHD治療薬として米国で承認された1日1回投与の徐放性経口剤センタナファジンについて、不安症を併発する成人患者を対象とした第II…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【エーザイ／米メルク】腎細胞癌で米承認取得‐レンビマ、ウェリレグ併用療法",
-      "link": "https://www.yakuji.co.jp/entry140299.html",
-      "source": "薬事日報",
-      "published": "2026-10-12T23:30:38Z",
-      "published_label": "2026/10/13 08:30",
-      "summary": "エーザイと米メルクは9月28日、エーザイが創製した経口マルチキナーゼ阻害剤「レンビマ」（一般名：レンバチニブメシル酸塩）と、メルクの経口低酸素誘導因子2アルフ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【第一三共ヘルスケア】独自開発の香りを付与した化粧品を用いたスキンケアが、リラックス状態の誘導やストレス反応の緩和に寄与する可能性があることを確認",
-      "link": "https://www.yakuji.co.jp/entry140361.html",
-      "source": "薬事日報",
-      "published": "2026-10-12T22:39:49Z",
-      "published_label": "2026/10/13 07:39",
-      "summary": "第一三共ヘルスケアは、同社が開発した香りを付与した化粧品を用いたスキンケアが、作業ストレス負荷時の気分状態やストレス反応に与える影響を検証。その結果、主観的気…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】2IN1オイル美容液ミスト、ラックストリートメントシリーズが新登場‐「MIRRORIST by LUX（ミラリスト バイ ラックス）」 ユニリーバ・ジャパン・カスタマーマーケティング",
-      "link": "https://www.yakuji.co.jp/entry140359.html",
-      "source": "薬事日報",
-      "published": "2026-10-12T22:38:32Z",
-      "published_label": "2026/10/13 07:38",
-      "summary": "ユニリーバ・ジャパン・カスタマーマーケティングが展開するトータルビューティーケアブランド「LUX（ラックス）」は、新たなトリートメントライン「MIRRORIS…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -888,87 +1024,6 @@
       "summary": "旭化成セラピューティクスは10月６日、医療従事者向け情報提供ウェブサイトの運営等を委託している医薬情報ネットの「Pharma DIGITAL」がサイバー攻撃を受け、不正アクセスおよび個人情報漏洩の可能性があると発表した。漏洩の可能性のある情報は、医師や医療従事者の氏名、所属施設名、メールアドレスなど約55万8000人分、旭化成セラピューティクス社員のメールアドレスなど約700人分で、最大約55万8700人分の情報漏洩の可能性はある。同…",
       "tags": [
         "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "医師の生成ＡＩへの質問 経験年数で変化 若手は目の前の実務手順 中堅は用量調整や選択肢で「悩む」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80992",
-      "source": "ミクスOnline",
-      "published": "2026-10-06T19:52:00Z",
-      "published_label": "2026/10/07 04:52",
-      "summary": "医師が生成AIを利用する際の質問傾向は、医師の「経験年数」で異なる――。医師向けAI検索サービスなどを手掛けるMediiの分析で判明した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "富士フイルム 国内初ワンストップでADC-CDMOサービス実現 まず日本・アジア系企業ニーズに応える",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80995",
-      "source": "ミクスOnline",
-      "published": "2026-10-06T19:51:00Z",
-      "published_label": "2026/10/07 04:51",
-      "summary": "富士フイルムは10月6日、グループ会社である富士フイルム和光純薬の生産子会社が運営する広野工場にADC（抗体薬物複合体）原料の製造設備を導入すると発表した。",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "PhRMA 新たな日本代表にジョナサン・クシュナー氏 在日米国商工会議所の副会頭など歴任",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80998",
-      "source": "ミクスOnline",
-      "published": "2026-10-06T19:50:00Z",
-      "published_label": "2026/10/07 04:50",
-      "summary": "米国研究製薬工業協会（PhRMA）の新たな日本代表として、10月からジョナサン・クシュナー氏が就任した。PhRMAが10月6日、発表した。2022年から代表を務めたハンス・クレム氏の後任。",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "田辺ファーマ・辻村社長COO gMGを効能追加したユプリズナ イムノロジー営業本部で適正使用を推進",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80997",
-      "source": "ミクスOnline",
-      "published": "2026-10-06T19:50:00Z",
-      "published_label": "2026/10/07 04:50",
-      "summary": "田辺ファーマの辻村明広代表取締役社長COOは10月6日、抗CD19モノクローナル抗体製剤・ユプリズナ点滴静注100mg（イネビリズマブ（遺伝子組換え））の全身型重症筋無力症（gMG）の適応追加について、「免疫炎症領域、希少疾患領域の戦略を一段前に進める重要な節目だ」と期待を込めた。",
-      "tags": [
-        "承認・新薬",
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "上野厚労相 高齢者窓口負担の見直し「公費負担のあり方とともに総合的に検討」26年末に「一定の結論」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80996",
-      "source": "ミクスOnline",
-      "published": "2026-10-06T19:50:00Z",
-      "published_label": "2026/10/07 04:50",
-      "summary": "上野賢一郎厚労相は10月6日の閣議後会見で、「高齢者の窓口負担の抜本的な見直しについて、現役世代の負担軽減の観点からの公費負担のあり方とともに総合的に検討していく」と述べた。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "塩野義製薬 減感作療法薬・アシテアの製造販売承認をセオリアファーマに承継 販売移管も",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80993",
-      "source": "ミクスOnline",
-      "published": "2026-10-06T19:50:00Z",
-      "published_label": "2026/10/07 04:50",
-      "summary": "塩野義製薬は10月６日、減感作療法薬・アシテアダニ舌下錠について、12月に製造販売承認をセオリアファーマに承継すると発表した。",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
       ],
       "importance": 2,
       "keywords": []
