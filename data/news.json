@@ -1,20 +1,98 @@
 {
-  "updated_at": "2026-10-15T16:15:58.784069Z",
-  "updated_label": "2026/10/16 01:15",
-  "count": 110,
+  "updated_at": "2026-10-15T20:54:12.208593Z",
+  "updated_label": "2026/10/16 05:54",
+  "count": 120,
   "items": [
     {
       "title": "BPの禁忌や腎低下で迷わない！骨粗鬆症の服薬指導",
       "link": "https://pharmacist.m3.com/column/byouki_kusuri/7933?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-10-15T16:15:57.365437Z",
-      "published_label": "2026/10/16 01:15",
+      "published": "2026-10-15T20:54:11.050860Z",
+      "published_label": "2026/10/16 05:54",
       "summary": "骨粗鬆症患者への服薬指導で、ステロイド服用や糖尿病、腎機能低下などの複雑な背景に悩んでいませんか？本コラムでは、最新ガイドラインやエビデンスに基づき、患者ごとの薬剤選択・用量調整・薬物相互作用の管理ポイントを徹底解説。服薬指導や処方提案にすぐ活かせる個別最適化マネジメントが学べます。",
       "tags": [
         "薬剤師コラム",
         "医薬品情報・DI",
         "薬物療法・作用機序",
         "服薬指導"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "製薬協・宮柱会長 一般社団法人化で「機動的に業界の変革と成長を推進」 創薬力強化へ“One JPMA...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81035",
+      "source": "ミクスOnline",
+      "published": "2026-10-15T19:52:00Z",
+      "published_label": "2026/10/16 04:52",
+      "summary": "日本製薬工業協会の宮柱明日香会長は10月15日、理事会後の記者会見で、一般社団法人への移行について、「単なる法人格の変更ではなく、日本の創薬力強化に向けて、我々製薬協がこれまで以上に機動的に、そしてしなやかに行動・発信し、業界の変革と成長を力強く推進していきたい」と意気込んだ。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ニプロの条件・期限付き承認品のステミラック注 初の本承認へ 薬事審・再生医療等製品部会が了承",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81036",
+      "source": "ミクスOnline",
+      "published": "2026-10-15T19:51:00Z",
+      "published_label": "2026/10/16 04:51",
+      "summary": "厚生労働省の薬事審議会再生医療等製品・生物由来技術部会は10月15日、ニプロの脊髄損傷治療に用いる再生医療等製品・ステミラック注（一般名：ヒト（自己）骨髄由来間葉系幹細胞）の本承認の可否について審議し、本承認することを了承した。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "日本肥満学会・下村理事長 抗肥満薬の最適使用推進GL「導入後1～2年の経験踏まえ」見直す良い時期では",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81033",
+      "source": "ミクスOnline",
+      "published": "2026-10-15T19:51:00Z",
+      "published_label": "2026/10/16 04:51",
+      "summary": "第9回ヘルスケア・イノベーションフォーラム（日本イーライリリー、PhRMA共催）が10月15日、肥満症対策の社会実装などをテーマに東京都内で開催された。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日本リリーなど３社 「健康経営実装コアリション」始動 企業健保と連携し肥満症対策を社会実装へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81034",
+      "source": "ミクスOnline",
+      "published": "2026-10-15T19:50:00Z",
+      "published_label": "2026/10/16 04:50",
+      "summary": "日本イーライリリーは10月15日、「健康経営実装コアリション」を本格始動すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ノバルティス ファビハルタにIgA腎症の適応追加 腎領域への包括的なパイプライン提供に意欲",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81032",
+      "source": "ミクスOnline",
+      "published": "2026-10-15T19:50:00Z",
+      "published_label": "2026/10/16 04:50",
+      "summary": "ノバルティス ファーマのアレッサンドラ・バターリャ循環器・腎・代謝領域事業部長は10月15日のメディアセミナーで、IgA腎症が適応追加された補体B因子阻害薬・ファビハルタ（一般名：イプタコパン塩酸塩水和物）について、「長期的な取り組みとして、腎領域をはじめとした患者さんの健康に寄与していきたい」と述べた。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "IQVIAジャパン 調剤レセプトデータベース「IQVIA Rx Premium」 カバー率拡大で分析...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81031",
+      "source": "ミクスOnline",
+      "published": "2026-10-15T19:50:00Z",
+      "published_label": "2026/10/16 04:50",
+      "summary": "IQVIAジャパンは、国内最大級の調剤レセプトデータを基盤とした「IQVIA Rx Premium」のサービス提供を10月から開始した。",
+      "tags": [
+        "薬価・制度"
       ],
       "importance": 4,
       "keywords": []
@@ -907,75 +985,6 @@
       "keywords": []
     },
     {
-      "title": "中医協 27年度薬価改定で支払側・佐竹委員「共連れ廃止踏まえ、再算定毎年適用すべき」 業界は反発",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81004",
-      "source": "ミクスOnline",
-      "published": "2026-10-07T21:00:00Z",
-      "published_label": "2026/10/08 06:00",
-      "summary": "中医協薬価専門部会は10月７日、2027年度薬価改定の対象範囲や適用ルールについて議論した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【中医協薬価専門部会 10月７日 議事要旨 令和９年度薬価改定について】",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81003",
-      "source": "ミクスOnline",
-      "published": "2026-10-07T19:51:00Z",
-      "published_label": "2026/10/08 04:51",
-      "summary": "中医協薬価専門部会が10月７日に開かれ、令和９年度薬価改定について議論した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "新薬11製品 10月14日収載へ B肝薬ヒブサーゴはピーク時398億円 NCFB用薬ブリヌスプリは4...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81001",
-      "source": "ミクスOnline",
-      "published": "2026-10-07T19:51:00Z",
-      "published_label": "2026/10/08 04:51",
-      "summary": "中医協総会は10月７日、新薬11成分14品目の薬価収載を了承した。",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "日米欧製薬3団体が共同声明 費用対効果評価制度における価格調整範囲の拡大「日本政府に再考」求める",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81002",
-      "source": "ミクスOnline",
-      "published": "2026-10-07T19:50:00Z",
-      "published_label": "2026/10/08 04:50",
-      "summary": "日本製薬工業協会（製薬協）、米国研究製薬工業協会（PhRMA）、欧州製薬団体連合会（EFPIA）の製薬3団体は10月7日、厚労省が費用対効果評価制度における薬価引下げの拡大を中医協に提案したことに対し、「日本政府に再考を強く求める」との共同声明を発表した。",
-      "tags": [
-        "業界動向",
-        "薬価・制度",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "新薬４製品を審議へ ヘルネクシオスのHER2陽性NSCLC１次治療の追加など 10月21日の第二部会...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81000",
-      "source": "ミクスOnline",
-      "published": "2026-10-07T19:49:00Z",
-      "published_label": "2026/10/08 04:49",
-      "summary": "厚生労働省は10月21日に薬事審議会・医薬品第二部会を開き、日本ベーリンガーインゲルハイムのHER2阻害剤・ヘルネクシオス錠のHER2変異陽性の非小細胞肺がん１次治療の効能追加など新薬４製品の承認の可否を審議する。",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "「太るから嫌」の対応は？ミルタザピン服薬指導",
       "link": "https://pharmacist.m3.com/column/psychotropic_drug/7918?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1032,19 +1041,6 @@
       "keywords": []
     },
     {
-      "title": "旭化成セラピューティクス 医療者向けサイト委託会社でサイバー攻撃 約56万人分の情報漏洩の可能性も",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=80999",
-      "source": "ミクスOnline",
-      "published": "2026-10-06T19:52:00Z",
-      "published_label": "2026/10/07 04:52",
-      "summary": "旭化成セラピューティクスは10月６日、医療従事者向け情報提供ウェブサイトの運営等を委託している医薬情報ネットの「Pharma DIGITAL」がサイバー攻撃を受け、不正アクセスおよび個人情報漏洩の可能性があると発表した。漏洩の可能性のある情報は、医師や医療従事者の氏名、所属施設名、メールアドレスなど約55万8000人分、旭化成セラピューティクス社員のメールアドレスなど約700人分で、最大約55万8700人分の情報漏洩の可能性はある。同…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "マグミット×タケキャブで効かない機序と服薬指導",
       "link": "https://pharmacist.m3.com/column/knowledge/7916?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1059,6 +1055,19 @@
         "副作用"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "蛋白尿は何が悪い？―腎機能低下のサインだけではない",
+      "link": "https://yakuzaic.com/archives/144490",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-04T22:00:00Z",
+      "published_label": "2026/10/05 07:00",
+      "summary": "蛋白尿と腎機能 健康診断などで「尿蛋白＋」と言われると、「尿から蛋白が出ているから、体の蛋白が減ってしまうのだろうか？」と思うかもしれない。 確かにネフローゼ症候群のように大量の蛋白が尿中へ失われれば、低アルブミン血症や […] The post 蛋白尿は何が悪い？―腎機能低下のサインだけではない first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1077,6 +1086,19 @@
       "keywords": []
     },
     {
+      "title": "においのする薬は？臭い薬とその原因",
+      "link": "https://yakuzaic.com/archives/144549",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-03T22:00:00Z",
+      "published_label": "2026/10/04 07:00",
+      "summary": "においのする薬 薬局で一包化した薬を確認していると、「この薬が入ると独特のにおいがする」「分包紙を開けた瞬間に、いつものにおいがする」という薬があります。 患者さんから、「この薬、臭いんだけど大丈夫？」と聞かれることもあ […] The post においのする薬は？臭い薬とその原因 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "グレープフルーツは「果実」でも相互作用あり？",
       "link": "https://pharmacist.m3.com/column/treatise/7913?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1089,6 +1111,45 @@
         "服薬指導"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "高齢者向けの吸入デバイスは？使いやすい吸入器の選び方",
+      "link": "https://yakuzaic.com/archives/144540",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-02T22:00:00Z",
+      "published_label": "2026/10/03 07:00",
+      "summary": "高齢者向けの吸入デバイスは？ 吸入薬には、エリプタ、ディスカス、タービュヘイラー、ブリーズヘラー、レスピマット、エアゾール製剤など、さまざまな吸入デバイスがあります。 薬剤師「高齢者には、どの吸入デバイスが一番使いやすい […] The post 高齢者向けの吸入デバイスは？使いやすい吸入器の選び方 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み",
+      "link": "https://yakuzaic.com/archives/144528",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-01T22:00:00Z",
+      "published_label": "2026/10/02 07:00",
+      "summary": "プラリアと関節リウマチ プラリア（一般名：デノスマブ）は、骨粗鬆症治療薬としてよく知られている薬です。 しかし、プラリアの効能・効果を見ると、 の2つが記載されています。 「骨粗鬆症の薬なのに、なぜ関節リウマチに使うの？ […] The post プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？",
+      "link": "https://yakuzaic.com/archives/144524",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-30T22:00:00Z",
+      "published_label": "2026/10/01 07:00",
+      "summary": "水溶性ビタミンならいくら摂っても大丈夫？ 「ビタミンはたくさん摂っても、余った分は尿から出るから大丈夫」 そんな話を聞いたことはないでしょうか。 確かに、ビタミンCやビタミンB群は「水溶性ビタミン」と呼ばれ、脂溶性ビタミ […] The post 水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1126,6 +1187,19 @@
       "keywords": []
     },
     {
+      "title": "尿路結石に使う薬は？適応のある薬・ない薬の違い",
+      "link": "https://yakuzaic.com/archives/144520",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-29T22:00:00Z",
+      "published_label": "2026/09/30 07:00",
+      "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "アゼルニジピン×クラリス併用禁忌！代替案は？",
       "link": "https://pharmacist.m3.com/column/special_feature/7872?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1143,6 +1217,19 @@
       "keywords": []
     },
     {
+      "title": "目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い",
+      "link": "https://yakuzaic.com/archives/144508",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-28T22:00:00Z",
+      "published_label": "2026/09/29 07:00",
+      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、 など、「目によさそう」な成分がたくさん並んでいます。 しかし、これらはすべて同じように「目が悪くなるのを防ぐ」も […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "「第2世代抗ヒスタミン薬の併用」について医師が回答",
       "link": "https://pharmacist.m3.com/column/clinical-soudan/7868?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1155,6 +1242,19 @@
         "薬物療法"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い",
+      "link": "https://yakuzaic.com/archives/144499",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-27T22:00:00Z",
+      "published_label": "2026/09/28 07:00",
+      "summary": "緑内障の手術の種類 緑内障というと、まず思い浮かぶ治療は点眼薬です。 プロスタグランジン関連薬、β遮断薬、炭酸脱水酵素阻害薬、α2作動薬、ROCK阻害薬など、現在は多くの緑内障治療薬があります。 しかし、点眼薬を何種類使 […] The post 緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1174,6 +1274,19 @@
       "keywords": []
     },
     {
+      "title": "何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬",
+      "link": "https://yakuzaic.com/archives/144496",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-26T22:00:00Z",
+      "published_label": "2026/09/27 07:00",
+      "summary": "高齢者の減量 「高齢者では減量すること」 薬の添付文書では、このような記載をよく見かけます。 しかし、「高齢者」とは何歳なのでしょうか？ 65歳でしょうか。75歳でしょうか。それとも、その患者の体格や身体機能をみて薬剤師 […] The post 何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "【2027年3月変更】選定療養とOTC類似薬の計算方法を解説",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7870?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1188,6 +1301,19 @@
         "選定療養"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧",
+      "link": "https://yakuzaic.com/archives/144493",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-25T22:00:00Z",
+      "published_label": "2026/09/26 07:00",
+      "summary": "腎機能と糖尿病治療薬 糖尿病患者では、糖尿病性腎症をはじめさまざまな理由で腎機能が徐々に低下していくことがあります。 そして糖尿病治療薬には、腎機能の影響を受ける薬が少なくありません。 薬局でも、「昔から同じ糖尿病薬を飲 […] The post 腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
