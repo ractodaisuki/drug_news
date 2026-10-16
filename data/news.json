@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-16T10:38:25.900717Z",
-  "updated_label": "2026/10/16 19:38",
-  "count": 126,
+  "updated_at": "2026-10-16T16:01:32.264051Z",
+  "updated_label": "2026/10/17 01:01",
+  "count": 127,
   "items": [
+    {
+      "title": "ARBはアジルバが37.3％で首位維持するもシェアの拡大は一服",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202610/594873.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-16T15:00:00Z",
+      "published_label": "2026/10/17 00:00",
+      "summary": "日経メディカル Onlineの医師会員を対象に、ARBのうち最も処方頻度の高いものを聞いたところ、37.3％の医師がアジルサルタン（商品名アジルバ他）と回答した。 第2位のオルメサルタン メドキソミル（オルメテック他）は20.5％、第3位のテルミサルタン（ミカルディス他）は14.1％の医師が最も処方頻度の高い薬剤として選んだ。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「親子で飲む漢方薬～母子同服の実践～」",
       "link": "https://pharmacist.m3.com/column/movie/7896?promotionCode=op_pcolumn",
