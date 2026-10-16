@@ -1,20 +1,72 @@
 {
-  "updated_at": "2026-10-16T03:00:44.243181Z",
-  "updated_label": "2026/10/16 12:00",
-  "count": 127,
+  "updated_at": "2026-10-16T10:38:25.900717Z",
+  "updated_label": "2026/10/16 19:38",
+  "count": 126,
   "items": [
     {
       "title": "動画で見て聞く「親子で飲む漢方薬～母子同服の実践～」",
       "link": "https://pharmacist.m3.com/column/movie/7896?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-10-16T03:00:42.918884Z",
-      "published_label": "2026/10/16 12:00",
+      "published": "2026-10-16T10:38:24.324630Z",
+      "published_label": "2026/10/16 19:38",
       "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
       "tags": [
         "薬剤師コラム",
         "選定療養"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会 医療機器・体外診断薬部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76766.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-16T05:00:00Z",
+      "published_label": "2026/10/16 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-16T04:55:00Z",
+      "published_label": "2026/10/16 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-16T04:55:00Z",
+      "published_label": "2026/10/16 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "令和8年度 登録販売者試験 試験結果 【東日本】",
+      "link": "https://www.yakuji.co.jp/entry139874.html",
+      "source": "薬事日報",
+      "published": "2026-10-16T04:50:29Z",
+      "published_label": "2026/10/16 13:50",
+      "summary": "情報には万全を期していますが、最終的には各都道府県に確認をお願いいたします。 北海道・東北 試験日 合格発表 合格者数 受験者数 合格率 北海道 8月26日 9…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -71,7 +123,7 @@
       "keywords": []
     },
     {
-      "title": "【EFPI エルリヒ会長】薬価改革27年度に実行を‐米MFNでラグロス深刻化",
+      "title": "【EFPIA エルリヒ会長】薬価改革27年度に実行を‐米MFNでラグロス深刻化",
       "link": "https://www.yakuji.co.jp/entry140537.html",
       "source": "薬事日報",
       "published": "2026-10-15T23:30:04Z",
@@ -82,6 +134,45 @@
         "業界動向"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【メドライン・ジャパン】会社サイトに「社員インタビュー」開設",
+      "link": "https://www.yakuji.co.jp/entry140582.html",
+      "source": "薬事日報",
+      "published": "2026-10-15T22:36:57Z",
+      "published_label": "2026/10/16 07:36",
+      "summary": "医療機器メーカーのメドライン・ジャパン合同会社はこのほど、会社ウェブサイトの採用情報ページ内に「社員インタビュー」コンテンツを新設した。同コンテンツでは、営業…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【オムロンHC】Astemoリヴァーレ茨城とオフィシャルサプライヤー契約",
+      "link": "https://www.yakuji.co.jp/entry140580.html",
+      "source": "薬事日報",
+      "published": "2026-10-15T22:35:21Z",
+      "published_label": "2026/10/16 07:35",
+      "summary": "オムロンヘルスケアはこのほど、10月に開幕する大同生命SV.LEAGUE WOMEN（SV.LEAGUE）に所属するAstemoリヴァーレ茨城と2026-27…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【トプコン】採用サイトをリニューアル",
+      "link": "https://www.yakuji.co.jp/entry140555.html",
+      "source": "薬事日報",
+      "published": "2026-10-15T22:34:57Z",
+      "published_label": "2026/10/16 07:34",
+      "summary": "トプコンはこのほど、コーポレートサイト内の採用サイトをリニューアルした。同社の持続的成長のため、さらなる成長を支える人材との接点強化を目指して実施した。 新…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -269,19 +360,6 @@
       "keywords": []
     },
     {
-      "title": "緊急避妊薬の情報普及を",
-      "link": "https://www.yakuji.co.jp/entry140511.html",
-      "source": "薬事日報",
-      "published": "2026-10-15T21:01:48Z",
-      "published_label": "2026/10/16 06:01",
-      "summary": "◆9月26日は「世界避妊デー」だった。望まない妊娠を減らすことを目的に、避妊に関する正しい知識と選択肢への理解を促す国際的な記念日である。世界避妊デーに合わせ、…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "BPの禁忌や腎低下で迷わない！骨粗鬆症の服薬指導",
       "link": "https://pharmacist.m3.com/column/byouki_kusuri/7933?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -376,12 +454,38 @@
       "keywords": []
     },
     {
+      "title": "ナルコレプシータイプ1治療薬オーゼイフル、日本と中国で同時発売／武田",
+      "link": "https://www.carenet.com/news/general/carenet/63805?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-15T19:00:00Z",
+      "published_label": "2026/10/16 04:00",
+      "summary": "武田薬品工業は2026年10月15日、ナルコレプシータイプ1（NT1）の治療薬として、オレキシン2受容体（OX2R）選択的作動薬オーゼイフル（一般名：オベポレクストン）を日本および中国で同時発売した。 本剤は、初…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "ビレーズトリ14.4、気管支喘息の適応で56吸入製剤を発売／AZ",
       "link": "https://www.carenet.com/news/general/carenet/63804?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
       "published": "2026-10-15T19:00:00Z",
       "published_label": "2026/10/16 04:00",
       "summary": "アストラゼネカは2026年10月15日に、喘息治療配合剤ビレーズトリ14.4エアロスフィア56吸入（一般名：ブデソニド/グリコピロニウム臭化物/ホルモテロールフマル酸塩160/14.4/4.8μg）を発売した。なお、120吸入製剤…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "GLP-1最前線 答えが知りたい「あのギモン」",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/report/Weekly/202610/594897.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-15T15:00:00Z",
+      "published_label": "2026/10/16 00:00",
+      "summary": "グルカゴン様ペプチド（GLP）-1受容体作動薬やグルコース依存性インスリン分泌刺激ポリペプチド（GIP）/GLP-1受容体作動薬の登場は、肥満症や2型糖尿病の治療を大きく変えました。肥満症治療に使用できるようになって2年半あまりが経ち、保険診療下での投与上限を迎える患者が増えてきます。投与終了の迎え方や終了後の患者管理、次に登場が見込まれるGLP-1関連薬の特徴など、気になるギモンを取材しました。",
       "tags": [
         "その他"
       ],
@@ -482,19 +586,6 @@
       "keywords": []
     },
     {
-      "title": "【電子書籍】保険薬局業務指針 2026年版",
-      "link": "https://www.yakuji.co.jp/entry140508.html",
-      "source": "薬事日報",
-      "published": "2026-10-15T06:37:58Z",
-      "published_label": "2026/10/15 15:37",
-      "summary": "保険調剤業務に伴う調剤報酬請求実務の全体を詳しく解説した保険薬局の必携本！ 2026（令和8）年施行の調剤報酬の改定内容、保険調剤に関する事項を中心に解説し、重…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "第37回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会ワクチン評価に関する小委員会の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_76729.html",
       "source": "厚生労働省 新着情報",
@@ -503,32 +594,6 @@
       "summary": "",
       "tags": [
         "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【国立大学病院長会議】病院間連携で災害に備え‐BCP対策強化、予算が壁に",
-      "link": "https://www.yakuji.co.jp/entry140440.html",
-      "source": "薬事日報",
-      "published": "2026-10-14T23:31:31Z",
-      "published_label": "2026/10/15 08:31",
-      "summary": "国立大学病院長会議は、大学病院の災害レジリエンス機能をテーマとする記者会見を2日に開いた。各地で相次ぐ自然災害が診療現場に与える影響や、被災時に役立つ病院間連…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【ジョヴィ】みまもりサービス本格展開‐PHRとバイタルデータ活用",
-      "link": "https://www.yakuji.co.jp/entry140438.html",
-      "source": "薬事日報",
-      "published": "2026-10-14T23:30:22Z",
-      "published_label": "2026/10/15 08:30",
-      "summary": "薬系ボランタリーチェーンのジョヴィ（本社・大阪市）は10月から、PHR（パーソナル・ヘルス・レコード）とウェアラブル端末によるバイタルデータを活用した「みまも…",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -774,19 +839,6 @@
       "keywords": []
     },
     {
-      "title": "在総管と施設総管、正しく把握できていますか？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594857.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-13T15:00:00Z",
-      "published_label": "2026/10/14 00:00",
-      "summary": "問い 在宅時医学総合管理料（在総管）と施設入居時等医学総合管理料（施設総管）について、正しい記述はどれでしょうか？ （1）在宅療養計画を作成し、その内容を患者、家族、看護に当たる人などに対して説明する必要がある（2）在総管・施設総管には、「当該医療機関内に在宅医療の調整担当者が1人以上配置されていること」という施設基準がある（3）施設総管の算定患者は、オンライン診療の対象にならない（4）包括的支援加算の対象患者には、要介護2以上や障害…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "第２７回新型インフルエンザ対策に関する小委員会 第１２回危機対応医薬品等に関する小委員会 資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_76692.html",
       "source": "厚生労働省 新着情報",
@@ -901,32 +953,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-09T04:55:00Z",
-      "published_label": "2026/10/09 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-09T04:55:00Z",
-      "published_label": "2026/10/09 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1093,45 +1119,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "令和８年度第５回医薬品等安全対策部会安全対策調査会 議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76578.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-07T07:00:00Z",
-      "published_label": "2026/10/07 16:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76638.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-07T06:26:00Z",
-      "published_label": "2026/10/07 15:26",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会 医薬品第二部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76547.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-07T05:00:00Z",
-      "published_label": "2026/10/07 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
