@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-10-16T16:01:32.264051Z",
-  "updated_label": "2026/10/17 01:01",
-  "count": 127,
+  "updated_at": "2026-10-16T20:28:19.746028Z",
+  "updated_label": "2026/10/17 05:28",
+  "count": 128,
   "items": [
+    {
+      "title": "市販の介護食・栄養補助食品、6種類を味見してみた",
+      "link": "https://pharmacist.m3.com/column/ajimi/7937?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-16T20:28:18.741555Z",
+      "published_label": "2026/10/17 05:28",
+      "summary": "薬局で介護食や栄養補助食品について相談を受けることがあります。しかし、「どんな味？」「毎日食べられそう？」と聞かれたとき、栄養成分については説明できても、味や食感については意外と分からないものです。そこで今回は、薬局でも取り扱うことのある介護食・栄養補助食品を実際に購入して、6種類まとめて味見してみました。",
+      "tags": [
+        "薬剤師コラム",
+        "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "ARBはアジルバが37.3％で首位維持するもシェアの拡大は一服",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202610/594873.html",
