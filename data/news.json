@@ -1,20 +1,87 @@
 {
-  "updated_at": "2026-10-15T23:31:45.969857Z",
-  "updated_label": "2026/10/16 08:31",
-  "count": 125,
+  "updated_at": "2026-10-16T03:00:44.243181Z",
+  "updated_label": "2026/10/16 12:00",
+  "count": 127,
   "items": [
     {
       "title": "動画で見て聞く「親子で飲む漢方薬～母子同服の実践～」",
       "link": "https://pharmacist.m3.com/column/movie/7896?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-10-15T23:31:44.848120Z",
-      "published_label": "2026/10/16 08:31",
+      "published": "2026-10-16T03:00:42.918884Z",
+      "published_label": "2026/10/16 12:00",
       "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
       "tags": [
         "薬剤師コラム",
         "選定療養"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬事工業生産動態統計令和8年7月分月報について",
+      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-16T02:00:00Z",
+      "published_label": "2026/10/16 11:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "12月22日に第22回AAMTセミナー「AIの進化は翻訳をどう変質させるのか？」開催 アジア太平洋機械翻訳協会",
+      "link": "https://www.yakuji.co.jp/entry140530.html",
+      "source": "薬事日報",
+      "published": "2026-10-16T01:31:46Z",
+      "published_label": "2026/10/16 10:31",
+      "summary": "機械翻訳の精度向上という段階を超え、生成AIの台頭によって、「翻訳」という行為そのものが大きく変わろうとしています。 本セミナーでは、AIの研究動向に詳しい今井…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "10月23日に「HBA Tokyo Annual Summit 2026」を開催 HBA Tokyo",
+      "link": "https://www.yakuji.co.jp/entry140527.html",
+      "source": "薬事日報",
+      "published": "2026-10-16T01:30:23Z",
+      "published_label": "2026/10/16 10:30",
+      "summary": "「Speak Up for Sustainable Leadership」をテーマに持続可能なリーダーシップを考える 本イベントは、持続可能な組織やコミュニティ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日薬会長協議会】OTCリスク区分見直しを‐ロキソニン契機に意見噴出",
+      "link": "https://www.yakuji.co.jp/entry140532.html",
+      "source": "薬事日報",
+      "published": "2026-10-15T23:31:04Z",
+      "published_label": "2026/10/16 08:31",
+      "summary": "既存の一般用医薬品についてリスク区分の再点検が必要だ――。10日に新潟市内で開かれた日本薬剤師会の都道府県会長協議会では、日薬がパブリックコメントで解熱鎮痛薬…",
+      "tags": [
+        "法令・行政",
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【EFPI エルリヒ会長】薬価改革27年度に実行を‐米MFNでラグロス深刻化",
+      "link": "https://www.yakuji.co.jp/entry140537.html",
+      "source": "薬事日報",
+      "published": "2026-10-15T23:30:04Z",
+      "published_label": "2026/10/16 08:30",
+      "summary": "欧州製薬団体連合会（EFPIA）のシュテファン・エルリヒ会長（独バイエル医療用医薬品部門代表）は14日、来日に当たって都内で記者会見し、創薬力強化や特許医薬品…",
+      "tags": [
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -309,6 +376,19 @@
       "keywords": []
     },
     {
+      "title": "ビレーズトリ14.4、気管支喘息の適応で56吸入製剤を発売／AZ",
+      "link": "https://www.carenet.com/news/general/carenet/63804?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-15T19:00:00Z",
+      "published_label": "2026/10/16 04:00",
+      "summary": "アストラゼネカは2026年10月15日に、喘息治療配合剤ビレーズトリ14.4エアロスフィア56吸入（一般名：ブデソニド/グリコピロニウム臭化物/ホルモテロールフマル酸塩160/14.4/4.8μg）を発売した。なお、120吸入製剤…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "【漫画】40mgは80mgより強い？ARBの数字の落とし穴",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/ganbare/202610/594780.html",
       "source": "日経メディカル Online",
@@ -451,58 +531,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "様々な業種、年代が交流‐仙台で薬史学会26年会",
-      "link": "https://www.yakuji.co.jp/entry140481.html",
-      "source": "薬事日報",
-      "published": "2026-10-14T23:29:02Z",
-      "published_label": "2026/10/15 08:29",
-      "summary": "日本薬史学会2026年会（年会長・佐々木健郎東北医科薬科大学薬学部教授）が9月26日、仙台市の東北医科薬科大学小松島キャンパスで開かれた。薬学出身者のみならず…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】『エクセル』の贅沢美容液パウダーが、リニューアル後初の限定ハーフサイズで登場 常盤薬品工業",
-      "link": "https://www.yakuji.co.jp/entry140470.html",
-      "source": "薬事日報",
-      "published": "2026-10-14T22:35:39Z",
-      "published_label": "2026/10/15 07:35",
-      "summary": "常盤薬品工業は、メイクアップブランド『エクセル』から、美容液で包み込むプレミアムなスキンケアパウダー「エクストラリッチ セラムインパウダー」のミニサイズを10…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【オリンパス】FDAからWarning Letterを受領",
-      "link": "https://www.yakuji.co.jp/entry140469.html",
-      "source": "薬事日報",
-      "published": "2026-10-14T22:34:15Z",
-      "published_label": "2026/10/15 07:34",
-      "summary": "オリンパスは10月13日、2025年後半に米国、日本および欧州の同社施設に対して実施された米国食品医薬品局（FDA）による査察における指摘事項に基づき、米国時…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【サクラファインテックジャパン】社員の7割がコロナ禍以降、感染症意識が低下‐社内調査から平時の感染症対策が重要",
-      "link": "https://www.yakuji.co.jp/entry140468.html",
-      "source": "薬事日報",
-      "published": "2026-10-14T22:33:51Z",
-      "published_label": "2026/10/15 07:33",
-      "summary": "サクラファインテックジャパンは10月14日、同月29日の社員を対象に実施するワクチン集団接種にあわせ、社員に実施した感染症への意識やワクチン接種に関するアンケ…",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
