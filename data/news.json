@@ -1,8 +1,89 @@
 {
-  "updated_at": "2026-10-18T17:47:42.645037Z",
-  "updated_label": "2026/10/19 02:47",
-  "count": 119,
+  "updated_at": "2026-10-18T20:03:07.504211Z",
+  "updated_label": "2026/10/19 05:03",
+  "count": 128,
   "items": [
+    {
+      "title": "製薬・医療向けオンラインサービスに不正アクセス相次ぐ 厚労省・事務連絡 経営課題として対策強化を",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81041",
+      "source": "ミクスOnline",
+      "published": "2026-10-18T19:52:00Z",
+      "published_label": "2026/10/19 04:52",
+      "summary": "製薬・医療向けオンラインサービスに対する第三者による不正アクセスが相次いでいる。",
+      "tags": [
+        "法令・行政",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "社保審医療保険部会 高齢者医療費窓口負担 22年改正時の受診行動変化や所得推移のデータもとに議論",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81040",
+      "source": "ミクスOnline",
+      "published": "2026-10-18T19:51:00Z",
+      "published_label": "2026/10/19 04:51",
+      "summary": "社保審医療保険部会で10/16、高齢者の医療費窓口負担をめぐる議論が行われる。過去の負担割合引き当げ時の受診行動変化を示すデータなどもとに議論。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "東京・日本橋本町の薬祖神社で第70回例大祭 無病息災と病気平癒を祈願",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81039",
+      "source": "ミクスOnline",
+      "published": "2026-10-18T19:50:00Z",
+      "published_label": "2026/10/19 04:50",
+      "summary": "東京・日本橋本町の薬祖神社で10月16日、第70回例大祭が行われた。薬祖神社にまつられる医薬の祖神・大己貴命（おおなむじのみこと）と少彦名命（すくなひこなのみこと）に対し、無病息災と病気平癒を祈願した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ティーエスアルフレッサ参画のひろしまドローン活用推進協議会 広島県と災害時ドローン活用で協定締結",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81038",
+      "source": "ミクスOnline",
+      "published": "2026-10-18T19:50:00Z",
+      "published_label": "2026/10/19 04:50",
+      "summary": "アルフレッサホールディングスは10月16日、子会社のティーエスアルフレッサが参画するひろしまドローン活用推進協議会が、広島県と災害時等におけるドローン活用で協定を締結したと発表した。県内で災害が発生した場合や災害が発生するおそれがある場合に、ドローンを用いた情報収集や物資輸送等を行い、被害状況の把握、被災者支援、被害拡大の防止および復旧・復興で協力する。なお、同協議会の会長はティーエスアルフレッサの髙橋卓詩代表取締役社長が務めている。…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "東邦HD 慶大医学部発ベンチャー・AdipoSeeds社に出資 血小板による再生医療等製品を開発",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81037",
+      "source": "ミクスOnline",
+      "published": "2026-10-18T19:50:00Z",
+      "published_label": "2026/10/19 04:50",
+      "summary": "東邦ホールディングスは10月16日、血小板による再生医療等製品の開発などを行う慶応大学医学部発ベンチャー企業のAdipoSeeds社に出資したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "米国の高齢者の5人に1人が危険な薬物相互作用のリスク",
+      "link": "https://www.carenet.com/news/general/hdn/63776?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-18T19:00:00Z",
+      "published_label": "2026/10/19 04:00",
+      "summary": "米国の高齢者の5人に1人超が、処方薬やOTC医薬品（一般用医薬品）、栄養補助食品（サプリメント）の併用に伴う潜在的に危険な相互作用のリスクにさらされていることが、新たな研究で明らかになった。2021～2023年…",
+      "tags": [
+        "安全性情報",
+        "一般用医薬品",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "「ENSEMBLExJ」シンポジウム‐11月13日、全領域で本格始動 がん研究セ 鈴木氏に聞く【AD】",
       "link": "https://www.yakuji.co.jp/entry140499.html",
@@ -574,32 +655,6 @@
       "keywords": []
     },
     {
-      "title": "ナルコレプシータイプ1治療薬オーゼイフル、日本と中国で同時発売／武田",
-      "link": "https://www.carenet.com/news/general/carenet/63805?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-15T19:00:00Z",
-      "published_label": "2026/10/16 04:00",
-      "summary": "武田薬品工業は2026年10月15日、ナルコレプシータイプ1（NT1）の治療薬として、オレキシン2受容体（OX2R）選択的作動薬オーゼイフル（一般名：オベポレクストン）を日本および中国で同時発売した。 本剤は、初…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ビレーズトリ14.4、気管支喘息の適応で56吸入製剤を発売／AZ",
-      "link": "https://www.carenet.com/news/general/carenet/63804?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-15T19:00:00Z",
-      "published_label": "2026/10/16 04:00",
-      "summary": "アストラゼネカは2026年10月15日に、喘息治療配合剤ビレーズトリ14.4エアロスフィア56吸入（一般名：ブデソニド/グリコピロニウム臭化物/ホルモテロールフマル酸塩160/14.4/4.8μg）を発売した。なお、120吸入製剤…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "GLP-1最前線 答えが知りたい「あのギモン」",
       "link": "https://medical.nikkeibp.co.jp/leaf/all/report/Weekly/202610/594897.html",
       "source": "日経メディカル Online",
@@ -1054,72 +1109,6 @@
       "keywords": []
     },
     {
-      "title": "高市首相 27年度薬価改定「創薬イノベーション、安定供給、国民負担軽減の観点から実施」強調 代表質問",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81012",
-      "source": "ミクスOnline",
-      "published": "2026-10-08T19:50:00Z",
-      "published_label": "2026/10/09 04:50",
-      "summary": "高市早苗首相は10月8日、衆院本会議の代表質問で、2027年度薬価改定について「創薬イノベーション、医薬品の安定供給と国民負担軽減の観点から実施していく」と改めて表明した。",
-      "tags": [
-        "薬価・制度",
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "小野薬品 米Biohaven社とIgG分解薬アセットで日本含むアジア諸国の開発・事業化でライセンス契...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81011",
-      "source": "ミクスOnline",
-      "published": "2026-10-08T19:50:00Z",
-      "published_label": "2026/10/09 04:50",
-      "summary": "小野薬品は10月８日、米Biohaven社と免疫グロブリンG（IgG）分解薬アセットの日本、韓国、台湾、ASEAN諸国での独占的な開発と事業化に関するライセンス契約を締結したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "アナモレリン塩酸塩とポサコナゾールの併用禁忌に 添付文書改訂",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81010",
-      "source": "ミクスOnline",
-      "published": "2026-10-08T19:50:00Z",
-      "published_label": "2026/10/09 04:50",
-      "summary": "アナモレリン塩酸塩とポサコナゾールの併用を禁忌とする添付文書改訂が行われた。",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "ステミラック注の本承認を審議へ 10月15日の薬事審・再生医療等製品部会で",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81009",
-      "source": "ミクスOnline",
-      "published": "2026-10-08T19:49:00Z",
-      "published_label": "2026/10/09 04:49",
-      "summary": "厚生労働省は10月15日に薬事審議会再生医療等製品・生物由来技術部会を開き、ニプロのステミラック注の本承認の可否について審議する。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "日病薬 キャリアマップ作成 武田会長 「将来を自分で考える機会に」 27年度までの完成目指す",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81007",
-      "source": "ミクスOnline",
-      "published": "2026-10-08T19:49:00Z",
-      "published_label": "2026/10/09 04:49",
-      "summary": "日病薬の武田会長は10月の定例会見で、病院薬剤師のキャリアマップを作成する方針を明らかに。27年度までの完成目指す。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "令和８年度 地域における医薬品提供体制等の構築・強化に係るモデル事業",
       "link": "https://www.mhlw.go.jp/stf/newpage_76653.html",
       "source": "厚生労働省 新着情報",
@@ -1180,6 +1169,19 @@
       "keywords": []
     },
     {
+      "title": "蛋白尿は何が悪い？―腎機能低下のサインだけではない",
+      "link": "https://yakuzaic.com/archives/144490",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-04T22:00:00Z",
+      "published_label": "2026/10/05 07:00",
+      "summary": "蛋白尿と腎機能 健康診断などで「尿蛋白＋」と言われると、「尿から蛋白が出ているから、体の蛋白が減ってしまうのだろうか？」と思うかもしれない。 確かにネフローゼ症候群のように大量の蛋白が尿中へ失われれば、低アルブミン血症や […] The post 蛋白尿は何が悪い？―腎機能低下のサインだけではない first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "大手薬局と中小薬局の魅力を徹底比較",
       "link": "https://pharmacist.m3.com/column/chouzai_tensyoku/7912?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1195,6 +1197,19 @@
       "keywords": []
     },
     {
+      "title": "においのする薬は？臭い薬とその原因",
+      "link": "https://yakuzaic.com/archives/144549",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-03T22:00:00Z",
+      "published_label": "2026/10/04 07:00",
+      "summary": "においのする薬 薬局で一包化した薬を確認していると、「この薬が入ると独特のにおいがする」「分包紙を開けた瞬間に、いつものにおいがする」という薬があります。 患者さんから、「この薬、臭いんだけど大丈夫？」と聞かれることもあ […] The post においのする薬は？臭い薬とその原因 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "グレープフルーツは「果実」でも相互作用あり？",
       "link": "https://pharmacist.m3.com/column/treatise/7913?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1207,6 +1222,45 @@
         "服薬指導"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "高齢者向けの吸入デバイスは？使いやすい吸入器の選び方",
+      "link": "https://yakuzaic.com/archives/144540",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-02T22:00:00Z",
+      "published_label": "2026/10/03 07:00",
+      "summary": "高齢者向けの吸入デバイスは？ 吸入薬には、エリプタ、ディスカス、タービュヘイラー、ブリーズヘラー、レスピマット、エアゾール製剤など、さまざまな吸入デバイスがあります。 薬剤師「高齢者には、どの吸入デバイスが一番使いやすい […] The post 高齢者向けの吸入デバイスは？使いやすい吸入器の選び方 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み",
+      "link": "https://yakuzaic.com/archives/144528",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-10-01T22:00:00Z",
+      "published_label": "2026/10/02 07:00",
+      "summary": "プラリアと関節リウマチ プラリア（一般名：デノスマブ）は、骨粗鬆症治療薬としてよく知られている薬です。 しかし、プラリアの効能・効果を見ると、 の2つが記載されています。 「骨粗鬆症の薬なのに、なぜ関節リウマチに使うの？ […] The post プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？",
+      "link": "https://yakuzaic.com/archives/144524",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-30T22:00:00Z",
+      "published_label": "2026/10/01 07:00",
+      "summary": "水溶性ビタミンならいくら摂っても大丈夫？ 「ビタミンはたくさん摂っても、余った分は尿から出るから大丈夫」 そんな話を聞いたことはないでしょうか。 確かに、ビタミンCやビタミンB群は「水溶性ビタミン」と呼ばれ、脂溶性ビタミ […] The post 水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1244,6 +1298,19 @@
       "keywords": []
     },
     {
+      "title": "尿路結石に使う薬は？適応のある薬・ない薬の違い",
+      "link": "https://yakuzaic.com/archives/144520",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-29T22:00:00Z",
+      "published_label": "2026/09/30 07:00",
+      "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "アゼルニジピン×クラリス併用禁忌！代替案は？",
       "link": "https://pharmacist.m3.com/column/special_feature/7872?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1261,6 +1328,19 @@
       "keywords": []
     },
     {
+      "title": "目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い",
+      "link": "https://yakuzaic.com/archives/144508",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-28T22:00:00Z",
+      "published_label": "2026/09/29 07:00",
+      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、 など、「目によさそう」な成分がたくさん並んでいます。 しかし、これらはすべて同じように「目が悪くなるのを防ぐ」も […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "「第2世代抗ヒスタミン薬の併用」について医師が回答",
       "link": "https://pharmacist.m3.com/column/clinical-soudan/7868?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1273,6 +1353,19 @@
         "薬物療法"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い",
+      "link": "https://yakuzaic.com/archives/144499",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-27T22:00:00Z",
+      "published_label": "2026/09/28 07:00",
+      "summary": "緑内障の手術の種類 緑内障というと、まず思い浮かぶ治療は点眼薬です。 プロスタグランジン関連薬、β遮断薬、炭酸脱水酵素阻害薬、α2作動薬、ROCK阻害薬など、現在は多くの緑内障治療薬があります。 しかし、点眼薬を何種類使 […] The post 緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1292,6 +1385,19 @@
       "keywords": []
     },
     {
+      "title": "何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬",
+      "link": "https://yakuzaic.com/archives/144496",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-26T22:00:00Z",
+      "published_label": "2026/09/27 07:00",
+      "summary": "高齢者の減量 「高齢者では減量すること」 薬の添付文書では、このような記載をよく見かけます。 しかし、「高齢者」とは何歳なのでしょうか？ 65歳でしょうか。75歳でしょうか。それとも、その患者の体格や身体機能をみて薬剤師 […] The post 何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "【2027年3月変更】選定療養とOTC類似薬の計算方法を解説",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7870?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1306,6 +1412,19 @@
         "選定療養"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧",
+      "link": "https://yakuzaic.com/archives/144493",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-09-25T22:00:00Z",
+      "published_label": "2026/09/26 07:00",
+      "summary": "腎機能と糖尿病治療薬 糖尿病患者では、糖尿病性腎症をはじめさまざまな理由で腎機能が徐々に低下していくことがあります。 そして糖尿病治療薬には、腎機能の影響を受ける薬が少なくありません。 薬局でも、「昔から同じ糖尿病薬を飲 […] The post 腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
