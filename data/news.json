@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-10-19T03:08:04.494032Z",
-  "updated_label": "2026/10/19 12:08",
+  "updated_at": "2026-10-19T12:02:26.666230Z",
+  "updated_label": "2026/10/19 21:02",
   "count": 129,
   "items": [
+    {
+      "title": "動画で見て聞く「知っておくと役立つ保湿剤の知識」",
+      "link": "https://pharmacist.m3.com/column/movie/7897?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-19T12:02:25.542317Z",
+      "published_label": "2026/10/19 21:02",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム",
+        "選定療養"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【薬ゼミ国試対策】生物の視点で臨床問題を考える",
+      "link": "https://www.yakuji.co.jp/entry140669.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T05:00:04Z",
+      "published_label": "2026/10/19 14:00",
+      "summary": "学校法人医学アカデミーグループ薬学ゼミナール 「基礎科目（物理、化学、生物）は早めに対策！」を合言葉に、これまで生物の勉強に力を入れてきた方も多いのではないで…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【訃報】渡邉新氏（アルフレッサホールディングス元代表取締役会長）が死去",
+      "link": "https://www.yakuji.co.jp/entry140674.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T02:50:08Z",
+      "published_label": "2026/10/19 11:50",
+      "summary": "渡邉新氏（アルフレッサホールディングス元代表取締役会長）9月27日に死去、満85歳。通夜、葬儀は近親者で執り行われ、お別れの会は遺族の意向で行わない。 渡邉…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "【生物由来技術部会】ステミラックが正式承認へ‐条件期限付から本承認は初",
       "link": "https://www.yakuji.co.jp/entry140628.html",
@@ -37,9 +77,9 @@
       "published_label": "2026/10/19 07:41",
       "summary": "常盤薬品工業は、メイクアップブランド『エクセル』から、手肌と心をやわらかく包み、やさしく香る「ミルクハンドソフナー」を10月27日より限定発売する（発売日はメ…",
       "tags": [
-        "その他"
+        "承認・新薬"
       ],
-      "importance": 2,
+      "importance": 3,
       "keywords": []
     },
     {
@@ -356,19 +396,6 @@
         "学術・エビデンス"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "「ENSEMBLExJ」シンポジウム‐11月13日、全領域で本格始動 がん研究セ 鈴木氏に聞く【AD】",
-      "link": "https://www.yakuji.co.jp/entry140499.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T15:00:37Z",
-      "published_label": "2026/10/19 00:00",
-      "summary": "ENSEMBLExJ",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
@@ -1117,32 +1144,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "令和８年度 地域における医薬品提供体制等の構築・強化に係るモデル事業",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76653.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-08T05:51:00Z",
-      "published_label": "2026/10/08 14:51",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会 再生医療等製品・生物由来技術部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76385.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-08T05:00:00Z",
-      "published_label": "2026/10/08 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
