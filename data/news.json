@@ -1,8 +1,126 @@
 {
-  "updated_at": "2026-10-19T12:02:26.666230Z",
-  "updated_label": "2026/10/19 21:02",
+  "updated_at": "2026-10-19T20:20:09.381547Z",
+  "updated_label": "2026/10/20 05:20",
   "count": 129,
   "items": [
+    {
+      "title": "恵寿総合病院・神野理事長 入院患者向けスマートウォッチ300台導入 24時間バイタルデータを自動取得",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81048",
+      "source": "ミクスOnline",
+      "published": "2026-10-19T19:52:00Z",
+      "published_label": "2026/10/20 04:52",
+      "summary": "社会医療法人財団董仙会恵寿総合病院の神野正博理事長は10月19日、石川県七尾市の同院内で記者会見に臨み、入院患者向けにスマートウォッチを用いたバイタルデータの24時間自動取得を実施すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インスメッド 非嚢胞性線維症性気管支拡張症治療薬・ブリヌスプリを発売 ピーク時490億円見込む",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81046",
+      "source": "ミクスOnline",
+      "published": "2026-10-19T19:51:00Z",
+      "published_label": "2026/10/20 04:51",
+      "summary": "インスメッドは10月19日、非嚢胞性線維症性気管支拡張症（NCFB）治療薬・ブリヌスプリ錠25mg（一般名：ブレンソカチブ水和物）を発売した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "東邦HD リモートディテーリング事業の子会社に不正アクセス 医療者の氏名情報など一部漏洩",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81045",
+      "source": "ミクスOnline",
+      "published": "2026-10-19T19:51:00Z",
+      "published_label": "2026/10/20 04:51",
+      "summary": "東邦ホールディングスは10月19日、リモートディテーリング事業などを展開する子会社（非連結）のエンタッチ社が管理するデータベースに対し、第三者による不正アクセスがあり、保有する情報の一部が外部に漏洩したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "EPファーマラインと富士フイルムシステムサービス 医薬品文書作成のＡＩプラットフォームを共同検証",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81043",
+      "source": "ミクスOnline",
+      "published": "2026-10-19T19:50:00Z",
+      "published_label": "2026/10/20 04:50",
+      "summary": "EPファーマラインと富士フイルムシステムサービスは10月19日、医療用医薬品に関する各種資料の確認や資材作成を支援するＡＩプラットフォームの共同検証を進めると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "グッドデザイン賞2026 東和薬品のPTPシートやARCALIS本社のエントランスホームなど",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81042",
+      "source": "ミクスOnline",
+      "published": "2026-10-19T19:49:00Z",
+      "published_label": "2026/10/20 04:49",
+      "summary": "グッドデザイン賞2026の受賞結果が10月15日、発表される。製薬業界からは東和薬品やARCALISなど。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "安全な減量に関するステートメント、インクレチン関連薬のケトーシス関連事象に警鐘／肥満学会",
+      "link": "https://www.carenet.com/news/general/carenet/63751?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-19T19:00:00Z",
+      "published_label": "2026/10/20 04:00",
+      "summary": "糖尿病治療薬のGLP-1受容体作動薬やGIP/GLP-1受容体作動薬などのインクレチン関連薬が、適応外使用される問題が顕在化して久しい。また、近年では自由診療の痩身目的使用で、健康障害を来し、救急外来を受診した…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "チスレリズマブ、HER2陰性胃がん1次治療に適応拡大／ビーワン・メディシンズ",
+      "link": "https://www.carenet.com/news/general/carenet/63740?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-19T19:00:00Z",
+      "published_label": "2026/10/20 04:00",
+      "summary": "抗PD-1抗体チスレリズマブ（商品名：テビムブラ）が、胃がんの1次治療に新たな選択肢として加わった。2026年6月19日、「治癒切除不能な進行・再発の胃癌」に対する適応追加の承認を取得。8月20日にビーワン・メデ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "第2世代抗精神病薬の遅発性ジスキネジアリスク、第1世代よりも低いのか？",
+      "link": "https://www.carenet.com/news/general/carenet/63729?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-19T18:59:50Z",
+      "published_label": "2026/10/20 03:59",
+      "summary": "遅発性ジスキネジアは、抗精神病薬の既知の副作用である。第2世代抗精神病薬は、第1世代抗精神病薬と比較し、遅発性ジスキネジアのリスクが低いと考えられているが、そのエビデンスは一貫していない。米国・Lake …",
+      "tags": [
+        "安全性情報",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "同一建物居住者と単一建物診療患者、その違いは？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594859.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-19T15:00:00Z",
+      "published_label": "2026/10/20 00:00",
+      "summary": "問い 同一建物居住者と単一建物診療患者について、正しい記述はどれでしょうか？ （1）往診を実施した患者は、同一建物居住者としてカウントしない（2）同一敷地内や隣接地に集まった建物の各棟は、同一建物居住者には該当しない（3）建物の総戸数が20戸未満で、医学管理を行う患者が2人以下の場合、在宅時医学総合管理料（在総管）・施設入居時等医学総合管理料（施設総管）は単一建物診療患者数の「1人の場合」の点数を算定する（4）単一建物診療患者数が20…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「知っておくと役立つ保湿剤の知識」",
       "link": "https://pharmacist.m3.com/column/movie/7897?promotionCode=op_pcolumn",
@@ -384,21 +502,6 @@
       "keywords": []
     },
     {
-      "title": "米国の高齢者の5人に1人が危険な薬物相互作用のリスク",
-      "link": "https://www.carenet.com/news/general/hdn/63776?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-18T19:00:00Z",
-      "published_label": "2026/10/19 04:00",
-      "summary": "米国の高齢者の5人に1人超が、処方薬やOTC医薬品（一般用医薬品）、栄養補助食品（サプリメント）の併用に伴う潜在的に危険な相互作用のリスクにさらされていることが、新たな研究で明らかになった。2021～2023年…",
-      "tags": [
-        "安全性情報",
-        "一般用医薬品",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "インフル多忙期を乗り切る「イナビル吸入指導報告書」",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/matsumoto/202610/594874.html",
       "source": "日経メディカル Online",
@@ -745,46 +848,6 @@
       "keywords": []
     },
     {
-      "title": "73歳男性。3年前に生じたステロイド無効の右腋窩の紫紅色斑",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/cadetto/column/mqcadetto/202610/594460.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-15T15:00:00Z",
-      "published_label": "2026/10/16 00:00",
-      "summary": "臨床でよく出会う症例を基に、診断・治療の要点をクイズ形式で考え、学んでいきましょう。今回取り上げるのは、『日経メディカル』2020年3月号に掲載された皮膚のクイズです。 患者は73歳男性。約3年前から自覚していた右腋窩の紫紅色斑に対し、前医でステロイド薬を処方され、2カ月間外用。しかし、効果が得られなかったため、当院を紹介受診しました。 受診時、右腋窩に掻痒を伴わない28×20mm大の境界明瞭な紫紅色斑を認め、一部に鱗屑を伴っていまし…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "外科医療確保特別加算の算定状況が勤務先選定に「影響する」医師は4割",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t358/202610/594828.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-15T15:00:00Z",
-      "published_label": "2026/10/16 00:00",
-      "summary": "日経メディカル Onlineでは、2026年度診療報酬改定で新設された「地域医療体制確保加算2」と「外科医療確保特別加算」の算定状況などについて医師会員を対象にアンケートを行った（実施期間：2026年8月31日～9月6日、総回答者数：7495人）。前編では、両加算による手当の金額や、その満足度などを取り上げた。後編では、両加算の効果に対する評価を紹介する。 まず、外科医の処遇改善と人材確保に対する外科医療確保特別加算の効果をどう考える…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "後天性視床下部性肥満に体重減少作用を示す初の治療薬",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202610/594883.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-15T15:00:00Z",
-      "published_label": "2026/10/16 00:00",
-      "summary": "2026年10月14日、メラノコルチン4型受容体作動薬セトメラノチド酢酸塩（商品名イムシブリー皮下注10mg）が薬価収載された。同薬は8月24日に製造販売が承認されていた。適応は「後天性視床下部性肥満」、用法用量は「成人および4歳以上の小児に、1日1回0.5mgから皮下投与を開始する。1週間ごとに、年齢および体重に応じて0.5mgまたは1.0mgずつ漸増する。なお、患者の状態に応じて、年齢および体重に対応した1回用量を超えない範囲で適…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「1文字の重みと向き合う『今日の治療薬』制作1年の舞台裏」",
       "link": "https://pharmacist.m3.com/column/movie/7895?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1038,32 +1101,6 @@
       "keywords": []
     },
     {
-      "title": "NPhA・藤井会長 中医協への保険薬局事業者の参画を要望 「実態を制度設計に反映できる体制求める」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81018",
-      "source": "ミクスOnline",
-      "published": "2026-10-12T19:50:00Z",
-      "published_label": "2026/10/13 04:50",
-      "summary": "日本保険薬局協会（NPhA）の藤井江美会長は10月８日の定例会見で、中央社会保険医療協議会（中医協）の機能・委員構成の見直しに関する議論について、「保険薬局事業者の代表が参画し、現在の実態を制度設計に反映できる体制を求める」との意向を表明した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "美容医療用のE型ボツリヌス毒素製剤・ボーウィを審議へ 10月26日の第一部会で",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81015",
-      "source": "ミクスOnline",
-      "published": "2026-10-12T19:50:00Z",
-      "published_label": "2026/10/13 04:50",
-      "summary": "厚生労働省は10月26日に薬事審議会・医薬品第一部会を開き、アッヴィの眉間の表情皺に使用する美容医療用のE型ボツリヌス毒素製剤・ボーウィ注用（一般名：トレニボツリヌストキシンＥ）の承認の可否を審議する。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "薬剤師の「正論」が裏目に出るとき、あるある",
       "link": "https://pharmacist.m3.com/column/shikujiri/7924?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1103,47 +1140,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "PhRMA CMSのメディケア・パートBにおけるMFN政策は違法 GLOBEモデルの無効求めて地裁に...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81013",
-      "source": "ミクスOnline",
-      "published": "2026-10-08T19:53:00Z",
-      "published_label": "2026/10/09 04:53",
-      "summary": "米国研究製薬工業協会（PhRMA）は10月7日（現地時間）、米国のメディケア・メディケイドサービスセンター（CMS）のメディケア・パートBにおける最恵国待遇（MFN）政策は違法だとしてコロンビア特別区連邦地方裁判所に訴状を提出した。",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "GE薬協・知財委 特許期間延長制度は明確な判断枠組みを 後発品参入時期「予見性大きく損なわれている」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81014",
-      "source": "ミクスOnline",
-      "published": "2026-10-08T19:52:00Z",
-      "published_label": "2026/10/09 04:52",
-      "summary": "日本ジェネリック製薬協会の知的財産委員会は10月８日、「医薬品の特許期間延長制度」に関する意見を公表した。",
-      "tags": [
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "テルモ CSL Plasma社への原料血漿採取システムの供給契約解除 約975億円の損失計上へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81008",
-      "source": "ミクスOnline",
-      "published": "2026-10-08T19:51:00Z",
-      "published_label": "2026/10/09 04:51",
-      "summary": "テルモは10月８日、同社グループが展開する原料血漿採取システムについて、グローバルに血漿採取センターを運営するCSL Plasma社との供給契約を合意解除すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
