@@ -1,8 +1,164 @@
 {
-  "updated_at": "2026-10-19T20:20:09.381547Z",
-  "updated_label": "2026/10/20 05:20",
-  "count": 129,
+  "updated_at": "2026-10-20T00:05:37.733971Z",
+  "updated_label": "2026/10/20 09:05",
+  "count": 130,
   "items": [
+    {
+      "title": "【製薬協 宮柱会長】「国際戦略見直し図る」‐法人化で「実行力強化」",
+      "link": "https://www.yakuji.co.jp/entry140629.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T23:31:02Z",
+      "published_label": "2026/10/20 08:31",
+      "summary": "日本製薬工業協会の宮柱明日香会長（武田薬品ジャパンファーマビジネスユニットプレジデント）は15日、都内で開催した理事会後に記者会見し、今月1日からの一般社団法…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【徳島県】病院薬剤師の人材確保へ‐薬学生が地域医療現場体験",
+      "link": "https://www.yakuji.co.jp/entry140620.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T23:30:37Z",
+      "published_label": "2026/10/20 08:30",
+      "summary": "徳島県は今年度から、県内2大学の薬学生を対象に、病院薬剤師が不足する県南部や西部を訪れて地域医療への関心を深めてもらうマッチング事業を開始した。8月には徳島文…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【薬事工業生産動態統計】医療機器令和8年7月分：5606億円",
+      "link": "https://www.yakuji.co.jp/entry140696.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T22:37:09Z",
+      "published_label": "2026/10/20 07:37",
+      "summary": "厚生労働省は16日、薬事工業生産動態統計の令和8年7月分月報を発表した。同月の医療機器生産金額は2300億円（対前年同月98.5%）、輸入金額は3306億円（…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】韓国発コスメブランド「TIRTIR」、異なる2つの質感で肌に立体感と奥行きをプラスする『プリズムハイライターデュオ』をドン・キホーテ系列店で順次発売 Goodai Global Japan",
+      "link": "https://www.yakuji.co.jp/entry140694.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T22:36:47Z",
+      "published_label": "2026/10/20 07:36",
+      "summary": "Goodai Global Japan（本社：東京都港区）が展開するメイクアップブランド「TIRTIR（ティルティル）」は、異なる2つ質感で透明感を引き立てる…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【積水メディカル】「MCIスクリーニング検査」の普及・啓発を推進",
+      "link": "https://www.yakuji.co.jp/entry140693.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T22:35:28Z",
+      "published_label": "2026/10/20 07:35",
+      "summary": "積水メディカルは今月で、認知症の前段階とされるMCI（軽度認知障害）の早期発見を支援する「MCIスクリーニング検査」の受託検査事業が6年目を迎えた。同社は、認…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士通Japan】クラウドネイティブ型電子カルテシステムの提供へ‐厚労省の電子カルテ標準仕様・認証制度に対応",
+      "link": "https://www.yakuji.co.jp/entry140692.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T22:34:54Z",
+      "published_label": "2026/10/20 07:34",
+      "summary": "富士通Japanは10月16日から、厚生労働省の「医科診療所および中小病院向け電子カルテの標準仕様に係る認証制度」要綱の公表を受け、現在開発中のクラウドネイテ…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【アイリス】国際会議MICCAIのAIコンペ、Quan氏が3年連続世界1位を達成",
+      "link": "https://www.yakuji.co.jp/entry140691.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T22:33:39Z",
+      "published_label": "2026/10/20 07:33",
+      "summary": "アイリスは10月16日、同社に所属するAIエンジニアのQuan Huu Cap（Quan）氏が、医用画像処理ならびにコンピュータ支援による医療介入の分野でトッ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【ウィーメックス】「日本遠隔医療学会学術大会」に出展‐ランチョンセミナーも開催",
+      "link": "https://www.yakuji.co.jp/entry140690.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T22:32:59Z",
+      "published_label": "2026/10/20 07:32",
+      "summary": "ウィーメックスは11月78日、横浜市のパシフィコ横浜アネックスホールで開催される「第30回日本遠隔医療学会学術大会」に、リアルタイム遠隔医療システム「Tela…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日立製作所／日立ハイテク】「2026年度グッドデザイン賞」、遺伝子解析装置「LABOSPECT GA-5」が受賞",
+      "link": "https://www.yakuji.co.jp/entry140689.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T22:31:19Z",
+      "published_label": "2026/10/20 07:31",
+      "summary": "日立製作所は10月19日、同社研究開発グループがデザインを担当した計6件の製品・サービスが、日本デザイン振興会が主催する「2026年度グッドデザイン賞」を受賞…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【キヤノン】「DFAアジアデザイン賞2026」、全身用X線CT診断装置「Aquilion Rise」が大賞",
+      "link": "https://www.yakuji.co.jp/entry140687.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T22:30:24Z",
+      "published_label": "2026/10/20 07:30",
+      "summary": "キヤノンは10月16日、香港デザインセンターが主催する「DFAアジアデザイン賞2026（DFA Design for Asia Awards 2026）」で、…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【医療保険部会】高齢者窓口負担見直し議論‐低所得者への配慮主張も",
+      "link": "https://www.yakuji.co.jp/entry140631.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T21:31:10Z",
+      "published_label": "2026/10/20 06:31",
+      "summary": "社会保障審議会医療保険部会は16日、高齢者の医療費窓口負担割合の見直しを議論した。高齢者の受診日数の減少や所得上昇、後期高齢者への2割負担導入後の影響分析を踏…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【インテージHC】緊急避妊薬1.7億円と拡大‐8月度OTC販売",
+      "link": "https://www.yakuji.co.jp/entry140626.html",
+      "source": "薬事日報",
+      "published": "2026-10-19T21:30:04Z",
+      "published_label": "2026/10/20 06:30",
+      "summary": "インテージヘルスケアは、2026年8月度のOTC医薬品（一般用医薬品）市場概況を公表した。それによると、8月度の販売金額は1041億円となり、OTC医薬品市場…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "恵寿総合病院・神野理事長 入院患者向けスマートウォッチ300台導入 24時間バイタルデータを自動取得",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81048",
@@ -106,6 +262,32 @@
         "学術・エビデンス"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "飲酒過多の貧血治療に使われるビタミン剤",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/diquiz/202610/594853.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-19T15:00:00Z",
+      "published_label": "2026/10/20 00:00",
+      "summary": "貧血のため内科クリニックを受診した65歳の女性Aさんが、受診後に来局しました。Aさんは処方箋を差し出しながら、次のように話しました。私、お酒が好きでね、よく飲んでるんだけど、最近疲れやすくて。めまいもするので病院を受診したら、先生は、ひとまず今日の薬を飲むようにって。「検査の結果によっては、ビタミン剤も追加するかもしれない」とも言ってたかしら。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師はAI時代の「コネクター」になれるか？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/horigome/202610/594339.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-19T15:00:00Z",
+      "published_label": "2026/10/20 00:00",
+      "summary": "生成AIについて語られるとき、よく「AIを使える人と使えない人の格差」が話題になります。しかし、最近私は、人と人、人とAI、コミュニティ同士をつなぐ「コネクター」の存在が、これから重要になると感じています。コネクターは単なる知識の翻訳者ではありません。人とAIをつなぎます。人と人をつなぎます。コミュニティ同士をつなぎます。そこには信頼が必要です。責任も伴います。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -272,163 +454,6 @@
       "published": "2026-10-18T22:35:39Z",
       "published_label": "2026/10/19 07:35",
       "summary": "タニタはこのほど、プロフェッショナル体組成計「MC-800」、業務用体組成計「MC-1000」、洗えるクッキングスケール「KW-221、321、2G03、2G…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】睡眠環境学会学術大会で「奨励賞」受賞",
-      "link": "https://www.yakuji.co.jp/entry140592.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T22:33:54Z",
-      "published_label": "2026/10/19 07:33",
-      "summary": "パラマウントベッドはこのほど、9月11、12日に滋賀県大津市の大津市民会館・大津公民館で開催された第35回睡眠環境学会学術大会で、パラマウントベッド睡眠研究所…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【オムロンHC】上腕式血圧計とネブライザが「グッドデザイン賞」‐1984年以降、43年連続で受賞",
-      "link": "https://www.yakuji.co.jp/entry140591.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T22:32:15Z",
-      "published_label": "2026/10/19 07:32",
-      "summary": "オムロンヘルスケアはこのほど、同社の上腕式血圧計「HEM-762X／HEM-752Xシリーズ」と、コンプレッサー式ネブライザ「NE-C910／C920Tシリー…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【キヤノン】「グッドデザイン賞」を10件が受賞‐「グッドデザイン・ベスト100」に「Ultimion」選出",
-      "link": "https://www.yakuji.co.jp/entry140589.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T22:31:11Z",
-      "published_label": "2026/10/19 07:31",
-      "summary": "キヤノンはこのほど、同社製品10件が、日本デザイン振興会が主催する「2026年度グッドデザイン賞」を受賞したと発表した。このうち、特に高い評価を得た100件に…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【テルモ】4製品が「グッドデザイン賞」‐1996年以来、31年連続で受賞",
-      "link": "https://www.yakuji.co.jp/entry140588.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T22:30:24Z",
-      "published_label": "2026/10/19 07:30",
-      "summary": "テルモはこのほど、同社の体外循環用血液学的パラメータモニタ「CDI OneViewモニタリングシステム」、遠位橈骨動脈用止血デバイス「TR Band Dist…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【武田薬品】ナルコレプシー新薬登場‐日・中同時発売、診断に課題",
-      "link": "https://www.yakuji.co.jp/entry140624.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T21:33:04Z",
-      "published_label": "2026/10/19 06:33",
-      "summary": "武田薬品は15日、次期国際戦略品と位置づける新規作用の経口ナルコレプシー治療薬「オーゼイフル」（一般名：オベポレクストン）を日本と中国で同時発売した。世界初上…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【日薬 岩月会長】薬剤師の積極性必要‐「攻めの予防医療」で",
-      "link": "https://www.yakuji.co.jp/entry140621.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T21:32:11Z",
-      "published_label": "2026/10/19 06:32",
-      "summary": "日本薬剤師会の岩月進会長は14日の定例会見で、高市政権が掲げる「攻めの予防医療」について、日薬が重点とする六つの分野で薬局・薬剤師の役割を整理したことに言及し…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【インターフェックスで報告】製薬工場、DXで進む省力化‐夜間無人運転や培養自動化",
-      "link": "https://www.yakuji.co.jp/entry140540.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T21:31:10Z",
-      "published_label": "2026/10/19 06:31",
-      "summary": "製薬工場でDXやAI活用を通じた工場の自動化や省力化が進んでいる。中外製薬は注射剤製造棟で夜間無人運転を可能にしたほか、第一三共は培養液の採取や希釈などの自動…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【ツルハHD 鶴羽社長】上期に85億円のシナジー‐ウエルシアHDと統合で",
-      "link": "https://www.yakuji.co.jp/entry140543.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T21:30:11Z",
-      "published_label": "2026/10/19 06:30",
-      "summary": "ツルハホールディングスの鶴羽順社長は、2027年2月期中間決算説明会で、ウエルシアホールディングスとの統合によるシナジー発現の進捗等に言及。上期終了時点では8…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "11月6日にレギュラトリーサイエンスエキスパート研修会をウェブ開催 医薬品医療機器レギュラトリーサイエンス財団",
-      "link": "https://www.yakuji.co.jp/entry140617.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T21:04:03Z",
-      "published_label": "2026/10/19 06:04",
-      "summary": "医薬品医療機器レギュラトリーサイエンス財団＝レギュラトリーサイエンスエキスパート研修会「2026年度製造・品質管理／品質保証・薬事（品質）エキスパート継続研修…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】パッケージをリニューアル‐「YOHADAボディソープ」 クラシエ",
-      "link": "https://www.yakuji.co.jp/entry140615.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T21:03:35Z",
-      "published_label": "2026/10/19 06:03",
-      "summary": "クラシエは、乾燥肌・敏感肌の人向けのナイトケアボディソープ「YOHADA（よはだ）ボディウォッシュ」（医薬部外品）のパッケージをリニューアルして発売した。また…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】高機能美容液を発売‐「ユリアージュ」から 佐藤製薬",
-      "link": "https://www.yakuji.co.jp/entry140613.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T21:02:21Z",
-      "published_label": "2026/10/19 06:02",
-      "summary": "佐藤製薬は、温泉水スキンケアブランド「ユリアージュ」から、敏感肌の人でも毎日心地良く使える高機能美容液として明るい肌印象を目指す「ユリアージュトーンセラム」と…",
-      "tags": [
-        "業界動向",
-        "承認・新薬"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬局から築く健康インフラ",
-      "link": "https://www.yakuji.co.jp/entry140612.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T21:01:37Z",
-      "published_label": "2026/10/19 06:01",
-      "summary": "◆10月12日は「スポーツの日」だったが、2019年まで10月10日は「体育の日」であった。同日は1964年に開催された東京五輪の開会日で66年に祝日として制定…",
       "tags": [
         "その他"
       ],
@@ -832,19 +857,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ノボラピッド注フレックスタッチが供給停止のまま販売中止に",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202610/594879.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-15T15:00:00Z",
-      "published_label": "2026/10/16 00:00",
-      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年10月4〜10日のランキングです。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 5,
       "keywords": []
     },
     {
