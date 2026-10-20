@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-10-20T00:05:37.733971Z",
-  "updated_label": "2026/10/20 09:05",
-  "count": 130,
+  "updated_at": "2026-10-20T08:09:38.846037Z",
+  "updated_label": "2026/10/20 17:09",
+  "count": 131,
   "items": [
+    {
+      "title": "令和８年度第２回 厚生科学審議会医薬品医療機器制度部会の開催について（Web併用）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76682.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-20T05:00:00Z",
+      "published_label": "2026/10/20 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "今日は「頭髪の日」です",
+      "link": "https://www.carenet.com/series/calendar/cg005206_161.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-20T00:59:59Z",
+      "published_label": "2026/10/20 09:59",
+      "summary": "語呂合わせから、髪や頭皮の知識の啓発に日本毛髪科学協会が制定。育毛剤の研究や皮膚科外来での毛髪に関するもの、毛髪に関するまれな症状の論文紹介などのコンテンツのほか、GLP-1受容体作動薬が脱毛症のリスクになる可能性という臨床ニュースをお届けします。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "【製薬協 宮柱会長】「国際戦略見直し図る」‐法人化で「実行力強化」",
       "link": "https://www.yakuji.co.jp/entry140629.html",
@@ -1123,19 +1149,6 @@
         "薬剤師コラム"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会 医薬品第一部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76600.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-09T05:00:00Z",
-      "published_label": "2026/10/09 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
