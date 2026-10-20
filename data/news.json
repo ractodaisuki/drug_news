@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-10-20T08:09:38.846037Z",
-  "updated_label": "2026/10/20 17:09",
-  "count": 131,
+  "updated_at": "2026-10-20T14:04:37.535652Z",
+  "updated_label": "2026/10/20 23:04",
+  "count": 130,
   "items": [
+    {
+      "title": "動画で見て聞く「アレルギー性結膜炎への対応」",
+      "link": "https://pharmacist.m3.com/column/movie/7898?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-20T14:04:36.204659Z",
+      "published_label": "2026/10/20 23:04",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム",
+        "選定療養"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "令和８年度第２回 厚生科学審議会医薬品医療機器制度部会の開催について（Web併用）",
       "link": "https://www.mhlw.go.jp/stf/newpage_76682.html",
@@ -454,32 +468,6 @@
       "published": "2026-10-18T22:37:04Z",
       "published_label": "2026/10/19 07:37",
       "summary": "日本メドトロニックはこのほど、同社が国内で取り扱う5製品が、日本デザイン振興会が主催する「2026年度グッドデザイン賞」を受賞したと発表した。同社が同一年度に…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【ウィーメックス】「WEMEX Wellness Day 2026」を初開催‐健保運営と保健事業のあり方を考察",
-      "link": "https://www.yakuji.co.jp/entry140595.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T22:36:17Z",
-      "published_label": "2026/10/19 07:36",
-      "summary": "ウィーメックスはこのほど、9月1日に同社発足後初めてとなる健康保険組合向けのイベント「WEMEX Wellness Day 2026」を開催した模様を報告した…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【タニタ】3件が「グッドデザイン賞」を受賞",
-      "link": "https://www.yakuji.co.jp/entry140594.html",
-      "source": "薬事日報",
-      "published": "2026-10-18T22:35:39Z",
-      "published_label": "2026/10/19 07:35",
-      "summary": "タニタはこのほど、プロフェッショナル体組成計「MC-800」、業務用体組成計「MC-1000」、洗えるクッキングスケール「KW-221、321、2G03、2G…",
       "tags": [
         "その他"
       ],
