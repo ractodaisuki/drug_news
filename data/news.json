@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-21T16:33:46.435912Z",
-  "updated_label": "2026/10/22 01:33",
+  "updated_at": "2026-10-21T21:13:13.731655Z",
+  "updated_label": "2026/10/22 06:13",
   "count": 103,
   "items": [
     {
       "title": "心不全に効くSGLT2阻害薬をPMDAでサクッと探す方法",
       "link": "https://pharmacist.m3.com/column/special_feature/7943?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-10-21T16:33:45.330309Z",
-      "published_label": "2026/10/22 01:33",
+      "published": "2026-10-21T21:13:12.413813Z",
+      "published_label": "2026/10/22 06:13",
       "summary": "「エンパグリフロジン(ジャディアンス)」や「ダパグリフロジン(フォシーガ)」などSGLT2阻害薬は、薬剤ごとに心不全適応の有無が異なり、確認に手間がかかります。PMDAのWebサイトで「効能・効果」を条件に指定し、対象薬だけを効率よく絞り込める検索テクニックを、薬剤師向けにわかりやすく紹介します。",
       "tags": [
         "薬剤師コラム",
@@ -17,6 +17,112 @@
         "服薬指導"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "サンド日本法人・石井社長「BSで日本ナンバー1目指す」 27年に複数、30年までに10成分超上市へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81063",
+      "source": "ミクスOnline",
+      "published": "2026-10-21T20:30:00Z",
+      "published_label": "2026/10/22 05:30",
+      "summary": "サンド日本法人の石井洋平代表取締役社長は本誌取材に応じ、「近い将来、日本でナンバーワンのバイオシミラーカンパニーになると確信している」と自信をみせた。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "外資系製薬企業48社 26年度国内医療用薬売上は４兆2468億円 前年度比7.7％増 富士経済調べ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81061",
+      "source": "ミクスOnline",
+      "published": "2026-10-21T19:52:00Z",
+      "published_label": "2026/10/22 04:52",
+      "summary": "富士経済は10月21日、外資系製薬企業48社の国内医療用医薬品売上が2026年度に４兆2468億円、前年度比7.7％増になる見通しと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "新薬等10製品承認へ ヘルネクシオス錠のHER2陽性NSCLC１次治療の追加など 薬事審・第二部会が...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81059",
+      "source": "ミクスOnline",
+      "published": "2026-10-21T19:51:00Z",
+      "published_label": "2026/10/22 04:51",
+      "summary": "厚生労働省は薬事審議会・医薬品第二部会は10月21日、日本ベーリンガーインゲルハイムのHER2阻害剤・ヘルネクシオス錠のHER2遺伝子変異陽性の非小細胞肺がん１次治療の効能追加など新薬４製品の承認の可否を審議し、承認を了承した。",
+      "tags": [
+        "承認・新薬",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "米FDA オリンパス社の施設内で製造した腹腔鏡等5製品に輸入警告 オリンパス「業績影響は見込まず」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81057",
+      "source": "ミクスOnline",
+      "published": "2026-10-21T19:50:00Z",
+      "published_label": "2026/10/22 04:50",
+      "summary": "オリンパスは10月21日、米FDAが同社施設内で製造された一部製品に対する輸入警告（Import Alerts）を発出したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "サノフィ ITPに対する初のBTK阻害薬・ウェイリズ錠を発売",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81060",
+      "source": "ミクスOnline",
+      "published": "2026-10-21T19:48:00Z",
+      "published_label": "2026/10/22 04:48",
+      "summary": "サノフィは10月21日、持続性及び慢性免疫性血小板減少症（ITP）に対する初のBTK阻害薬・ウェイリズ錠（一般名：リルザブルチニブ）を発売した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "英Digital Scienceとサンメディア ＭＡ向け「研究インパクトレポート」で提携 Web上の...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81055",
+      "source": "ミクスOnline",
+      "published": "2026-10-21T19:48:00Z",
+      "published_label": "2026/10/22 04:48",
+      "summary": "英国Digital Science社と学術情報サービスを提供するサンメディアは10月20日、製薬企業のメディカルアフェアーズ（ＭＡ）部門向けに提供する「研究インパクトレポート」でパートナーシップ契約を締結したと発表した。",
+      "tags": [
+        "業界動向",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "自維・社会保障協議体 高齢者窓口負担の協議が本格化 改革13項目の議論再開",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81056",
+      "source": "ミクスOnline",
+      "published": "2026-10-21T19:47:00Z",
+      "published_label": "2026/10/22 04:47",
+      "summary": "自民党と日本維新の会の与党社会保障協議体は10月21日、協議を開き、高齢者医療費の窓口負担割合について先行して議論する方針を確認した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "オルガノン 生理によって望む生活や行動が取れない「自分らしさロス」８割以上 国際生理の日に結果公表",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81044",
+      "source": "ミクスOnline",
+      "published": "2026-10-21T19:46:00Z",
+      "published_label": "2026/10/22 04:46",
+      "summary": "オルガノンは10月19日、生理が日常生活に及ぼす影響に関する実態調査の結果を発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -644,88 +750,6 @@
       "keywords": []
     },
     {
-      "title": "参天製薬 生成ＡＩ活用の「アンバサダー」を配置 現場起点で効果的なＡＩエージェントを創出",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81030",
-      "source": "ミクスOnline",
-      "published": "2026-10-14T19:52:00Z",
-      "published_label": "2026/10/15 04:52",
-      "summary": "参天製薬は、生成ＡＩ活用を自律的に推進するための「アンバサダー体制」を導入した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "EFPIA・エルリヒ会長 米中台頭で投資競争激化を警戒 日本政府は一貫性ある薬価改革と成長投資実現を",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81029",
-      "source": "ミクスOnline",
-      "published": "2026-10-14T19:51:00Z",
-      "published_label": "2026/10/15 04:51",
-      "summary": "欧州製薬団体連合会 (EFPIA) のシュテファン・エルリヒ会長は10月14日、東京都内で記者会見に臨み、高市政権の掲げる日本成長戦略について、「国際的な投資競争が強まるなかで研究開発・製造への投資を呼び込む前向きなシグナルだ」と評価した。",
-      "tags": [
-        "薬価・制度",
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "高市首相 官民協議会「薬価も含めて革新的新薬のイノベーション評価を議論」業界の意見も踏まえて検討",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81028",
-      "source": "ミクスOnline",
-      "published": "2026-10-14T19:50:00Z",
-      "published_label": "2026/10/15 04:50",
-      "summary": "高市早苗首相は10月14日の衆院予算委員会で、創薬力向上のための官民協議会に施策検討・推進部会を設置し、議論を開始したと述べた。",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "新薬11製品が薬価収載 B肝薬ヒブサーゴなど３製品が即日発売 NT1治療薬オーゼイフルは15日発売予...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81027",
-      "source": "ミクスOnline",
-      "published": "2026-10-14T19:50:00Z",
-      "published_label": "2026/10/15 04:50",
-      "summary": "新医薬品11製品が10月14日に薬価収載された。",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "丸石製薬と東邦薬品 新幹線による全身麻酔薬の緊急輸送で「実効性を確認」 災害時の道路寸断など想定",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81026",
-      "source": "ミクスOnline",
-      "published": "2026-10-14T19:50:00Z",
-      "published_label": "2026/10/15 04:50",
-      "summary": "丸石製薬と東邦ホールディングスは10月14日、丸石製薬と東邦HD子会社の東邦薬品の両社で、JR東海、JR西日本、JR東日本、及びJRグループ会社の協力のもと、新幹線を活用した全身麻酔薬などの緊急輸送実証実験を実施し、実効性を確認できたと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "エーザイ カビゴンとの日常通じ眠りの大切さを伝える啓発動画を公開",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81025",
-      "source": "ミクスOnline",
-      "published": "2026-10-14T19:49:00Z",
-      "published_label": "2026/10/15 04:49",
-      "summary": "エーザイ、ポケモン・カビゴンとの日常を通じて眠りの大切さを伝える啓発動画を公開。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "クラビットとフルメトロンどっちが先？点眼指導法",
       "link": "https://pharmacist.m3.com/column/eye_drops/7932?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -750,32 +774,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "連続ドラマW MRの原作者・久坂部羊氏 製薬業界の“光と影” 患者の知らないＭＲの眼でみた医療の現実...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81024",
-      "source": "ミクスOnline",
-      "published": "2026-10-13T19:52:00Z",
-      "published_label": "2026/10/14 04:52",
-      "summary": "「連続ドラマW MR –医薬情報担当者-」（WOWOW）の原作者、医師で小説家の久坂部羊氏は本誌インタビューに応じ、作品の意図やMRへのメッセージを語った。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ビッグエムズワイと海外文献サービス ＭＲの面談記録をＡＩで分析、製品戦略の立案や資材制作を支援",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81023",
-      "source": "ミクスOnline",
-      "published": "2026-10-13T19:50:00Z",
-      "published_label": "2026/10/14 04:50",
-      "summary": "Jストリームの連結子会社ビッグエムズワイと海外文献サービスは10月13日、製薬企業のプロダクトマーケティング部門を対象とした新ソリューション「ＡＩペルソナ医師・コンテンツ活用支援サービス」の提供で業務提携契約を締結したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
