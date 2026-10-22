@@ -1,8 +1,74 @@
 {
-  "updated_at": "2026-10-22T16:35:18.886807Z",
-  "updated_label": "2026/10/23 01:35",
+  "updated_at": "2026-10-22T21:10:24.778492Z",
+  "updated_label": "2026/10/23 06:10",
   "count": 123,
   "items": [
+    {
+      "title": "キッセイ薬品 タブネオスの原則切替えなどの情報提供開始 学会合同TFが「計画的中止時の対応」を公表",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81066",
+      "source": "ミクスOnline",
+      "published": "2026-10-22T19:52:00Z",
+      "published_label": "2026/10/23 04:52",
+      "summary": "キッセイ薬品は10月22日、有効性を裏付ける臨床試験データに疑義が示された選択的C5a受容体拮抗薬・タブネオスカプセル10mg（一般名：アバコパン）に関し、厚労省がまとめた当面の対応方針について、同社ＭＲによる医療機関等への伝達を開始したと発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "糖尿病治療薬・マンジャロの不正販売で薬局経営責任者ら2人逮捕 薬機法違反の疑い 警視庁",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81068",
+      "source": "ミクスOnline",
+      "published": "2026-10-22T19:51:00Z",
+      "published_label": "2026/10/23 04:51",
+      "summary": "医師の処方箋なしにマンジャロなど２型糖尿病治療薬などを販売したとして、警視庁生活環境課などは10月22日、薬局経営責任者の女らを薬機法違反で逮捕。",
+      "tags": [
+        "法令・行政",
+        "薬局経営"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "卸連・宮田会長 サイバー対策は「大きな問題」 受発注システム障害で「医療全体が回らなくなるリスク」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81065",
+      "source": "ミクスOnline",
+      "published": "2026-10-22T19:50:00Z",
+      "published_label": "2026/10/23 04:50",
+      "summary": "日本医薬品卸売業連合会の宮田浩美会長（スズケン会長）は10月22日の定例会見で、プログラミング言語「PHP」の重大な欠陥への対応を含むサイバーセキュリティ対策について、「非常に大きな問題」と強調した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日立とケーエスケー 医薬品配送DX 欠員など急な状況変化に応じた配送ルート自動編成機能 11月稼働へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81067",
+      "source": "ミクスOnline",
+      "published": "2026-10-22T19:49:00Z",
+      "published_label": "2026/10/23 04:49",
+      "summary": "日立製作所とケーエスケーは10月22日、配送担当者に欠員が発生した場合など急な状況変化に対応した配送ルートの自動編成機能の実証を完了したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "大鵬薬品 つくば研究所に太陽光発電設備を導入 CO2排出量を年間約185トン削減へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81064",
+      "source": "ミクスOnline",
+      "published": "2026-10-22T19:49:00Z",
+      "published_label": "2026/10/23 04:49",
+      "summary": "大鵬薬品は10月22日、茨城県のつくば研究所で新たに太陽光発電設備を設置したと発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "NSCLCに一次治療から使用可能なHER2チロシンキナーゼ阻害薬",
       "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202610/594936.html",
@@ -934,71 +1000,6 @@
         "業界動向"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ニプロの条件・期限付き承認品のステミラック注 初の本承認へ 薬事審・再生医療等製品部会が了承",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81036",
-      "source": "ミクスOnline",
-      "published": "2026-10-15T19:51:00Z",
-      "published_label": "2026/10/16 04:51",
-      "summary": "厚生労働省の薬事審議会再生医療等製品・生物由来技術部会は10月15日、ニプロの脊髄損傷治療に用いる再生医療等製品・ステミラック注（一般名：ヒト（自己）骨髄由来間葉系幹細胞）の本承認の可否について審議し、本承認することを了承した。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "日本肥満学会・下村理事長 抗肥満薬の最適使用推進GL「導入後1～2年の経験踏まえ」見直す良い時期では",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81033",
-      "source": "ミクスOnline",
-      "published": "2026-10-15T19:51:00Z",
-      "published_label": "2026/10/16 04:51",
-      "summary": "第9回ヘルスケア・イノベーションフォーラム（日本イーライリリー、PhRMA共催）が10月15日、肥満症対策の社会実装などをテーマに東京都内で開催された。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本リリーなど３社 「健康経営実装コアリション」始動 企業健保と連携し肥満症対策を社会実装へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81034",
-      "source": "ミクスOnline",
-      "published": "2026-10-15T19:50:00Z",
-      "published_label": "2026/10/16 04:50",
-      "summary": "日本イーライリリーは10月15日、「健康経営実装コアリション」を本格始動すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ノバルティス ファビハルタにIgA腎症の適応追加 腎領域への包括的なパイプライン提供に意欲",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81032",
-      "source": "ミクスOnline",
-      "published": "2026-10-15T19:50:00Z",
-      "published_label": "2026/10/16 04:50",
-      "summary": "ノバルティス ファーマのアレッサンドラ・バターリャ循環器・腎・代謝領域事業部長は10月15日のメディアセミナーで、IgA腎症が適応追加された補体B因子阻害薬・ファビハルタ（一般名：イプタコパン塩酸塩水和物）について、「長期的な取り組みとして、腎領域をはじめとした患者さんの健康に寄与していきたい」と述べた。",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "IQVIAジャパン 調剤レセプトデータベース「IQVIA Rx Premium」 カバー率拡大で分析...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81031",
-      "source": "ミクスOnline",
-      "published": "2026-10-15T19:50:00Z",
-      "published_label": "2026/10/16 04:50",
-      "summary": "IQVIAジャパンは、国内最大級の調剤レセプトデータを基盤とした「IQVIA Rx Premium」のサービス提供を10月から開始した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
