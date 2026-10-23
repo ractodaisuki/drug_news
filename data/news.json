@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-10-23T03:16:26.867423Z",
-  "updated_label": "2026/10/23 12:16",
-  "count": 128,
+  "updated_at": "2026-10-23T10:58:09.515393Z",
+  "updated_label": "2026/10/23 19:58",
+  "count": 126,
   "items": [
+    {
+      "title": "薬事審議会 指定薬物部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76814.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-23T05:00:00Z",
+      "published_label": "2026/10/23 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-23T04:55:00Z",
+      "published_label": "2026/10/23 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-23T04:55:00Z",
+      "published_label": "2026/10/23 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「添付文書は無料。それでも『今日の治療薬』を作り続ける理由」",
       "link": "https://pharmacist.m3.com/column/movie/7901?promotionCode=op_pcolumn",
@@ -415,33 +454,6 @@
       "tags": [
         "学術・エビデンス",
         "承認・新薬"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【順天堂大】「ヒト3D生体システムの統合AI基盤モデル」、JSTの「ARiSE」に採択",
-      "link": "https://www.yakuji.co.jp/entry140791.html",
-      "source": "薬事日報",
-      "published": "2026-10-21T22:34:01Z",
-      "published_label": "2026/10/22 07:34",
-      "summary": "順天堂大学はこのほど、科学技術振興機構（JST）が公募した「AI for Science 革新的研究推進事業（ARiSE）」の戦略ターゲット型「T2」で、同大…",
-      "tags": [
-        "業界動向",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【NEC】「働く人のAIとウェルビーイングに関する意識調査」‐業務でのAI活用満足度は7割弱",
-      "link": "https://www.yakuji.co.jp/entry140790.html",
-      "source": "薬事日報",
-      "published": "2026-10-21T22:33:30Z",
-      "published_label": "2026/10/22 07:33",
-      "summary": "4人に1人が幸福にたどり着けず NECは10月20日、従業員数50人以上かつ年間売上高10億円以上の組織・団体に勤務し、業務でAIを利用している22〜59歳の…",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -998,45 +1010,6 @@
       "source": "厚生労働省 新着情報",
       "published": "2026-10-16T05:00:00Z",
       "published_label": "2026/10/16 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-16T04:55:00Z",
-      "published_label": "2026/10/16 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-16T04:55:00Z",
-      "published_label": "2026/10/16 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬事工業生産動態統計令和8年7月分月報について",
-      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-16T02:00:00Z",
-      "published_label": "2026/10/16 11:00",
       "summary": "",
       "tags": [
         "その他"
