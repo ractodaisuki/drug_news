@@ -1,8 +1,152 @@
 {
-  "updated_at": "2026-10-25T20:21:05.934683Z",
-  "updated_label": "2026/10/26 05:21",
-  "count": 125,
+  "updated_at": "2026-10-25T23:00:42.737663Z",
+  "updated_label": "2026/10/26 08:00",
+  "count": 130,
   "items": [
+    {
+      "title": "動画で見て聞く「クービビックについて」",
+      "link": "https://pharmacist.m3.com/column/movie/7902?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-10-25T23:00:41.310805Z",
+      "published_label": "2026/10/26 08:00",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム",
+        "選定療養"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【三重大】健康管理アプリ「ハートサイン」用いた研究、AMEDの2026年度事業に採択",
+      "link": "https://www.yakuji.co.jp/entry140906.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:34:17Z",
+      "published_label": "2026/10/26 06:34",
+      "summary": "三重大学はこのほど、同大とキュアコードが共同開発している心疾患患者向け健康管理アプリ「ハートサイン」を用いた研究が、PHR（Personal Health R…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【サノフィ日本法人】血小板減少症に新薬‐病態形成過程などに作用",
+      "link": "https://www.yakuji.co.jp/entry140930.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:33:51Z",
+      "published_label": "2026/10/26 06:33",
+      "summary": "サノフィ日本法人は21日、新規作用の持続性・慢性免疫性血小板減少症の治療薬「ウェイリズ錠400mg」（一般名：リルザブルチニブ）を新発売した。既存治療で十分に…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "外国価格調整の米除外、衆院厚労委で問題視",
+      "link": "https://www.yakuji.co.jp/entry140928.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:32:59Z",
+      "published_label": "2026/10/26 06:32",
+      "summary": "23日の衆議院厚生労働委員会では、米国の最恵国待遇（MFN）価格政策への対応をめぐり外国平均価格調整で米国価格が除外される現行ルールのあり方が問題視された。厚…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【レジリア】安定供給リスク分析を支援‐厚労省「行動計画」に対応",
+      "link": "https://www.yakuji.co.jp/entry140875.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:31:51Z",
+      "published_label": "2026/10/26 06:31",
+      "summary": "レジリアは、同社が開発・提供するサプライチェーン（供給網）リスク管理クラウドサービス「Resilire（レジリア）」の新機能として、「供給リスクシナリオ分析機…",
+      "tags": [
+        "供給・出荷"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【ツルハHD】多摩美大と共同研究開始‐「スローショッピング」基軸に",
+      "link": "https://www.yakuji.co.jp/entry140874.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:30:28Z",
+      "published_label": "2026/10/26 06:30",
+      "summary": "ツルハホールディングスは、多摩美術大学と高齢者に優しい買い物空間づくりを進める「スローショッピング」を基軸とした共同研究を開始したと発表した。来年3月まで実施…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】小児向けの内用液発売‐「リンヴォック」新剤形 アッヴィ日本法人",
+      "link": "https://www.yakuji.co.jp/entry140922.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:04:38Z",
+      "published_label": "2026/10/26 06:04",
+      "summary": "アッヴィ日本法人は23日、炎症を抑えるJAK阻害剤「リンヴォック」の新剤形として、主に小児向けの内用液を新発売した。適応は「既存治療で効果不十分な多関節に活動…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】細胞ファイバ製造装置、2製品を日米で発売 セルファイバ",
+      "link": "https://www.yakuji.co.jp/entry140920.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:03:55Z",
+      "published_label": "2026/10/26 06:03",
+      "summary": "再生医療（細胞・遺伝子治療）に用いられる細胞の量産化技術の開発に取り組む新興バイオテックのセルファイバは、同社独自の細胞培養技術である「CellFiber（細…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】超低温フリーザー刷新‐操作・利便性を向上 PHC",
+      "link": "https://www.yakuji.co.jp/entry140919.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:02:11Z",
+      "published_label": "2026/10/26 06:02",
+      "summary": "PHCは、生体試料や医薬品などの安定長期保存を実現するノンフロンマイナス85℃超低温フリーザー「VIP ECO SMART」「FrostLess」シリーズをリ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "繰り返される不正販売、問われる薬の流通管理",
+      "link": "https://www.yakuji.co.jp/entry140918.html",
+      "source": "薬事日報",
+      "published": "2026-10-25T21:01:59Z",
+      "published_label": "2026/10/26 06:01",
+      "summary": "◆先日、警視庁は「マンジャロ」などを処方箋なしで販売したとして、薬局経営者らを逮捕したとの報道があった。SNSで訪日中国人らを集客し、多数の処方箋医薬品を販売し…",
+      "tags": [
+        "薬局経営"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "PRABITAS FTD/TPI＋BEV隔週法が従来法に非劣性示す 国内大規模試験をプラグマティック...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81073",
+      "source": "ミクスOnline",
+      "published": "2026-10-25T21:00:00Z",
+      "published_label": "2026/10/26 06:00",
+      "summary": "前治療歴のある切除不能大腸がんに対するトリフルリジン・チピラシル（FTD/TPI）＋ベバシズマブ（BEV）療法について、隔週法は従来法に対して主要評価項目である全生存期間（OS）で非劣性を示した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "「高血圧へのARNIの位置づけ」について医師が回答",
       "link": "https://pharmacist.m3.com/column/clinical-soudan/7948?promotionCode=op_pcolumn",
@@ -64,6 +208,32 @@
       "published": "2026-10-25T19:50:00Z",
       "published_label": "2026/10/26 04:50",
       "summary": "東邦ホールディングスは10月23日、子会社で医療機関検索サイト「病院なび」などを運営するeヘルスケア社が保有する医師の氏名など約8000件の個人情報が漏洩した可能性があると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "シロップ剤の「原液分取後」の期限、どう指導していますか？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/matsumoto/202610/594668.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-25T15:00:00Z",
+      "published_label": "2026/10/26 00:00",
+      "summary": "ある朝、激しいクループ様咳嗽の小児にデキサメタゾンエリキシルが処方されました。患者家族に「冷蔵庫で保管し、咳が激しい時に飲ませてください」と服薬指導したところ、同僚から「原液で渡したシロップって、何カ月くらい使えると伝えてる？」と聞かれ、ハッとしました。シロップ剤の調剤後の使用期限や保管期間は、現場で案外頭を悩ませるテーマです。精製水や水道水でメスアップ（希釈）したシロップ剤は、「処方日数分の使い切り（長期保存不可）」と指導するのが原…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「薬をすぐに持ってきて」のデジャブ感",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202610/594959.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-25T15:00:00Z",
+      "published_label": "2026/10/26 00:00",
+      "summary": "先日、ある介護施設の看護師から「お薬をすぐに持ってきてください！」と、やや怒気を含んだような口調で電話がかかってきました。急いで準備をして施設へ届けると、今度は「この薬はすぐに飲ませなきゃいけないのに、なぜこんなに遅いの？」と、まくし立てられました。入居者に少しでも早く薬を飲ませたいという気持ちは分かりますが、薬の手配や他の患者さんへの対応がありますし、私も可能な限り急いだつもりでしたので、残念な気持ちになりました。通常のビジネスの関…",
       "tags": [
         "その他"
       ],
@@ -410,32 +580,6 @@
       "keywords": []
     },
     {
-      "title": "ドラッグストア調剤に高い関心",
-      "link": "https://www.yakuji.co.jp/entry140858.html",
-      "source": "薬事日報",
-      "published": "2026-10-22T21:02:52Z",
-      "published_label": "2026/10/23 06:02",
-      "summary": "日本チェーンドラッグストア協会（JACDS）が実施した2025年度版の日本のドラッグストア実態調査の結果によると、全国総売上高は10兆6427億円に到達した。…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "“創薬人材”像の明確化を",
-      "link": "https://www.yakuji.co.jp/entry140857.html",
-      "source": "薬事日報",
-      "published": "2026-10-22T21:01:05Z",
-      "published_label": "2026/10/23 06:01",
-      "summary": "◆「創薬人材」育成の議論が浮上してきている。きっかけは2年前の政府による創薬力構想会議の中間取りまとめを踏まえた政策目標として「薬学部・薬系大学院修了者のうち、…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "キッセイ薬品 タブネオスの原則切替えなどの情報提供開始 学会合同TFが「計画的中止時の対応」を公表",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81066",
       "source": "ミクスOnline",
@@ -528,33 +672,6 @@
       "keywords": []
     },
     {
-      "title": "CRA（臨床開発モニター）とは？CROとの関係・仕事内容・CRCとの違いを解説",
-      "link": "https://www.yakuji.co.jp/entry140820.html",
-      "source": "薬事日報",
-      "published": "2026-10-22T06:30:12Z",
-      "published_label": "2026/10/22 15:30",
-      "summary": "CRA（臨床開発モニター）は、治験が適切に行われているかを確認する専門職です。新薬を世に出すためには、有効性と安全性を確かめる治験が欠かせません。その治験が法…",
-      "tags": [
-        "承認・新薬",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "米FDA、直腸がんの標準治療を回避できる可能性がある新薬を承認",
-      "link": "https://www.yakuji.co.jp/entry140813.html",
-      "source": "薬事日報",
-      "published": "2026-10-22T05:00:11Z",
-      "published_label": "2026/10/22 14:00",
-      "summary": "一部の直腸がん患者では、化学療法や放射線治療、手術を受けずに治療できる可能性が出てきた。米食品医薬品局（FDA）は10月19日、これまでに治療を受けていない特…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "薬事審議会 医薬品等安全対策部会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_76824.html",
       "source": "厚生労働省 新着情報",
@@ -579,48 +696,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【地方私立4医科大】創薬研究活性化へ連携体制‐薬学教育の魅力向上期待",
-      "link": "https://www.yakuji.co.jp/entry140740.html",
-      "source": "薬事日報",
-      "published": "2026-10-21T23:31:58Z",
-      "published_label": "2026/10/22 08:31",
-      "summary": "岩手医科大学、埼玉医科大学、兵庫医科大学、産業医科大学は、各大学が持つ病院の臨床情報を生かして臨床研究を連携して推進する体制構築に取り組む。各大学病院は地域医…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【セルフM振興財団】セルフM担う薬剤師育成へ‐シンポでOTC適正使用議論",
-      "link": "https://www.yakuji.co.jp/entry140746.html",
-      "source": "薬事日報",
-      "published": "2026-10-21T23:30:53Z",
-      "published_label": "2026/10/22 08:30",
-      "summary": "一般用医薬品セルフメディケーション振興財団は9日、都内で一般用医薬品セルフメディケーションシンポジウムを開催した。あいさつした佐藤誠一理事長（佐藤製薬社長）は…",
-      "tags": [
-        "安全性情報",
-        "一般用医薬品",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】4つの果実の香りとうるおいを楽しむ美容リップバーム「フルタミンリップケア」新発売 日本機能性コスメ研究所",
-      "link": "https://www.yakuji.co.jp/entry140792.html",
-      "source": "薬事日報",
-      "published": "2026-10-21T22:36:33Z",
-      "published_label": "2026/10/22 07:36",
-      "summary": "日本機能性コスメ研究所（https://www.cosmelabo.shop/）は、タイコスメブランド『BabyBright（ベイビーブライト）』より、フルー…",
-      "tags": [
-        "学術・エビデンス",
-        "承認・新薬"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -955,19 +1030,6 @@
         "業界動向"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "社保審医療保険部会 高齢者医療費窓口負担 22年改正時の受診行動変化や所得推移のデータもとに議論",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81040",
-      "source": "ミクスOnline",
-      "published": "2026-10-18T19:51:00Z",
-      "published_label": "2026/10/19 04:51",
-      "summary": "社保審医療保険部会で10/16、高齢者の医療費窓口負担をめぐる議論が行われる。過去の負担割合引き当げ時の受診行動変化を示すデータなどもとに議論。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
