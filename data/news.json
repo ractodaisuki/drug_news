@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-25T03:04:57.395095Z",
-  "updated_label": "2026/10/25 12:04",
+  "updated_at": "2026-10-25T10:39:46.503837Z",
+  "updated_label": "2026/10/25 19:39",
   "count": 123,
   "items": [
     {
       "title": "薬剤師の10年後は厳しい？",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/7947?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-10-25T03:04:56.193835Z",
-      "published_label": "2026/10/25 12:04",
+      "published": "2026-10-25T10:39:45.274947Z",
+      "published_label": "2026/10/25 19:39",
       "summary": "これまで薬剤師は安定した職業と言われてきました。しかし近年は「薬剤師は飽和する」「10年後は厳しくなる」といった声も聞こえてきます。この記事では、10年後の薬剤師を取り巻く環境の変化と、これからも活躍するためのキャリア戦略について解説します。",
       "tags": [
         "薬剤師コラム",
@@ -16,6 +16,20 @@
         "転職"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "高リスク悪性黒色腫の術後療法でmRNAを用いた個別化癌ワクチンintismeran autogeneとペムブロリズマブの併用が再発・死亡リスクを42％低減【ESMO 2026】",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202610/594995.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-24T15:00:00Z",
+      "published_label": "2026/10/25 00:00",
+      "summary": "完全に切除されたIIB期からIV期の皮膚悪性黒色腫の術後療法として、患者の腫瘍からネオアンチゲンを特定して製造されたmRNAワクチンであるintismeran autogene（V940、mRNA-4157）とペムブロリズマブの併用は、プラセボとペムブロリズマブの併用に比べて無再発生存期間（RFS）と遠隔転移のない生存期間（DMFS）を有意に改善できることが、フェーズ3試験のINTerpath-001試験で明らかになった。欧州臨床腫瘍…",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -649,19 +663,6 @@
         "安全性情報"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "内服薬が13剤…「昔から飲んでいる薬」をどう整理する？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/moyamoya/202610/594819.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-21T15:00:00Z",
-      "published_label": "2026/10/22 00:00",
-      "summary": "日経メディカル Onlineでは毎月、「現場のモヤモヤに答えます」と題した連載（ミニ特集）を掲載。気鋭の臨床医監修のもと、コモンな疾患・症状を取り上げ、現場のお悩み解消に向けたヒントをご提供します。 今回のテーマは「高齢者診療」（編集幹事：原田洸）。全3本から成るミニ特集で高齢者診療のモヤモヤに答えます。本稿では、多剤併用の高齢者に対する薬剤見直しと減薬の進め方について解説します。（編集部） それでは今回のCaseを見てみましょう。…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
