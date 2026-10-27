@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-10-26T20:17:16.766357Z",
-  "updated_label": "2026/10/27 05:17",
-  "count": 122,
+  "updated_at": "2026-10-27T00:13:26.009029Z",
+  "updated_label": "2026/10/27 09:13",
+  "count": 125,
   "items": [
+    {
+      "title": "【がん研など5者】ネオアンチゲン研究が加速‐NEDO実証事業に採択",
+      "link": "https://www.yakuji.co.jp/entry140934.html",
+      "source": "薬事日報",
+      "published": "2026-10-26T23:31:56Z",
+      "published_label": "2026/10/27 08:31",
+      "summary": "日本発の量子技術による医療・イノベーションの創出に向けて、がん免疫療法の標的として期待されるネオアンチゲンを対象とした研究が加速フェーズに入る。NEC、大鵬薬…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【神奈川県薬】ルーキーメンバー100人超‐正会員移行が今後の課題",
+      "link": "https://www.yakuji.co.jp/entry140926.html",
+      "source": "薬事日報",
+      "published": "2026-10-26T23:30:00Z",
+      "published_label": "2026/10/27 08:30",
+      "summary": "神奈川県薬剤師会は22日の定例会見で、薬学生4～6年生と入職後3年目までの薬剤師を対象とする「ルーキーメンバー」の登録者数が100人を超えたことを報告した。こ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【薬王堂HD】今期出店計画、70店に修正‐千葉県の災害など影響",
+      "link": "https://www.yakuji.co.jp/entry140929.html",
+      "source": "薬事日報",
+      "published": "2026-10-26T21:31:02Z",
+      "published_label": "2026/10/27 06:31",
+      "summary": "薬王堂ホールディングスの西郷泰広副社長は、2027年2月期中間決算説明会で通期計画に言及。その中で、今期の通期出店計画に関して、出店時期の期ずれ等により、86…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省】自殺者2万人下回る‐25年、若年層対策が急務",
+      "link": "https://www.yakuji.co.jp/entry140927.html",
+      "source": "薬事日報",
+      "published": "2026-10-26T21:30:00Z",
+      "published_label": "2026/10/27 06:30",
+      "summary": "厚生労働省は23日、わが国の自殺の概況や自殺対策の実施状況をまとめた2026年版自殺対策白書を公表した。25年の自殺者数は1万9188人となり、1978年の統…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "処方追加は算定できる？有害事象等防止加算の事例",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7961?promotionCode=op_pcolumn",
@@ -361,32 +413,6 @@
       "summary": "再生医療（細胞・遺伝子治療）に用いられる細胞の量産化技術の開発に取り組む新興バイオテックのセルファイバは、同社独自の細胞培養技術である「CellFiber（細…",
       "tags": [
         "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】超低温フリーザー刷新‐操作・利便性を向上 PHC",
-      "link": "https://www.yakuji.co.jp/entry140919.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:02:11Z",
-      "published_label": "2026/10/26 06:02",
-      "summary": "PHCは、生体試料や医薬品などの安定長期保存を実現するノンフロンマイナス85℃超低温フリーザー「VIP ECO SMART」「FrostLess」シリーズをリ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "繰り返される不正販売、問われる薬の流通管理",
-      "link": "https://www.yakuji.co.jp/entry140918.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:01:59Z",
-      "published_label": "2026/10/26 06:01",
-      "summary": "◆先日、警視庁は「マンジャロ」などを処方箋なしで販売したとして、薬局経営者らを逮捕したとの報道があった。SNSで訪日中国人らを集客し、多数の処方箋医薬品を販売し…",
-      "tags": [
-        "薬局経営"
       ],
       "importance": 3,
       "keywords": []
@@ -915,6 +941,19 @@
         "その他"
       ],
       "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "中央社会保険医療協議会診療報酬調査専門組織（入院・外来医療等の調査・評価分科会）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76834.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-10-20T03:47:00Z",
+      "published_label": "2026/10/20 12:47",
+      "summary": "",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 3,
       "keywords": []
     },
     {
