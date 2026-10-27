@@ -1,19 +1,86 @@
 {
-  "updated_at": "2026-10-27T15:06:16.987497Z",
-  "updated_label": "2026/10/28 00:06",
-  "count": 122,
+  "updated_at": "2026-10-27T21:47:38.561047Z",
+  "updated_label": "2026/10/28 06:47",
+  "count": 118,
   "items": [
     {
-      "title": "誤嚥性肺炎の患者さんの胃管や服薬の考え方",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/yukidr/202610/594919.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-27T15:00:00Z",
-      "published_label": "2026/10/28 00:00",
-      "summary": "日経メディカル好評連載『吉松由貴の「誤嚥性肺炎、診療の知恵袋」』の最新記事です。今回のテーマは「誤嚥性肺炎の患者さんの胃管や服薬の考え方」です。福岡市南区医師会の多職種連携研修会で講演した内容をもとに、展開されています。",
+      "title": "中外製薬 次世代KRAS G12C阻害薬Divarasib 26年度中に国内申請へ 第一世代薬と直接...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81086",
+      "source": "ミクスOnline",
+      "published": "2026-10-27T19:52:00Z",
+      "published_label": "2026/10/28 04:52",
+      "summary": "中外製薬の草野司上席執行役員プロジェクト・ライフサイクルマネジメントユニット長は10月27日、オンラインで開催した26年12月期第3四半期決算説明会で、次世代KRAS G12C阻害薬・Divarasib（GDC-6036）の日本国内での製造販売承認申請を26年度中に予定していると明かした。",
+      "tags": [
+        "業界動向",
+        "承認・新薬"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プロトピック軟膏 禁忌を「６か月未満の乳児」に変更 国内製造販売後臨床試験の成績を受け",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81084",
+      "source": "ミクスOnline",
+      "published": "2026-10-27T19:51:00Z",
+      "published_label": "2026/10/28 04:51",
+      "summary": "アトピー性皮膚炎治療薬・プロトピック軟膏（一般名：タクロリムス水和物）について、禁忌を「６か月未満の乳児」に変更する添付文書改訂が行われた。",
+      "tags": [
+        "安全性情報",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "MICIN オンライン診療サービスで医療機関・患者アカウントに不正アクセス 受診状況や医師のメモも",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81088",
+      "source": "ミクスOnline",
+      "published": "2026-10-27T19:50:00Z",
+      "published_label": "2026/10/28 04:50",
+      "summary": "MICINは10月27日、同社のオンライン診療サービス「クロンオンライン診療」において一部の医療機関および患者のアカウントに第三者による不正ログインが発生したと発表した。",
       "tags": [
         "その他"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "UAゼンセン 賃上げ要求はベア４％・定昇含め６％ 中小組合では格差是正へ７％要求 27年春闘目標",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81083",
+      "source": "ミクスOnline",
+      "published": "2026-10-27T19:49:00Z",
+      "published_label": "2026/10/28 04:49",
+      "summary": "UAゼンセンは10月27日、2027年春闘の賃上げ要求として、ベースアップで４％、定期昇給分を含めて６％を基準とする素案を公表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "浅井病院・原病院長 てんかん患者は災害に備え１～２週間の予備の薬を 急な服薬中止のリスク指摘",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81085",
+      "source": "ミクスOnline",
+      "published": "2026-10-27T19:48:00Z",
+      "published_label": "2026/10/28 04:48",
+      "summary": "浅井病院の原広一郎病院長は10月26日、日本てんかん協会主催のメディアセミナーで、てんかん患者の災害時の備えの重要性を呼びかけ。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "季節性アレルギー性鼻炎、外来受診患者数年間2470万人・処方薬費1829億円",
+      "link": "https://www.carenet.com/news/general/hdnj/63697?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-27T19:00:00Z",
+      "published_label": "2026/10/28 04:00",
+      "summary": "アレルギー性鼻炎（AR）の有病率は世界的に増加しているが、日本におけるその経済的負担については、全国規模のデータが限られている。今回、全国のレセプトデータを用いて季節性ARの受診状況や処方薬費を調べた…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -201,46 +268,6 @@
         "薬価・制度",
         "供給・出荷",
         "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師免許の新規申請、オンライン手続きが可能に",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595041.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-26T15:00:00Z",
-      "published_label": "2026/10/27 00:00",
-      "summary": "厚生労働省は2026年10月26日、薬剤師免許の新規登録申請について同日よりマイナポータルを用いたオンライン手続きが可能となったことを公表した。オンラインで新規登録を申請すると、マイナポータル上で資格登録情報を表示する「デジタル資格者証」の利用が可能となる。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "手厚い訪問看護が可能になる特別訪問看護指示とは？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594863.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-26T15:00:00Z",
-      "published_label": "2026/10/27 00:00",
-      "summary": "問い 訪問看護と特別訪問看護指示について、正しい記述はどれでしょうか？（1）特別訪問看護指示の指示日は診療日である必要があり、指示期間は14日以内（2）特別訪問看護指示書は原則、月1回しか発行できないが、人工呼吸器を装着している場合と真皮を越える褥瘡がある場合は月2回発行できる（3）訪問看護情報提供療養費3は、入院・入所先が訪問看護ステーションと特別の関係にある場合や、主治医が所属する医療機関である場合でも算定できる（4）「厚生労働大…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "GLP-1関連薬の適応外使用による健康被害の診療・相談経験がある医師は約15％",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/1000research/202610/594948.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-26T15:00:00Z",
-      "published_label": "2026/10/27 00:00",
-      "summary": "GLP-1受容体作動薬やGIP/GLP-1受容体作動薬といった「GLP-1関連薬」は、肥満症や2型糖尿病の治療に用いられ、近年は一部の製剤で代謝機能障害関連脂肪肝炎（MASH）や閉塞性睡眠時無呼吸症候群（OSAS）などにも適応が拡大されている。一方、美容や痩身を目的とした適応外使用が問題となっており、国や日本医師会、関連学会は注意喚起を繰り返している（関連記事：「安全な減量に関するステートメント」公表、GLP-1関連薬使用者のケトーシ…",
-      "tags": [
-        "安全性情報",
-        "学術・エビデンス"
       ],
       "importance": 4,
       "keywords": []
@@ -469,20 +496,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "厚労省がタブネオスの新規処方を控えるよう通知",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594970.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-25T15:00:00Z",
-      "published_label": "2026/10/26 00:00",
-      "summary": "厚生労働省は2026年10月21日、重篤な肝機能障害の発現により同年5月に安全性速報（ブルーレター）が発出されていたタブネオスカプセル（一般名アバコパン）について、新規患者に対しては投与開始を差し控え、投与中の患者では中止または代替治療への切り替えを原則として検討する旨を通知した（関連記事：タブネオスにブルーレター発出、添付文書の「警告」欄を新設）。医薬品医療機器総合機構（PMDA）による報告において、同薬承認審査時の提出資料は信頼性…",
-      "tags": [
-        "安全性情報",
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -826,58 +839,6 @@
       "keywords": []
     },
     {
-      "title": "再生医療の戦略産業化に向け官民投資と制度基盤で政策提言 エコシステム構築 1兆円産業誕生のシナリオ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81054",
-      "source": "ミクスOnline",
-      "published": "2026-10-20T19:51:00Z",
-      "published_label": "2026/10/21 04:51",
-      "summary": "アーサー・ディ・リトル・ジャパンは10月20日、再生医療の戦略産業化に向けた官民投資と制度基盤のあり方に関する政策提言を発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "UCBジャパン 本社を新宿駅直結の明治安田新宿ビルに移転 27年６月に",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81053",
-      "source": "ミクスOnline",
-      "published": "2026-10-20T19:50:00Z",
-      "published_label": "2026/10/21 04:50",
-      "summary": "ユーシービージャパンは2027年６月に本社を東京・新宿駅直結の明治安田新宿ビルへ移転する。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "消費減税関連法案 衆院で審議入り 高市首相「十分性と迅速性の観点から最善の方法」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81051",
-      "source": "ミクスOnline",
-      "published": "2026-10-20T19:50:00Z",
-      "published_label": "2026/10/21 04:50",
-      "summary": "飲食料品の消費税率を１％へ引き下げることを柱とする政府提出の消費税減税関連法案が10月20日、衆院本会議で審議入りした",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "サノフィとEnable社 サークリサ皮下注の専用デバイスの承認取得 OBIによる皮下投与可能に",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81047",
-      "source": "ミクスOnline",
-      "published": "2026-10-20T19:49:00Z",
-      "published_label": "2026/10/21 04:49",
-      "summary": "サノフィと米Enable Injections社は10月19日、Enableが多発性骨髄腫治療薬・サークリサ皮下注の専用デバイス「サークリック」の国内承認を取得したと発表した。これによりサークリサ皮下注は、オンボディ・インジェクター（OBI）による皮下投与が可能な初の抗がん剤になるとともに、OBI及び手動のいずれの方法でも皮下投与が可能な初の多発性骨髄腫治療薬となった。サークリックの医療機器クラス分類は、クラス３（高度管理医療機器）。…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「アレルギー性結膜炎への対応」",
       "link": "https://pharmacist.m3.com/column/movie/7898?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -915,19 +876,6 @@
         "薬価・制度"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "恵寿総合病院・神野理事長 入院患者向けスマートウォッチ300台導入 24時間バイタルデータを自動取得",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81048",
-      "source": "ミクスOnline",
-      "published": "2026-10-19T19:52:00Z",
-      "published_label": "2026/10/20 04:52",
-      "summary": "社会医療法人財団董仙会恵寿総合病院の神野正博理事長は10月19日、石川県七尾市の同院内で記者会見に臨み、入院患者向けにスマートウォッチを用いたバイタルデータの24時間自動取得を実施すると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
