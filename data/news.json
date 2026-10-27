@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-10-27T08:37:05.573726Z",
-  "updated_label": "2026/10/27 17:37",
-  "count": 124,
+  "updated_at": "2026-10-27T15:06:16.987497Z",
+  "updated_label": "2026/10/28 00:06",
+  "count": 122,
   "items": [
+    {
+      "title": "誤嚥性肺炎の患者さんの胃管や服薬の考え方",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/yukidr/202610/594919.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-27T15:00:00Z",
+      "published_label": "2026/10/28 00:00",
+      "summary": "日経メディカル好評連載『吉松由貴の「誤嚥性肺炎、診療の知恵袋」』の最新記事です。今回のテーマは「誤嚥性肺炎の患者さんの胃管や服薬の考え方」です。福岡市南区医師会の多職種連携研修会で講演した内容をもとに、展開されています。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "11月11日に医療DX基盤でセミナー NEC",
       "link": "https://www.yakuji.co.jp/entry141006.html",
@@ -376,45 +389,6 @@
         "学術・エビデンス"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日本光電】カルジオライフAEDが累計100万台出荷を達成",
-      "link": "https://www.yakuji.co.jp/entry140902.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T22:30:11Z",
-      "published_label": "2026/10/26 07:30",
-      "summary": "日本光電は10月23日、同社の「日本光電カルジオライフAED（自動体外式除細動器）」の出荷台数が、10月に全世界で累計100万台を達成したと発表した。 同社…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【三重大】健康管理アプリ「ハートサイン」用いた研究、AMEDの2026年度事業に採択",
-      "link": "https://www.yakuji.co.jp/entry140906.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:34:17Z",
-      "published_label": "2026/10/26 06:34",
-      "summary": "三重大学はこのほど、同大とキュアコードが共同開発している心疾患患者向け健康管理アプリ「ハートサイン」を用いた研究が、PHR（Personal Health R…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【サノフィ日本法人】血小板減少症に新薬‐病態形成過程などに作用",
-      "link": "https://www.yakuji.co.jp/entry140930.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:33:51Z",
-      "published_label": "2026/10/26 06:33",
-      "summary": "サノフィ日本法人は21日、新規作用の持続性・慢性免疫性血小板減少症の治療薬「ウェイリズ錠400mg」（一般名：リルザブルチニブ）を新発売した。既存治療で十分に…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
