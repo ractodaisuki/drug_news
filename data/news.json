@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-10-27T00:13:26.009029Z",
-  "updated_label": "2026/10/27 09:13",
-  "count": 125,
+  "updated_at": "2026-10-27T08:37:05.573726Z",
+  "updated_label": "2026/10/27 17:37",
+  "count": 124,
   "items": [
+    {
+      "title": "11月11日に医療DX基盤でセミナー NEC",
+      "link": "https://www.yakuji.co.jp/entry141006.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T04:15:08Z",
+      "published_label": "2026/10/27 13:15",
+      "summary": "NECは11月11日午前9時から12月18日午後5時まで、医療DX担当者向けのセミナー「病院が今備えるべき医療DX基盤とサイバーセキュリティ」をアーカイブス配…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【三井化学】子育てサポート企業として認定‐「くるみん認定」を取得",
+      "link": "https://www.yakuji.co.jp/entry141003.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T04:10:04Z",
+      "published_label": "2026/10/27 13:10",
+      "summary": "三井化学はこのほど、「子育てサポート企業」として厚生労働大臣の認定を受け、くるみん認定を取得した。同社は、2012年から継続して認定を受けているが、今回23年…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【パラマウントベッド】「眠りSCAN」活用モデル事業の結果報告‐夜間状況を可視化、職員の心理的負担軽減",
+      "link": "https://www.yakuji.co.jp/entry141000.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T04:06:12Z",
+      "published_label": "2026/10/27 13:06",
+      "summary": "パラマウントベッドはこのほど、練馬区および練馬区介護サービス事業者連絡協議会との協定に基づき、昨年7月から12月に実施した、在宅介護の負担軽減を目的とするモデ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】SNOW FOX SKINCAREから透明感ケアシリーズ「ルミナスブライト」ナイトクリーム・美容液・シートマスクの3製品を発売 Apex Commerce",
+      "link": "https://www.yakuji.co.jp/entry140995.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T03:25:31Z",
+      "published_label": "2026/10/27 12:25",
+      "summary": "酒さ・敏感肌の悩みから誕生したスキンケアブランド「SNOW FOX SKINCARE」（Apex Commerce）は、くすみ・色ムラ等に着目した「ルミナスブ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "【がん研など5者】ネオアンチゲン研究が加速‐NEDO実証事業に採択",
       "link": "https://www.yakuji.co.jp/entry140934.html",
@@ -136,6 +188,19 @@
         "薬価・制度",
         "供給・出荷",
         "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師免許の新規申請、オンライン手続きが可能に",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595041.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-26T15:00:00Z",
+      "published_label": "2026/10/27 00:00",
+      "summary": "厚生労働省は2026年10月26日、薬剤師免許の新規登録申請について同日よりマイナポータルを用いたオンライン手続きが可能となったことを公表した。オンラインで新規登録を申請すると、マイナポータル上で資格登録情報を表示する「デジタル資格者証」の利用が可能となる。",
+      "tags": [
+        "法令・行政"
       ],
       "importance": 4,
       "keywords": []
@@ -353,71 +418,6 @@
       "keywords": []
     },
     {
-      "title": "外国価格調整の米除外、衆院厚労委で問題視",
-      "link": "https://www.yakuji.co.jp/entry140928.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:32:59Z",
-      "published_label": "2026/10/26 06:32",
-      "summary": "23日の衆議院厚生労働委員会では、米国の最恵国待遇（MFN）価格政策への対応をめぐり外国平均価格調整で米国価格が除外される現行ルールのあり方が問題視された。厚…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【レジリア】安定供給リスク分析を支援‐厚労省「行動計画」に対応",
-      "link": "https://www.yakuji.co.jp/entry140875.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:31:51Z",
-      "published_label": "2026/10/26 06:31",
-      "summary": "レジリアは、同社が開発・提供するサプライチェーン（供給網）リスク管理クラウドサービス「Resilire（レジリア）」の新機能として、「供給リスクシナリオ分析機…",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【ツルハHD】多摩美大と共同研究開始‐「スローショッピング」基軸に",
-      "link": "https://www.yakuji.co.jp/entry140874.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:30:28Z",
-      "published_label": "2026/10/26 06:30",
-      "summary": "ツルハホールディングスは、多摩美術大学と高齢者に優しい買い物空間づくりを進める「スローショッピング」を基軸とした共同研究を開始したと発表した。来年3月まで実施…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】小児向けの内用液発売‐「リンヴォック」新剤形 アッヴィ日本法人",
-      "link": "https://www.yakuji.co.jp/entry140922.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:04:38Z",
-      "published_label": "2026/10/26 06:04",
-      "summary": "アッヴィ日本法人は23日、炎症を抑えるJAK阻害剤「リンヴォック」の新剤形として、主に小児向けの内用液を新発売した。適応は「既存治療で効果不十分な多関節に活動…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】細胞ファイバ製造装置、2製品を日米で発売 セルファイバ",
-      "link": "https://www.yakuji.co.jp/entry140920.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T21:03:55Z",
-      "published_label": "2026/10/26 06:03",
-      "summary": "再生医療（細胞・遺伝子治療）に用いられる細胞の量産化技術の開発に取り組む新興バイオテックのセルファイバは、同社独自の細胞培養技術である「CellFiber（細…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "PRABITAS FTD/TPI＋BEV隔週法が従来法に非劣性示す 国内大規模試験をプラグマティック...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81073",
       "source": "ミクスOnline",
@@ -509,19 +509,6 @@
         "法令・行政"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "シロップ剤の「原液分取後」の期限、どう指導していますか？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/matsumoto/202610/594668.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-25T15:00:00Z",
-      "published_label": "2026/10/26 00:00",
-      "summary": "ある朝、激しいクループ様咳嗽の小児にデキサメタゾンエリキシルが処方されました。患者家族に「冷蔵庫で保管し、咳が激しい時に飲ませてください」と服薬指導したところ、同僚から「原液で渡したシロップって、何カ月くらい使えると伝えてる？」と聞かれ、ハッとしました。シロップ剤の調剤後の使用期限や保管期間は、現場で案外頭を悩ませるテーマです。精製水や水道水でメスアップ（希釈）したシロップ剤は、「処方日数分の使い切り（長期保存不可）」と指導するのが原…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
