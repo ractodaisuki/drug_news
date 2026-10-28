@@ -1,8 +1,101 @@
 {
-  "updated_at": "2026-10-28T12:03:32.753669Z",
-  "updated_label": "2026/10/28 21:03",
-  "count": 124,
+  "updated_at": "2026-10-28T20:03:27.524291Z",
+  "updated_label": "2026/10/29 05:03",
+  "count": 122,
   "items": [
+    {
+      "title": "製薬・ヘルスケア企業対象のBEV試乗会を初開催 国内外の６社７台で静粛性など乗り比べ 東京・台場で",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81104",
+      "source": "ミクスOnline",
+      "published": "2026-10-28T19:53:00Z",
+      "published_label": "2026/10/29 04:53",
+      "summary": "製薬・ヘルスケア関連企業を対象に、100％電気だけで走行するBEV（Battery Electric Vehicle）の試乗会が10月28日、東京・お台場で開催された。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ノボ ノルディスク 約1200件以上のGLP-1受容体作動薬による不適正使用の事案を確認 当局に報告",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81105",
+      "source": "ミクスOnline",
+      "published": "2026-10-28T19:50:00Z",
+      "published_label": "2026/10/29 04:50",
+      "summary": "ノボ ノルディスク ファーマは10月28日、約1200件以上のGLP-1受容体作動薬の不適正使用を確認し、厚労省など当局に報告したと発表した。",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "持田製薬 中国のチールー社とバイオシミラーの開発販売で包括的提携契約締結 ラインナップ拡充へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81106",
+      "source": "ミクスOnline",
+      "published": "2026-10-28T19:49:00Z",
+      "published_label": "2026/10/29 04:49",
+      "summary": "持田製薬は10月28日、中国のチールー ファーマシューティカル社（本社：中国山東省済南市）とバイオシミラーの日本での開発・販売に関する包括的提携契約を締結したと発表した。",
+      "tags": [
+        "業界動向",
+        "承認・新薬"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "J-TECとマルホ 再生医療等製品・ジャスミンの国内販売でパートナーシップ 病診連携推進で価値最大化",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81107",
+      "source": "ミクスOnline",
+      "published": "2026-10-28T19:48:00Z",
+      "published_label": "2026/10/29 04:48",
+      "summary": "ジャパン・ティッシュエンジニアリング（J-TEC）とマルホは10月28日、再生医療等製品・ジャスミンについて、国内販売に関する独占パートナーシップ契約を締結したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "中外製薬 「CHUGAI PHARMONY DAY」 奥田社長 「複数のステークホルダー巻き込んで」",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81110",
+      "source": "ミクスOnline",
+      "published": "2026-10-28T19:47:00Z",
+      "published_label": "2026/10/29 04:47",
+      "summary": "中外製薬は10月28日、患者中心の医療に向けた取り組みを共有、発信しようと患者団体と社員参加型のイベント「CHUGAI PHARMONY DAY 2026」を開催。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "帯状疱疹治療薬にアナフィラキシーの重大な副作用追加／厚労省",
+      "link": "https://www.carenet.com/news/general/carenet/63868?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-28T19:00:00Z",
+      "published_label": "2026/10/29 04:00",
+      "summary": "2026年10月27日、厚生労働省は、アメナメビル（商品名：アメナリーフ）やインクリシランナトリウム（同：レクビオ皮下注）など4成分について、添付文書の「使用上の注意」の改訂を指示した。アメナメビルでは「重…",
+      "tags": [
+        "安全性情報",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "施設入居者への在宅医療の留意点とは？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594865.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-28T15:00:00Z",
+      "published_label": "2026/10/29 00:00",
+      "summary": "問い 施設入居者への在宅医療について、正しい記述はどれでしょうか？（1）退院日から短期入所生活介護を利用する末期の悪性腫瘍の患者は、サービス利用前30日以内に訪問診療料等を算定していなくても、退院日を除いて利用開始後30日以内まで、訪問診療料、施設入居時等医学総合管理料（施設総管）を算定できる（2）小規模多機能型居宅介護・看護小規模多機能型居宅介護の利用者では、訪問診療や訪問看護は宿泊サービス利用時には算定できるが、通所利用時には算定…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "11月27日に「第12回DIA医療機器開発シンポジウム」開催 ディー・アイ・エー・ジャパン",
       "link": "https://www.yakuji.co.jp/entry141063.html",
@@ -14,19 +107,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ホスピス型住宅大手2社に診療報酬の返還指導、迫られる業態転換",
-      "link": "https://www.carenet.com/hihyowed/338.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-28T01:00:05Z",
-      "published_label": "2026/10/28 10:00",
-      "summary": "ホスピス型有料老人ホーム大手2社に、訪問看護の不適切な請求を理由とする報酬返還指導があったことが報じられた。診療報酬改定による算定要件の厳格化も重なる中、事業モデルの変換が迫られている。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -227,19 +307,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "季節性アレルギー性鼻炎、外来受診患者数年間2470万人・処方薬費1829億円",
-      "link": "https://www.carenet.com/news/general/hdnj/63697?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-27T19:00:00Z",
-      "published_label": "2026/10/28 04:00",
-      "summary": "アレルギー性鼻炎（AR）の有病率は世界的に増加しているが、日本におけるその経済的負担については、全国規模のデータが限られている。今回、全国のレセプトデータを用いて季節性ARの受診状況や処方薬費を調べた…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -453,33 +520,6 @@
       "summary": "厚生労働省は2026年10月26日、薬剤師免許の新規登録申請について同日よりマイナポータルを用いたオンライン手続きが可能となったことを公表した。オンラインで新規登録を申請すると、マイナポータル上で資格登録情報を表示する「デジタル資格者証」の利用が可能となる。",
       "tags": [
         "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "手厚い訪問看護が可能になる特別訪問看護指示とは？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594863.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-26T15:00:00Z",
-      "published_label": "2026/10/27 00:00",
-      "summary": "問い 訪問看護と特別訪問看護指示について、正しい記述はどれでしょうか？（1）特別訪問看護指示の指示日は診療日である必要があり、指示期間は14日以内（2）特別訪問看護指示書は原則、月1回しか発行できないが、人工呼吸器を装着している場合と真皮を越える褥瘡がある場合は月2回発行できる（3）訪問看護情報提供療養費3は、入院・入所先が訪問看護ステーションと特別の関係にある場合や、主治医が所属する医療機関である場合でも算定できる（4）「厚生労働大…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "GLP-1関連薬の適応外使用による健康被害の診療・相談経験がある医師は約15％",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/1000research/202610/594948.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-26T15:00:00Z",
-      "published_label": "2026/10/27 00:00",
-      "summary": "GLP-1受容体作動薬やGIP/GLP-1受容体作動薬といった「GLP-1関連薬」は、肥満症や2型糖尿病の治療に用いられ、近年は一部の製剤で代謝機能障害関連脂肪肝炎（MASH）や閉塞性睡眠時無呼吸症候群（OSAS）などにも適応が拡大されている。一方、美容や痩身を目的とした適応外使用が問題となっており、国や日本医師会、関連学会は注意喚起を繰り返している（関連記事：「安全な減量に関するステートメント」公表、GLP-1関連薬使用者のケトーシ…",
-      "tags": [
-        "安全性情報",
-        "学術・エビデンス"
       ],
       "importance": 4,
       "keywords": []
@@ -852,59 +892,6 @@
       "keywords": []
     },
     {
-      "title": "英Digital Scienceとサンメディア ＭＡ向け「研究インパクトレポート」で提携 Web上の...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81055",
-      "source": "ミクスOnline",
-      "published": "2026-10-21T19:48:00Z",
-      "published_label": "2026/10/22 04:48",
-      "summary": "英国Digital Science社と学術情報サービスを提供するサンメディアは10月20日、製薬企業のメディカルアフェアーズ（ＭＡ）部門向けに提供する「研究インパクトレポート」でパートナーシップ契約を締結したと発表した。",
-      "tags": [
-        "業界動向",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "自維・社会保障協議体 高齢者窓口負担の協議が本格化 改革13項目の議論再開",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81056",
-      "source": "ミクスOnline",
-      "published": "2026-10-21T19:47:00Z",
-      "published_label": "2026/10/22 04:47",
-      "summary": "自民党と日本維新の会の与党社会保障協議体は10月21日、協議を開き、高齢者医療費の窓口負担割合について先行して議論する方針を確認した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "オルガノン 生理によって望む生活や行動が取れない「自分らしさロス」８割以上 国際生理の日に結果公表",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81044",
-      "source": "ミクスOnline",
-      "published": "2026-10-21T19:46:00Z",
-      "published_label": "2026/10/22 04:46",
-      "summary": "オルガノンは10月19日、生理が日常生活に及ぼす影響に関する実態調査の結果を発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "厚労省 タブネオスで通知発出 新規投与中止 投与中の患者は「中止又は代替治療への切替えを原則」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81058",
-      "source": "ミクスOnline",
-      "published": "2026-10-21T14:00:00Z",
-      "published_label": "2026/10/21 23:00",
-      "summary": "厚生労働省は10月21日、選択的C5a受容体拮抗薬・タブネオスカプセル10mg（一般名：アバコパン）について、新規患者への投与は差し控え、投与中の患者は「中止又は代替治療への切替えを原則として、対応を検討すること」などを求める２課長通知を発出した。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「虫刺されの強いかゆみにステロイド？」",
       "link": "https://pharmacist.m3.com/column/movie/7899?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -916,19 +903,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "PMDA GLP-1受容体作動薬等の適正使用を再周知 痩身目的の使用によるケトーシス報告受け注意喚起",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81052",
-      "source": "ミクスOnline",
-      "published": "2026-10-20T19:52:00Z",
-      "published_label": "2026/10/21 04:52",
-      "summary": "医薬品医療機器総合機構（PMDA）は10月20日、厚労省が14日付で発出したマンジャロなどのGLP-1受容体作動薬等（GLP-1受容体作動薬及びGIP/GLP-1受容体作動薬）の適正使用の再周知に関する４課長通知をメディナビ等で公表し、PMDAとして改めて注意喚起した。",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
