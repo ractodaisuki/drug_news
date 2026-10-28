@@ -1,8 +1,154 @@
 {
-  "updated_at": "2026-10-27T21:47:38.561047Z",
-  "updated_label": "2026/10/28 06:47",
-  "count": 118,
+  "updated_at": "2026-10-28T03:52:26.196035Z",
+  "updated_label": "2026/10/28 12:52",
+  "count": 126,
   "items": [
+    {
+      "title": "ホスピス型住宅大手2社に診療報酬の返還指導、迫られる業態転換",
+      "link": "https://www.carenet.com/hihyowed/338.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-28T01:00:05Z",
+      "published_label": "2026/10/28 10:00",
+      "summary": "ホスピス型有料老人ホーム大手2社に、訪問看護の不適切な請求を理由とする報酬返還指導があったことが報じられた。診療報酬改定による算定要件の厳格化も重なる中、事業モデルの変換が迫られている。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【日薬／RAD-AR】小学校から「くすり教育」を‐市販薬の乱用背景に要望",
+      "link": "https://www.yakuji.co.jp/entry141030.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T23:31:58Z",
+      "published_label": "2026/10/28 08:31",
+      "summary": "日本薬剤師会とくすりの適正使用協議会（RAD-AR）は、2028年度以降に順次実施予定の次期学習指導要領をめぐり、小学校から「くすり教育」を導入するよう求めて…",
+      "tags": [
+        "一般用医薬品",
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【ノバルティスファーマ】腎臓病治療は新潮流へ‐経口薬「ファビハルタ」登場で",
+      "link": "https://www.yakuji.co.jp/entry141038.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T23:30:20Z",
+      "published_label": "2026/10/28 08:30",
+      "summary": "ノバルティスファーマは、「ファビハルタカプセル200mg」（一般名：イプタコパン塩酸塩水和物）が、成人IgA腎症に対する国内承認を9月に取得したことを受け、1…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【NECオンコイミュニティ】「PREPAIR-VAC」プロジェクトに参画‐迅速なワクチン開発パイプラインの構築へ",
+      "link": "https://www.yakuji.co.jp/entry141028.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T22:34:14Z",
+      "published_label": "2026/10/28 07:34",
+      "summary": "NECはこのほど、同社のグループ会社であるノルウェーのNEC OncoImmunity AS（NECオンコイミュニティ）が、EUが実施する中核的な研究・イノベ…",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "12月5日に「スポーツ障害」でオンラインセミナー コニカミノルタJ、キヤノンMS",
+      "link": "https://www.yakuji.co.jp/entry141027.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T22:33:23Z",
+      "published_label": "2026/10/28 07:33",
+      "summary": "コニカミノルタジャパンとキヤノンメディカルシステムズは共催で12月5日午後4時から午後6時まで、オンラインセミナー「超実践！超音波ガイド下インターベンションセ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津製作所】「Nexera IC」と「Nexis GC-2060」、グッドデザイン賞を受賞",
+      "link": "https://www.yakuji.co.jp/entry141013.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T22:32:23Z",
+      "published_label": "2026/10/28 07:32",
+      "summary": "島津製作所はこのほど、同社のイオンクロマトグラフ「Nexera IC」とガスクロマトグラフ「Nexis GC-2060」が、日本デザイン振興会が主催する「20…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津製作所】「SHIMADZUみらい共創チャレンジ」、社外研究パートナーの公募開始",
+      "link": "https://www.yakuji.co.jp/entry141012.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T22:31:09Z",
+      "published_label": "2026/10/28 07:31",
+      "summary": "島津製作所は11月2日から、社外研究パートナー公募制度「SHIMADZUみらい共創チャレンジ」のパートナーの募集を開始する。同制度は、スタートアップや大学など…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【ナリス化粧品】研究開発部技術顧問が大阪府知事表彰‐業界への技術情報の浸透・理解促進と技術向上による業界発展に対する評価",
+      "link": "https://www.yakuji.co.jp/entry141010.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T22:30:15Z",
+      "published_label": "2026/10/28 07:30",
+      "summary": "ナリス化粧品はこのほど、大阪府の「薬と健康の週間」にあたり10月22日に大阪府薬剤師会館で開催された令和8年度「大阪府薬事関係等功労者知事表彰式」で、研究開発…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日病薬地方連絡協議会】5疾病6事業にも「薬剤師」‐第8次医療計画見直しで",
+      "link": "https://www.yakuji.co.jp/entry141031.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T21:31:06Z",
+      "published_label": "2026/10/28 06:31",
+      "summary": "日本病院薬剤師会の地方連絡協議会が24日に都内で開かれ、各都道府県における病院薬剤師の確保策をめぐって議論した。2024年度に始まった第8次医療計画の中間見直…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省】適合性調査で経過措置‐短期間での再調査避ける",
+      "link": "https://www.yakuji.co.jp/entry141034.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T21:30:27Z",
+      "published_label": "2026/10/28 06:30",
+      "summary": "厚生労働省は22日、改正医薬品医療機器等法に関連する整備政令の来年5月施行分について、医薬品製造所に対する定期適合性調査の間隔が5年から3年に短縮されることに…",
+      "tags": [
+        "供給・出荷",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "AI時代の「人の判断」",
+      "link": "https://www.yakuji.co.jp/entry141016.html",
+      "source": "薬事日報",
+      "published": "2026-10-27T21:01:13Z",
+      "published_label": "2026/10/28 06:01",
+      "summary": "◆一昔前の洋画や小説では人工知能（AI）による戦争やサイバー攻撃が描かれたが、現実になるのは遠い未来の話と思っていた。近年も、仕事の効率化や生活を便利にするAI…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "中外製薬 次世代KRAS G12C阻害薬Divarasib 26年度中に国内申請へ 第一世代薬と直接...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81086",
@@ -81,6 +227,32 @@
         "薬価・制度"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "数多くある訪問看護の加算、把握していますか？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594864.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-27T15:00:00Z",
+      "published_label": "2026/10/28 00:00",
+      "summary": "問い 訪問看護の加算について、正しい記述はどれでしょうか？（1）介護保険では、同一の利用者に対して2カ所以上の訪問看護ステーションの利用が可能であり、特別管理加算も2カ所で算定できる（2）医療保険の緊急訪問看護加算は、利用者や家族の求めに応じて医師の指示で緊急訪問した場合、1日につき1回に限り算定できる（3）「厚生労働大臣が定める状態等」（別表第8）に該当すれば、医療保険でも介護保険でも、長時間訪問看護加算が算定できる（4）在宅患者緊…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "誤嚥性肺炎の患者さんの胃管や服薬の考え方",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/yukidr/202610/594919.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-27T15:00:00Z",
+      "published_label": "2026/10/28 00:00",
+      "summary": "日経メディカル好評連載『吉松由貴の「誤嚥性肺炎、診療の知恵袋」』の最新記事です。今回のテーマは「誤嚥性肺炎の患者さんの胃管や服薬の考え方」です。福岡市南区医師会の多職種連携研修会で講演した内容をもとに、展開されています。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -273,6 +445,46 @@
       "keywords": []
     },
     {
+      "title": "薬剤師免許の新規申請、オンライン手続きが可能に",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595041.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-26T15:00:00Z",
+      "published_label": "2026/10/27 00:00",
+      "summary": "厚生労働省は2026年10月26日、薬剤師免許の新規登録申請について同日よりマイナポータルを用いたオンライン手続きが可能となったことを公表した。オンラインで新規登録を申請すると、マイナポータル上で資格登録情報を表示する「デジタル資格者証」の利用が可能となる。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "手厚い訪問看護が可能になる特別訪問看護指示とは？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594863.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-26T15:00:00Z",
+      "published_label": "2026/10/27 00:00",
+      "summary": "問い 訪問看護と特別訪問看護指示について、正しい記述はどれでしょうか？（1）特別訪問看護指示の指示日は診療日である必要があり、指示期間は14日以内（2）特別訪問看護指示書は原則、月1回しか発行できないが、人工呼吸器を装着している場合と真皮を越える褥瘡がある場合は月2回発行できる（3）訪問看護情報提供療養費3は、入院・入所先が訪問看護ステーションと特別の関係にある場合や、主治医が所属する医療機関である場合でも算定できる（4）「厚生労働大…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "GLP-1関連薬の適応外使用による健康被害の診療・相談経験がある医師は約15％",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/1000research/202610/594948.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-26T15:00:00Z",
+      "published_label": "2026/10/27 00:00",
+      "summary": "GLP-1受容体作動薬やGIP/GLP-1受容体作動薬といった「GLP-1関連薬」は、肥満症や2型糖尿病の治療に用いられ、近年は一部の製剤で代謝機能障害関連脂肪肝炎（MASH）や閉塞性睡眠時無呼吸症候群（OSAS）などにも適応が拡大されている。一方、美容や痩身を目的とした適応外使用が問題となっており、国や日本医師会、関連学会は注意喚起を繰り返している（関連記事：「安全な減量に関するステートメント」公表、GLP-1関連薬使用者のケトーシ…",
+      "tags": [
+        "安全性情報",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "薬剤師免許に関するオンライン申請手続きのご案内",
       "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
       "source": "厚生労働省 新着情報",
@@ -283,86 +495,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "【MR支援 ～これからの時代に求められるMRとは】MIフォース株式会社",
-      "link": "https://www.yakuji.co.jp/entry140957.html",
-      "source": "薬事日報",
-      "published": "2026-10-26T02:43:07Z",
-      "published_label": "2026/10/26 11:43",
-      "summary": "サービス広げニーズに対応 MIフォースは、多様化する製薬企業のニーズに応えるため、主力のコントラクトMR派遣に加え、MSL派遣やマーケティング支援など事業領域…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【MR支援 ～これからの時代に求められるMRとは】株式会社アピックス",
-      "link": "https://www.yakuji.co.jp/entry140965.html",
-      "source": "薬事日報",
-      "published": "2026-10-26T02:42:48Z",
-      "published_label": "2026/10/26 11:42",
-      "summary": "MR向け資材を一括管理 アピックスは、印刷を起点に、デジタルコンテンツ、業務支援、システム、物流などを組み合わせ、顧客のコミュニケーションと業務運用を支援して…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【MR支援 ～これからの時代に求められるMRとは】リープ株式会社",
-      "link": "https://www.yakuji.co.jp/entry140959.html",
-      "source": "薬事日報",
-      "published": "2026-10-26T02:41:19Z",
-      "published_label": "2026/10/26 11:41",
-      "summary": "現場での実行状況可視化 製薬企業向けの人材育成・研修支援を行うリープは、製品戦略の現場での実行状況を可視化する「コール戦術・解析サービス」の提供を開始した。M…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "11月5日にウェビナー「臨床開発組織の進化と最適なオペレーティングモデル」開催 サイネオス・ヘルス・ジャパン",
-      "link": "https://www.yakuji.co.jp/entry140878.html",
-      "source": "薬事日報",
-      "published": "2026-10-26T01:30:40Z",
-      "published_label": "2026/10/26 10:30",
-      "summary": "臨床開発を取り巻く環境は、試験デザインの複雑化、開発コストへのプレッシャー、パイプラインの変動、開発競争の激化により大きく変化しています。こうした環境下では、必…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【製薬団体、薬剤師会など】薬業界にもPHP問題直撃‐ウェブサイト閲覧不可に",
-      "link": "https://www.yakuji.co.jp/entry140932.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T23:31:03Z",
-      "published_label": "2026/10/26 08:31",
-      "summary": "ウェブサイトなどで広く使われるプログラミング言語「PHP」の深刻な脆弱性が21日23時に公表されたことを受け、製薬関連団体のウェブサイトが閲覧できなくなったり…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【キッセイ、腎臓学会ら】タブネオスで対応動き出す‐学会は中止後治療方針公表",
-      "link": "https://www.yakuji.co.jp/entry140931.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T23:30:54Z",
-      "published_label": "2026/10/26 08:30",
-      "summary": "厚生労働省は21日、キッセイ薬品の血管炎薬「タブネオス」（一般名：アバコパン）について、承認申請資料の信頼性に問題があることが確認され、有益性がリスクを上回る…",
-      "tags": [
-        "学術・エビデンス",
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -377,45 +509,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】rom&ndから“メイクのためのスキンケア”が登場‐ドン・キホーテ系列店舗限定ブランド「STEP by rom＆nd（ステップ バイ ロムアンド）」デビュー 韓国高麗人蔘社",
-      "link": "https://www.yakuji.co.jp/entry140910.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T22:36:34Z",
-      "published_label": "2026/10/26 07:36",
-      "summary": "韓国コスメブランド「rom&nd（ロムアンド）」は、ドン・キホーテ系列店舗、アピタ、ピアゴ限定の新スキンケアブランド「STEP by rom…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【NECグループ】個別化ネオアンチゲン療法「NECVAX-NEO1」、第I／II相臨床試験で良好な成績",
-      "link": "https://www.yakuji.co.jp/entry140909.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T22:35:48Z",
-      "published_label": "2026/10/26 07:35",
-      "summary": "NECグループは10月22日、同社が実施している個別化ネオアンチゲン療法「NECVAX-NEO1」の第I／II相臨床試験が今回、トリプルネガティブ乳がん（TN…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【オムロンHC】「日本公衆衛生学会総会」に出展",
-      "link": "https://www.yakuji.co.jp/entry140905.html",
-      "source": "薬事日報",
-      "published": "2026-10-25T22:32:45Z",
-      "published_label": "2026/10/26 07:32",
-      "summary": "オムロンヘルスケアは10月29～31日、東京・新宿で開かれる「第85回日本公衆衛生学会総会に出展する。展示ブースでは、尿中のナトリウムとカリウムの比率（ナトカ…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -496,6 +589,20 @@
         "その他"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "厚労省がタブネオスの新規処方を控えるよう通知",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594970.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-25T15:00:00Z",
+      "published_label": "2026/10/26 00:00",
+      "summary": "厚生労働省は2026年10月21日、重篤な肝機能障害の発現により同年5月に安全性速報（ブルーレター）が発出されていたタブネオスカプセル（一般名アバコパン）について、新規患者に対しては投与開始を差し控え、投与中の患者では中止または代替治療への切り替えを原則として検討する旨を通知した（関連記事：タブネオスにブルーレター発出、添付文書の「警告」欄を新設）。医薬品医療機器総合機構（PMDA）による報告において、同薬承認審査時の提出資料は信頼性…",
+      "tags": [
+        "安全性情報",
+        "法令・行政"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
