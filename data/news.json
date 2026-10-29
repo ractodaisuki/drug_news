@@ -1,8 +1,245 @@
 {
-  "updated_at": "2026-10-29T17:59:17.104185Z",
-  "updated_label": "2026/10/30 02:59",
-  "count": 124,
+  "updated_at": "2026-10-29T22:40:10.632954Z",
+  "updated_label": "2026/10/30 07:40",
+  "count": 126,
   "items": [
+    {
+      "title": "11月20日にウェブ講演会「薬局薬剤師が知るべきバイオシミラーの基礎」開催 日本バイオシミラー協議会",
+      "link": "https://www.yakuji.co.jp/entry141113.html",
+      "source": "薬事日報",
+      "published": "2026-10-29T21:05:35Z",
+      "published_label": "2026/10/30 06:05",
+      "summary": "日本バイオシミラー協議会＝11月20日17～18時半まで、ウェブ講演会「薬局薬剤師が知るべきバイオシミラーの基礎―薬局薬剤師に期待される事とは」を開催する。講…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "11月11日にセミナー「日本のがんバイオマーカー・ゲノム検査の新時代に向けて」開催 サイニクス",
+      "link": "https://www.yakuji.co.jp/entry141112.html",
+      "source": "薬事日報",
+      "published": "2026-10-29T21:04:01Z",
+      "published_label": "2026/10/30 06:04",
+      "summary": "サイニクス＝11月11日13時から、都内のコモレ四谷タワーコンファレンスでセミナー「日本のがんバイオマーカー・ゲノム検査の新時代に向けて―世界との格差が広がる…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】免疫ケアのど飴を発売‐プラズマ乳酸菌など配合 マツキヨココカラ＆カンパニー",
+      "link": "https://www.yakuji.co.jp/entry141110.html",
+      "source": "薬事日報",
+      "published": "2026-10-29T21:03:25Z",
+      "published_label": "2026/10/30 06:03",
+      "summary": "マツキヨココカラ＆カンパニーは、オリジナルヘルスケアブランド「matsukiyoLAB免疫ケアプラズマ乳酸菌のどケアラクトフェリンのど飴」を全国のマツモトキヨ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "DX推進で浮かび上がった光と影",
+      "link": "https://www.yakuji.co.jp/entry141109.html",
+      "source": "薬事日報",
+      "published": "2026-10-29T21:02:53Z",
+      "published_label": "2026/10/30 06:02",
+      "summary": "プログラミング言語PHPに重大な脆弱性が発見され、世界中で大規模なセキュリティの危機に見舞われ混乱が広がった。PHPは世界で広く利用されているプログラミング言…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日米欧から日米欧中へ",
+      "link": "https://www.yakuji.co.jp/entry141108.html",
+      "source": "薬事日報",
+      "published": "2026-10-29T21:01:27Z",
+      "published_label": "2026/10/30 06:01",
+      "summary": "◆武田薬品が新薬「オーゼイフル」を日本と中国で同時発売すると発表した。その同時発売は「意図的なもの」と説明を受け、時代の変わり目を感じた ◆と言うのも、記者にな…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "武田薬品・キム社長 最優先事項「新製品の上市成功」に自信 オーゼイフル等３製品が成長の原動力",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81137",
+      "source": "ミクスOnline",
+      "published": "2026-10-29T20:30:00Z",
+      "published_label": "2026/10/30 05:30",
+      "summary": "武田薬品のジュリー・キム代表取締役社長CEOは10月29日、2026年度第２四半期決算に臨み、「26年度の最優先事項は新製品の上市成功だ」と強調した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "小野薬品・滝野社長 「30年前後からの新薬候補の厚み増した」 オプジーボクリフ後の成長に自信",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81134",
+      "source": "ミクスOnline",
+      "published": "2026-10-29T19:52:00Z",
+      "published_label": "2026/10/30 04:52",
+      "summary": "小野薬品の滝野十一代表取締役社長CEOは10月29日の2026年度第２四半期決算説明会で、「2030年前後からのパイプライン（新薬候補）の厚みが増した」と述べ、28年の米国を皮切りに始まるオプジーボクリフ後の持続成長に自信をみせた。",
+      "tags": [
+        "承認・新薬",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "塩野義製薬 26年度通期業績予想を上方修正 手代木社長「少し堅めに」 27年度以降の成長曲線に期待",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81133",
+      "source": "ミクスOnline",
+      "published": "2026-10-29T19:52:00Z",
+      "published_label": "2026/10/30 04:52",
+      "summary": "塩野義製薬の手代木功代表取締役会長兼社長CEOは10月29日の2026年度中間決算記者会見で、26年度通期の売上高および各利益の上方修正を発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "原口前議員に賠償命令 レプリコンワクチン「生物兵器」発言で Meiji Seikaの名誉棄損認める ...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81132",
+      "source": "ミクスOnline",
+      "published": "2026-10-29T19:51:00Z",
+      "published_label": "2026/10/30 04:51",
+      "summary": "新型コロナに対するレプリコンタイプ（自己増幅型）の次世代mRNAワクチン・コスタイベを製造販売するMeiji Seika ファルマが、原口一博前衆院議員から同ワクチンを「生物兵器」などと繰り返し誹謗中傷され名誉を傷つけられたと訴えた裁判で、東京地裁は10月29日、原口氏に220万円の賠償を命じた。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "帝人リジェネット 細胞・遺伝子治療のグローバルアライアンス「ACGMP」に参画 海外CDMO含む7社...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81136",
+      "source": "ミクスOnline",
+      "published": "2026-10-29T19:50:00Z",
+      "published_label": "2026/10/30 04:50",
+      "summary": "帝人は10月29日、グループ会社で再生医療CDMOを手掛ける帝人リジェネットが、細胞・遺伝子治療分野の専門CDMOで構成されるグローバルアライアンス「Alliance of CGT Manufacturing Partners（ACGMP）」への参画契約を締結したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ヘルスケア産業PF 物価上昇踏まえた薬価の引き上げ主張 卸組合員への調査 63.1％が逆ザヤ「増加」...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81135",
+      "source": "ミクスOnline",
+      "published": "2026-10-29T19:50:00Z",
+      "published_label": "2026/10/30 04:50",
+      "summary": "医薬関連労組で構成するヘルスケア産業プラットフォームは10月29日、国会内で集会を開き、物価上昇を踏まえた薬価や材料価格の引き上げを求めた。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "田辺ファーマ 製造販売承認申請したMT-2111 日本新薬と国内の独占的販売でサブライセンス契約締結",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81131",
+      "source": "ミクスOnline",
+      "published": "2026-10-29T19:50:00Z",
+      "published_label": "2026/10/30 04:50",
+      "summary": "田辺ファーマは10月29日、厚生労働省に医薬品製造販売承認を申請したロンカスツキシマブテシリン（MT-2111）について、日本新薬と国内の独占的販売に関するサブライセンス契約を締結したと発表した。",
+      "tags": [
+        "承認・新薬",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "KMバイオ WHOのワクチン備蓄体制プログラムに参画 エムポックスワクチン19.25万回分供給",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81103",
+      "source": "ミクスOnline",
+      "published": "2026-10-29T19:49:00Z",
+      "published_label": "2026/10/30 04:49",
+      "summary": "Meiji Seika ファルマは10月28日、傘下のKMバイオロジクスがWHOのICG（International Coordinating Group on Vaccine Provision、ワクチン供給に関する国際調整グループ）によるエムポックスの流行に備えた世界的なワクチン備蓄体制プログラムに参画すると発表した。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "survodutide、2型糖尿病の肥満成人で有意な体重減少／NEJM",
+      "link": "https://www.carenet.com/news/journal/carenet/63800?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-29T19:00:00Z",
+      "published_label": "2026/10/30 04:00",
+      "summary": "2型糖尿病の肥満成人において、グルカゴン受容体とGLP-1受容体の二重作動薬（デュアルアゴニスト）であるsurvodutideの週1回投与はプラセボと比較し、体重を有意に減少させることが認められた。カナダ・マクマス…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "双極症におけるLAI抗精神病薬と経口抗精神病薬の比較",
+      "link": "https://www.carenet.com/news/general/carenet/63833?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-29T18:59:50Z",
+      "published_label": "2026/10/30 03:59",
+      "summary": "持続性注射剤（LAI）抗精神病薬は、服薬アドヒアランスを向上させる。しかし、双極症におけるLAI抗精神病薬の最適な使用法については、さらなる検討が必要であると考えられる。香港大学のEunice Kehui Deng氏らは…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "セバベルチニブ発売、HER2変異NSCLCで1次治療から使用可能／バイエル",
+      "link": "https://www.carenet.com/news/general/carenet/63871?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-29T18:58:00Z",
+      "published_label": "2026/10/30 03:58",
+      "summary": "バイエル薬品は2026年10月29日に、セバベルチニブ（商品名：ヒアニュオ錠10mg）を発売した。本剤は、HER2遺伝子変異陽性の非小細胞肺がん（NSCLC）に対し、1次治療を含む治療ラインを問わず使用可能な分子標的薬…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ロキソプロフェンの指定第2類移行は継続審議に",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595111.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-29T15:00:00Z",
+      "published_label": "2026/10/30 00:00",
+      "summary": "厚生労働省は2026年10月29日、薬事審議会医薬品等安全対策部会を開催し、OTC医薬品のリスク区分が第1類となっているロキソプロフェンを指定第2類医薬品に変更することについて議論した。今回は結論を出さず、部会としての意見を整理した上で、次回以降も継続して審議することとなった。",
+      "tags": [
+        "一般用医薬品",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "「頑張っているのに給料が上がらない……」薬局薬剤師が昇給するための第一歩とは",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/gude/202610/594938.html",
+      "source": "日経メディカル Online",
+      "published": "2026-10-29T15:00:00Z",
+      "published_label": "2026/10/30 00:00",
+      "summary": "とま美「今年も昇給額は変わりませんでした……」ぐで太郎「ほとんどの人がそうなんじゃない？昇給しているだけありがたいと思わないと」とま美「でもこの１年頑張ったんですよ？」ぐで太郎「会社の仕事を任されたり、管理薬剤師になったりしたの？」とま美「それはしてませんけど……」ぐで太郎「厳しいことを言うようだけど、それが今のきみの評価ということだね。じゃあこれからどうすれば給料が上がる可能性があるか、一緒に考えてみよう」給 料は、会社の利益の再分…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "BCG不応性の高リスク筋層非浸潤性膀胱癌に、留置型の膀胱内投与製剤が登場",
       "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202610/595066.html",
@@ -40,19 +277,6 @@
         "承認・新薬"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "片頭痛の急性期治療、最新の使い分けは？",
-      "link": "https://www.carenet.com/report/yorozu/cg005110_015.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-29T01:00:08Z",
-      "published_label": "2026/10/29 10:00",
-      "summary": "片頭痛の急性期治療における最新の使い分けを解説。定番であるトリプタン系薬剤の特徴と選択のコツをはじめ、効果不十分や禁忌例における次の一手「ラスミジタン」「リメゲパント」の活用法をお伝えします。",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -345,20 +569,6 @@
       "keywords": []
     },
     {
-      "title": "帯状疱疹治療薬にアナフィラキシーの重大な副作用追加／厚労省",
-      "link": "https://www.carenet.com/news/general/carenet/63868?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-28T19:00:00Z",
-      "published_label": "2026/10/29 04:00",
-      "summary": "2026年10月27日、厚生労働省は、アメナメビル（商品名：アメナリーフ）やインクリシランナトリウム（同：レクビオ皮下注）など4成分について、添付文書の「使用上の注意」の改訂を指示した。アメナメビルでは「重…",
-      "tags": [
-        "安全性情報",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "薬局製剤に新たに47処方追加、ダイオウなど5成分の配合量は選択可能に",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595103.html",
       "source": "日経メディカル Online",
@@ -382,86 +592,6 @@
         "薬価・制度"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "11月27日に「第12回DIA医療機器開発シンポジウム」開催 ディー・アイ・エー・ジャパン",
-      "link": "https://www.yakuji.co.jp/entry141063.html",
-      "source": "薬事日報",
-      "published": "2026-10-28T05:30:28Z",
-      "published_label": "2026/10/28 14:30",
-      "summary": "「第12回DIA医療機器開発シンポジウム 医療データ利活用時代とSaMDの社会実装」が、2026年11月27日(金)にハイブリッド（日本橋ライフサイエンスビル…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日薬／RAD-AR】小学校から「くすり教育」を‐市販薬の乱用背景に要望",
-      "link": "https://www.yakuji.co.jp/entry141030.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T23:31:58Z",
-      "published_label": "2026/10/28 08:31",
-      "summary": "日本薬剤師会とくすりの適正使用協議会（RAD-AR）は、2028年度以降に順次実施予定の次期学習指導要領をめぐり、小学校から「くすり教育」を導入するよう求めて…",
-      "tags": [
-        "一般用医薬品",
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【ノバルティスファーマ】腎臓病治療は新潮流へ‐経口薬「ファビハルタ」登場で",
-      "link": "https://www.yakuji.co.jp/entry141038.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T23:30:20Z",
-      "published_label": "2026/10/28 08:30",
-      "summary": "ノバルティスファーマは、「ファビハルタカプセル200mg」（一般名：イプタコパン塩酸塩水和物）が、成人IgA腎症に対する国内承認を9月に取得したことを受け、1…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【NECオンコイミュニティ】「PREPAIR-VAC」プロジェクトに参画‐迅速なワクチン開発パイプラインの構築へ",
-      "link": "https://www.yakuji.co.jp/entry141028.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T22:34:14Z",
-      "published_label": "2026/10/28 07:34",
-      "summary": "NECはこのほど、同社のグループ会社であるノルウェーのNEC OncoImmunity AS（NECオンコイミュニティ）が、EUが実施する中核的な研究・イノベ…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "12月5日に「スポーツ障害」でオンラインセミナー コニカミノルタJ、キヤノンMS",
-      "link": "https://www.yakuji.co.jp/entry141027.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T22:33:23Z",
-      "published_label": "2026/10/28 07:33",
-      "summary": "コニカミノルタジャパンとキヤノンメディカルシステムズは共催で12月5日午後4時から午後6時まで、オンラインセミナー「超実践！超音波ガイド下インターベンションセ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】「Nexera IC」と「Nexis GC-2060」、グッドデザイン賞を受賞",
-      "link": "https://www.yakuji.co.jp/entry141013.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T22:32:23Z",
-      "published_label": "2026/10/28 07:32",
-      "summary": "島津製作所はこのほど、同社のイオンクロマトグラフ「Nexera IC」とガスクロマトグラフ「Nexis GC-2060」が、日本デザイン振興会が主催する「20…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -698,45 +828,6 @@
       "keywords": []
     },
     {
-      "title": "上野厚労相 高齢者窓口負担巡る与党協議に「必要な資料提供など議論をサポート」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81071",
-      "source": "ミクスOnline",
-      "published": "2026-10-25T19:50:00Z",
-      "published_label": "2026/10/26 04:50",
-      "summary": "上野賢一郎厚労相は10月23日の閣議後会見で、自民党と日本維新の会の与党社会保障制度改革協議体で進む高齢者医療費の窓口負担見直しを巡る議論について、「与党での協議であるため、厚生労働省から提案する立場にはない」とした上で、「議論が円滑に進むよう、必要な資料を提供するなどして議論をサポートしていきたい」との考えを示した。",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "アルフレッサ セイコーソリューションズと医療DX分野で協業 医療機関向け電子同意サービスを共同展開",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81070",
-      "source": "ミクスOnline",
-      "published": "2026-10-25T19:50:00Z",
-      "published_label": "2026/10/26 04:50",
-      "summary": "アルフレッサホールディングス（HD）は10月23日、子会社のアルフレッサとセイコーグループのセイコーソリューションズが医療DX分野で協業する基本合意書を締結したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "東邦HD子会社 医師氏名など約8000件が漏洩した可能性 外部メール配信サービスで不正アクセス被害",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81069",
-      "source": "ミクスOnline",
-      "published": "2026-10-25T19:50:00Z",
-      "published_label": "2026/10/26 04:50",
-      "summary": "東邦ホールディングスは10月23日、子会社で医療機関検索サイト「病院なび」などを運営するeヘルスケア社が保有する医師の氏名など約8000件の個人情報が漏洩した可能性があると発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "薬剤師の10年後は厳しい？",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/7947?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -819,72 +910,6 @@
         "選定療養"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "キッセイ薬品 タブネオスの原則切替えなどの情報提供開始 学会合同TFが「計画的中止時の対応」を公表",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81066",
-      "source": "ミクスOnline",
-      "published": "2026-10-22T19:52:00Z",
-      "published_label": "2026/10/23 04:52",
-      "summary": "キッセイ薬品は10月22日、有効性を裏付ける臨床試験データに疑義が示された選択的C5a受容体拮抗薬・タブネオスカプセル10mg（一般名：アバコパン）に関し、厚労省がまとめた当面の対応方針について、同社ＭＲによる医療機関等への伝達を開始したと発表した。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "糖尿病治療薬・マンジャロの不正販売で薬局経営責任者ら2人逮捕 薬機法違反の疑い 警視庁",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81068",
-      "source": "ミクスOnline",
-      "published": "2026-10-22T19:51:00Z",
-      "published_label": "2026/10/23 04:51",
-      "summary": "医師の処方箋なしにマンジャロなど２型糖尿病治療薬などを販売したとして、警視庁生活環境課などは10月22日、薬局経営責任者の女らを薬機法違反で逮捕。",
-      "tags": [
-        "法令・行政",
-        "薬局経営"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "卸連・宮田会長 サイバー対策は「大きな問題」 受発注システム障害で「医療全体が回らなくなるリスク」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81065",
-      "source": "ミクスOnline",
-      "published": "2026-10-22T19:50:00Z",
-      "published_label": "2026/10/23 04:50",
-      "summary": "日本医薬品卸売業連合会の宮田浩美会長（スズケン会長）は10月22日の定例会見で、プログラミング言語「PHP」の重大な欠陥への対応を含むサイバーセキュリティ対策について、「非常に大きな問題」と強調した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日立とケーエスケー 医薬品配送DX 欠員など急な状況変化に応じた配送ルート自動編成機能 11月稼働へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81067",
-      "source": "ミクスOnline",
-      "published": "2026-10-22T19:49:00Z",
-      "published_label": "2026/10/23 04:49",
-      "summary": "日立製作所とケーエスケーは10月22日、配送担当者に欠員が発生した場合など急な状況変化に対応した配送ルートの自動編成機能の実証を完了したと発表した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "大鵬薬品 つくば研究所に太陽光発電設備を導入 CO2排出量を年間約185トン削減へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81064",
-      "source": "ミクスOnline",
-      "published": "2026-10-22T19:49:00Z",
-      "published_label": "2026/10/23 04:49",
-      "summary": "大鵬薬品は10月22日、茨城県のつくば研究所で新たに太陽光発電設備を設置したと発表した。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
