@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-10-29T00:35:15.529258Z",
-  "updated_label": "2026/10/29 09:35",
-  "count": 128,
+  "updated_at": "2026-10-29T09:17:37.398388Z",
+  "updated_label": "2026/10/29 18:17",
+  "count": 124,
   "items": [
+    {
+      "title": "日本薬剤師研修センター 研修会 2026/11",
+      "link": "https://www.yakuji.co.jp/entry141100.html",
+      "source": "薬事日報",
+      "published": "2026-10-29T01:24:00Z",
+      "published_label": "2026/10/29 10:24",
+      "summary": "巻頭言 医薬品の知識を深化させ、多様な患者ニーズに対応できる薬剤師に 独立行政法人医薬品医療機器総合機構 理事（技監） 田宮憲一 新規モダリティの新薬の登場、外…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "片頭痛の急性期治療、最新の使い分けは？",
+      "link": "https://www.carenet.com/report/yorozu/cg005110_015.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-10-29T01:00:08Z",
+      "published_label": "2026/10/29 10:00",
+      "summary": "片頭痛の急性期治療における最新の使い分けを解説。定番であるトリプタン系薬剤の特徴と選択のコツをはじめ、効果不十分や禁忌例における次の一手「ラスミジタン」「リメゲパント」の活用法をお伝えします。",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "「地域全体で病薬を育成」‐日病薬 武田会長、研修プログラム構築に意欲",
       "link": "https://www.yakuji.co.jp/entry141033.html",
@@ -406,72 +432,6 @@
       "published": "2026-10-27T22:32:23Z",
       "published_label": "2026/10/28 07:32",
       "summary": "島津製作所はこのほど、同社のイオンクロマトグラフ「Nexera IC」とガスクロマトグラフ「Nexis GC-2060」が、日本デザイン振興会が主催する「20…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】「SHIMADZUみらい共創チャレンジ」、社外研究パートナーの公募開始",
-      "link": "https://www.yakuji.co.jp/entry141012.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T22:31:09Z",
-      "published_label": "2026/10/28 07:31",
-      "summary": "島津製作所は11月2日から、社外研究パートナー公募制度「SHIMADZUみらい共創チャレンジ」のパートナーの募集を開始する。同制度は、スタートアップや大学など…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【ナリス化粧品】研究開発部技術顧問が大阪府知事表彰‐業界への技術情報の浸透・理解促進と技術向上による業界発展に対する評価",
-      "link": "https://www.yakuji.co.jp/entry141010.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T22:30:15Z",
-      "published_label": "2026/10/28 07:30",
-      "summary": "ナリス化粧品はこのほど、大阪府の「薬と健康の週間」にあたり10月22日に大阪府薬剤師会館で開催された令和8年度「大阪府薬事関係等功労者知事表彰式」で、研究開発…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日病薬地方連絡協議会】5疾病6事業にも「薬剤師」‐第8次医療計画見直しで",
-      "link": "https://www.yakuji.co.jp/entry141031.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T21:31:06Z",
-      "published_label": "2026/10/28 06:31",
-      "summary": "日本病院薬剤師会の地方連絡協議会が24日に都内で開かれ、各都道府県における病院薬剤師の確保策をめぐって議論した。2024年度に始まった第8次医療計画の中間見直…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】適合性調査で経過措置‐短期間での再調査避ける",
-      "link": "https://www.yakuji.co.jp/entry141034.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T21:30:27Z",
-      "published_label": "2026/10/28 06:30",
-      "summary": "厚生労働省は22日、改正医薬品医療機器等法に関連する整備政令の来年5月施行分について、医薬品製造所に対する定期適合性調査の間隔が5年から3年に短縮されることに…",
-      "tags": [
-        "供給・出荷",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "AI時代の「人の判断」",
-      "link": "https://www.yakuji.co.jp/entry141016.html",
-      "source": "薬事日報",
-      "published": "2026-10-27T21:01:13Z",
-      "published_label": "2026/10/28 06:01",
-      "summary": "◆一昔前の洋画や小説では人工知能（AI）による戦争やサイバー攻撃が描かれたが、現実になるのは遠い未来の話と思っていた。近年も、仕事の効率化や生活を便利にするAI…",
       "tags": [
         "その他"
       ],
@@ -996,19 +956,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "令和８年度第２回 厚生科学審議会医薬品医療機器制度部会の開催について（Web併用）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76682.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-20T05:00:00Z",
-      "published_label": "2026/10/20 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
