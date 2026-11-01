@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-10-31T23:57:46.985321Z",
-  "updated_label": "2026/11/01 08:57",
-  "count": 131,
+  "updated_at": "2026-11-01T05:06:12.948137Z",
+  "updated_label": "2026/11/01 14:06",
+  "count": 130,
   "items": [
+    {
+      "title": "SGLT2阻害薬/GLP-1受容体作動薬の腎保護作用はアルブミン尿の有無に依存するか？（解説：栗山哲氏）",
+      "link": "https://www.carenet.com/news/clear/journal/63788?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-01T01:00:03Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "2型糖尿病の薬物療法では、ビグアナイド（BG）薬、DPP-4阻害薬、スルホニル尿素（SU）薬などによる先行治療に、SGLT2阻害薬あるいはGLP-1受容体作動薬を第2選択薬として追加する場合が多くなっている。本研究では、…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "注目の膵がん治療薬daraxonrasib（RASONQUE）が米国で承認…その余波は？",
+      "link": "https://www.carenet.com/series/samurai/cg002850_194.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "ダートマス大学 腫瘍内科の白井敬祐氏が、米国のがん診療の現状を語る。今回は「注目の膵がん治療薬daraxonrasib（RASONQUE）が米国で承認…その余波は？」。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "【新製品】統合RWDとAIで創る患者起点の臨床試験計画【AD】",
       "link": "https://www.yakuji.co.jp/entry140972.html",
@@ -451,45 +477,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "survodutide、2型糖尿病の肥満成人で有意な体重減少／NEJM",
-      "link": "https://www.carenet.com/news/journal/carenet/63800?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-29T19:00:00Z",
-      "published_label": "2026/10/30 04:00",
-      "summary": "2型糖尿病の肥満成人において、グルカゴン受容体とGLP-1受容体の二重作動薬（デュアルアゴニスト）であるsurvodutideの週1回投与はプラセボと比較し、体重を有意に減少させることが認められた。カナダ・マクマス…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "双極症におけるLAI抗精神病薬と経口抗精神病薬の比較",
-      "link": "https://www.carenet.com/news/general/carenet/63833?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-29T18:59:50Z",
-      "published_label": "2026/10/30 03:59",
-      "summary": "持続性注射剤（LAI）抗精神病薬は、服薬アドヒアランスを向上させる。しかし、双極症におけるLAI抗精神病薬の最適な使用法については、さらなる検討が必要であると考えられる。香港大学のEunice Kehui Deng氏らは…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "セバベルチニブ発売、HER2変異NSCLCで1次治療から使用可能／バイエル",
-      "link": "https://www.carenet.com/news/general/carenet/63871?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-10-29T18:58:00Z",
-      "published_label": "2026/10/30 03:58",
-      "summary": "バイエル薬品は2026年10月29日に、セバベルチニブ（商品名：ヒアニュオ錠10mg）を発売した。本剤は、HER2遺伝子変異陽性の非小細胞肺がん（NSCLC）に対し、1次治療を含む治療ラインを問わず使用可能な分子標的薬…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
