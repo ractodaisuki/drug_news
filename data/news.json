@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-01T05:06:12.948137Z",
-  "updated_label": "2026/11/01 14:06",
-  "count": 130,
+  "updated_at": "2026-11-01T19:21:10.611889Z",
+  "updated_label": "2026/11/02 04:21",
+  "count": 119,
   "items": [
     {
-      "title": "SGLT2阻害薬/GLP-1受容体作動薬の腎保護作用はアルブミン尿の有無に依存するか？（解説：栗山哲氏）",
-      "link": "https://www.carenet.com/news/clear/journal/63788?utm_source=rss&utm_medium=rss",
+      "title": "スタチン服薬順守不良、デジタル介入で再処方率改善／JAMA",
+      "link": "https://www.carenet.com/news/journal/carenet/63842?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-01T01:00:03Z",
-      "published_label": "2026/11/01 10:00",
-      "summary": "2型糖尿病の薬物療法では、ビグアナイド（BG）薬、DPP-4阻害薬、スルホニル尿素（SU）薬などによる先行治療に、SGLT2阻害薬あるいはGLP-1受容体作動薬を第2選択薬として追加する場合が多くなっている。本研究では、…",
+      "published": "2026-11-01T19:00:00Z",
+      "published_label": "2026/11/02 04:00",
+      "summary": "スタチンの適応があり、服薬順守が不良であった成人において、デジタル通信技術を用いたアウトリーチ（メッセージ送付）介入は、通常のコミュニケーションによる介入と比較し、短期的な再処方（short-term refill…",
       "tags": [
         "学術・エビデンス"
       ],
@@ -17,14 +17,28 @@
       "keywords": []
     },
     {
-      "title": "注目の膵がん治療薬daraxonrasib（RASONQUE）が米国で承認…その余波は？",
-      "link": "https://www.carenet.com/series/samurai/cg002850_194.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-01T01:00:00Z",
-      "published_label": "2026/11/01 10:00",
-      "summary": "ダートマス大学 腫瘍内科の白井敬祐氏が、米国のがん診療の現状を語る。今回は「注目の膵がん治療薬daraxonrasib（RASONQUE）が米国で承認…その余波は？」。",
+      "title": "GLP-1受容体作動薬は2型糖尿病患者の脳卒中リスクを減らす",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/etc/202611/595017.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-01T15:00:00Z",
+      "published_label": "2026/11/02 00:00",
+      "summary": "スウェーデンGothenburg大学のAnastasios Mavridis氏らは、2013～19年に同国で患者登録された2型糖尿病患者17万1917人の脳卒中発症リスクを調べる縦断研究を行ったところ、GLP-1受容体作動薬で治療した患者では有意なリスク減少が見られたが、SGLT2阻害薬やDPP-4阻害薬で治療した患者では、リスクの増加も減少も観察されなかったと報告した。結果は2026年9月23日のeClinicalMedicine誌…",
       "tags": [
-        "その他"
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "フルミストは本当に水平伝播を起こすのか 被接種児の同居家族で検証",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202611/595110.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-01T15:00:00Z",
+      "published_label": "2026/11/02 00:00",
+      "summary": "経鼻弱毒生インフルエンザワクチン「フルミスト」は、本当に水平伝播を起こすのか──。この疑問を検証しようと、静岡厚生病院（静岡市葵区）小児科診療部長の田中敏博氏らは、フルミスト被接種児の同居家族22人から複数回にわたって検体を採取し、ワクチン株ウイルスの検出を試みた。その結果、どの検体からもウイルスは検出されなかった。第58回日本小児感染症学会総会・学術集会（会期：2026年10月24～25日、開催地：横浜市西区）で発表した。 国内では…",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
       ],
       "importance": 2,
       "keywords": []
@@ -691,32 +705,6 @@
       "keywords": []
     },
     {
-      "title": "薬局製剤に新たに47処方追加、ダイオウなど5成分の配合量は選択可能に",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595103.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-28T15:00:00Z",
-      "published_label": "2026/10/29 00:00",
-      "summary": "薬局で製造・販売できる薬局製剤に、真武湯や麻黄附子細辛湯など47種類の漢方処方製剤が加わった。厚生労働省は2026年10月27日、薬局製剤の成分や製造方法などを定めた「薬局製剤指針」を改正する通知を発出した。同日以降の申請から適用する。 今回追加されたのは、以下の47処方。 併せて、ダイオウ、カンゾウ、マオウ、ブシ、サンシシの5成分については、配合量を選択できるようにした。対象は、指針に当該成分の分量が幅で示されている処方。最大分量を…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "施設入居者への在宅医療の留意点とは？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/nhc/202610/594865.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-28T15:00:00Z",
-      "published_label": "2026/10/29 00:00",
-      "summary": "問い 施設入居者への在宅医療について、正しい記述はどれでしょうか？（1）退院日から短期入所生活介護を利用する末期の悪性腫瘍の患者は、サービス利用前30日以内に訪問診療料等を算定していなくても、退院日を除いて利用開始後30日以内まで、訪問診療料、施設入居時等医学総合管理料（施設総管）を算定できる（2）小規模多機能型居宅介護・看護小規模多機能型居宅介護の利用者では、訪問診療や訪問看護は宿泊サービス利用時には算定できるが、通所利用時には算定…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "中外製薬 次世代KRAS G12C阻害薬Divarasib 26年度中に国内申請へ 第一世代薬と直接...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81086",
       "source": "ミクスOnline",
@@ -1218,19 +1206,6 @@
       "keywords": []
     },
     {
-      "title": "蛋白尿は何が悪い？―腎機能低下のサインだけではない",
-      "link": "https://yakuzaic.com/archives/144490",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-10-04T22:00:00Z",
-      "published_label": "2026/10/05 07:00",
-      "summary": "蛋白尿と腎機能 健康診断などで「尿蛋白＋」と言われると、「尿から蛋白が出ているから、体の蛋白が減ってしまうのだろうか？」と思うかもしれない。 確かにネフローゼ症候群のように大量の蛋白が尿中へ失われれば、低アルブミン血症や […] The post 蛋白尿は何が悪い？―腎機能低下のサインだけではない first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "大手薬局と中小薬局の魅力を徹底比較",
       "link": "https://pharmacist.m3.com/column/chouzai_tensyoku/7912?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1246,19 +1221,6 @@
       "keywords": []
     },
     {
-      "title": "においのする薬は？臭い薬とその原因",
-      "link": "https://yakuzaic.com/archives/144549",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-10-03T22:00:00Z",
-      "published_label": "2026/10/04 07:00",
-      "summary": "においのする薬 薬局で一包化した薬を確認していると、「この薬が入ると独特のにおいがする」「分包紙を開けた瞬間に、いつものにおいがする」という薬があります。 患者さんから、「この薬、臭いんだけど大丈夫？」と聞かれることもあ […] The post においのする薬は？臭い薬とその原因 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "医療安全"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "グレープフルーツは「果実」でも相互作用あり？",
       "link": "https://pharmacist.m3.com/column/treatise/7913?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1271,45 +1233,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "高齢者向けの吸入デバイスは？使いやすい吸入器の選び方",
-      "link": "https://yakuzaic.com/archives/144540",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-10-02T22:00:00Z",
-      "published_label": "2026/10/03 07:00",
-      "summary": "高齢者向けの吸入デバイスは？ 吸入薬には、エリプタ、ディスカス、タービュヘイラー、ブリーズヘラー、レスピマット、エアゾール製剤など、さまざまな吸入デバイスがあります。 薬剤師「高齢者には、どの吸入デバイスが一番使いやすい […] The post 高齢者向けの吸入デバイスは？使いやすい吸入器の選び方 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み",
-      "link": "https://yakuzaic.com/archives/144528",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-10-01T22:00:00Z",
-      "published_label": "2026/10/02 07:00",
-      "summary": "プラリアと関節リウマチ プラリア（一般名：デノスマブ）は、骨粗鬆症治療薬としてよく知られている薬です。 しかし、プラリアの効能・効果を見ると、 の2つが記載されています。 「骨粗鬆症の薬なのに、なぜ関節リウマチに使うの？ […] The post プラリアは関節リウマチに効く？骨粗鬆症の薬が骨びらんを防ぐ仕組み first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？",
-      "link": "https://yakuzaic.com/archives/144524",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-30T22:00:00Z",
-      "published_label": "2026/10/01 07:00",
-      "summary": "水溶性ビタミンならいくら摂っても大丈夫？ 「ビタミンはたくさん摂っても、余った分は尿から出るから大丈夫」 そんな話を聞いたことはないでしょうか。 確かに、ビタミンCやビタミンB群は「水溶性ビタミン」と呼ばれ、脂溶性ビタミ […] The post 水溶性ビタミンは安全？摂りすぎても尿から出るから大丈夫？ first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1347,19 +1270,6 @@
       "keywords": []
     },
     {
-      "title": "尿路結石に使う薬は？適応のある薬・ない薬の違い",
-      "link": "https://yakuzaic.com/archives/144520",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-29T22:00:00Z",
-      "published_label": "2026/09/30 07:00",
-      "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "アゼルニジピン×クラリス併用禁忌！代替案は？",
       "link": "https://pharmacist.m3.com/column/special_feature/7872?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1377,19 +1287,6 @@
       "keywords": []
     },
     {
-      "title": "目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い",
-      "link": "https://yakuzaic.com/archives/144508",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-28T22:00:00Z",
-      "published_label": "2026/09/29 07:00",
-      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、 など、「目によさそう」な成分がたくさん並んでいます。 しかし、これらはすべて同じように「目が悪くなるのを防ぐ」も […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "「第2世代抗ヒスタミン薬の併用」について医師が回答",
       "link": "https://pharmacist.m3.com/column/clinical-soudan/7868?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1402,19 +1299,6 @@
         "薬物療法"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い",
-      "link": "https://yakuzaic.com/archives/144499",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-27T22:00:00Z",
-      "published_label": "2026/09/28 07:00",
-      "summary": "緑内障の手術の種類 緑内障というと、まず思い浮かぶ治療は点眼薬です。 プロスタグランジン関連薬、β遮断薬、炭酸脱水酵素阻害薬、α2作動薬、ROCK阻害薬など、現在は多くの緑内障治療薬があります。 しかし、点眼薬を何種類使 […] The post 緑内障の手術にはどんな種類がある？―切開術・切除術・MIGSの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1434,19 +1318,6 @@
       "keywords": []
     },
     {
-      "title": "何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬",
-      "link": "https://yakuzaic.com/archives/144496",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-26T22:00:00Z",
-      "published_label": "2026/09/27 07:00",
-      "summary": "高齢者の減量 「高齢者では減量すること」 薬の添付文書では、このような記載をよく見かけます。 しかし、「高齢者」とは何歳なのでしょうか？ 65歳でしょうか。75歳でしょうか。それとも、その患者の体格や身体機能をみて薬剤師 […] The post 何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "【2027年3月変更】選定療養とOTC類似薬の計算方法を解説",
       "link": "https://pharmacist.m3.com/column/dispensation_point/7870?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1461,19 +1332,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧",
-      "link": "https://yakuzaic.com/archives/144493",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-25T22:00:00Z",
-      "published_label": "2026/09/26 07:00",
-      "summary": "腎機能と糖尿病治療薬 糖尿病患者では、糖尿病性腎症をはじめさまざまな理由で腎機能が徐々に低下していくことがあります。 そして糖尿病治療薬には、腎機能の影響を受ける薬が少なくありません。 薬局でも、「昔から同じ糖尿病薬を飲 […] The post 腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
