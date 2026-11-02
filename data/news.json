@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-02T10:29:57.179272Z",
-  "updated_label": "2026/11/02 19:29",
-  "count": 134,
+  "updated_at": "2026-11-02T21:22:22.176077Z",
+  "updated_label": "2026/11/03 06:22",
+  "count": 133,
   "items": [
+    {
+      "title": "ノバルティス ファーマ プリシーノ社長の退任予定を発表",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81151",
+      "source": "ミクスOnline",
+      "published": "2026-11-02T19:50:00Z",
+      "published_label": "2026/11/03 04:50",
+      "summary": "ノバルティス ファーマはジョンポール・プリシーノ社長が退任する予定だと発表。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「喘息・COPDに用いる吸入薬の使い分け」",
       "link": "https://pharmacist.m3.com/column/movie/7907?promotionCode=op_pcolumn",
@@ -477,19 +490,6 @@
       "keywords": []
     },
     {
-      "title": "スタチン服薬順守不良、デジタル介入で再処方率改善／JAMA",
-      "link": "https://www.carenet.com/news/journal/carenet/63842?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-01T19:00:00Z",
-      "published_label": "2026/11/02 04:00",
-      "summary": "スタチンの適応があり、服薬順守が不良であった成人において、デジタル通信技術を用いたアウトリーチ（メッセージ送付）介入は、通常のコミュニケーションによる介入と比較し、短期的な再処方（short-term refill…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "特集は「後発品業界 変化の行方を読む」",
       "link": "https://medical.nikkeibp.co.jp/leaf/all/di/column/premium/202611/595129.html",
       "source": "日経メディカル Online",
@@ -923,20 +923,6 @@
         "承認・新薬"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "プロトピック軟膏 禁忌を「６か月未満の乳児」に変更 国内製造販売後臨床試験の成績を受け",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81084",
-      "source": "ミクスOnline",
-      "published": "2026-10-27T19:51:00Z",
-      "published_label": "2026/10/28 04:51",
-      "summary": "アトピー性皮膚炎治療薬・プロトピック軟膏（一般名：タクロリムス水和物）について、禁忌を「６か月未満の乳児」に変更する添付文書改訂が行われた。",
-      "tags": [
-        "安全性情報",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
