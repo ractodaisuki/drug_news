@@ -1,8 +1,193 @@
 {
-  "updated_at": "2026-11-02T00:11:35.212135Z",
-  "updated_label": "2026/11/02 09:11",
-  "count": 129,
+  "updated_at": "2026-11-02T10:29:57.179272Z",
+  "updated_label": "2026/11/02 19:29",
+  "count": 134,
   "items": [
+    {
+      "title": "動画で見て聞く「喘息・COPDに用いる吸入薬の使い分け」",
+      "link": "https://pharmacist.m3.com/column/movie/7907?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-02T10:29:56.070007Z",
+      "published_label": "2026/11/02 19:29",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム",
+        "選定療養"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【訂正】Japanese Pharmaceutical Excipients 2018 ‐英文版 医薬品添加物規格2018‐",
+      "link": "https://www.yakuji.co.jp/entry76605.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T05:10:02Z",
+      "published_label": "2026/11/02 14:10",
+      "summary": "2019年8月に発行いたしました『英文版 医薬品添加物規格2018』の記述に誤りがございました。お詫びを申し上げるとともに、下記の通り訂正させていただきます。（…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会 再生医療等製品・生物由来技術部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76912.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-02T05:00:00Z",
+      "published_label": "2026/11/02 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会血液事業部会令和８年度第２回献血推進調査会（ペーパーレス・Web併用）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76669.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-02T05:00:00Z",
+      "published_label": "2026/11/02 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "【日薬 渡邊副会長】OTC類似薬制度周知を‐薬局窓口で説明難しく",
+      "link": "https://www.yakuji.co.jp/entry141229.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:04:13Z",
+      "published_label": "2026/11/02 13:04",
+      "summary": "日本薬剤師会の渡邊大記副会長は10月28日の定例会見で、来年3月に施行されるOTC類似薬の一部保険外療養について、国に対し改めて制度の周知・啓発を行うよう求め…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【インドネシア病院薬剤師協会】薬剤師ら約30人が来訪‐医療安全対策など学ぶ",
+      "link": "https://www.yakuji.co.jp/entry141236.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:03:21Z",
+      "published_label": "2026/11/02 13:03",
+      "summary": "インドネシア病院薬剤師協会の薬剤師ら約30人が10月下旬に日本の5病院を訪れ、薬剤師業務を視察した。同27日に訪れた大阪市の大阪赤十字病院では、薬剤部を見学し…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【マルホ／J-TEC】自家培養表皮で販売提携‐白斑治療での普及目指す",
+      "link": "https://www.yakuji.co.jp/entry141235.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:02:25Z",
+      "published_label": "2026/11/02 13:02",
+      "summary": "マルホは、ジャパン・ティッシュエンジニアリング（J-TEC）の白斑治療用のメラノサイト含有自家培養表皮「ジャスミン」による治療の普及を支援する。両社が10月2…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【北海道医療大／友愛会】医療人材育成で連携協定‐高校生対象インターン拡充",
+      "link": "https://www.yakuji.co.jp/entry141232.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:01:54Z",
+      "published_label": "2026/11/02 13:01",
+      "summary": "北海道医療大学と社会医療法人友愛会（沖縄県豊見城市）は、医療人材の育成や地域医療・福祉の充実などを目的とする包括連携協定を締結した。薬学部や歯学部を設置する大…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "埼玉県病院薬剤師会 研修会 2026/12",
+      "link": "https://www.yakuji.co.jp/entry141192.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:00:50Z",
+      "published_label": "2026/11/02 13:00",
+      "summary": "第19回 医療の質・安全研修会（WEB即時配信型研修会） 埼玉県薬剤師生涯研修センター(G15)認定単位 1単位 日本病院薬剤師会病院薬学認定薬剤師制度(P04…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日本プライマリ・ケア連合学会 研修会 2026/12",
+      "link": "https://www.yakuji.co.jp/entry141187.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T02:00:22Z",
+      "published_label": "2026/11/02 11:00",
+      "summary": "『薬剤師＋αの視点で関わる多疾患併存（マルチモビディティ）』 日時 2026年12月13日（日）9時00分～12時10分 場所 オンライン開催（zoom使用） …",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "25日にセミナー「30分で知る！処方箋集中率を下げた薬局の取り組みとは？」開催 ファーマシフト",
+      "link": "https://www.yakuji.co.jp/entry141221.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T01:40:01Z",
+      "published_label": "2026/11/02 10:40",
+      "summary": "処方箋集中率の低下に向けて、具体的に何から取り組めばよいか悩んでいませんか？ 本セミナーでは、集中率の低下につながった薬局の成功事例をご紹介します。 実際にどの…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "19日に第301回医療・医薬品情報研究会",
+      "link": "https://www.yakuji.co.jp/entry141215.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T01:30:30Z",
+      "published_label": "2026/11/02 10:30",
+      "summary": "2025年に日本製薬団体連合会（日薬連）会長に就任した安川健司氏は、近年の急激なインフレにより医薬品産業が窮地に立たされる中、中央社会保険医療協議会の場や国会議…",
+      "tags": [
+        "学術・エビデンス",
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【安全対策部会】指定第2類移行は継続審議‐ロキソニン、販売体制に懸念",
+      "link": "https://www.yakuji.co.jp/entry141237.html",
+      "source": "薬事日報",
+      "published": "2026-11-01T23:31:18Z",
+      "published_label": "2026/11/02 08:31",
+      "summary": "薬事審議会医薬品等安全対策部会は10月29日、第一三共ヘルスケアの解熱鎮痛剤「ロキソプロフェン」（販売名：ロキソニンSなど）について、第1類医薬品から指定第2…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【日薬】不正アクセス対応で文書‐セキュリティ対策徹底を",
+      "link": "https://www.yakuji.co.jp/entry141231.html",
+      "source": "薬事日報",
+      "published": "2026-11-01T23:30:34Z",
+      "published_label": "2026/11/02 08:30",
+      "summary": "日本薬剤師会は、企業への不正アクセスによる情報漏えい事案が相次いでいることを受け、各都道府県薬剤師会向けにセキュリティ対策の徹底を促す文書を発出した。 様々…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "【新製品】『エクセル』、リニューアル発売初月の売上が旧品比220％と好調の「スキニーリッチシャドウ N」からピンクニュアンスを溶け込ませた限定カラーが2色登場 常盤薬品工業",
       "link": "https://www.yakuji.co.jp/entry141209.html",
@@ -108,7 +293,7 @@
       "keywords": []
     },
     {
-      "title": "【薬事審議会医療機器・体外診断薬部会】穿刺血OTC化の議論再開‐糖尿病患者と予備群で検討",
+      "title": "【機器・体診部会】穿刺血OTC化の議論再開‐糖尿病患者と予備群で検討",
       "link": "https://www.yakuji.co.jp/entry141238.html",
       "source": "薬事日報",
       "published": "2026-11-01T21:33:05Z",
@@ -157,19 +342,6 @@
         "学術・エビデンス"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "まずは害の低減を目指す",
-      "link": "https://www.yakuji.co.jp/entry141226.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T21:01:57Z",
-      "published_label": "2026/11/02 06:01",
-      "summary": "◆市販薬の過剰摂取や違法薬物の乱用が問題となる中、使用中止を一方的に求めるのではなく、まずは害の低減を目指す「ハームリダクション（HR）」に基づく支援が注目され…",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -358,20 +530,6 @@
       "keywords": []
     },
     {
-      "title": "【新製品】統合RWDとAIで創る患者起点の臨床試験計画【AD】",
-      "link": "https://www.yakuji.co.jp/entry140972.html",
-      "source": "薬事日報",
-      "published": "2026-10-31T13:00:04Z",
-      "published_label": "2026/10/31 22:00",
-      "summary": "Citeline/Evaluate",
-      "tags": [
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
       "title": "薬局の管理栄養士、活躍の場はカウンターの外へ",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595067.html",
       "source": "日経メディカル Online",
@@ -432,84 +590,6 @@
       "summary": "",
       "tags": [
         "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】韓国発スキンケアブランド「トリデン」、大人気ダイブインシリーズより高保湿ライン『ダイブイン インテンシブ ライン』新発売 アステナホールディングス",
-      "link": "https://www.yakuji.co.jp/entry141177.html",
-      "source": "薬事日報",
-      "published": "2026-10-30T01:51:14Z",
-      "published_label": "2026/10/30 10:51",
-      "summary": "マルマンH＆Bが展開する韓国発スキンケアブランド「Torriden（トリデン）」は、大人気ダイブイン シリーズより高保湿ライン『ダイブイン インテンシブ ライ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【J&J】今田美桜さん出演のTVCM第三弾‐乾燥に向き合う目に「うるおうアキュビュー」",
-      "link": "https://www.yakuji.co.jp/entry141172.html",
-      "source": "薬事日報",
-      "published": "2026-10-30T01:49:18Z",
-      "published_label": "2026/10/30 10:49",
-      "summary": "ジョンソン・エンド・ジョンソンは11月2日から、「アキュビュー」のブランドアンバサダーで俳優の今田美桜さんを起用したTVCM第三弾「ワンデー アキュビュー オ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】AmazonのAI開発ツールの先行パートナーに‐次世代の睡眠環境の構築へ",
-      "link": "https://www.yakuji.co.jp/entry141168.html",
-      "source": "薬事日報",
-      "published": "2026-10-30T01:48:57Z",
-      "published_label": "2026/10/30 10:48",
-      "summary": "パラマウントベッドは10月29日、Amazonが同日に発表した生成AI搭載のパーソナルアシスタント「Alexa+（アレクサプラス）」の日本での提供開始に伴い、…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【オムロン】企業向け新サービス「健康投資コンパス」の提供開始",
-      "link": "https://www.yakuji.co.jp/entry141167.html",
-      "source": "薬事日報",
-      "published": "2026-10-30T01:47:09Z",
-      "published_label": "2026/10/30 10:47",
-      "summary": "オムロンデータソリューション事業本部は10月28日、健康投資の意思決定を支援するサービス「健康投資コンパス」の提供を開始した。同サービスは、中期ロードマップ「…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【シスメックス／カゴメ／弘前大】皮膚カロテノイドレベルとADに関連する血液指標で新たな知見を発表",
-      "link": "https://www.yakuji.co.jp/entry141166.html",
-      "source": "薬事日報",
-      "published": "2026-10-30T01:46:45Z",
-      "published_label": "2026/10/30 10:46",
-      "summary": "シスメックスは10月28日、同社とカゴメ、弘前大学による共同研究で、推定野菜摂取量測定器「ベジチェック」で測定される皮膚カロテノイドレベルと、アルツハイマー病…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【富士フイルム】データストレージ用磁気テープ、製造能力を5倍に増強へ",
-      "link": "https://www.yakuji.co.jp/entry141164.html",
-      "source": "薬事日報",
-      "published": "2026-10-30T01:45:00Z",
-      "published_label": "2026/10/30 10:45",
-      "summary": "富士フイルムは10月29日、神奈川県小田原市の神奈川事業場小田原サイトに約100億円を投資し、データストレージ用磁気テープの製造能力を2025年度比で約5倍に…",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -874,19 +954,6 @@
         "診療報酬改定"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師免許に関するオンライン申請手続きのご案内",
-      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-26T08:00:00Z",
-      "published_label": "2026/10/26 17:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
