@@ -1,19 +1,23 @@
 {
-  "updated_at": "2026-11-02T21:22:22.176077Z",
-  "updated_label": "2026/11/03 06:22",
-  "count": 133,
+  "updated_at": "2026-11-03T05:14:13.192907Z",
+  "updated_label": "2026/11/03 14:14",
+  "count": 111,
   "items": [
     {
-      "title": "ノバルティス ファーマ プリシーノ社長の退任予定を発表",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81151",
-      "source": "ミクスOnline",
-      "published": "2026-11-02T19:50:00Z",
-      "published_label": "2026/11/03 04:50",
-      "summary": "ノバルティス ファーマはジョンポール・プリシーノ社長が退任する予定だと発表。",
+      "title": "イナビルで吸入薬指導加算はとれる？",
+      "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/7941?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-03T05:14:11.960751Z",
+      "published_label": "2026/11/03 14:14",
+      "summary": "吸入薬が処方された患者に対して、必要な服薬指導等を行った場合に算定できるのが「吸入薬指導加算」です。2026年度の調剤報酬改定では、インフルエンザウイルス感染症に用いる吸入薬も新たに算定対象となりました。では、インフルエンザ患者の場合も喘息患者と同様に、服薬指導を行うだけで「吸入薬指導加算」を算定できるのでしょうか？",
       "tags": [
-        "その他"
+        "薬剤師コラム",
+        "吸入薬指導加算",
+        "調剤報酬改定",
+        "医療クイズ",
+        "診療報酬改定"
       ],
-      "importance": 2,
+      "importance": 3,
       "keywords": []
     },
     {
@@ -28,19 +32,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【訂正】Japanese Pharmaceutical Excipients 2018 ‐英文版 医薬品添加物規格2018‐",
-      "link": "https://www.yakuji.co.jp/entry76605.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T05:10:02Z",
-      "published_label": "2026/11/02 14:10",
-      "summary": "2019年8月に発行いたしました『英文版 医薬品添加物規格2018』の記述に誤りがございました。お詫びを申し上げるとともに、下記の通り訂正させていただきます。（…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -67,294 +58,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "【日薬 渡邊副会長】OTC類似薬制度周知を‐薬局窓口で説明難しく",
-      "link": "https://www.yakuji.co.jp/entry141229.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:04:13Z",
-      "published_label": "2026/11/02 13:04",
-      "summary": "日本薬剤師会の渡邊大記副会長は10月28日の定例会見で、来年3月に施行されるOTC類似薬の一部保険外療養について、国に対し改めて制度の周知・啓発を行うよう求め…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【インドネシア病院薬剤師協会】薬剤師ら約30人が来訪‐医療安全対策など学ぶ",
-      "link": "https://www.yakuji.co.jp/entry141236.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:03:21Z",
-      "published_label": "2026/11/02 13:03",
-      "summary": "インドネシア病院薬剤師協会の薬剤師ら約30人が10月下旬に日本の5病院を訪れ、薬剤師業務を視察した。同27日に訪れた大阪市の大阪赤十字病院では、薬剤部を見学し…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【マルホ／J-TEC】自家培養表皮で販売提携‐白斑治療での普及目指す",
-      "link": "https://www.yakuji.co.jp/entry141235.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:02:25Z",
-      "published_label": "2026/11/02 13:02",
-      "summary": "マルホは、ジャパン・ティッシュエンジニアリング（J-TEC）の白斑治療用のメラノサイト含有自家培養表皮「ジャスミン」による治療の普及を支援する。両社が10月2…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【北海道医療大／友愛会】医療人材育成で連携協定‐高校生対象インターン拡充",
-      "link": "https://www.yakuji.co.jp/entry141232.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:01:54Z",
-      "published_label": "2026/11/02 13:01",
-      "summary": "北海道医療大学と社会医療法人友愛会（沖縄県豊見城市）は、医療人材の育成や地域医療・福祉の充実などを目的とする包括連携協定を締結した。薬学部や歯学部を設置する大…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "埼玉県病院薬剤師会 研修会 2026/12",
-      "link": "https://www.yakuji.co.jp/entry141192.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:00:50Z",
-      "published_label": "2026/11/02 13:00",
-      "summary": "第19回 医療の質・安全研修会（WEB即時配信型研修会） 埼玉県薬剤師生涯研修センター(G15)認定単位 1単位 日本病院薬剤師会病院薬学認定薬剤師制度(P04…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本プライマリ・ケア連合学会 研修会 2026/12",
-      "link": "https://www.yakuji.co.jp/entry141187.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T02:00:22Z",
-      "published_label": "2026/11/02 11:00",
-      "summary": "『薬剤師＋αの視点で関わる多疾患併存（マルチモビディティ）』 日時 2026年12月13日（日）9時00分～12時10分 場所 オンライン開催（zoom使用） …",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "25日にセミナー「30分で知る！処方箋集中率を下げた薬局の取り組みとは？」開催 ファーマシフト",
-      "link": "https://www.yakuji.co.jp/entry141221.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T01:40:01Z",
-      "published_label": "2026/11/02 10:40",
-      "summary": "処方箋集中率の低下に向けて、具体的に何から取り組めばよいか悩んでいませんか？ 本セミナーでは、集中率の低下につながった薬局の成功事例をご紹介します。 実際にどの…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "19日に第301回医療・医薬品情報研究会",
-      "link": "https://www.yakuji.co.jp/entry141215.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T01:30:30Z",
-      "published_label": "2026/11/02 10:30",
-      "summary": "2025年に日本製薬団体連合会（日薬連）会長に就任した安川健司氏は、近年の急激なインフレにより医薬品産業が窮地に立たされる中、中央社会保険医療協議会の場や国会議…",
-      "tags": [
-        "学術・エビデンス",
-        "薬価・制度",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【安全対策部会】指定第2類移行は継続審議‐ロキソニン、販売体制に懸念",
-      "link": "https://www.yakuji.co.jp/entry141237.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T23:31:18Z",
-      "published_label": "2026/11/02 08:31",
-      "summary": "薬事審議会医薬品等安全対策部会は10月29日、第一三共ヘルスケアの解熱鎮痛剤「ロキソプロフェン」（販売名：ロキソニンSなど）について、第1類医薬品から指定第2…",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【日薬】不正アクセス対応で文書‐セキュリティ対策徹底を",
-      "link": "https://www.yakuji.co.jp/entry141231.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T23:30:34Z",
-      "published_label": "2026/11/02 08:30",
-      "summary": "日本薬剤師会は、企業への不正アクセスによる情報漏えい事案が相次いでいることを受け、各都道府県薬剤師会向けにセキュリティ対策の徹底を促す文書を発出した。 様々…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】『エクセル』、リニューアル発売初月の売上が旧品比220％と好調の「スキニーリッチシャドウ N」からピンクニュアンスを溶け込ませた限定カラーが2色登場 常盤薬品工業",
-      "link": "https://www.yakuji.co.jp/entry141209.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T22:38:08Z",
-      "published_label": "2026/11/02 07:38",
-      "summary": "常盤薬品工業は、メイクアップブランド『エクセル』の極上4色シャドウ「スキニーリッチシャドウ N」から、限定色「SK10（ラブオアライク）」「SK11（ロマンス…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【富士通】サイバー攻撃等対策のサービス提供‐AIと専門家が迅速なインシデント調査と対応支援",
-      "link": "https://www.yakuji.co.jp/entry141207.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T22:37:42Z",
-      "published_label": "2026/11/02 07:37",
-      "summary": "富士通は10月30日から、サイバー攻撃などのインシデント発生時に、原因や被害範囲を迅速に把握し、顧客の初動対処や対応方針の意思決定を支援するサービスの国内での…",
-      "tags": [
-        "医療安全"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【三井化学】米国のiOrgan Bioへ出資",
-      "link": "https://www.yakuji.co.jp/entry141206.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T22:35:14Z",
-      "published_label": "2026/11/02 07:35",
-      "summary": "三井化学は10月29日、同社のコーポレートベンチャーキャピタルファンド（CVC）である321Catalystを通じ、米国のiOrgan Bio, Inc.（i…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】セミマイクロ電子天びん「BM-Sシリーズ」を発売 A＆D",
-      "link": "https://www.yakuji.co.jp/entry141204.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T22:34:03Z",
-      "published_label": "2026/11/02 07:34",
-      "summary": "エー・アンド・デイは10月29日、0.01mg単位の計量が可能なセミマイクロ電子天びん（セミミクロ電子天秤）「BM-Sシリーズ」を発売した。 同シリーズは、…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【PHC】厚労大臣認定「くるみん」を初取得",
-      "link": "https://www.yakuji.co.jp/entry141201.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T22:33:32Z",
-      "published_label": "2026/11/02 07:33",
-      "summary": "PHCはこほど、次世代育成支援対策推進法に基づく「子育てサポート企業」として、厚生労働大臣から「基準適合一般事業主認定（くるみん認定）」を初めて取得した。 …",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【栄研化学】GHIT Fund研究開発プロジェクトに採択‐エボラウイルス病の迅速診断システム開発で",
-      "link": "https://www.yakuji.co.jp/entry141200.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T22:32:42Z",
-      "published_label": "2026/11/02 07:32",
-      "summary": "栄研化学は10月30日、公益社団法人グローバルヘルス技術振興基金（GHIT Fund）に申請していた、「エボラウイルス病対策に資する迅速診断システムの開発事業…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【富士フイルム】シミにつながる皮膚内部の構造的特徴を発見",
-      "link": "https://www.yakuji.co.jp/entry141198.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T22:31:25Z",
-      "published_label": "2026/11/02 07:31",
-      "summary": "富士フイルムはこのほど、皮膚内部構造を観察できる「LC-OCT（ラインフィールド共焦点光干渉断層撮影）」と独自のAI画像解析技術を組み合わせた研究から、シミ部…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】初のSLLを締結",
-      "link": "https://www.yakuji.co.jp/entry141194.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T22:30:27Z",
-      "published_label": "2026/11/02 07:30",
-      "summary": "島津製作所はこのほど、三菱UFJ銀行との間で、「サステナビリティ・リンク・ローン（SLL）」によるシンジケーション方式のタームローン契約を締結した。この契約は…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【機器・体診部会】穿刺血OTC化の議論再開‐糖尿病患者と予備群で検討",
-      "link": "https://www.yakuji.co.jp/entry141238.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T21:33:05Z",
-      "published_label": "2026/11/02 06:33",
-      "summary": "薬事審議会医療機器・体外診断薬部会は10月30日、低侵襲性の穿刺血など血液検体を用いた検査薬の一般用検査薬への転用に関する議論を再開した。OTC化の対象を既診…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【PMDA】不正アクセスで運用停止‐医療機器ウェブ申請基盤",
-      "link": "https://www.yakuji.co.jp/entry141228.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T21:32:10Z",
-      "published_label": "2026/11/02 06:32",
-      "summary": "医薬品医療機器総合機構（PMDA）は、10月23日から26日に医療機器ウェブ申請プラットフォーム（DWAP）への不正アクセスが確認されたことから、システム上の…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬業界のさらなる発展願う‐東京日本橋で薬祖神例大祭",
-      "link": "https://www.yakuji.co.jp/entry141121.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T21:31:43Z",
-      "published_label": "2026/11/02 06:31",
-      "summary": "10月17日から23日の「薬と健康の週間」に先立つ16日、東京日本橋室町の薬祖神社で薬祖神例大祭が執り行われた。 一般参拝に先立って行われた式典では、医薬品…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【富士フイルムなど】AI創薬で新規化合物発見‐薬剤耐性菌に効果示す",
-      "link": "https://www.yakuji.co.jp/entry141125.html",
-      "source": "薬事日報",
-      "published": "2026-11-01T21:30:49Z",
-      "published_label": "2026/11/02 06:30",
-      "summary": "富士フイルムと大阪大学産業科学研究所などは、富士フイルム独自のAI創薬技術を活用した共同研究により、薬剤耐性菌への効果を示す新規化合物を発見した。新規化合物は…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -923,6 +626,20 @@
         "承認・新薬"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プロトピック軟膏 禁忌を「６か月未満の乳児」に変更 国内製造販売後臨床試験の成績を受け",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81084",
+      "source": "ミクスOnline",
+      "published": "2026-10-27T19:51:00Z",
+      "published_label": "2026/10/28 04:51",
+      "summary": "アトピー性皮膚炎治療薬・プロトピック軟膏（一般名：タクロリムス水和物）について、禁忌を「６か月未満の乳児」に変更する添付文書改訂が行われた。",
+      "tags": [
+        "安全性情報",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
