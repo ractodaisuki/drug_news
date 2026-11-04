@@ -1,15 +1,58 @@
 {
-  "updated_at": "2026-11-04T01:01:43.041433Z",
-  "updated_label": "2026/11/04 10:01",
-  "count": 114,
+  "updated_at": "2026-11-04T19:18:35.137601Z",
+  "updated_label": "2026/11/05 04:18",
+  "count": 134,
   "items": [
     {
-      "title": "立ちくらみで来院した78歳、ふらつきの原因は本当に降圧薬か？",
-      "link": "https://www.carenet.com/series/geriatrics/cg005701_007.html?utm_source=rss&utm_medium=rss",
+      "title": "【在宅緩和ケア】CADD-Solis等PCAポンプの注意点と指導法",
+      "link": "https://pharmacist.m3.com/column/kurumi/7970?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-04T19:18:33.858312Z",
+      "published_label": "2026/11/05 04:18",
+      "summary": "在宅緩和ケアに携わる機会が少なく、PCAポンプに苦手意識を持つ薬剤師は多いのではないでしょうか？本記事では、オピオイド持続注射で重要なPCAの基本構造や設定項目、機械式・ディスポ式などの種類を解説します。代表機種CADD-Solisの特徴や現場での注意点もわかりやすく整理します。",
+      "tags": [
+        "薬剤師コラム",
+        "医薬品情報・DI",
+        "薬物療法・作用機序",
+        "服薬指導",
+        "疾患・病態"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "ESR1変異HR+HER2-進行乳がんにイムルネストラント発売、国内初の経口SERD／リリー",
+      "link": "https://www.carenet.com/news/general/carenet/63889?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-04T01:00:00Z",
-      "published_label": "2026/11/04 10:00",
-      "summary": "前立腺肥大症、高血圧、脂質異常症、不眠症の既往がある78歳・男性。立ちくらみによる転倒寸前のエピソードを繰り返している。現在処方されている7剤のうち、見直すべきはどれか？",
+      "published": "2026-11-04T18:59:59Z",
+      "published_label": "2026/11/05 03:59",
+      "summary": "日本イーライリリーは2026年10月30日、「内分泌療法後に増悪したESR1遺伝子変異を有するホルモン受容体陽性かつHER2陰性の手術不能又は再発乳癌」の適応で、イムルネストラントトシル酸塩（商品名：イムルリオ錠2…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "デュアルオレキシン受容体拮抗薬の継続でBZDの減量は可能か",
+      "link": "https://www.carenet.com/news/general/carenet/63839?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-04T18:59:50Z",
+      "published_label": "2026/11/05 03:59",
+      "summary": "慢性不眠症患者に対するベンゾジアゼピン系やベンゾジアゼピン受容体作動薬（BZD）の使用は、安全性への懸念がある。しかし、BZDの使用を中止することは、依然として困難である。国立精神・神経医療研究センター…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "医師だけに認められた仕事を、AIに任せられるのか？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/okiyama/202611/594664.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-04T15:00:00Z",
+      "published_label": "2026/11/05 00:00",
+      "summary": "過去2回の記事では、診断、そして患者データにおけるAIの関係を見てきました。今回は処方です。処方権を医師に限定する点では、日本も米国も欧州も一致しています。ところが2026年、米ユタ州が慢性疾患のリフィルに限ってAIによる処方を例外的に認め、州の医事委員会と正面から衝突しました。今回は、この一件を手がかりに、医師の業務独占とAIの関係性を考えてみたいと思います。 2026年1月6日、米ユタ州の商務省が1つの発表を行いました。AIヘルス…",
       "tags": [
         "その他"
       ],
@@ -17,16 +60,228 @@
       "keywords": []
     },
     {
-      "title": "ステロイド外用薬による副作用症状・注意したい点",
-      "link": "https://www.carenet.com/series/derma/cg005774_008.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-04T01:00:00Z",
-      "published_label": "2026/11/04 10:00",
-      "summary": "第8回では、ステロイド外用薬による副作用症状・注意したい点について解説します。",
+      "title": "ポーションは薬局で買える！？市販薬ODと救急医の本音",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/yakushiji/202611/595151.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-04T15:00:00Z",
+      "published_label": "2026/11/05 00:00",
+      "summary": "ロールプレイングゲーム（RPG）の世界では、回復薬は必須のアイテムです。ポーションもエリクサーも薬草も、何個使っても、使いすぎでHPが減ることはありません。HP満タンで使っても害はありません。むしろ店でまとめ買いしてたくさん持っているほど冒険は安定します。",
       "tags": [
-        "安全性情報"
+        "一般用医薬品"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "財務省、生活保護受給者の医療費抑制を主張",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202611/595163.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-04T15:00:00Z",
+      "published_label": "2026/11/05 00:00",
+      "summary": "財務省は2026年11月4日、財政制度等審議会・財政制度分科会において生活保護受給者（以下、受給者）の医療費である「医療扶助費」の適正化策を提示した。医療扶助費は年1.9兆円と生活保護費の約半分を占める。原則として自己負担がないため「過剰な給付が発生しやすい」として財務省は、頻回受診や重複・多剤投薬の是正、かかりつけ医・かかりつけ薬局の原則化、紹介状なしの大病院受診の見直しなどを主張している。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【経産省】薬局・卸経営支援で新制度‐生活支えるサービス維持へ",
+      "link": "https://www.yakuji.co.jp/entry141319.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T23:30:53Z",
+      "published_label": "2026/11/04 08:30",
+      "summary": "経済産業省は、人口減少や人手不足が進む地域で生活に不可欠なサービスの維持を支援する「認定エッセンシャルサービス制度」を12月下旬から開始する。対象業種には医薬…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【リッチモンド社】駐日英国大使公邸で臨床開発セミナー開く",
+      "link": "https://www.yakuji.co.jp/entry141295.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:39:33Z",
+      "published_label": "2026/11/04 07:39",
+      "summary": "英国CROのリッチモンド・ファーマコロジーは10月14日、東京都千代田区一番町の駐日英国大使公邸で、英国を起点としたグローバル臨床開発戦略をテーマにセミナーを…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【矢野経済研究所】化粧品市場に関する調査を実施（2026年）‐2025年度の国内化粧品市場規模は前年度比102.4％の2兆6430億円",
+      "link": "https://www.yakuji.co.jp/entry141294.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:38:33Z",
+      "published_label": "2026/11/04 07:38",
+      "summary": "矢野経済研究所は、国内の化粧品市場を調査し、製品カテゴリー別や流通経路別の動向、参入企業動向、将来展望を明らかにした。それによると、国内化粧品市場は製品の高単…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "21日に定期演奏会を開催 NECソリューションイノベータ管弦楽団",
+      "link": "https://www.yakuji.co.jp/entry141292.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:37:12Z",
+      "published_label": "2026/11/04 07:37",
+      "summary": "NECは11月21日、社員が主体となり音楽を通じて社会貢献に取り組む「NECソリューションイノベータ管弦楽団」の第7回定期演奏会を、千葉県浦安市の市文化会館大…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【キヤノンMJ】BMI技術を開発するLIFESCAPESに出資",
+      "link": "https://www.yakuji.co.jp/entry141291.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:36:20Z",
+      "published_label": "2026/11/04 07:36",
+      "summary": "キヤノンマーケティングジャパン（キヤノンMJ）はこのほど、コーポレートベンチャーキャピタル（CVC）ファンド「Canon Marketing Japan MI…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【QST／日本酸素】“超偏極MRI技術”を開発‐肝臓の酵素活性低下を可視化",
+      "link": "https://www.yakuji.co.jp/entry141290.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:35:03Z",
+      "published_label": "2026/11/04 07:35",
+      "summary": "量子科学技術研究開発機構（QST）量子生命科学研究所量子生命スピングループの高草木洋一グループリーダーらと、日本酸素イノベーションユニットSI事業部SIイノベ…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【トプコン】3次元眼底像撮影装置「DRI OCT Triton2」、「2026年度グッドデザイン賞」を受賞",
+      "link": "https://www.yakuji.co.jp/entry141288.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:34:13Z",
+      "published_label": "2026/11/04 07:34",
+      "summary": "トプコンはこのほど、同社の「モータードライブ・トータルステーションGTS-M1シリーズ」「3次元眼底像撮影装置DRI OCT Triton2」が日本デザイン振…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【シスメックスグループ】乳がんに関する啓発運動10月中心に「PINKTOBER」実施",
+      "link": "https://www.yakuji.co.jp/entry141286.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:33:14Z",
+      "published_label": "2026/11/04 07:33",
+      "summary": "シスメックスグループは、乳がんの早期発見・治療の重要性を広く伝えるピンクリボン運動に賛同し、毎年10月を中心に「PINKTOBER」として様々な活動を展開して…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【オムロングループ】インド生産拠点で血圧計生産ラインが本格稼働",
+      "link": "https://www.yakuji.co.jp/entry141284.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:32:01Z",
+      "published_label": "2026/11/04 07:32",
+      "summary": "オムロンヘルスケアは10月30日、インド・タミルナドゥ州チェンナイ市に設立したオムロングループ初のインド生産工場「OMRON HEALTHCARE MANUF…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士フイルムHD】「Future Design & Engineering Center」を新設‐全社横断のAI・IT技術開発組織",
+      "link": "https://www.yakuji.co.jp/entry141283.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:31:16Z",
+      "published_label": "2026/11/04 07:31",
+      "summary": "富士フイルムホールディングスは11月1日付で、AI・IT技術を各事業の製品・サービスの競争力強化と新たな価値創出につなげ、事業成長を加速するため、全社横断のA…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "12日にオンラインセミナー「リアルタイムPCR入門」 島津ダイアグノスティクス",
+      "link": "https://www.yakuji.co.jp/entry141282.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T22:30:00Z",
+      "published_label": "2026/11/04 07:30",
+      "summary": "島津ダイアグノスティクスは11月12日午後4時から30分程度、オンラインセミナー「リアルタイムPCR入門―原理から押さえる、正しい検出・定量のポイント」を実施…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【創薬力検討部会】革新薬開発拠点投資に補助‐薬価イノベ評価を再投資",
+      "link": "https://www.yakuji.co.jp/entry141317.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T21:31:47Z",
+      "published_label": "2026/11/04 06:31",
+      "summary": "厚生労働省の創薬力向上のための官民協議会施策検討・推進部会は10月30日、製造・国内投資について議論した。経済産業省は、革新的医薬品の国内研究開発・製造拠点へ…",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度",
+        "法令・行政",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省】薬添規を8年ぶり改正‐収載品目は487品目に",
+      "link": "https://www.yakuji.co.jp/entry141314.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T21:30:45Z",
+      "published_label": "2026/11/04 06:30",
+      "summary": "厚生労働省は10月30日、医薬品添加物規格2018を改正し、新たに「医薬品添加物規格2026」として同日から適用した。既収載の医薬品添加物88品目の規格を一部…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】1日1回服用で効果持続‐「クラリチンEX」 第一三共ヘルスケア",
+      "link": "https://www.yakuji.co.jp/entry141303.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T21:02:18Z",
+      "published_label": "2026/11/04 06:02",
+      "summary": "第一三共ヘルスケアは、アレルギー専用鼻炎薬「クラリチンEX」（第2類医薬品）の販売を開始した。 クラリチンEXは、第2世代の抗ヒスタミン成分であるロラタジン…",
+      "tags": [
+        "承認・新薬",
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "地中空間を医薬品備蓄に",
+      "link": "https://www.yakuji.co.jp/entry141308.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T21:01:50Z",
+      "published_label": "2026/11/04 06:01",
+      "summary": "◆全国の遊休状態のトンネルや鉱山跡地などの地中空間を活用した地中型データセンターの開発構想を、三井不動産などが先月発表した。第一弾として神戸市の地下トンネルで開…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -136,33 +391,6 @@
       "keywords": []
     },
     {
-      "title": "NO吸入試験、重症PH-COPDの治療反応・予後予測に有用か",
-      "link": "https://www.carenet.com/news/general/carenet/63801?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-03T19:00:00Z",
-      "published_label": "2026/11/04 04:00",
-      "summary": "慢性閉塞性肺疾患（COPD）に合併する肺高血圧症（PH-COPD）のうち、重症例は予後不良である。一方で、肺動脈性肺高血圧症（PAH）承認薬の有効性が期待できる患者群をどのように同定するかは明らかでない。フランス…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "抗精神病薬の副作用、単剤療法と多剤併用療法でどのくらい違うのか",
-      "link": "https://www.carenet.com/news/general/carenet/63838?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-03T18:59:50Z",
-      "published_label": "2026/11/04 03:59",
-      "summary": "統合失調症治療では、抗精神病薬の多剤併用療法は推奨されていない。しかし、実臨床においては、依然として一般的に用いられている。多剤併用療法は、より重篤な副作用負担を伴うと考えられているが、現在のエビ…",
-      "tags": [
-        "安全性情報",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "危険なダイエット治療、韓国で29の薬剤を半年分出された女性",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/shintaniguchi/202611/595062.html",
       "source": "日経メディカル Online",
@@ -207,6 +435,19 @@
       "keywords": []
     },
     {
+      "title": "【訂正】Japanese Pharmaceutical Excipients 2018 ‐英文版 医薬品添加物規格2018‐",
+      "link": "https://www.yakuji.co.jp/entry76605.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T05:10:02Z",
+      "published_label": "2026/11/02 14:10",
+      "summary": "2019年8月に発行いたしました『英文版 医薬品添加物規格2018』の記述に誤りがございました。お詫びを申し上げるとともに、下記の通り訂正させていただきます。（…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "薬事審議会 再生医療等製品・生物由来技術部会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_76912.html",
       "source": "厚生労働省 新着情報",
@@ -230,6 +471,84 @@
         "その他"
       ],
       "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "【日薬 渡邊副会長】OTC類似薬制度周知を‐薬局窓口で説明難しく",
+      "link": "https://www.yakuji.co.jp/entry141229.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:04:13Z",
+      "published_label": "2026/11/02 13:04",
+      "summary": "日本薬剤師会の渡邊大記副会長は10月28日の定例会見で、来年3月に施行されるOTC類似薬の一部保険外療養について、国に対し改めて制度の周知・啓発を行うよう求め…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【インドネシア病院薬剤師協会】薬剤師ら約30人が来訪‐医療安全対策など学ぶ",
+      "link": "https://www.yakuji.co.jp/entry141236.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:03:21Z",
+      "published_label": "2026/11/02 13:03",
+      "summary": "インドネシア病院薬剤師協会の薬剤師ら約30人が10月下旬に日本の5病院を訪れ、薬剤師業務を視察した。同27日に訪れた大阪市の大阪赤十字病院では、薬剤部を見学し…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【マルホ／J-TEC】自家培養表皮で販売提携‐白斑治療での普及目指す",
+      "link": "https://www.yakuji.co.jp/entry141235.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:02:25Z",
+      "published_label": "2026/11/02 13:02",
+      "summary": "マルホは、ジャパン・ティッシュエンジニアリング（J-TEC）の白斑治療用のメラノサイト含有自家培養表皮「ジャスミン」による治療の普及を支援する。両社が10月2…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【北海道医療大／友愛会】医療人材育成で連携協定‐高校生対象インターン拡充",
+      "link": "https://www.yakuji.co.jp/entry141232.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:01:54Z",
+      "published_label": "2026/11/02 13:01",
+      "summary": "北海道医療大学と社会医療法人友愛会（沖縄県豊見城市）は、医療人材の育成や地域医療・福祉の充実などを目的とする包括連携協定を締結した。薬学部や歯学部を設置する大…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "埼玉県病院薬剤師会 研修会 2026/12",
+      "link": "https://www.yakuji.co.jp/entry141192.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T04:00:50Z",
+      "published_label": "2026/11/02 13:00",
+      "summary": "第19回 医療の質・安全研修会（WEB即時配信型研修会） 埼玉県薬剤師生涯研修センター(G15)認定単位 1単位 日本病院薬剤師会病院薬学認定薬剤師制度(P04…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日本プライマリ・ケア連合学会 研修会 2026/12",
+      "link": "https://www.yakuji.co.jp/entry141187.html",
+      "source": "薬事日報",
+      "published": "2026-11-02T02:00:22Z",
+      "published_label": "2026/11/02 11:00",
+      "summary": "『薬剤師＋αの視点で関わる多疾患併存（マルチモビディティ）』 日時 2026年12月13日（日）9時00分～12時10分 場所 オンライン開催（zoom使用） …",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -573,59 +892,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "特徴的な用法に要注意、新規作用機序の抗うつ薬ザズベイ",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/yorinukidi/202610/594953.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-29T15:00:00Z",
-      "published_label": "2026/10/30 00:00",
-      "summary": "2026年3月、新規作用機序の抗うつ薬としてザズベイ（一般名ズラノロン）が発売されました。同薬は、米国では2023年に、英国と欧州では2025年に「産後うつ病」に対して承認されており、日本では2025年12月に「うつ病・うつ状態」の効能・効果で製造販売承認を取得しました。従来の抗うつ薬の多くは、セロトニンやノルアドレナリンなどの脳内モノアミンを増加させる作用を有していますが、ザズベイはうつ病患者の脳内および血漿中で低下が認められている…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "どうしていつも同じ薬なの？医師の処方意図を知った多職種勉強会",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kokubo/202610/595010.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-29T15:00:00Z",
-      "published_label": "2026/10/30 00:00",
-      "summary": "みなさん、こんにちは。 つなぐ薬局 足立（東京・足立）で、在宅医療に取り組んでいる小久保です。在宅医療に関わっている読者の先生方は、訪問している施設の看護師から「先生の処方意図がよく分からない」と言われた経験はありませんか。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ロキソプロフェンの指定第2類移行は継続審議に",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595111.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-29T15:00:00Z",
-      "published_label": "2026/10/30 00:00",
-      "summary": "厚生労働省は2026年10月29日、薬事審議会医薬品等安全対策部会を開催し、OTC医薬品のリスク区分が第1類となっているロキソプロフェンを指定第2類医薬品に変更することについて議論した。今回は結論を出さず、部会としての意見を整理した上で、次回以降も継続して審議することとなった。",
-      "tags": [
-        "一般用医薬品",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "「頑張っているのに給料が上がらない……」薬局薬剤師が昇給するための第一歩とは",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/gude/202610/594938.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-29T15:00:00Z",
-      "published_label": "2026/10/30 00:00",
-      "summary": "とま美「今年も昇給額は変わりませんでした……」ぐで太郎「ほとんどの人がそうなんじゃない？昇給しているだけありがたいと思わないと」とま美「でもこの１年頑張ったんですよ？」ぐで太郎「会社の仕事を任されたり、管理薬剤師になったりしたの？」とま美「それはしてませんけど……」ぐで太郎「厳しいことを言うようだけど、それが今のきみの評価ということだね。じゃあこれからどうすれば給料が上がる可能性があるか、一緒に考えてみよう」給 料は、会社の利益の再分…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
