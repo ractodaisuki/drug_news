@@ -1,8 +1,90 @@
 {
-  "updated_at": "2026-11-05T10:18:35.742893Z",
-  "updated_label": "2026/11/05 19:18",
+  "updated_at": "2026-11-05T19:27:26.874265Z",
+  "updated_label": "2026/11/06 04:27",
   "count": 135,
   "items": [
+    {
+      "title": "ヘパリン類似物質の使い所は？ワセリンや尿素との違い",
+      "link": "https://pharmacist.m3.com/column/otc/7973?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-05T19:27:25.296214Z",
+      "published_label": "2026/11/06 04:27",
+      "summary": "医療用医薬品の『ヒルドイド』と同じ有効成分「ヘパリン類似物質」の保湿剤は、OTC医薬品としても様々な剤形で販売されています。同じく保湿剤として用いられる安価な「ワセリン」や「尿素」とはどういった違いがあり、どのような使い分けをするのが良いのか、そのポイントを解説します。",
+      "tags": [
+        "薬剤師コラム",
+        "薬物療法・作用機序",
+        "服薬指導",
+        "OTC医薬品"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "24歳男性。腹痛、下痢、嘔吐を伴うが発熱を認めない増強する頭痛",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/cadetto/column/mqcadetto/202611/594798.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-05T15:00:00Z",
+      "published_label": "2026/11/06 00:00",
+      "summary": "臨床でよく出会う症例を基に、診断・治療の要点をクイズ形式で考え、学んでいきましょう。今回取り上げるのは、日経メディカル Onlineに2021年1月に掲載された脳神経内科のクイズです。 患者は24歳男性。X年6月10日、起床時に腹痛、下痢、頭痛を自覚。市販薬を服用したものの、嘔吐したため、救急外来を受診しました。来院時、過換気状態を認めました。頭部CT検査は異常なし。体温36.5℃、白血球数1万700/μL、CRP 0.7mg/dLと…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "電子カルテは永久保存を 薬害が問う「5年」の壁",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/blog/katsumura2/202611/595091.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-05T15:00:00Z",
+      "published_label": "2026/11/06 00:00",
+      "summary": "あなたの病院には40年前のカルテが今も残っているだろうか。もし、患者や家族が「40年前の手術でヒト乾燥硬膜は使われたのか」と尋ねてきたら、答えることができるだろうか。2026年1月20日、厚生労働省医薬局の医薬品副作用被害対策室は、各都道府県や日本医師会、日本病院会など7団体に宛てて、「ヒト乾燥硬膜を使用された患者に係る診療録等の長期保存について（再周知）」という事務連絡を発出した。近年、約40年前にヒト乾燥硬膜を使用された患者がクロ…",
+      "tags": [
+        "法令・行政",
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "薬剤抵抗性を含むてんかんの部分発作に新たな治療選択肢",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202611/595153.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-05T15:00:00Z",
+      "published_label": "2026/11/06 00:00",
+      "summary": "2026年9月16日、抗てんかん薬セノバメート（商品名エキスコプリ錠12.5mg、同錠50mg、同錠100mg、同錠200mg）の製造販売が承認された。適応は「てんかん患者の部分発作（二次性全般化発作を含む）」、用法用量は「成人に12.5mgを開始用量として、1日1回経口投与する。以後は、添付文書記載の投与量増量表に基づき2週間以上の間隔を空けて1段階ずつ増量し、維持用量は1日1回100～200mgとする。なお、患者の状態により投与量…",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "GLP-1受容体作動薬は2型糖尿病患者の脳卒中リスクを減らす 他",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/hotnews/podcastpaper/202611/595115.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-05T15:00:00Z",
+      "published_label": "2026/11/06 00:00",
+      "summary": "2026年11月2日から2026年11月5日に日経メディカル Onlineで紹介した3本の海外医学論文のエッセンスを日本語音声でお届けします。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "財務省、高齢者住まい併設の「集中提供型」事業所の報酬適正化を要請",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202611/595177.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-05T15:00:00Z",
+      "published_label": "2026/11/06 00:00",
+      "summary": "財務省は2026年11月4日、財政制度等審議会・財政制度分科会で、2027年度介護報酬改定に向けて「介護事業者の財務・経営状況は過去・他産業と比較して高い水準にある」として、サービス提供実態に応じた報酬の適正化を求めた。具体的には、住宅型有料老人ホームなどに併設・隣接した6つの居宅サービス事業所について、個人宅を訪問する事業所よりも収支差率が良いとして、報酬引き下げ、職員を手厚く配置した事業所への体制加算の縮減などを主張した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「外来での抗菌薬代替療法（後編）」",
       "link": "https://pharmacist.m3.com/column/movie/7909?promotionCode=op_pcolumn",
@@ -24,34 +106,6 @@
       "published": "2026-11-05T08:36:53Z",
       "published_label": "2026/11/05 17:36",
       "summary": "2026年11月3日10時頃から11月4日20時37分頃まで、薬事日報ウェブサイトにおいて、断続的にページを閲覧しづらい、または閲覧できない状態が発生しており…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "「注射1本で体重2割減」の時代へ、トリプルアゴニストretatrutideの実力と限界",
-      "link": "https://www.carenet.com/hihyothu3/081.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-05T01:00:08Z",
-      "published_label": "2026/11/05 10:00",
-      "summary": "痩せにくい2型糖尿病を伴う肥満患者で約2割の減量を達成した新薬retatrutide。減量手術に匹敵する効果がLancet誌に報告されました。一方で、副作用による中止率やリバウンドの懸念などの課題もあるようです。",
-      "tags": [
-        "安全性情報",
-        "承認・新薬",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "CGRP関連薬（注射剤・経口剤）、導入と「やめどき」の基準は？",
-      "link": "https://www.carenet.com/report/yorozu/cg005110_015.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-05T01:00:06Z",
-      "published_label": "2026/11/05 10:00",
-      "summary": "CGRP関連薬（注射剤・経口剤）の導入要件や使い分けを解説。発作軽減時の「やめどき（中止基準）」の考え方や、注目の経口ゲパント系薬剤の活用・処方上の注意点まで、専門医視点でわかりやすくお伝えします。",
       "tags": [
         "その他"
       ],
@@ -217,32 +271,6 @@
         "疾患・病態"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "ESR1変異HR+HER2-進行乳がんにイムルネストラント発売、国内初の経口SERD／リリー",
-      "link": "https://www.carenet.com/news/general/carenet/63889?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-04T18:59:59Z",
-      "published_label": "2026/11/05 03:59",
-      "summary": "日本イーライリリーは2026年10月30日、「内分泌療法後に増悪したESR1遺伝子変異を有するホルモン受容体陽性かつHER2陰性の手術不能又は再発乳癌」の適応で、イムルネストラントトシル酸塩（商品名：イムルリオ錠2…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "デュアルオレキシン受容体拮抗薬の継続でBZDの減量は可能か",
-      "link": "https://www.carenet.com/news/general/carenet/63839?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-04T18:59:50Z",
-      "published_label": "2026/11/05 03:59",
-      "summary": "慢性不眠症患者に対するベンゾジアゼピン系やベンゾジアゼピン受容体作動薬（BZD）の使用は、安全性への懸念がある。しかし、BZDの使用を中止することは、依然として困難である。国立精神・神経医療研究センター…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -855,32 +883,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "特集は「後発品業界 変化の行方を読む」",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/di/column/premium/202611/595129.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-01T15:00:00Z",
-      "published_label": "2026/11/02 00:00",
-      "summary": "月刊誌「日経ドラッグインフォメーション プレミアム版」（日経DI プレミアム版）11月号が発売となりました。本号の見どころをご紹介します。 特集は「後発品業界 変化の行方を読む」です。後発品業界は今、転換期を迎えています。企業の再編や制度の見直しが進む中、安定供給や医薬品情報の継承など、解決すべき課題も残っています。薬剤師が支持する後発品企業や品目を紹介しつつ、変わりゆく業界の今後を探りました。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "GLP-1受容体作動薬は2型糖尿病患者の脳卒中リスクを減らす",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/etc/202611/595017.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-01T15:00:00Z",
-      "published_label": "2026/11/02 00:00",
-      "summary": "スウェーデンGothenburg大学のAnastasios Mavridis氏らは、2013～19年に同国で患者登録された2型糖尿病患者17万1917人の脳卒中発症リスクを調べる縦断研究を行ったところ、GLP-1受容体作動薬で治療した患者では有意なリスク減少が見られたが、SGLT2阻害薬やDPP-4阻害薬で治療した患者では、リスクの増加も減少も観察されなかったと報告した。結果は2026年9月23日のeClinicalMedicine誌…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
