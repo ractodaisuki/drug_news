@@ -1,8 +1,194 @@
 {
-  "updated_at": "2026-11-04T19:18:35.137601Z",
-  "updated_label": "2026/11/05 04:18",
-  "count": 134,
+  "updated_at": "2026-11-05T01:16:52.648278Z",
+  "updated_label": "2026/11/05 10:16",
+  "count": 138,
   "items": [
+    {
+      "title": "動画で見て聞く「外来での抗菌薬代替療法（後編）」",
+      "link": "https://pharmacist.m3.com/column/movie/7909?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-05T01:16:51.287392Z",
+      "published_label": "2026/11/05 10:16",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム",
+        "選定療養"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "「注射1本で体重2割減」の時代へ、トリプルアゴニストretatrutideの実力と限界",
+      "link": "https://www.carenet.com/hihyothu3/081.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-05T01:00:00Z",
+      "published_label": "2026/11/05 10:00",
+      "summary": "痩せにくい2型糖尿病を伴う肥満患者で約2割の減量を達成した新薬retatrutide。減量手術に匹敵する効果がLancet誌に報告されました。一方で、副作用による中止率やリバウンドの懸念などの課題もあるようです。",
+      "tags": [
+        "安全性情報",
+        "承認・新薬",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "CGRP関連薬（注射剤・経口剤）、導入と「やめどき」の基準は？",
+      "link": "https://www.carenet.com/report/yorozu/cg005110_015.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-05T01:00:00Z",
+      "published_label": "2026/11/05 10:00",
+      "summary": "CGRP関連薬（注射剤・経口剤）の導入要件や使い分けを解説。発作軽減時の「やめどき（中止基準）」の考え方や、注目の経口ゲパント系薬剤の活用・処方上の注意点まで、専門医視点で分かりやすくお伝えします。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【住友ファーマ 木村社長】経営再建「最初の目標到達」‐次なる成長へ自信深める",
+      "link": "https://www.yakuji.co.jp/entry141321.html",
+      "source": "薬事日報",
+      "published": "2026-11-04T23:31:19Z",
+      "published_label": "2026/11/05 08:31",
+      "summary": "住友ファーマの木村徹社長は10月30日、都内で開いた中間決算説明会で、「経営再建が最初の目標にようやく到達した」と述べ、「これからは、新しい住友ファーマの発展…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【小野薬品 滝野社長】経口鎮痛薬候補に期待‐30年度以降の上市目指す",
+      "link": "https://www.yakuji.co.jp/entry141320.html",
+      "source": "薬事日報",
+      "published": "2026-11-04T23:30:30Z",
+      "published_label": "2026/11/05 08:30",
+      "summary": "小野薬品の滝野十一社長COOは10月29日、大阪市で開いた中間決算説明会で、第II相段階にある自社創製の内因性カンナビノイド制御剤「ONO-1110」について…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士経済】31年に25年比26.4％増予測‐国内OTC薬EC市場",
+      "link": "https://www.yakuji.co.jp/entry141316.html",
+      "source": "薬事日報",
+      "published": "2026-11-04T21:31:24Z",
+      "published_label": "2026/11/05 06:31",
+      "summary": "富士経済は、OTC医薬品のEC市場を調査した結果をまとめた。それによると、OTC医薬品の国内ECの2031年市場は1663億円で、25年比で26.4％増と予測…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【ヘルスケア産業PF】物価上昇で薬価上げ要望‐中間年改定に反対強調",
+      "link": "https://www.yakuji.co.jp/entry141311.html",
+      "source": "薬事日報",
+      "published": "2026-11-04T21:30:12Z",
+      "published_label": "2026/11/05 06:30",
+      "summary": "ヘルスケア産業プラットフォームは10月29日、医薬品や医薬品卸など労使関係者と与野党の国会議員を集めて院内集会を開き、物価上昇を踏まえた薬価など公定価格の引き…",
+      "tags": [
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "財政審 27年度薬価改定「乖離率に限定せず実勢価改定に連動した完全実施を」承認品目数 欧米と遜色ない",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81164",
+      "source": "ミクスOnline",
+      "published": "2026-11-04T21:00:00Z",
+      "published_label": "2026/11/05 06:00",
+      "summary": "財務省は11月４日の財政制度等審議会財政制度分科会に、2027年度薬価改定について、乖離率による限定なく、「実勢価格に連動した改定の完全実施」を求めた。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "財政審 高齢者の医療費窓口負担は「原則３割」に 美容医療機関から負担金で医師偏在\"直美”に一石も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81163",
+      "source": "ミクスOnline",
+      "published": "2026-11-04T20:00:00Z",
+      "published_label": "2026/11/05 05:00",
+      "summary": "財務省は11月４日の財政制度等審議会財政制度分科会に、高齢者の医療費窓口負担について、「年齢によらず原則３割」とすることを提言した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "キッセイ薬品 タブネオスで特別損失43億円を一括計上 「原則切替」で下期売上予想を６億円に下方修正",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81160",
+      "source": "ミクスOnline",
+      "published": "2026-11-04T19:52:00Z",
+      "published_label": "2026/11/05 04:52",
+      "summary": "キッセイ薬品は11月４日、承認取消を含む行政処分の手続きが進められている選択的C5a受容体拮抗薬・タブネオスカプセルについて、2026年度第２四半期（中間期）に特別損失約43億円を計上したと発表した。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "アステラス製薬・岡村社長 コア営業利益50％増で通期上方修正 初のコア営業利益率30％達成を視野に",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81159",
+      "source": "ミクスOnline",
+      "published": "2026-11-04T19:51:00Z",
+      "published_label": "2026/11/05 04:51",
+      "summary": "アステラス製薬の岡村直樹代表取締役社長CEOは11月4日、26年度第2四半期決算説明会に臨み、「売上収益は前年同期比23％増、コア営業利益は50％増と、いずれも大きく成長した」と報告した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "積水メディカル・ナード研究所 創薬支援で協業 化合物合成から非臨床試験までを一貫提供",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81162",
+      "source": "ミクスOnline",
+      "published": "2026-11-04T19:50:00Z",
+      "published_label": "2026/11/05 04:50",
+      "summary": "積水メディカルとナード研究所は11月４日、医薬品開発の効率化を目指し、創薬支援において協業体制を構築したと発表。、医薬品候補化合物の合成から非臨床試験の実施・データ解析までのサービスを一貫して提供できる体制を。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "自民・田村社保調査会長 「薬価制度自体を見直す時期」 薬粧連合の政策フォーラムで",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81161",
+      "source": "ミクスOnline",
+      "published": "2026-11-04T19:50:00Z",
+      "published_label": "2026/11/05 04:50",
+      "summary": "自民党の田村憲久党社会保障制度調査会長は11月4日、医薬化粧品産業労働組合連合会（薬粧連合）の政策フォーラムに登壇し、「物価や賃金は上がり始めたが、薬価は下がり続ける。こういう制度で本当にいいのか、そろそろ薬価制度自体を見直さなければならない時期にきている」と述べた。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "あすか製薬 中国・Minghui社と甲状腺眼症（TED）治療薬「MHB018A」の国内開発・販売権で...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81158",
+      "source": "ミクスOnline",
+      "published": "2026-11-04T19:50:00Z",
+      "published_label": "2026/11/05 04:50",
+      "summary": "あすか製薬は11月4日、中国のMinghui Pharmaceutical (Hangzhou) Limitedと甲状腺眼症（TED）治療薬「MHB018A」の導入に関するライセンス契約を締結したと発表した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "【在宅緩和ケア】CADD-Solis等PCAポンプの注意点と指導法",
       "link": "https://pharmacist.m3.com/column/kurumi/7970?promotionCode=op_pcolumn",
@@ -44,6 +230,46 @@
         "学術・エビデンス"
       ],
       "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "シアリスOTC、小規模薬局が仕入れて感じた“壁”",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202611/595126.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-04T15:00:00Z",
+      "published_label": "2026/11/05 00:00",
+      "summary": "勃起不全（ED）のスイッチOTC薬シアリス（成分名タダラフィル）がオンラインでも発売となって話題ですが、私の薬局でも取り扱いを開始しました。でもやっぱりモヤモヤすることがありましたので、その話をしたいと思います。シアリスは要指導医薬品で、この夏に一部の薬局で先行販売されました。その時に感じたモヤモヤは、本コラムでも以前にご紹介しています。今回、私の薬局でもシアリス錠を取り扱おうと思い、これまで取引のあるOTC医薬品の卸や、更には医療用…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "リンデロン坐剤の切断使用に注意",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595160.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-04T15:00:00Z",
+      "published_label": "2026/11/05 00:00",
+      "summary": "日本医療機能評価機構（以下、機構）は2026年10月26日、薬局ヒヤリ・ハット事例収集・分析事業の共有すべき事例「2026年No.10」を公表した。リンデロン坐剤を切断して交付した事例と、併用薬の確認時に添付文書の記載を誤認した事例の2件を紹介し、注意を呼び掛けた。",
+      "tags": [
+        "安全性情報",
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "薬物依存の治療は「街の薬局」で",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/maggie/202611/594930.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-04T15:00:00Z",
+      "published_label": "2026/11/05 00:00",
+      "summary": "出勤前にスーツ姿で薬局を訪れ、メサドン塩酸塩を服用して仕事へ向かう──。オーストラリアのコミュニティ薬局で、私はそんな患者たちとも接してきました。 日本にいた頃も、薬物依存について学ぶ機会はありました。しかし、治療を受けている患者と日常業務で継続的に関わる機会は、少なくとも私にはありませんでした。どこか、自分の仕事からは遠い問題だと思っていたのです。 その距離は、オーストラリアで働くようになって大きく縮まりました。薬を渡す手が震えた日…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
       "keywords": []
     },
     {
@@ -500,58 +726,6 @@
       "keywords": []
     },
     {
-      "title": "【マルホ／J-TEC】自家培養表皮で販売提携‐白斑治療での普及目指す",
-      "link": "https://www.yakuji.co.jp/entry141235.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:02:25Z",
-      "published_label": "2026/11/02 13:02",
-      "summary": "マルホは、ジャパン・ティッシュエンジニアリング（J-TEC）の白斑治療用のメラノサイト含有自家培養表皮「ジャスミン」による治療の普及を支援する。両社が10月2…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【北海道医療大／友愛会】医療人材育成で連携協定‐高校生対象インターン拡充",
-      "link": "https://www.yakuji.co.jp/entry141232.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:01:54Z",
-      "published_label": "2026/11/02 13:01",
-      "summary": "北海道医療大学と社会医療法人友愛会（沖縄県豊見城市）は、医療人材の育成や地域医療・福祉の充実などを目的とする包括連携協定を締結した。薬学部や歯学部を設置する大…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "埼玉県病院薬剤師会 研修会 2026/12",
-      "link": "https://www.yakuji.co.jp/entry141192.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:00:50Z",
-      "published_label": "2026/11/02 13:00",
-      "summary": "第19回 医療の質・安全研修会（WEB即時配信型研修会） 埼玉県薬剤師生涯研修センター(G15)認定単位 1単位 日本病院薬剤師会病院薬学認定薬剤師制度(P04…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本プライマリ・ケア連合学会 研修会 2026/12",
-      "link": "https://www.yakuji.co.jp/entry141187.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T02:00:22Z",
-      "published_label": "2026/11/02 11:00",
-      "summary": "『薬剤師＋αの視点で関わる多疾患併存（マルチモビディティ）』 日時 2026年12月13日（日）9時00分～12時10分 場所 オンライン開催（zoom使用） …",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "経産省 グローバルの自国製造誘導策に打ち勝つ 研究開発・製造国内投資支援 ADCの重点投資に期待も",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81150",
       "source": "ミクスOnline",
@@ -724,32 +898,6 @@
       "keywords": []
     },
     {
-      "title": "薬局の管理栄養士、活躍の場はカウンターの外へ",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/595067.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-30T15:00:00Z",
-      "published_label": "2026/10/31 00:00",
-      "summary": "「人とおしゃべりするのが好きだし、一日中パソコンと向き合うのは性に合わなくて」。2021年に薬樹（東京・新宿）に入社した管理栄養士の浜田真綾（はまだまや）氏は、薬局を就職先に選んだ理由をこう話す。 管理栄養士の主な就職先は、病院や給食施設、学校などだ。だが浜田氏は、栄養計算などに取り組むよりも、目の前の人と会話を重ねながら食生活を支える仕事に魅力を感じ、薬局を選んだという。「薬局では患者さんと1対1で会話できて、健康イベントを開催でき…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "抗認知症薬、ドネペジル塩酸塩の首位は変わらず",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202610/594966.html",
-      "source": "日経メディカル Online",
-      "published": "2026-10-30T15:00:00Z",
-      "published_label": "2026/10/31 00:00",
-      "summary": "日経メディカル Onlineの医師会員を対象に、抗認知症薬のうち最も処方頻度の高いものを聞いたところ、59.3％の医師がドネペジル塩酸塩（商品名アリセプト他）と回答した。 第2位のメマンチン塩酸塩（メマリー他）は19.1％、第3位のドネペジル貼付薬（アリドネ）は11.2％の医師が最も処方頻度の高い薬剤として選んだ。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "最近の調剤医療費（電算処理分）の動向 令和8年度6月号",
       "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/06/",
       "source": "厚生労働省 新着情報",
@@ -852,99 +1000,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ヘルスケア産業PF 物価上昇踏まえた薬価の引き上げ主張 卸組合員への調査 63.1％が逆ザヤ「増加」...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81135",
-      "source": "ミクスOnline",
-      "published": "2026-10-29T19:50:00Z",
-      "published_label": "2026/10/30 04:50",
-      "summary": "医薬関連労組で構成するヘルスケア産業プラットフォームは10月29日、国会内で集会を開き、物価上昇を踏まえた薬価や材料価格の引き上げを求めた。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "田辺ファーマ 製造販売承認申請したMT-2111 日本新薬と国内の独占的販売でサブライセンス契約締結",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81131",
-      "source": "ミクスOnline",
-      "published": "2026-10-29T19:50:00Z",
-      "published_label": "2026/10/30 04:50",
-      "summary": "田辺ファーマは10月29日、厚生労働省に医薬品製造販売承認を申請したロンカスツキシマブテシリン（MT-2111）について、日本新薬と国内の独占的販売に関するサブライセンス契約を締結したと発表した。",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "KMバイオ WHOのワクチン備蓄体制プログラムに参画 エムポックスワクチン19.25万回分供給",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81103",
-      "source": "ミクスOnline",
-      "published": "2026-10-29T19:49:00Z",
-      "published_label": "2026/10/30 04:49",
-      "summary": "Meiji Seika ファルマは10月28日、傘下のKMバイオロジクスがWHOのICG（International Coordinating Group on Vaccine Provision、ワクチン供給に関する国際調整グループ）によるエムポックスの流行に備えた世界的なワクチン備蓄体制プログラムに参画すると発表した。",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "診療側・江澤委員 27年度薬価改定「安定供給と逆ザヤ問題解消する施策の見極めを」 効果検証求める",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81113",
-      "source": "ミクスOnline",
-      "published": "2026-10-28T21:30:00Z",
-      "published_label": "2026/10/29 06:30",
-      "summary": "診療側の江澤和彦委員（日本医師会常任理事）は10月28日の中医協薬価専門部会で、2027年度薬価改定の適用ルールについて、「安定供給と逆ザヤの問題が解消するような効果的な施策を見極めた上で実施すべき」と主張した。",
-      "tags": [
-        "薬価・制度",
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "費用対効果 専門組織の企業傍聴で診療側・江澤委員「企業からの接触禁止など中立性担保」COIに配慮を",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81111",
-      "source": "ミクスOnline",
-      "published": "2026-10-28T20:03:00Z",
-      "published_label": "2026/10/29 05:03",
-      "summary": "診療側の江澤和彦委員（日本医師会常任理事）は10月28日、中医協費用対効果評価専門部会で、製造販売業者の専門組織の傍聴について、「傍聴したことで得られた情報の取り扱いや、製造販売業者から委員への接触を禁止するなど、専門組織の中立性を確保する手当ても併せて検討することが必要だ」と述べた。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【中医協薬価専門部会 10月28日 議事要旨 令和９年度薬価改定について】",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81109",
-      "source": "ミクスOnline",
-      "published": "2026-10-28T20:02:00Z",
-      "published_label": "2026/10/29 05:02",
-      "summary": "中医協薬価専門部会が10月28日に開かれ、令和９年度薬価改定について議論した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【中医協費用対効果評価専門部会 10月28日 議事要旨 費用対効果評価制度の見直しに関する検討】",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81108",
-      "source": "ミクスOnline",
-      "published": "2026-10-28T20:01:00Z",
-      "published_label": "2026/10/29 05:01",
-      "summary": "中医協費用対効果評価専門部会が10月28日に開かれ、令和９年度薬価改定に向けた費用対効果評価制度の見直しに関する検討（その１）について議論した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
