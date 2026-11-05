@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-05T01:16:52.648278Z",
-  "updated_label": "2026/11/05 10:16",
-  "count": 138,
+  "updated_at": "2026-11-05T10:18:35.742893Z",
+  "updated_label": "2026/11/05 19:18",
+  "count": 135,
   "items": [
     {
       "title": "動画で見て聞く「外来での抗菌薬代替療法（後編）」",
       "link": "https://pharmacist.m3.com/column/movie/7909?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-11-05T01:16:51.287392Z",
-      "published_label": "2026/11/05 10:16",
+      "published": "2026-11-05T10:18:34.388227Z",
+      "published_label": "2026/11/05 19:18",
       "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
       "tags": [
         "薬剤師コラム",
@@ -18,10 +18,23 @@
       "keywords": []
     },
     {
+      "title": "【復旧】ウェブサイト閲覧障害のお詫び",
+      "link": "https://www.yakuji.co.jp/entry141350.html",
+      "source": "薬事日報",
+      "published": "2026-11-05T08:36:53Z",
+      "published_label": "2026/11/05 17:36",
+      "summary": "2026年11月3日10時頃から11月4日20時37分頃まで、薬事日報ウェブサイトにおいて、断続的にページを閲覧しづらい、または閲覧できない状態が発生しており…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "「注射1本で体重2割減」の時代へ、トリプルアゴニストretatrutideの実力と限界",
       "link": "https://www.carenet.com/hihyothu3/081.html?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-05T01:00:00Z",
+      "published": "2026-11-05T01:00:08Z",
       "published_label": "2026/11/05 10:00",
       "summary": "痩せにくい2型糖尿病を伴う肥満患者で約2割の減量を達成した新薬retatrutide。減量手術に匹敵する効果がLancet誌に報告されました。一方で、副作用による中止率やリバウンドの懸念などの課題もあるようです。",
       "tags": [
@@ -36,9 +49,9 @@
       "title": "CGRP関連薬（注射剤・経口剤）、導入と「やめどき」の基準は？",
       "link": "https://www.carenet.com/report/yorozu/cg005110_015.html?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-05T01:00:00Z",
+      "published": "2026-11-05T01:00:06Z",
       "published_label": "2026/11/05 10:00",
-      "summary": "CGRP関連薬（注射剤・経口剤）の導入要件や使い分けを解説。発作軽減時の「やめどき（中止基準）」の考え方や、注目の経口ゲパント系薬剤の活用・処方上の注意点まで、専門医視点で分かりやすくお伝えします。",
+      "summary": "CGRP関連薬（注射剤・経口剤）の導入要件や使い分けを解説。発作軽減時の「やめどき（中止基準）」の考え方や、注目の経口ゲパント系薬剤の活用・処方上の注意点まで、専門医視点でわかりやすくお伝えします。",
       "tags": [
         "その他"
       ],
@@ -233,6 +246,32 @@
       "keywords": []
     },
     {
+      "title": "老健からの特養入所を在宅復帰に含める方向",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202611/595169.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-04T15:00:00Z",
+      "published_label": "2026/11/05 00:00",
+      "summary": "厚生労働省の社会保障審議会・介護給付費分科会は2026年11月2日、2027年度介護報酬改定に向けて、介護老人保健施設（老健施設）、介護医療院における基本報酬や加算要件の見直しなどを含む論点を示した。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "特養での透析患者送迎だけでなく継続的な支援を評価",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202611/595168.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-04T15:00:00Z",
+      "published_label": "2026/11/05 00:00",
+      "summary": "厚生労働省の社会保障審議会・介護給付費分科会は2026年11月2日、2027年度介護報酬改定に向けて介護老人福祉施設（特別養護老人ホーム）における具体的な基本報酬や加算要件の見直しの方向性を示した。",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "シアリスOTC、小規模薬局が仕入れて感じた“壁”",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202611/595126.html",
       "source": "日経メディカル Online",
@@ -309,6 +348,19 @@
         "薬価・制度"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【26年秋の叙勲】眞鍋元日薬連会長に旭重‐宮田元神戸薬大学長は瑞中",
+      "link": "https://www.yakuji.co.jp/entry141357.html",
+      "source": "薬事日報",
+      "published": "2026-11-03T23:31:40Z",
+      "published_label": "2026/11/04 08:31",
+      "summary": "政府は3日、「2026年秋の叙勲」における勲章受章者を発令した。製薬業界では、元日本製薬団体連合会会長・元第一三共社長兼CEO社長執行役員の眞鍋淳氏が旭日重光…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -498,19 +550,6 @@
       "keywords": []
     },
     {
-      "title": "地中空間を医薬品備蓄に",
-      "link": "https://www.yakuji.co.jp/entry141308.html",
-      "source": "薬事日報",
-      "published": "2026-11-03T21:01:50Z",
-      "published_label": "2026/11/04 06:01",
-      "summary": "◆全国の遊休状態のトンネルや鉱山跡地などの地中空間を活用した地中型データセンターの開発構想を、三井不動産などが先月発表した。第一弾として神戸市の地下トンネルで開…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "協和キリン 患者視点の共有で「存在意義を再認識する場に」 CMC研究センターでセミナー開催",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81049",
       "source": "ミクスOnline",
@@ -661,19 +700,6 @@
       "keywords": []
     },
     {
-      "title": "【訂正】Japanese Pharmaceutical Excipients 2018 ‐英文版 医薬品添加物規格2018‐",
-      "link": "https://www.yakuji.co.jp/entry76605.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T05:10:02Z",
-      "published_label": "2026/11/02 14:10",
-      "summary": "2019年8月に発行いたしました『英文版 医薬品添加物規格2018』の記述に誤りがございました。お詫びを申し上げるとともに、下記の通り訂正させていただきます。（…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "薬事審議会 再生医療等製品・生物由来技術部会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_76912.html",
       "source": "厚生労働省 新着情報",
@@ -697,32 +723,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "【日薬 渡邊副会長】OTC類似薬制度周知を‐薬局窓口で説明難しく",
-      "link": "https://www.yakuji.co.jp/entry141229.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:04:13Z",
-      "published_label": "2026/11/02 13:04",
-      "summary": "日本薬剤師会の渡邊大記副会長は10月28日の定例会見で、来年3月に施行されるOTC類似薬の一部保険外療養について、国に対し改めて制度の周知・啓発を行うよう求め…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【インドネシア病院薬剤師協会】薬剤師ら約30人が来訪‐医療安全対策など学ぶ",
-      "link": "https://www.yakuji.co.jp/entry141236.html",
-      "source": "薬事日報",
-      "published": "2026-11-02T04:03:21Z",
-      "published_label": "2026/11/02 13:03",
-      "summary": "インドネシア病院薬剤師協会の薬剤師ら約30人が10月下旬に日本の5病院を訪れ、薬剤師業務を視察した。同27日に訪れた大阪市の大阪赤十字病院では、薬剤部を見学し…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -884,20 +884,6 @@
       "keywords": []
     },
     {
-      "title": "フルミストは本当に水平伝播を起こすのか 被接種児の同居家族で検証",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202611/595110.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-01T15:00:00Z",
-      "published_label": "2026/11/02 00:00",
-      "summary": "経鼻弱毒生インフルエンザワクチン「フルミスト」は、本当に水平伝播を起こすのか──。この疑問を検証しようと、静岡厚生病院（静岡市葵区）小児科診療部長の田中敏博氏らは、フルミスト被接種児の同居家族22人から複数回にわたって検体を採取し、ワクチン株ウイルスの検出を試みた。その結果、どの検体からもウイルスは検出されなかった。第58回日本小児感染症学会総会・学術集会（会期：2026年10月24～25日、開催地：横浜市西区）で発表した。 国内では…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "最近の調剤医療費（電算処理分）の動向 令和8年度6月号",
       "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/06/",
       "source": "厚生労働省 新着情報",
@@ -908,32 +894,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-30T04:55:00Z",
-      "published_label": "2026/10/30 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-30T04:55:00Z",
-      "published_label": "2026/10/30 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
