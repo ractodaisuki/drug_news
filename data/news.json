@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-11-06T01:20:59.034150Z",
-  "updated_label": "2026/11/06 10:20",
-  "count": 140,
+  "updated_at": "2026-11-06T10:21:15.177426Z",
+  "updated_label": "2026/11/06 19:21",
+  "count": 142,
   "items": [
+    {
+      "title": "「第３回 薬剤師のキャリアパスに関する懇談会」の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77160.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-06T05:00:00Z",
+      "published_label": "2026/11/06 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-06T04:55:00Z",
+      "published_label": "2026/11/06 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-06T04:55:00Z",
+      "published_label": "2026/11/06 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【訂正】薬剤師が実践するがん治療の地域医療連携事例集",
+      "link": "https://www.yakuji.co.jp/entry141421.html",
+      "source": "薬事日報",
+      "published": "2026-11-06T01:30:50Z",
+      "published_label": "2026/11/06 10:30",
+      "summary": "「薬剤師が実践するがん治療の地域医療連携事例集」（2026年10月発行）の記述に誤りがありました。お詫びを申し上げるとともに、下記の通り訂正させていただきます（…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「子どもに目薬が処方されたとき。服薬指導のポイントを解説！」",
       "link": "https://pharmacist.m3.com/column/movie/7910?promotionCode=op_pcolumn",
@@ -18,12 +70,12 @@
       "keywords": []
     },
     {
-      "title": "医薬品供給不安、今どうなった？ 数字に潜む落とし穴",
+      "title": "医薬品供給不安、今どうなった？数字に潜む落とし穴",
       "link": "https://www.carenet.com/hihyofri/335.html?utm_source=rss&utm_medium=rss",
       "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-06T01:00:00Z",
+      "published": "2026-11-06T01:00:06Z",
       "published_label": "2026/11/06 10:00",
-      "summary": "あれほど騒がれた医薬品の供給不安、今はどうなっているのでしょう。厚労省の集計では改善が進む一方、中医協では現場感覚との乖離を訴える声も。村上氏がデータをひもとくと、思わぬ事情が見えてきました。",
+      "summary": "あれほど騒がれた医薬品の供給不安、今はどうなっているのでしょう。厚労省の集計では改善が進む一方、中医協では現場感覚との乖離を訴える声も。村上氏がデータを読み解くと、思わぬ事情が見えてきました。",
       "tags": [
         "供給・出荷",
         "薬価・制度"
@@ -150,7 +202,7 @@
       "keywords": []
     },
     {
-      "title": "【積水メディカルとナード研究所】医薬品開発で協業体制構築‐創薬業界の課題解決を支援",
+      "title": "【積水メディカル／ナード研究所】医薬品開発で協業体制構築‐創薬業界の課題解決を支援",
       "link": "https://www.yakuji.co.jp/entry141396.html",
       "source": "薬事日報",
       "published": "2026-11-05T22:31:37Z",
@@ -281,19 +333,6 @@
       "keywords": []
     },
     {
-      "title": "薬局が眼科受診の入口に",
-      "link": "https://www.yakuji.co.jp/entry141370.html",
-      "source": "薬事日報",
-      "published": "2026-11-05T21:01:21Z",
-      "published_label": "2026/11/06 06:01",
-      "summary": "◆先日取材したある学術大会のポスター発表で薬局で眼科疾患のスクリーニングが行われていることを知った。二つの薬局から報告があり、いずれも早期発見や受診勧奨を通じて…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "インスメッド・中村社長 ＭＲを「数十人規模」で追加採用 ブリヌスプリ錠の長期投与解禁に向け",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81171",
       "source": "ミクスOnline",
@@ -320,12 +359,12 @@
       "keywords": []
     },
     {
-      "title": "参天製薬・伊藤社長 自由診療で発売のリジュセア、アップニーク26年度末の目標を前倒しで達成",
+      "title": "参天製薬・伊藤社長 自由診療で発売のリジュセア、アップニーク26年度末の採用施設目標を前倒しで達成",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81169",
       "source": "ミクスOnline",
       "published": "2026-11-05T19:50:00Z",
       "published_label": "2026/11/06 04:50",
-      "summary": "参天製薬の伊藤毅代表取締役社長兼CEOは11月5日の2026年度第2四半期（中間期）決算説明会で、近視進行抑制薬・リジュセアと眼瞼下垂治療薬・アップニークともに、26年度末の目標を前倒しで達成したと強調した。",
+      "summary": "参天製薬の伊藤毅代表取締役社長兼CEOは11月5日の2026年度第2四半期（中間期）決算説明会で、近視進行抑制薬・リジュセアと眼瞼下垂治療薬・アップニークともに、26年度末の採用施設目標を前倒しで達成したと強調した。",
       "tags": [
         "業界動向"
       ],
@@ -733,6 +772,19 @@
       "keywords": []
     },
     {
+      "title": "第2回厚生科学審議会医療用医薬品迅速・安定供給部会 開催案内",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77191.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-04T13:03:00Z",
+      "published_label": "2026/11/04 22:03",
+      "summary": "",
+      "tags": [
+        "供給・出荷"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
       "title": "協和キリン 患者視点の共有で「存在意義を再認識する場に」 CMC研究センターでセミナー開催",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81049",
       "source": "ミクスOnline",
@@ -832,19 +884,6 @@
       "published": "2026-11-03T19:49:00Z",
       "published_label": "2026/11/04 04:49",
       "summary": "ノバルティス ファーマはジョンポール・プリシーノ社長が退任する予定だと発表。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "危険なダイエット治療、韓国で29の薬剤を半年分出された女性",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/shintaniguchi/202611/595062.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-03T15:00:00Z",
-      "published_label": "2026/11/04 00:00",
-      "summary": "過去のコラム「止まらないGLP-1の適応外処方、適切な『フォローアップ』とは」で述べたように、僕は多くの医師と異なり、GLP-1受容体作動薬およびGIP/GLP-1受容体作動薬（以下、「GLP-1」）による適応外の減量治療に反対していない。もちろん誰にでも処方していいわけではなく、対象は絞るべきで、処方後のフォローアップや注意深い経過観察は必要だ。 もっとも、日本の現状に問題がないわけではない。痩せ過ぎている若い男女に見境なくGLP-…",
       "tags": [
         "その他"
       ],
@@ -1011,19 +1050,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "最近の調剤医療費（電算処理分）の動向 令和8年度6月号",
-      "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/06/",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-10-30T05:00:00Z",
-      "published_label": "2026/10/30 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
