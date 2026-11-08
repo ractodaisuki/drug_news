@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-11-08T12:42:31.773594Z",
-  "updated_label": "2026/11/08 21:42",
-  "count": 144,
+  "updated_at": "2026-11-08T19:19:11.866643Z",
+  "updated_label": "2026/11/09 04:19",
+  "count": 145,
   "items": [
+    {
+      "title": "「抗EGFR抗体薬使用時の頭部スキンケア」を医師が回答",
+      "link": "https://pharmacist.m3.com/column/clinical-soudan/7972?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-08T19:19:10.594183Z",
+      "published_label": "2026/11/09 04:19",
+      "summary": "薬剤師からの「抗EGFR抗体薬を使用中の患者に対し、皮膚障害予防として全身の保湿指導は行うようにしていますが、頭部については十分に指導できていないことがあります。頭皮にはローションタイプを十分使用するよう指導するのがよいでしょうか。また、シャンプーの選び方などについて参考となる指針や考え方はありますか。」との相談に専門医が回答します。",
+      "tags": [
+        "薬剤師コラム",
+        "医師の意見"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "「メリットとデメリット」の英語はいつもpros and cons？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/oshimi/202611/594465.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-08T15:00:00Z",
+      "published_label": "2026/11/09 00:00",
+      "summary": "治療法を決める際には、期待できる効果と起こり得る副作用を比較する必要があります。「メリットとデメリット」「長所と短所」「賛成と反対」などを比較したい場合に、英語ではpros and consと表現すると習った方も多いのではないでしょうか。では、治療について患者さんと話し合う場面でも、pros and consは適切な表現なのでしょうか？ 今回は、長所と短所を比較する際の「型」をご紹介します。音声を聞いて、何度も繰り返し音読してみてくだ…",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "GLP-1薬使用患者は麻酔時の誤嚥・逆流リスクが増大",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/etc/202611/595112.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-08T15:00:00Z",
+      "published_label": "2026/11/09 00:00",
+      "summary": "グルカゴン様ペプチド-1受容体作動薬（GLP-1RA）の使用患者では、手術に伴う麻酔時の肺への誤嚥・逆流の発生リスクがGLP-1RA非使用患者よりも大幅に高く、オッズ比は11を超えていたという。英国で行われた観察研究の結果で、論文が9月16日に、Anaesthesia誌ウェブサイトに掲載された。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "ヒルドイドフォーム・スプレーの違いと服薬指導法",
       "link": "https://pharmacist.m3.com/column/special_feature/7975?promotionCode=op_pcolumn",
@@ -776,32 +816,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ポーションは薬局で買える！？市販薬ODと救急医の本音",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/yakushiji/202611/595151.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-04T15:00:00Z",
-      "published_label": "2026/11/05 00:00",
-      "summary": "ロールプレイングゲーム（RPG）の世界では、回復薬は必須のアイテムです。ポーションもエリクサーも薬草も、何個使っても、使いすぎでHPが減ることはありません。HP満タンで使っても害はありません。むしろ店でまとめ買いしてたくさん持っているほど冒険は安定します。",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "財務省、生活保護受給者の医療費抑制を主張",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202611/595163.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-04T15:00:00Z",
-      "published_label": "2026/11/05 00:00",
-      "summary": "財務省は2026年11月4日、財政制度等審議会・財政制度分科会において生活保護受給者（以下、受給者）の医療費である「医療扶助費」の適正化策を提示した。医療扶助費は年1.9兆円と生活保護費の約半分を占める。原則として自己負担がないため「過剰な給付が発生しやすい」として財務省は、頻回受診や重複・多剤投薬の是正、かかりつけ医・かかりつけ薬局の原則化、紹介状なしの大病院受診の見直しなどを主張している。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
