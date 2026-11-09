@@ -1,8 +1,195 @@
 {
-  "updated_at": "2026-11-09T10:52:07.805032Z",
-  "updated_label": "2026/11/09 19:52",
-  "count": 146,
+  "updated_at": "2026-11-09T21:54:28.991151Z",
+  "updated_label": "2026/11/10 06:54",
+  "count": 150,
   "items": [
+    {
+      "title": "インフルエンザのワクチン、効果はいつまで？",
+      "link": "https://pharmacist.m3.com/column/treatise/7995?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-09T21:54:27.878603Z",
+      "published_label": "2026/11/10 06:54",
+      "summary": "早くも流行の兆しが見え始めたインフルエンザ、対策のためにワクチン接種を検討する人も多いですが、その接種のタイミングはいつ頃が良いのでしょうか。接種時期を考える上で参考になる、ワクチンの効果がどのくらい続くのかを検証した論文報告を紹介します。",
+      "tags": [
+        "薬剤師コラム",
+        "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【日本ケミファ】後発品自社開発品増へ‐数年かけて体制強化",
+      "link": "https://www.yakuji.co.jp/entry141490.html",
+      "source": "薬事日報",
+      "published": "2026-11-09T21:31:49Z",
+      "published_label": "2026/11/10 06:31",
+      "summary": "日本ケミファは、後発品（GE）の自社開発品目数を数年かけて増やす方針だ。薬価制度改革でオーソライズド・ジェネリック（AG）の薬価が先発品と同額となることで、安…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【東京都／都病薬】病院薬剤師の魅力を発信‐前倒しで就職相談セミナー",
+      "link": "https://www.yakuji.co.jp/entry141493.html",
+      "source": "薬事日報",
+      "published": "2026-11-09T21:30:41Z",
+      "published_label": "2026/11/10 06:30",
+      "summary": "東京都と東京都病院薬剤師会は3日、薬学生や薬剤師向けに病院薬剤師の魅力を発信する就職相談セミナーを開催した。3回目となる今回は、前回2月の48施設から57施設…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "企業横断検索プラットフォーム「Phind MI」がリニューアル RMP・医薬品ガイド・IFを一覧表で...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81187",
+      "source": "ミクスOnline",
+      "published": "2026-11-09T19:52:00Z",
+      "published_label": "2026/11/10 04:52",
+      "summary": "製薬15社で構成する企業横断検索プラットフォーム「Phind MI」がリニューアルした。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "持田製薬のBS事業 中国Qilu社との包括的提携による品目拡充とアンドファーマを活用した事業基盤強化...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81188",
+      "source": "ミクスOnline",
+      "published": "2026-11-09T19:51:00Z",
+      "published_label": "2026/11/10 04:51",
+      "summary": "持田製薬の三石基代表取締役専務取締役は11月9日の 2026年度第2四半期（中間期）決算会見で、注力しているバイオシミラー（BS）事業について「27年以降、毎年1品目以上のBSの発売を目指す」方針を明らかにした。",
+      "tags": [
+        "業界動向",
+        "承認・新薬"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "自民・外用貼付剤議連 薬価下支えと一部保険外療養導入後の検証を要望 近く厚労相に提言へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81186",
+      "source": "ミクスOnline",
+      "published": "2026-11-09T19:51:00Z",
+      "published_label": "2026/11/10 04:51",
+      "summary": "自民党の「日本が誇る医療用外用貼付剤の推進に関する議員連盟」（福岡資麿会長）は11月９日、医療用局所性経皮吸収型鎮痛剤に対する薬価の下支えと一部保険外療養制度の導入後の検証などを求める提言案を部会長一任で取りまとめた。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "日本リリー・田辺ファーマ GIP／GLP-1受容体作動薬で不適正使用疑いの組織・施設への供給は見直し...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81185",
+      "source": "ミクスOnline",
+      "published": "2026-11-09T19:51:00Z",
+      "published_label": "2026/11/10 04:51",
+      "summary": "日本イーライリリーと田辺ファーマは11月９日、GIP／GLP-1受容体作動薬の不適正使用への対応として、「不適切な処方が行われている疑いのある組織、施設への供給を見直すことを含め必要かつ適切な措置を講じる」との見解を発表した。",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "BSの原薬・製剤製造のアルフェナックス社 普通株式をアルフレッサHDやキッズウェルなど４社が引受けへ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81184",
+      "source": "ミクスOnline",
+      "published": "2026-11-09T19:50:00Z",
+      "published_label": "2026/11/10 04:50",
+      "summary": "アルフレッサホールディングスなど４社は11月９日、日本でバイオ後続品（BS）の原薬・製剤製造などを行うアルフェナックス バイオロジクス社が発行する普通株式を４社が引き受けることを定めた株式引受契約を締結したと発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "リジェネロン 抗BCMA/CD3二重特異性抗体・リンボセルタマブを承認申請 再発・難治性ＭＭを対象に",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81172",
+      "source": "ミクスOnline",
+      "published": "2026-11-09T19:49:00Z",
+      "published_label": "2026/11/10 04:49",
+      "summary": "リジェネロン・ジャパンは11月６日、抗BCMA/CD3二重特異性抗体・リンボセルタマブを承認申請したと発表した。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "デュピルマブ開始後、重症喘息増悪とOCS処方が減少～欧州5ヵ国での実臨床研究",
+      "link": "https://www.carenet.com/news/general/carenet/63847?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-09T19:00:00Z",
+      "published_label": "2026/11/10 04:00",
+      "summary": "デュピルマブは2型炎症を特徴とする重症喘息に対する追加治療として欧州で承認されているが、各国での実臨床データは限られている。そこで、フランス・モンペリエ大学病院のArnaud Bourdin氏らは、欧州5ヵ国におけ…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "GLP-1受容体作動薬、中止後の体重再増加を抑える方法とは？",
+      "link": "https://www.carenet.com/news/general/hdn/63821?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-09T19:00:00Z",
+      "published_label": "2026/11/10 04:00",
+      "summary": "GLP-1受容体作動薬の使用を中止した後、体重が再び増えるのを防ぐにはどうすればよいのだろうか。この問題について検討したパイロットランダム化比較試験で、行動面や栄養面で具体的な支援を行うことで、初期の体…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬剤耐性グラム陰性菌に対する最新情報レビュー",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202611/595176.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-09T15:00:00Z",
+      "published_label": "2026/11/10 00:00",
+      "summary": "本コラムでは、Googleが提供する学術雑誌のインパクト指標「h5-index」から、各領域10誌を抽出。それを元に世界中で最も多くポストされた論文を紹介する。 10月26日～11月1日に最もポスト数が多かったのは、NEJM誌の論文「Gram-Negative Bacterial Resistance」（グラム陰性菌の抗菌薬耐性に関するレビュー）で280件だった。",
+      "tags": [
+        "学術・エビデンス",
+        "感染症・ワクチン",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "プロトピック軟膏の禁忌年齢が変更に",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/sako/202611/595184.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-09T15:00:00Z",
+      "published_label": "2026/11/10 00:00",
+      "summary": "アトピー性皮膚炎治療薬のプロトピック軟膏小児用（一般名タクロリムス水和物）の小児に対する禁忌年齢が「2歳未満」から「生後6カ月未満」に変更されました。あわせて用法用量に関連する注意に生後6カ月以上2歳未満の1回あたりの最大塗布量が追加されました。 抗ヘルペスウイルス薬のアメナリーフ錠（アメナメビル）の重大な副作用に「アナフィラキシー」が追加されました。 脂質異常症治療薬のレクビオ皮下注（インクリシランナトリウム）の重大な副作用に「過敏…",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "レカネマブの皮下注製剤、年間薬剤費は約282万円に",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/di/trend/202611/595199.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-09T15:00:00Z",
+      "published_label": "2026/11/10 00:00",
+      "summary": "2026年11月6日、中央社会保険医療協議会（中医協）総会で、新薬16成分25品目の薬価収載が了承された（表1）。11月13日に収載される予定。 注射薬では、アルツハイマー病治療薬レカネマブの皮下注製剤「レケンビ皮下注250mgペン」など、10成分12品目の薬価収載が了承された。 レカネマブは、アルツハイマー病の原因物質と考えられているアミロイドβ（Aβ）の凝集体に結合する抗Aβ抗体。2023年に「アルツハイマー病による軽度認知障害お…",
+      "tags": [
+        "薬価・制度",
+        "承認・新薬"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「喘息・COPD患者への吸入薬の選択について」",
       "link": "https://pharmacist.m3.com/column/movie/7976?promotionCode=op_pcolumn",
@@ -240,7 +427,7 @@
       "keywords": []
     },
     {
-      "title": "【訃報】桂榮二郎氏（桂化学相談役・会長／日本医薬品原薬工業会元会長）",
+      "title": "【訃報】桂榮二郎氏（桂化学相談役・会長／日本医薬品原薬工業会元会長）が死去",
       "link": "https://www.yakuji.co.jp/entry141481.html",
       "source": "薬事日報",
       "published": "2026-11-08T21:03:04Z",
@@ -938,59 +1125,6 @@
       "keywords": []
     },
     {
-      "title": "シアリスOTC、小規模薬局が仕入れて感じた“壁”",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202611/595126.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-04T15:00:00Z",
-      "published_label": "2026/11/05 00:00",
-      "summary": "勃起不全（ED）のスイッチOTC薬シアリス（成分名タダラフィル）がオンラインでも発売となって話題ですが、私の薬局でも取り扱いを開始しました。でもやっぱりモヤモヤすることがありましたので、その話をしたいと思います。シアリスは要指導医薬品で、この夏に一部の薬局で先行販売されました。その時に感じたモヤモヤは、本コラムでも以前にご紹介しています。今回、私の薬局でもシアリス錠を取り扱おうと思い、これまで取引のあるOTC医薬品の卸や、更には医療用…",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "リンデロン坐剤の切断使用に注意",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595160.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-04T15:00:00Z",
-      "published_label": "2026/11/05 00:00",
-      "summary": "日本医療機能評価機構（以下、機構）は2026年10月26日、薬局ヒヤリ・ハット事例収集・分析事業の共有すべき事例「2026年No.10」を公表した。リンデロン坐剤を切断して交付した事例と、併用薬の確認時に添付文書の記載を誤認した事例の2件を紹介し、注意を呼び掛けた。",
-      "tags": [
-        "安全性情報",
-        "医療安全"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬物依存の治療は「街の薬局」で",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/maggie/202611/594930.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-04T15:00:00Z",
-      "published_label": "2026/11/05 00:00",
-      "summary": "出勤前にスーツ姿で薬局を訪れ、メサドン塩酸塩を服用して仕事へ向かう──。オーストラリアのコミュニティ薬局で、私はそんな患者たちとも接してきました。 日本にいた頃も、薬物依存について学ぶ機会はありました。しかし、治療を受けている患者と日常業務で継続的に関わる機会は、少なくとも私にはありませんでした。どこか、自分の仕事からは遠い問題だと思っていたのです。 その距離は、オーストラリアで働くようになって大きく縮まりました。薬を渡す手が震えた日…",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "医師だけに認められた仕事を、AIに任せられるのか？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/okiyama/202611/594664.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-04T15:00:00Z",
-      "published_label": "2026/11/05 00:00",
-      "summary": "過去2回の記事では、診断、そして患者データにおけるAIの関係を見てきました。今回は処方です。処方権を医師に限定する点では、日本も米国も欧州も一致しています。ところが2026年、米ユタ州が慢性疾患のリフィルに限ってAIによる処方を例外的に認め、州の医事委員会と正面から衝突しました。今回は、この一件を手がかりに、医師の業務独占とAIの関係性を考えてみたいと思います。 2026年1月6日、米ユタ州の商務省が1つの発表を行いました。AIヘルス…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "第2回厚生科学審議会医療用医薬品迅速・安定供給部会 開催案内",
       "link": "https://www.mhlw.go.jp/stf/newpage_77191.html",
       "source": "厚生労働省 新着情報",
@@ -1001,85 +1135,6 @@
         "供給・出荷"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "協和キリン 患者視点の共有で「存在意義を再認識する場に」 CMC研究センターでセミナー開催",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81049",
-      "source": "ミクスOnline",
-      "published": "2026-11-03T19:53:00Z",
-      "published_label": "2026/11/04 04:53",
-      "summary": "希少疾患などの患者の視点や声を日々の業務に活かそうと、協和キリンが生産研究開発拠点での取り組みを進めている。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "医療のノーベル賞「国際ガリアン賞」にADC･エンハーツ 27年2月「プリ・ガリアン・ジャパン」開催",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81157",
-      "source": "ミクスOnline",
-      "published": "2026-11-03T19:52:00Z",
-      "published_label": "2026/11/04 04:52",
-      "summary": "“医療のノーベル賞”に称されるプリ・ガリアン・インターナショナルの最優秀バイオテクノロジー製品に贈られる「国際ガリアン賞」を第一三共の抗HER2抗体薬物複合体（ADC）・エンハーツが受賞した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "協和キリン・マリックCEO MFN政策巡る米政府との合意 「我々にとって非常に合理的と判断」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81156",
-      "source": "ミクスOnline",
-      "published": "2026-11-03T19:51:00Z",
-      "published_label": "2026/11/04 04:51",
-      "summary": "協和キリンのアブドゥル・マリック代表取締役社長CEOは11月2日の2026年12月期第3四半期決算説明会で、米国の最恵国待遇（MFN）価格政策を巡って米政府と合意したことについて、「患者さんに幅広い治療アクセスを提供するための継続的な取り組みを反映するものだ」と強調した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ミヤリサン製薬 制吐剤・オンダンセトロンを承認申請 小児の急性胃腸炎に伴う消化器症状を対象に",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81155",
-      "source": "ミクスOnline",
-      "published": "2026-11-03T19:50:00Z",
-      "published_label": "2026/11/04 04:50",
-      "summary": "ミヤリサン製薬は10月30日、5-HT3受容体拮抗型制吐剤・オンダンセトロン塩酸塩水和物について、急性胃腸炎に伴う消化器症状（悪心・嘔吐）を予定適応症に承認申請したと発表した。",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本イーライリリー ESR1遺伝子変異HR陽性HER2陰性乳がん治療薬・イムルリオ錠 10月30日発...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81154",
-      "source": "ミクスOnline",
-      "published": "2026-11-03T19:50:00Z",
-      "published_label": "2026/11/04 04:50",
-      "summary": "日本イーライリリーは10月30日、内分泌療法後に増悪したESR1遺伝子変異HR陽性HER2陰性乳がんに対する経口選択的エストロゲン受容体分解薬（SERD）・イムルリオ錠200mg（一般名：イムルネストラントトシル酸塩）を発売した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "卸連 副会長交代 渡辺秀一氏が「一身上の都合」で退任 長福恭弘氏が就任",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81153",
-      "source": "ミクスOnline",
-      "published": "2026-11-03T19:50:00Z",
-      "published_label": "2026/11/04 04:50",
-      "summary": "日本医薬品卸売業連合会は11月２日、渡辺秀一副会長（メディパルホールディングス代表取締役会長）が「一身上の都合」により退任し、後任に長福恭弘氏（同代表取締役副社長）を選任したと発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
