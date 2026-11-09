@@ -1,19 +1,32 @@
 {
-  "updated_at": "2026-11-09T00:29:46.197179Z",
-  "updated_label": "2026/11/09 09:29",
-  "count": 148,
+  "updated_at": "2026-11-09T10:52:07.805032Z",
+  "updated_label": "2026/11/09 19:52",
+  "count": 146,
   "items": [
     {
       "title": "動画で見て聞く「喘息・COPD患者への吸入薬の選択について」",
       "link": "https://pharmacist.m3.com/column/movie/7976?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-11-09T00:29:45.128559Z",
-      "published_label": "2026/11/09 09:29",
+      "published": "2026-11-09T10:52:06.681801Z",
+      "published_label": "2026/11/09 19:52",
       "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
       "tags": [
         "薬剤師コラム"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師免許に関するオンライン申請手続きのご案内",
+      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-09T03:00:00Z",
+      "published_label": "2026/11/09 12:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
       "keywords": []
     },
     {
@@ -499,6 +512,19 @@
       "keywords": []
     },
     {
+      "title": "令和８年10月23日 第114回厚生科学審議会予防接種・ワクチン分科会副反応検討部会、令和8年度第9回薬事審議会医薬品等安全対策部会安全対策調査会（合同開催）議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77195.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-06T07:00:00Z",
+      "published_label": "2026/11/06 16:00",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "「第３回 薬剤師のキャリアパスに関する懇談会」の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_77160.html",
       "source": "厚生労働省 新着情報",
@@ -538,19 +564,6 @@
       "keywords": []
     },
     {
-      "title": "【訂正】薬剤師が実践するがん治療の地域医療連携事例集",
-      "link": "https://www.yakuji.co.jp/entry141421.html",
-      "source": "薬事日報",
-      "published": "2026-11-06T01:30:50Z",
-      "published_label": "2026/11/06 10:30",
-      "summary": "「薬剤師が実践するがん治療の地域医療連携事例集」（2026年10月発行）の記述に誤りがありました。お詫びを申し上げるとともに、下記の通り訂正させていただきます（…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「子どもに目薬が処方されたとき。服薬指導のポイントを解説！」",
       "link": "https://pharmacist.m3.com/column/movie/7910?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -562,19 +575,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【製薬協調査】市販直後調査の柔軟運用を‐対面、非対面で手段多様化",
-      "link": "https://www.yakuji.co.jp/entry141388.html",
-      "source": "薬事日報",
-      "published": "2026-11-05T23:31:36Z",
-      "published_label": "2026/11/06 08:31",
-      "summary": "市販直後調査における企業から医療機関への情報提供について、医療従事者の64％が「MR等との対面」を希望していることが、日本製薬工業協会の調査で明らかになった。…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1111,32 +1111,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会 再生医療等製品・生物由来技術部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76912.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-02T05:00:00Z",
-      "published_label": "2026/11/02 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会血液事業部会令和８年度第２回献血推進調査会（ペーパーレス・Web併用）の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76669.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-02T05:00:00Z",
-      "published_label": "2026/11/02 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
