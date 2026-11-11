@@ -1,8 +1,268 @@
 {
-  "updated_at": "2026-11-10T21:11:06.462372Z",
-  "updated_label": "2026/11/11 06:11",
-  "count": 147,
+  "updated_at": "2026-11-11T04:35:48.639883Z",
+  "updated_label": "2026/11/11 13:35",
+  "count": 151,
   "items": [
+    {
+      "title": "令和８年度第６回医薬品等安全対策部会安全対策調査会 議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77206.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-11T07:00:00Z",
+      "published_label": "2026/11/11 16:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "「ただの風邪」と言い切るポイントとは",
+      "link": "https://www.carenet.com/series/yamamoto/cg005130_037.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-11T01:00:10Z",
+      "published_label": "2026/11/11 10:00",
+      "summary": "「風邪ですか？」「ただの風邪ですね。抗菌薬を出しておきましょう」。この会話に潜むリスクはなんでしょうか？何をもって風邪と判断するのか、抗菌薬を処方する際のリスクヘッジとは。山本舜悟氏が答えます。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "英語で「服用禁忌」は？毎日の処方に必須のこの表現！",
+      "link": "https://www.carenet.com/series/english/cg003410_082.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-11T00:59:55Z",
+      "published_label": "2026/11/11 09:59",
+      "summary": "処方の際に気を遣うのが「服用禁忌」。看護師や薬剤師との会話でも頻出ですよね。英語ではどう表現するのでしょうか？米国の添付文書の禁忌についてもお伝えします。【音声付き】",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【薬学教育協議会】薬学生9割超が成長実感‐実務実習で初の全国調査",
+      "link": "https://www.yakuji.co.jp/entry141557.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T23:31:50Z",
+      "published_label": "2026/11/11 08:31",
+      "summary": "薬学教育協議会が実務実習を受けた全国の薬学生を対象に初めて実施したアンケート調査で、9割以上の学生が実務実習は自身の成長につながったと捉えていることが明らかに…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【薬局方委員会】局方で新規区分設定せず‐ミニタブレット既存剤形",
+      "link": "https://www.yakuji.co.jp/entry141562.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T23:30:58Z",
+      "published_label": "2026/11/11 08:30",
+      "summary": "医薬品医療機器総合機構（PMDA）の日本薬局方原案検討委員会製剤委員会は、小児や高齢者など嚥下が困難な患者や用量調節が必要な患者向けの製剤上の工夫として使用さ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "マンジャロで視力低下？",
+      "link": "https://yakuzaic.com/archives/144562",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-11-10T23:11:08Z",
+      "published_label": "2026/11/11 08:11",
+      "summary": "マンジャロによる非動脈炎性前部虚血性視神経症 食品医薬品局（FDA）は9日、肥満症や2型糖尿病の治療に使われる「GLP1受容体作動薬」の使用により、急激な視力低下につながる恐れがあると発表した。 FDAによると、痛みがな […] The post マンジャロで視力低下？ first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】“ととのえメイク”に特化したPB「nake（ネイク）」から限定品‐上向きツヤまつ毛にととのえるマスカラが登場 マツキヨココカラ＆カンパニー",
+      "link": "https://www.yakuji.co.jp/entry141585.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:40:24Z",
+      "published_label": "2026/11/11 07:40",
+      "summary": "マツキヨココカラ＆カンパニーは、“理想のすっぴん”に近づける「ととのえメイク」に特化したプライベートブランドのコスメシリーズ「nake（ネイク）」の限定品とし…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【NEC】World Tennis Wheelchair Hall of Championsに選出‐車いすテニス発展への長年の貢献が評価",
+      "link": "https://www.yakuji.co.jp/entry141584.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:39:34Z",
+      "published_label": "2026/11/11 07:39",
+      "summary": "NECは11月10日、今年World Tennisが創設した車いすテニスの顕彰制度「World Tennis Wheelchair Tennis Hall o…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【A&D】2026年ベストプラクティスアワード「カンパニー・オブ・ザ・イヤー」を受賞",
+      "link": "https://www.yakuji.co.jp/entry141582.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:38:35Z",
+      "published_label": "2026/11/11 07:38",
+      "summary": "エー・アンド・デイはこのほど、世界的な市場調査・コンサルティング会社であるFrost & Sullivanが主催する「2026年ベストプラクティスア…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【LSIメディエンス／C2N】ADの「PrecivityAD2検査」、日本国内販売契約を締結",
+      "link": "https://www.yakuji.co.jp/entry141581.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:37:03Z",
+      "published_label": "2026/11/11 07:37",
+      "summary": "PHCホールディングス傘下のLSIメディエンスと米国のC2N Diagnostics社（C2N）はこのほど、アルツハイマー型認知症（AD）の「Precivit…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【PHCグループ】「World Diabetes Day」でイベント開催",
+      "link": "https://www.yakuji.co.jp/entry141578.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:36:34Z",
+      "published_label": "2026/11/11 07:36",
+      "summary": "PHCホールディングス傘下のPHCのダイアベティスグループは、同じくスイスに本社を置くPHCグループのAscensia Diabetes Care Holdi…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【シスメックス／Hologen】合弁会社「Saibogen」を設立‐血液検査データとAIで臨床的知見創出へ",
+      "link": "https://www.yakuji.co.jp/entry141577.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:35:52Z",
+      "published_label": "2026/11/11 07:35",
+      "summary": "シスメックスと英国のHologenはこのほど、シンガポールに血液検査データと医療特化型AIを融合した新たな臨床的知見の創出を目指す合弁会社「Saibogen」…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】高機能美容液「エンハンスドセラム」誕生‐マツキヨココカラのロングセラーブランド「THE RETINOTIME」がさらなる進化 マツキヨココカラ＆カンパニー",
+      "link": "https://www.yakuji.co.jp/entry141575.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:34:07Z",
+      "published_label": "2026/11/11 07:34",
+      "summary": "マツキヨココカラ＆カンパニーは、プライベートブランド「THE RETINOTIME（ザ・レチノタイム）」から日本初（発売されているシワ改善の医薬部外品において…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【東薬大】人工生体膜技術を開発‐細胞内外の分子との連携を再現",
+      "link": "https://www.yakuji.co.jp/entry141574.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:33:44Z",
+      "published_label": "2026/11/11 07:33",
+      "summary": "東京薬科大学薬学部生体分析化学教室の東海林敦准教授、千明（ちぎら）大悟氏（同大学薬学研究科博士課程4年）らの研究グループはこのほど、細胞内のシグナル伝達と連動…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【キヤノングループ】平成8年度関東地方発明表彰‐「文科大臣賞」ほか計10件を受賞",
+      "link": "https://www.yakuji.co.jp/entry141573.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:32:45Z",
+      "published_label": "2026/11/11 07:32",
+      "summary": "キヤノンはこのほど、公益社団法人発明協会が主催する令和8年度関東地方発明表彰で、「高い重ね合わせ精度を実現する露光装置」（特許第6308749号）が「文部科学…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【タニタ】音声タイマー「TD-435」、板橋製品技術大賞で「インクルーシブデザイン賞」",
+      "link": "https://www.yakuji.co.jp/entry141571.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:31:02Z",
+      "published_label": "2026/11/11 07:31",
+      "summary": "タニタはこのほど、板橋区内の中小企業による優れた新製品・新技術を表彰する令和8年度板橋製品技術大賞で、同社の音声タイマー「TD-435」が「インクルーシブデザ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日本光電】AI/MLアルゴリズム搭載の睡眠解析モジュール、米国でFDA 510kの認可を取得",
+      "link": "https://www.yakuji.co.jp/entry141570.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T22:30:15Z",
+      "published_label": "2026/11/11 07:30",
+      "summary": "日本光電はこのほど、米国で睡眠解析ソフトウェア・ソリューションを開発・提供するニューロトロニクスLLC（同社連結子会社）が、AI／ML（人工知能／機械学習）を…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【成長戦略会議】創薬シーズの実用化支援‐40年に官民投資約23兆円",
+      "link": "https://www.yakuji.co.jp/entry141558.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T21:31:14Z",
+      "published_label": "2026/11/11 06:31",
+      "summary": "政府は6日の日本成長戦略会議で、年末までに策定する日本成長戦略実行計画に盛り込む主な事項案として、創薬ではファーストインクラス製品、ベストインクラス製品、バイ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【都薬 髙橋会長】夜間・休日調剤は約74％‐追加解析で薬局の評価に",
+      "link": "https://www.yakuji.co.jp/entry141559.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T21:30:32Z",
+      "published_label": "2026/11/11 06:30",
+      "summary": "東京都薬剤師会は6日、都内の薬局機能等実態調査の速報結果を公表した。夜間・休日の調剤体制について「単独で実施」「地域薬剤師会等の輪番制で対応」を合わせ全体の約…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "防災庁が発足",
+      "link": "https://www.yakuji.co.jp/entry141552.html",
+      "source": "薬事日報",
+      "published": "2026-11-10T21:01:12Z",
+      "published_label": "2026/11/11 06:01",
+      "summary": "◆米国で中間選挙が行われ、与党の共和党が大敗して上下院で過半数割れした。トランプ大統領の任期残り2年で何が起こるのか世界中が身構えている。国内では消費減税関連法…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "IQVIAジャパン 2031年度までの薬価収載品市場は＋2.3％成長 イノベーション推進が成長の後押...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81194",
@@ -254,19 +514,6 @@
       "keywords": []
     },
     {
-      "title": "【東京都／都病薬】病院薬剤師の魅力を発信‐前倒しで就職相談セミナー",
-      "link": "https://www.yakuji.co.jp/entry141493.html",
-      "source": "薬事日報",
-      "published": "2026-11-09T21:30:41Z",
-      "published_label": "2026/11/10 06:30",
-      "summary": "東京都と東京都病院薬剤師会は3日、薬学生や薬剤師向けに病院薬剤師の魅力を発信する就職相談セミナーを開催した。3回目となる今回は、前回2月の48施設から57施設…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "企業横断検索プラットフォーム「Phind MI」がリニューアル RMP・医薬品ガイド・IFを一覧表で...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81187",
       "source": "ミクスOnline",
@@ -411,177 +658,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "【米中間選挙結果で】米薬価引き下げ策継続か‐原燃料価格動向は不透明",
-      "link": "https://www.yakuji.co.jp/entry141491.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T23:31:49Z",
-      "published_label": "2026/11/09 08:31",
-      "summary": "米国中間選挙でトランプ大統領率いる共和党が大敗し、野党の民主党が連邦上下院で過半数を占めた。複数の識者や企業関係者は、米国内で根強い高薬価への不満を背景に、薬…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【医療保険部会】バイオ後続品選定療養化を‐26年度改定の効果検証",
-      "link": "https://www.yakuji.co.jp/entry141489.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T23:30:19Z",
-      "published_label": "2026/11/09 08:30",
-      "summary": "社会保障審議会医療保険部会は5日、先行バイオ医薬品の保険給付のあり方を議論した。バイオ後続品の使用促進に向け、使用可能な患者が希望して先行品を選ぶ場合に追加負…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】外原規2021の改正案でパブコメ",
-      "link": "https://www.yakuji.co.jp/entry141469.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:39:09Z",
-      "published_label": "2026/11/09 07:39",
-      "summary": "厚生労働省医薬局審査管理課は、「医薬部外品原料規格2021」の改正案に対する意見募集（パブリックコメント）を10月30日から始めた。改正案は、一般試験法の47…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【アトムメディカル】11月15日「世界早産児デー in 2026」、各種活動などを実施へ",
-      "link": "https://www.yakuji.co.jp/entry141467.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:37:02Z",
-      "published_label": "2026/11/09 07:37",
-      "summary": "アトムメディカルは、世界の新生児医療に携わる企業として、11月15日の「世界早産児デー（World Prematurity Day）」の周知のための活動を実施…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】プロフェッショナル体組成計「MC-1000」を発売‐仰臥位や座位で体組成が計測できる タニタ",
-      "link": "https://www.yakuji.co.jp/entry141464.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:36:26Z",
-      "published_label": "2026/11/09 07:36",
-      "summary": "タニタは11月9日、仰臥位や座位で体組成を測れるプロフェッショナル体組成計「MC-1000」を発売する。介護施設や自治体、研究機関、スポーツチームなどへの販売…",
-      "tags": [
-        "承認・新薬",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【パラマウントベッド】「Active Sleep」の新CMを放映開始‐マットレス選びの“失敗”に新提案",
-      "link": "https://www.yakuji.co.jp/entry141462.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:35:04Z",
-      "published_label": "2026/11/09 07:35",
-      "summary": "パラマウントベッドは11月4日から、一人ひとりに最適な睡眠環境を提供する「Active Sleep（アクティブスリープ）」ブランドの新CM「失敗しないマットレ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【エスアールエルなど】がん遺伝子パネル検査「ふじのくにHOPEオンコパネル」が保険適用",
-      "link": "https://www.yakuji.co.jp/entry141461.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:34:32Z",
-      "published_label": "2026/11/09 07:34",
-      "summary": "エスアールエル、静岡県立静岡がんセンター、富士レビオの3者はこのほど、エスアールエル・静岡がんセンター共同検査機構と共同開発したがんゲノムプロファイリング検査…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】PFA治療システム「Volt PFAシステム」を発売 アボット",
-      "link": "https://www.yakuji.co.jp/entry141459.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:33:56Z",
-      "published_label": "2026/11/09 07:33",
-      "summary": "アボットメディカルジャパン合同会社（アボット）はこのほど、「VoltTM PFAシステム」が保険収載されたことから、販売を開始した。 同製品は、薬物治療で十…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】米Axio BioPharma社との協業開始‐培地最適化でバイオ医薬品開発を支援",
-      "link": "https://www.yakuji.co.jp/entry141458.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:32:19Z",
-      "published_label": "2026/11/09 07:32",
-      "summary": "島津製作所はこのほど、米国のバイオテクノロジー企業であるAxio BioPharma Inc.（Axio）と、AIを活用して細胞培養培地を最適化するための協業…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【ニデックインスツルメンツ】マルチ決済端末「MPT200」の量産・販売開始",
-      "link": "https://www.yakuji.co.jp/entry141456.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:31:35Z",
-      "published_label": "2026/11/09 07:31",
-      "summary": "ニデックインスツルメンツはこのほど、クレジットカードのタッチ決済、各種電子マネー、接触ICクレジット、ポイントカードなどの読み取りに1台で対応する、小売・流通…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】対策型がん検診クラウド読影システム「SYNAPSE PCS」を発売 富士フイルムメディカル",
-      "link": "https://www.yakuji.co.jp/entry141454.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T22:30:37Z",
-      "published_label": "2026/11/09 07:30",
-      "summary": "富士フイルムメディカルは11月4日、自治体の対策型がん検診における二次読影の業務効率化を支援するクラウドシステム「SYNAPSE PCS（Population…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【中医協総会】ケサンラ薬価引き下げへ‐ゼップバウンドは据置き",
-      "link": "https://www.yakuji.co.jp/entry141486.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T21:33:37Z",
-      "published_label": "2026/11/09 06:33",
-      "summary": "中央社会保険医療協議会総会は6日、費用対効果評価結果に基づき、日本イーライリリーのアルツハイマー病治療剤「ケサンラ点滴静注液」（一般名：ドナネマブ）の薬価引き…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【財務省】27年度改定は完全実施を‐革新的新薬除く全品目で",
-      "link": "https://www.yakuji.co.jp/entry141487.html",
-      "source": "薬事日報",
-      "published": "2026-11-08T21:32:28Z",
-      "published_label": "2026/11/09 06:32",
-      "summary": "財務省は4日、2027年度薬価改定について、革新的新薬を除き乖離率で対象品目を限定せず全ての医薬品を対象に市場実勢価格に応じた改定を完全実施すべきとの考えを、…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -1038,19 +1114,6 @@
       "summary": "あなたの病院には40年前のカルテが今も残っているだろうか。もし、患者や家族が「40年前の手術でヒト乾燥硬膜は使われたのか」と尋ねてきたら、答えることができるだろうか。2026年1月20日、厚生労働省医薬局の医薬品副作用被害対策室は、各都道府県や日本医師会、日本病院会など7団体に宛てて、「ヒト乾燥硬膜を使用された患者に係る診療録等の長期保存について（再周知）」という事務連絡を発出した。近年、約40年前にヒト乾燥硬膜を使用された患者がクロ…",
       "tags": [
         "法令・行政",
-        "安全性情報"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬剤抵抗性を含むてんかんの部分発作に新たな治療選択肢",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202611/595153.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-05T15:00:00Z",
-      "published_label": "2026/11/06 00:00",
-      "summary": "2026年9月16日、抗てんかん薬セノバメート（商品名エキスコプリ錠12.5mg、同錠50mg、同錠100mg、同錠200mg）の製造販売が承認された。適応は「てんかん患者の部分発作（二次性全般化発作を含む）」、用法用量は「成人に12.5mgを開始用量として、1日1回経口投与する。以後は、添付文書記載の投与量増量表に基づき2週間以上の間隔を空けて1段階ずつ増量し、維持用量は1日1回100～200mgとする。なお、患者の状態により投与量…",
-      "tags": [
         "安全性情報"
       ],
       "importance": 4,
@@ -1702,19 +1765,6 @@
         "選定療養"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧",
-      "link": "https://yakuzaic.com/archives/144493",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-25T22:00:00Z",
-      "published_label": "2026/09/26 07:00",
-      "summary": "腎機能と糖尿病治療薬 糖尿病患者では、糖尿病性腎症をはじめさまざまな理由で腎機能が徐々に低下していくことがあります。 そして糖尿病治療薬には、腎機能の影響を受ける薬が少なくありません。 薬局でも、「昔から同じ糖尿病薬を飲 […] The post 腎機能が低下したら糖尿病治療薬はどうする？―減量・中止・注意が必要な薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
