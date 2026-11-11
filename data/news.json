@@ -1,14 +1,53 @@
 {
-  "updated_at": "2026-11-11T04:35:48.639883Z",
-  "updated_label": "2026/11/11 13:35",
-  "count": 151,
+  "updated_at": "2026-11-11T13:30:17.642452Z",
+  "updated_label": "2026/11/11 22:30",
+  "count": 150,
   "items": [
+    {
+      "title": "動画で見て聞く「二日酔いの頭痛に『ロキソニンＳ』は使える？NSAIDsを使うリスク」",
+      "link": "https://pharmacist.m3.com/column/movie/7978?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-11T13:30:16.248205Z",
+      "published_label": "2026/11/11 22:30",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "令和８年度第６回医薬品等安全対策部会安全対策調査会 議事録",
       "link": "https://www.mhlw.go.jp/stf/newpage_77206.html",
       "source": "厚生労働省 新着情報",
       "published": "2026-11-11T07:00:00Z",
       "published_label": "2026/11/11 16:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "米FDA、GLP-1受容体作動薬に関するまれな眼疾患リスクについて新たな警告を要求",
+      "link": "https://www.yakuji.co.jp/entry141612.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T06:00:39Z",
+      "published_label": "2026/11/11 15:00",
+      "summary": "米食品医薬品局（FDA）は11月9日、糖尿病治療薬のオゼンピックや肥満症治療薬のウゴービなどの製造販売業者に対し、突然の視力低下を引き起こすことがあるまれな眼…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会 医療機器・体外診断薬部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77330.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-11T05:00:00Z",
+      "published_label": "2026/11/11 14:00",
       "summary": "",
       "tags": [
         "その他"
@@ -448,45 +487,6 @@
       "keywords": []
     },
     {
-      "title": "薬局現場で知っておきたい産婦人科領域の講座：女性の健康支援学ぶ「柴田塾 eラーニング」を2027年6月まで配信 HAP",
-      "link": "https://www.yakuji.co.jp/entry141536.html",
-      "source": "薬事日報",
-      "published": "2026-11-10T02:35:19Z",
-      "published_label": "2026/11/10 11:35",
-      "summary": "NPO法人Healthy Aging Projects for Women（HAP）は、女性の健康支援ができる薬剤師を目指す「2025年度 柴田塾 eラーニング…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】CMC領域AIに説明責任‐高リスクは検証徹底促す",
-      "link": "https://www.yakuji.co.jp/entry141485.html",
-      "source": "薬事日報",
-      "published": "2026-11-09T23:31:50Z",
-      "published_label": "2026/11/10 08:31",
-      "summary": "厚生労働省は5日、医薬品の製造・品質管理（CMC）領域で人工知能（AI）や機械学習を含むモデルを活用する際の評価の考え方を公表した。開発の効率化や製品品質の保…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【カケハシ薬局活用調査】処方薬の服用中断4割経験‐残薬で処方量調整は2割",
-      "link": "https://www.yakuji.co.jp/entry141488.html",
-      "source": "薬事日報",
-      "published": "2026-11-09T23:30:11Z",
-      "published_label": "2026/11/10 08:30",
-      "summary": "カケハシは、生活者がどのように薬局を活用しているか実態を把握するため、生活者の薬局活用実態調査を実施した。その結果、4割を超える人が処方薬を自己判断で中断した…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "インフルエンザのワクチン、効果はいつまで？",
       "link": "https://pharmacist.m3.com/column/treatise/7995?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -498,19 +498,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【日本ケミファ】後発品自社開発品増へ‐数年かけて体制強化",
-      "link": "https://www.yakuji.co.jp/entry141490.html",
-      "source": "薬事日報",
-      "published": "2026-11-09T21:31:49Z",
-      "published_label": "2026/11/10 06:31",
-      "summary": "日本ケミファは、後発品（GE）の自社開発品目数を数年かけて増やす方針だ。薬価制度改革でオーソライズド・ジェネリック（AG）の薬価が先発品と同額となることで、安…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
