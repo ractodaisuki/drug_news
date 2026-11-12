@@ -1,8 +1,191 @@
 {
-  "updated_at": "2026-11-11T21:43:04.202676Z",
-  "updated_label": "2026/11/12 06:43",
-  "count": 145,
+  "updated_at": "2026-11-12T05:39:47.877169Z",
+  "updated_label": "2026/11/12 14:39",
+  "count": 151,
   "items": [
+    {
+      "title": "動画で見て聞く「円形脱毛症、効果的な薬物療法は？」",
+      "link": "https://pharmacist.m3.com/column/movie/7979?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-12T05:39:46.482289Z",
+      "published_label": "2026/11/12 14:39",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "厚生科学審議会感染症部会第２８回新型インフルエンザ対策に関する小委員会 ・第１３回危機対応医薬品等に関する小委員会についてを開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77300.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-12T05:00:00Z",
+      "published_label": "2026/11/12 14:00",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "第79回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76869.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-12T05:00:00Z",
+      "published_label": "2026/11/12 14:00",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "今日は「世界肺炎デー」です",
+      "link": "https://www.carenet.com/series/calendar/cg005206_163.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-12T00:59:59Z",
+      "published_label": "2026/11/12 09:59",
+      "summary": "肺炎の予防や治療戦略の啓発に世界小児肺炎対策連合が制定。新型コロナでの予防投薬の対象についてのコラム、マイコプラズマ肺炎の患者説明用スライド、肺炎への抗菌薬の効果比較、広域抗菌薬投与後の予後、肺炎へのワクチンカバー率のニュースをお届けします。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【サノフィ】ボタン一つで大容量投与‐「サークリサ」投与デバイス承認",
+      "link": "https://www.yakuji.co.jp/entry141567.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T23:31:50Z",
+      "published_label": "2026/11/12 08:31",
+      "summary": "サノフィは、多発性骨髄腫治療薬「サークリサ皮下注」について、1回投与量1400mgをボタンを押すだけで投与できる専用デバイス「サークリック」の承認を日本で取得…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【中外製薬】自動注射製剤を国内申請‐血友病A薬「ヘムライブラ」",
+      "link": "https://www.yakuji.co.jp/entry141569.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T23:30:07Z",
+      "published_label": "2026/11/12 08:30",
+      "summary": "中外製薬は、血友病A治療薬「ヘムライブラ」のオートインジェクター製剤を日本で承認申請した。2027年の上市を見込む。デバイスを皮膚に押し当ててから投与が完了ま…",
+      "tags": [
+        "業界動向",
+        "承認・新薬"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日医／AdvaMed／AMDD】第10回共催シンポジウム開催",
+      "link": "https://www.yakuji.co.jp/entry141628.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T22:38:57Z",
+      "published_label": "2026/11/12 07:38",
+      "summary": "日本医師会、先進医療技術工業会（AdvaMed）、米国医療機器・IVD工業会（AMDD）は10日、東京・永田町のザ・キャピトルホテル東急1階鳳凰で、「活気ある…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】「matsukiyo BEAU DOLCE ポッピングキューブ」が新登場‐不足しがちな鉄分や食物繊維も手軽に楽しく補える マツキヨココカラ＆カンパニー",
+      "link": "https://www.yakuji.co.jp/entry141626.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T22:35:57Z",
+      "published_label": "2026/11/12 07:35",
+      "summary": "マツキヨココカラ＆カンパニーは、コスメライクなパッケージとともに美容サポート成分を配合した、新発想の美容おやつブランド「「matsukiyo BEAU DOL…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【日立製作所】日本企業初となる「Akrites」に参画‐OSSの脆弱性に業界横断で取り組むプロジェクト",
+      "link": "https://www.yakuji.co.jp/entry141625.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T22:34:27Z",
+      "published_label": "2026/11/12 07:34",
+      "summary": "日立製作所は11月11日、社会インフラを支える重要なオープンソースソフトウェア(OSS)に対するサイバー脅威への対策を共通化し、脆弱性の評価、修正および責任あ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【タニタ】「公益信託タニタ健康体重基金」2026年度の助成対象8件を決定",
+      "link": "https://www.yakuji.co.jp/entry141624.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T22:33:00Z",
+      "published_label": "2026/11/12 07:33",
+      "summary": "健康総合企業のタニタは11月10日、同社が創設した「公益信託タニタ健康体重基金」の2026年度の助成対象者8件が決定したと発表した。 同基金は、肥満やこれに…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【オムロンHC／新潟県】「県民の健康づくりの推進に関する連携協定」締結‐県民の健康寿命の延伸に貢献へ",
+      "link": "https://www.yakuji.co.jp/entry141622.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T22:32:54Z",
+      "published_label": "2026/11/12 07:32",
+      "summary": "オムロンヘルスケアは11月10日、新潟県と「県民の健康づくりの推進に関する連携協定」を締結した。同協定に基づいて、新潟県が推進する「にいがたSTOP高血圧プロ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津製作所】ERPシステムを刷新へ‐グローバル経営基盤を強化",
+      "link": "https://www.yakuji.co.jp/entry141621.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T22:31:20Z",
+      "published_label": "2026/11/12 07:31",
+      "summary": "島津製作所は11月10日、グループ全体の業務・データ・システムを統合する統合基幹業務システム（ERPシステム）を刷新すると発表した。本社単体では2028年度の…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日本光電】米国の子会社を再編へ",
+      "link": "https://www.yakuji.co.jp/entry141620.html",
+      "source": "薬事日報",
+      "published": "2026-11-11T22:30:00Z",
+      "published_label": "2026/11/12 07:30",
+      "summary": "日本光電は11月10日の取締役会で、米国における子会社の再編およびこの再編に伴う一部の子会社の解散および清算（特定子会社の異動）を決議した。 同社は2024…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日医・松本会長 物価高騰で27年度改定「減算はあり得ない。プラスしかない」 医薬品は補助金や税制で",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81208",
+      "source": "ミクスOnline",
+      "published": "2026-11-11T22:00:00Z",
+      "published_label": "2026/11/12 07:00",
+      "summary": "日本医師会の松本吉郎会長は11月11日の定例会見で、「物価高騰、賃金上昇が進んでおり、2027年度分としてさらなる予算の確保を求めている」と述べた。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "【日病薬中四国ブロック会議】積極的な地域連携が有効‐病棟加算1の算定拡大へ",
       "link": "https://www.yakuji.co.jp/entry141565.html",
@@ -27,6 +210,32 @@
         "業界動向",
         "薬価・制度",
         "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "中医協 米MFN価格政策のラグ・ロスへの影響「全く不明」と診療側・江澤委員 客観的データ求める",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81207",
+      "source": "ミクスOnline",
+      "published": "2026-11-11T21:01:00Z",
+      "published_label": "2026/11/12 06:01",
+      "summary": "中医協薬価専門部会は11月11日、2027年度薬価改定に向けて米国のMFN価格政策をめぐり議論した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "費用対効果 追加的有用性示せず費用増は新たな価格調整方法へ 下げ止めも本体割り込みの可能性も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81206",
+      "source": "ミクスOnline",
+      "published": "2026-11-11T21:00:00Z",
+      "published_label": "2026/11/12 06:00",
+      "summary": "中医協費用対効果評価専門部会は11月11日、比較技術に対する健康アウトカム指標での改善が示されず、ICERの区分が費用増加となった分析対象集団について、新たな価格調整方法を了承した。",
+      "tags": [
+        "薬価・制度"
       ],
       "importance": 4,
       "keywords": []
@@ -369,84 +578,6 @@
       "summary": "東京薬科大学薬学部生体分析化学教室の東海林敦准教授、千明（ちぎら）大悟氏（同大学薬学研究科博士課程4年）らの研究グループはこのほど、細胞内のシグナル伝達と連動…",
       "tags": [
         "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【キヤノングループ】平成8年度関東地方発明表彰‐「文科大臣賞」ほか計10件を受賞",
-      "link": "https://www.yakuji.co.jp/entry141573.html",
-      "source": "薬事日報",
-      "published": "2026-11-10T22:32:45Z",
-      "published_label": "2026/11/11 07:32",
-      "summary": "キヤノンはこのほど、公益社団法人発明協会が主催する令和8年度関東地方発明表彰で、「高い重ね合わせ精度を実現する露光装置」（特許第6308749号）が「文部科学…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【タニタ】音声タイマー「TD-435」、板橋製品技術大賞で「インクルーシブデザイン賞」",
-      "link": "https://www.yakuji.co.jp/entry141571.html",
-      "source": "薬事日報",
-      "published": "2026-11-10T22:31:02Z",
-      "published_label": "2026/11/11 07:31",
-      "summary": "タニタはこのほど、板橋区内の中小企業による優れた新製品・新技術を表彰する令和8年度板橋製品技術大賞で、同社の音声タイマー「TD-435」が「インクルーシブデザ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日本光電】AI/MLアルゴリズム搭載の睡眠解析モジュール、米国でFDA 510kの認可を取得",
-      "link": "https://www.yakuji.co.jp/entry141570.html",
-      "source": "薬事日報",
-      "published": "2026-11-10T22:30:15Z",
-      "published_label": "2026/11/11 07:30",
-      "summary": "日本光電はこのほど、米国で睡眠解析ソフトウェア・ソリューションを開発・提供するニューロトロニクスLLC（同社連結子会社）が、AI／ML（人工知能／機械学習）を…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【成長戦略会議】創薬シーズの実用化支援‐40年に官民投資約23兆円",
-      "link": "https://www.yakuji.co.jp/entry141558.html",
-      "source": "薬事日報",
-      "published": "2026-11-10T21:31:14Z",
-      "published_label": "2026/11/11 06:31",
-      "summary": "政府は6日の日本成長戦略会議で、年末までに策定する日本成長戦略実行計画に盛り込む主な事項案として、創薬ではファーストインクラス製品、ベストインクラス製品、バイ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【都薬 髙橋会長】夜間・休日調剤は約74％‐追加解析で薬局の評価に",
-      "link": "https://www.yakuji.co.jp/entry141559.html",
-      "source": "薬事日報",
-      "published": "2026-11-10T21:30:32Z",
-      "published_label": "2026/11/11 06:30",
-      "summary": "東京都薬剤師会は6日、都内の薬局機能等実態調査の速報結果を公表した。夜間・休日の調剤体制について「単独で実施」「地域薬剤師会等の輪番制で対応」を合わせ全体の約…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "防災庁が発足",
-      "link": "https://www.yakuji.co.jp/entry141552.html",
-      "source": "薬事日報",
-      "published": "2026-11-10T21:01:12Z",
-      "published_label": "2026/11/11 06:01",
-      "summary": "◆米国で中間選挙が行われ、与党の共和党が大敗して上下院で過半数割れした。トランプ大統領の任期残り2年で何が起こるのか世界中が身構えている。国内では消費減税関連法…",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -824,46 +955,6 @@
       "keywords": []
     },
     {
-      "title": "新薬16製品 11月13日収載へ キイジェクトはピーク時754億円 レケンビ皮下注は555億円",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81173",
-      "source": "ミクスOnline",
-      "published": "2026-11-08T19:50:00Z",
-      "published_label": "2026/11/09 04:50",
-      "summary": "中医協総会は11月６日、新薬16成分25品目の薬価収載を了承した。",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "成育医療研究センター内のロナルド・マクドナルド・ハウスがリニューアル ユニバーサルルームも",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81179",
-      "source": "ミクスOnline",
-      "published": "2026-11-08T19:49:00Z",
-      "published_label": "2026/11/09 04:49",
-      "summary": "国立成育医療研究センター敷地内のロナルド・マクドナルド・ハウス・せたがや（せたがやハウス）は12月１日、リニューアルオープン。新施設は個室を３部屋増やし、年間約100家族の受け入れを見込む。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本臓器製薬 本社を「北浜NEXU BUILD」に移転 11月30日から業務開始 フリーアドレス制の...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81174",
-      "source": "ミクスOnline",
-      "published": "2026-11-08T19:49:00Z",
-      "published_label": "2026/11/09 04:49",
-      "summary": "⽇本臓器製薬は11月６日、本社を⼤阪市中央区の「北浜NEXU BUILD」に移転すると発表した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "「抗EGFR抗体薬使用時の頭部スキンケア」を医師が回答",
       "link": "https://pharmacist.m3.com/column/clinical-soudan/7972?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1072,19 +1163,6 @@
         "薬物療法・作用機序",
         "服薬指導",
         "疾患・病態"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "第2回厚生科学審議会医療用医薬品迅速・安定供給部会 開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77191.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-04T13:03:00Z",
-      "published_label": "2026/11/04 22:03",
-      "summary": "",
-      "tags": [
-        "供給・出荷"
       ],
       "importance": 3,
       "keywords": []
