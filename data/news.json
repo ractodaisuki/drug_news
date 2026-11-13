@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-13T13:52:55.176316Z",
-  "updated_label": "2026/11/13 22:52",
+  "updated_at": "2026-11-13T21:09:54.754420Z",
+  "updated_label": "2026/11/14 06:09",
   "count": 147,
   "items": [
+    {
+      "title": "非定型抗精神病薬は適応症追加のレキサルティが支持を伸ばし4位に浮上",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202611/595191.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-13T15:00:00Z",
+      "published_label": "2026/11/14 00:00",
+      "summary": "日経メディカル Onlineの医師会員を対象に、非定型抗精神病薬のうち最も処方頻度の高いものを聞いたところ、30.0％の医師がリスペリドン経口薬（商品名リスパダール他）と回答した。 第2位のクエチアピンフマル酸塩（セロクエル他）は17.8％、第3位のアリピプラゾール（エビリファイ他）は15.2％、第4位のブレクスピプラゾール（レキサルティ）は14.6％の医師が最も処方頻度の高い薬剤として選んだ。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "「令和８年度第１回薬事審議会 毒物劇物部会（ハイブリッド開催）」を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_77218.html",
@@ -983,21 +996,6 @@
         "安全性情報"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "薬剤耐性グラム陰性菌に対する最新情報レビュー",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202611/595176.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-09T15:00:00Z",
-      "published_label": "2026/11/10 00:00",
-      "summary": "本コラムでは、Googleが提供する学術雑誌のインパクト指標「h5-index」から、各領域10誌を抽出。それを元に世界中で最も多くポストされた論文を紹介する。 10月26日～11月1日に最もポスト数が多かったのは、NEJM誌の論文「Gram-Negative Bacterial Resistance」（グラム陰性菌の抗菌薬耐性に関するレビュー）で280件だった。",
-      "tags": [
-        "学術・エビデンス",
-        "感染症・ワクチン",
-        "業界動向"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
