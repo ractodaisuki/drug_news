@@ -1,8 +1,144 @@
 {
-  "updated_at": "2026-11-12T21:42:40.837359Z",
-  "updated_label": "2026/11/13 06:42",
-  "count": 147,
+  "updated_at": "2026-11-13T04:56:22.193281Z",
+  "updated_label": "2026/11/13 13:56",
+  "count": 151,
   "items": [
+    {
+      "title": "薬事工業生産動態統計令和8年8月分月報について",
+      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-13T02:00:00Z",
+      "published_label": "2026/11/13 11:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "止まらない・長引く咳…漢方薬はどう使い分ける？",
+      "link": "https://www.carenet.com/series/aka/cg005985_002.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-13T01:00:10Z",
+      "published_label": "2026/11/13 10:00",
+      "summary": "気道感染症の急性期から感染後に続く咳まで、漢方薬が活躍します。症状や発症後の経過に応じた処方選択を整理し、五虎湯、竹筎温胆湯、麦門冬湯を用いた3症例から診療のポイントを解説します。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "後発医薬品を製造販売する企業の安定供給の取組に関する評価結果を公表します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77371.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-13T00:00:00Z",
+      "published_label": "2026/11/13 09:00",
+      "summary": "",
+      "tags": [
+        "供給・出荷",
+        "薬価・制度"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【日女薬】「プレコン」を薬剤師も推進‐サポーター1万人養成へ",
+      "link": "https://www.yakuji.co.jp/entry141680.html",
+      "source": "薬事日報",
+      "published": "2026-11-12T23:31:41Z",
+      "published_label": "2026/11/13 08:31",
+      "summary": "日本女性薬剤師会は、今年度から性や健康に関する正しい知識を身に付け、人生設計や健康づくりに生かす「プレコンセプションケア（プレコン）」の推進に薬剤師が参画する…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【エーザイ】「レケンビ」皮下注が発売‐在宅自己注射が可能に",
+      "link": "https://www.yakuji.co.jp/entry141688.html",
+      "source": "薬事日報",
+      "published": "2026-11-12T23:30:28Z",
+      "published_label": "2026/11/13 08:30",
+      "summary": "エーザイはきょう13日、早期アルツハイマー病治療薬「レケンビ」（一般名：レカネマブ）について、在宅自己注射を可能にする皮下注製剤を発売する予定だ。同社によると…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "開封後使用期限の定められている薬一覧",
+      "link": "https://yakuzaic.com/archives/144565",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-11-12T22:00:00Z",
+      "published_label": "2026/11/13 07:00",
+      "summary": "開封後使用期限の定められている薬一覧 医薬品名 添付文書の記載 アップニーク®ミニ点眼液 アルミピロー包装開封後は、添付の遮光用投薬袋に入れて室温で保存し、3ヵ月以内に使用すること。添付の遮光用投薬袋に入れて2～8℃で保 […] The post 開封後使用期限の定められている薬一覧 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報",
+        "医療安全"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【薬価部会】外国価格調整に慎重意見‐MFN対応めぐり議論",
+      "link": "https://www.yakuji.co.jp/entry141682.html",
+      "source": "薬事日報",
+      "published": "2026-11-12T21:33:57Z",
+      "published_label": "2026/11/13 06:33",
+      "summary": "中央社会保険医療協議会薬価専門部会が11日に開かれ、2027年度中間年薬価改定に向け、米国の最恵国待遇（MFN）価格政策を踏まえた対応を議論した。外国価格との…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省】報告品目13品目を薬価収載‐「アイリーア」BSなど",
+      "link": "https://www.yakuji.co.jp/entry141686.html",
+      "source": "薬事日報",
+      "published": "2026-11-12T21:32:10Z",
+      "published_label": "2026/11/13 06:32",
+      "summary": "厚生労働省はきょう13日、薬事審議会医薬品部会の報告品目と新キット製品など10成分13品目を薬価基準に収載する。内用薬はイーエヌ大塚製薬の経腸成分栄養剤「イノ…",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度",
+        "法令・行政",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【生物由来技術部会】「リブメルディ」承認了承‐海外データで通常承認",
+      "link": "https://www.yakuji.co.jp/entry141685.html",
+      "source": "薬事日報",
+      "published": "2026-11-12T21:31:19Z",
+      "published_label": "2026/11/13 06:31",
+      "summary": "薬事審議会再生医療等製品・生物由来技術部会は9日、協和キリンの異染性白質ジストロフィー（MLD）治療剤「リブメルディ点滴静注」（一般名：アチダルサゲンオートテ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【費用対評価部会】1日薬価比率で引き下げ‐「費用増加」品目の価格調整",
+      "link": "https://www.yakuji.co.jp/entry141684.html",
+      "source": "薬事日報",
+      "published": "2026-11-12T21:30:49Z",
+      "published_label": "2026/11/13 06:30",
+      "summary": "厚生労働省は11日の中央社会保険医療協議会費用対効果評価専門部会で、比較対照技術に対する健康アウトカム指標での改善が示されず、ICER（増分費用効果比）の区分…",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "【訃報】大石俊樹氏（日新薬品代表取締役会長、日新製薬取締役会長）死去",
       "link": "https://www.yakuji.co.jp/entry141678.html",
@@ -426,34 +562,6 @@
       "keywords": []
     },
     {
-      "title": "【日病薬中四国ブロック会議】積極的な地域連携が有効‐病棟加算1の算定拡大へ",
-      "link": "https://www.yakuji.co.jp/entry141565.html",
-      "source": "薬事日報",
-      "published": "2026-11-11T21:31:39Z",
-      "published_label": "2026/11/12 06:31",
-      "summary": "日本病院薬剤師会中国四国ブロック会長会議が6日に米子市内で開かれ、各県の病薬会長らが病棟薬剤業務実施加算1（300点）の算定病院の拡大に向けた取り組みについて…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "逆ざや仕切価率上昇懸念‐厚労省 安中産振課長「下げる手立てなくなっている」",
-      "link": "https://www.yakuji.co.jp/entry141563.html",
-      "source": "薬事日報",
-      "published": "2026-11-11T21:30:36Z",
-      "published_label": "2026/11/12 06:30",
-      "summary": "厚生労働省医政局医薬産業振興企画課の安中健課長は5日、都内で講演し、製薬企業から医薬品卸への仕切価をめぐり、薬価を上回る水準に設定された包装単位の割合を示す「…",
-      "tags": [
-        "業界動向",
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "中医協 米MFN価格政策のラグ・ロスへの影響「全く不明」と診療側・江澤委員 客観的データ求める",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81207",
       "source": "ミクスOnline",
@@ -650,19 +758,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "米FDA、GLP-1受容体作動薬に関するまれな眼疾患リスクについて新たな警告を要求",
-      "link": "https://www.yakuji.co.jp/entry141612.html",
-      "source": "薬事日報",
-      "published": "2026-11-11T06:00:39Z",
-      "published_label": "2026/11/11 15:00",
-      "summary": "米食品医薬品局（FDA）は11月9日、糖尿病治療薬のオゼンピックや肥満症治療薬のウゴービなどの製造販売業者に対し、突然の視力低下を引き起こすことがあるまれな眼…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -959,19 +1054,6 @@
       "keywords": []
     },
     {
-      "title": "倉敷地域フォーミュラリができるまで（その2）",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kurachu/202611/594968.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-08T15:00:00Z",
-      "published_label": "2026/11/09 00:00",
-      "summary": "筆者が勤務する倉敷地域で、地域フォーミュラリが2026年6月に策定されました。当院薬剤部は、倉敷地域フォーミュラリの策定に事務局として関わり、その過程を4回に分けて本コラムでお届けしています。今回は第2回目です。 前回は、フォーミュラリ策定のための下調べを行った上で、参加してもらいたい団体や関係者をピックアップするところまでを紹介しました。今回は、実際に関係者を訪問し、地域フォーミュラリの説明と策定に向けた意見集約を行っていく段階をご…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "ヒルドイドフォーム・スプレーの違いと服薬指導法",
       "link": "https://pharmacist.m3.com/column/special_feature/7975?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1034,19 +1116,6 @@
     {
       "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-06T04:55:00Z",
-      "published_label": "2026/11/06 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
       "source": "厚生労働省 新着情報",
       "published": "2026-11-06T04:55:00Z",
       "published_label": "2026/11/06 13:55",
@@ -1690,19 +1759,6 @@
         "転職"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬",
-      "link": "https://yakuzaic.com/archives/144496",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-26T22:00:00Z",
-      "published_label": "2026/09/27 07:00",
-      "summary": "高齢者の減量 「高齢者では減量すること」 薬の添付文書では、このような記載をよく見かけます。 しかし、「高齢者」とは何歳なのでしょうか？ 65歳でしょうか。75歳でしょうか。それとも、その患者の体格や身体機能をみて薬剤師 […] The post 何歳になったら薬を減らす？―65歳・70歳・75歳・80歳で用量が変わる薬 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "安全性情報"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
