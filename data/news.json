@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-14T04:49:40.848265Z",
-  "updated_label": "2026/11/14 13:49",
+  "updated_at": "2026-11-14T19:40:58.508195Z",
+  "updated_label": "2026/11/15 04:40",
   "count": 148,
   "items": [
+    {
+      "title": "GLP-1受容体作動薬を使用する未成年者に栄養素欠乏の懸念",
+      "link": "https://www.carenet.com/news/general/hdn/63857?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-14T19:00:00Z",
+      "published_label": "2026/11/15 04:00",
+      "summary": "GLP-1受容体作動薬（GLP-1RA）を処方された未成年患者では、栄養素欠乏が一定の割合で認められることが報告された。米アン＆ロバート・H・ルーリー小児病院のJustin Ryder氏らによる研究であり、詳細は「Childhoo…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "エゼチミブ追加で「悪くなったの？」への答え方",
       "link": "https://pharmacist.m3.com/column/knowledge/8009?promotionCode=op_pcolumn",
@@ -96,19 +109,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "止まらない・長引く咳…漢方薬はどう使い分ける？",
-      "link": "https://www.carenet.com/series/aka/cg005985_002.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-13T01:00:10Z",
-      "published_label": "2026/11/13 10:00",
-      "summary": "気道感染症の急性期から感染後に続く咳まで、漢方薬が活躍します。症状や発症後の経過に応じた処方選択を整理し、五虎湯、竹筎温胆湯、麦門冬湯を用いた3症例から診療のポイントを解説します。",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
