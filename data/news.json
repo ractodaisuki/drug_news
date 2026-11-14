@@ -1,8 +1,25 @@
 {
-  "updated_at": "2026-11-13T21:09:54.754420Z",
-  "updated_label": "2026/11/14 06:09",
-  "count": 147,
+  "updated_at": "2026-11-14T04:49:40.848265Z",
+  "updated_label": "2026/11/14 13:49",
+  "count": 148,
   "items": [
+    {
+      "title": "エゼチミブ追加で「悪くなったの？」への答え方",
+      "link": "https://pharmacist.m3.com/column/knowledge/8009?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-14T04:49:39.363873Z",
+      "published_label": "2026/11/14 13:49",
+      "summary": "スタチンだけでLDL-Cが十分に下がらないとき、なぜエゼチミブを追加することがあるのか。倍量でもLDL-C低下率の上乗せは4～6ポイントという根拠や小腸での吸収を抑える作用機序、併用の効果とガイドラインの推奨を3分で確認できるように整理。「薬が増えた」と不安を訴える患者さんへの説明例付きです。",
+      "tags": [
+        "薬剤師コラム",
+        "医薬品情報・DI",
+        "糖尿病",
+        "薬物療法・作用機序",
+        "脂質異常症"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "非定型抗精神病薬は適応症追加のレキサルティが支持を伸ばし4位に浮上",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202611/595191.html",
