@@ -1,8 +1,25 @@
 {
-  "updated_at": "2026-11-14T19:40:58.508195Z",
-  "updated_label": "2026/11/15 04:40",
-  "count": 148,
+  "updated_at": "2026-11-15T10:21:38.727945Z",
+  "updated_label": "2026/11/15 19:21",
+  "count": 149,
   "items": [
+    {
+      "title": "キノロン・セフェムに整腸剤は一律必要？CDIで判断",
+      "link": "https://pharmacist.m3.com/column/antibiotic/8005?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-15T10:21:37.829339Z",
+      "published_label": "2026/11/15 19:21",
+      "summary": "調剤の現場で判断に迷う「抗菌薬に関する疑問」に、山口浩樹医師が回答します。今回の質問は、抗菌薬（抗生剤）と整腸剤の併用について。成人にも整腸剤をセットで処方すべきか。下痢やCDI（C. difficile感染症）の発症リスクから判断する基準をエビデンスとともに解説します。処方監査や疑義照会、服薬指導にすぐ活かせる内容です。",
+      "tags": [
+        "薬剤師コラム",
+        "医薬品情報・DI",
+        "医師の意見",
+        "薬物療法・作用機序",
+        "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "GLP-1受容体作動薬を使用する未成年者に栄養素欠乏の懸念",
       "link": "https://www.carenet.com/news/general/hdn/63857?utm_source=rss&utm_medium=rss",
