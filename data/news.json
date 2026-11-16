@@ -1,19 +1,45 @@
 {
-  "updated_at": "2026-11-16T00:42:54.473746Z",
-  "updated_label": "2026/11/16 09:42",
-  "count": 154,
+  "updated_at": "2026-11-16T10:36:20.483905Z",
+  "updated_label": "2026/11/16 19:36",
+  "count": 155,
   "items": [
     {
       "title": "動画で見て聞く「保険除外すべきOTC類似薬、湿布が最多に」",
       "link": "https://pharmacist.m3.com/column/movie/7981?promotionCode=op_pcolumn",
       "source": "Web監視",
-      "published": "2026-11-16T00:42:53.060798Z",
-      "published_label": "2026/11/16 09:42",
+      "published": "2026-11-16T10:36:19.162748Z",
+      "published_label": "2026/11/16 19:36",
       "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
       "tags": [
         "薬剤師コラム"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【グラフィックレコーディング～言葉にならない想いを描き、心と未来を繋げる仕事～】第4回 ヘルスケアに「人間らしさ」を Bruce氏に聞く海外の実践 グラフィックレコーダー 吉川観奈",
+      "link": "https://www.yakuji.co.jp/entry141814.html",
+      "source": "薬事日報",
+      "published": "2026-11-16T05:00:50Z",
+      "published_label": "2026/11/16 14:00",
+      "summary": "こんにちは！ヘルスケアを中心にグラフィックレコーダーとして活動している吉川観奈です。 今回は前回のIFVP（https://www.ifvp.org/index…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会 医薬品第二部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77353.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-16T05:00:00Z",
+      "published_label": "2026/11/16 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
       "keywords": []
     },
     {
@@ -301,36 +327,9 @@
       "source": "薬事日報",
       "published": "2026-11-15T21:02:51Z",
       "published_label": "2026/11/16 06:02",
-      "summary": "◇医薬品医療機器レギュラトリーサイエンス財団＝レギュラトリーサイエンスエキスパート研修会専門コース「治験コストの適正化と透明性の確保に向けたフェアマーケットバリ…",
+      "summary": "医薬品医療機器レギュラトリーサイエンス財団＝レギュラトリーサイエンスエキスパート研修会専門コース「治験コストの適正化と透明性の確保に向けたフェアマーケットバリュ…",
       "tags": [
         "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】クリスマス限定ボトル発売‐「リポビタンD」 大正製薬",
-      "link": "https://www.yakuji.co.jp/entry141762.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T21:02:29Z",
-      "published_label": "2026/11/16 06:02",
-      "summary": "大正製薬は、公式通販サイト「大正製薬ダイレクト」にて「リポビタンDクリスマス限定ボトル2026」を数量限定発売している。クリスマスを彩るアイテムの一つとして、…",
-      "tags": [
-        "業界動向",
-        "承認・新薬"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "受験シーズンにおすすめの漢方薬",
-      "link": "https://www.yakuji.co.jp/entry141764.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T21:01:54Z",
-      "published_label": "2026/11/16 06:01",
-      "summary": "◆朝晩の冷え込みが強まり、秋から着実に冬へと移行しつつある。冬の到来と共にやってくるものとして浮かぶ中に、受験シーズンがある ◆クラシエ薬品が実施した受験生をサ…",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -451,7 +450,7 @@
       "source": "ミクスOnline",
       "published": "2026-11-15T19:49:00Z",
       "published_label": "2026/11/16 04:49",
-      "summary": "医薬関連労組で構成するヘルスケア産業プラットフォームは11月14日に開催した総会で、新たな代表に事務局長の青木寛晃氏（武田薬品労働組合）を選任した。",
+      "summary": "医薬関連労組で構成するヘルスケア産業プラットフォームは11月13日に開催した総会で、新たな代表に事務局長の青木寛晃氏（武田薬品労働組合）を選任した。",
       "tags": [
         "その他"
       ],
@@ -509,6 +508,33 @@
         "承認・新薬"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "厚労省、後発品企業の安定供給に関する評価結果を初公表",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595259.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-15T15:00:00Z",
+      "published_label": "2026/11/16 00:00",
+      "summary": "厚生労働省は2026年11月13日、後発品を製造販売する企業の安定供給への取り組みを評価した結果を初公表しました。評価指標は、各社の供給体制の整備状況などを点数化し、A、B、Cの3区分に分類したものです。",
+      "tags": [
+        "供給・出荷",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "第3世代EGFR-TKI治療で増悪したEGFR変異陽性NSCLCに対するivonescimabと化学療法の併用療法をFDAは承認せず",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202611/595263.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-15T15:00:00Z",
+      "published_label": "2026/11/16 00:00",
+      "summary": "米Summit Therapeutics社は11月15日、第3世代EGFR-TKI治療で増悪したEGFR変異陽性進行非小細胞肺癌（NSCLC）に対する、抗PD-1/VEGF二重特異性抗体ivonescimab（SMT112、AK112）と化学療法（白金系抗癌薬ベースの2剤併用）の併用療法の申請について、米食品医薬品局（FDA）がCRL（Complete Response Letter）を発出したと発表した。FDAは、主要評価項目の1つ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -1008,20 +1034,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "FDAがGLP-1製剤の「非動脈炎性前部虚血性視神経症」リスク追記を要請",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202611/595230.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-11T15:00:00Z",
-      "published_label": "2026/11/12 00:00",
-      "summary": "米食品医薬品局（FDA）は2026年11月9日、GLP-1受容体作動薬（GIP/GLP-1受容体作動薬を含む）使用患者に非動脈炎性前部虚血性視神経症（NAION）の潜在的リスクがあるとして、添付文書に情報を追記するよう製薬企業に求めた。 NAIONは片眼性の急性かつ無痛の視力低下を引き起こすまれな疾患で、リスク因子として喫煙、糖尿病、高血圧、睡眠時無呼吸、貧血、腎臓病などが挙げられている。GLP-1製剤との関連については、2024年の…",
-      "tags": [
-        "業界動向",
-        "安全性情報"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
