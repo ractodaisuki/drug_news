@@ -1,8 +1,171 @@
 {
-  "updated_at": "2026-11-16T10:36:20.483905Z",
-  "updated_label": "2026/11/16 19:36",
-  "count": 155,
+  "updated_at": "2026-11-16T21:36:55.818096Z",
+  "updated_label": "2026/11/17 06:36",
+  "count": 153,
   "items": [
+    {
+      "title": "「やめたい」にどう返す？パキシル・ベンゾの減薬",
+      "link": "https://pharmacist.m3.com/column/psychotropic_drug/8008?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-16T21:36:54.876528Z",
+      "published_label": "2026/11/17 06:36",
+      "summary": "ベンゾジアゼピン系薬やパキシル（パロキセチン）などSSRIの離脱症状の特徴と出現時期、漸減法・隔日法・置換法などの減薬方法を薬剤師ヒロザルが解説。「調子が良いからやめたい」という相談への対応や、減薬後の不調が離脱症状か再燃かを整理する聞き取り、処方医への共有のポイントもわかります。",
+      "tags": [
+        "薬剤師コラム",
+        "医薬品情報・DI",
+        "薬物療法・作用機序",
+        "服薬指導"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "BMS・アンジェラ研究開発本部長 26年中に全社的なＡＩ活用加速 R＆D期間の大幅短縮で想定目標を提...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81234",
+      "source": "ミクスOnline",
+      "published": "2026-11-16T19:53:00Z",
+      "published_label": "2026/11/17 04:53",
+      "summary": "ブリストル・マイヤーズ スクイブは、2026年中に全社的なＡＩ活用を加速し、研究の各段階に自律型のＡＩエージェントなどを深く組み込むことで、より確実な科学的根拠の獲得と研究開発期間の大幅な短縮を同時に実現する方針だ。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "関文科相 24年6月に議員会館自室で政治資金パーティー バイオ医薬品関係者1人9万円の会費で9人参加",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81233",
+      "source": "ミクスOnline",
+      "published": "2026-11-16T19:52:00Z",
+      "published_label": "2026/11/17 04:52",
+      "summary": "関芳弘文部科学相は11月16日開催の参院消費税・支援金法案に関する特別委員会で、2024年6月13日に衆院議員会館内の自室で開いた政治資金パーティーにバイオ医薬品関係者9人が9万円（計81万円）の会費を支払って出席していたと認めた。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "中外製薬・神内医薬安全性本部長 安全対策は「対処型から予測・予防型に転換」 生成ＡＩでリスク探索も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81235",
+      "source": "ミクスOnline",
+      "published": "2026-11-16T19:51:00Z",
+      "published_label": "2026/11/17 04:51",
+      "summary": "中外製薬は11月16日、医薬品安全対策に関するメディア向けセミナーを開き、同社の安全性に対する取り組みや、安全対策として目指すべき考え方を紹介した。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "PhRMA 「費用対効果評価による薬価引下げ拡大は到底容認できない」 高市政権の掲げた目標に逆行する",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81231",
+      "source": "ミクスOnline",
+      "published": "2026-11-16T19:51:00Z",
+      "published_label": "2026/11/17 04:51",
+      "summary": "米国研究製薬工業協会（PhRMA）は11月16日、「費用対効果評価による薬価引き下げ拡大は到底容認できない」とする声明を発表した。",
+      "tags": [
+        "薬価・制度",
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "厚労省 新薬等12製品を承認 ヘルネクシオス錠のHER2陽性NSCLC１次治療の追加など",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81230",
+      "source": "ミクスOnline",
+      "published": "2026-11-16T19:50:00Z",
+      "published_label": "2026/11/17 04:50",
+      "summary": "厚生労働省は11月16日、新医薬品等12製品を承認した。",
+      "tags": [
+        "承認・新薬",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "国内初のシェーグレン症候群治療薬・コニデイア皮下注など新薬７製品を審議へ 11月30日の第二部会で",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81232",
+      "source": "ミクスOnline",
+      "published": "2026-11-16T19:49:00Z",
+      "published_label": "2026/11/17 04:49",
+      "summary": "厚生労働省は11月30日に薬事審議会・医薬品第二部会を開き、ノバルティス ファーマの国内初のシェーグレン症候群治療薬・コニデイア皮下注（一般名：イアナルマブ）など新薬７製品の承認の可否を審議する。",
+      "tags": [
+        "承認・新薬",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "自民党・医療委員会 次期医療制度改革の検討状況を確認 高齢者の窓口負担見直しなど議論",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81229",
+      "source": "ミクスOnline",
+      "published": "2026-11-16T19:49:00Z",
+      "published_label": "2026/11/17 04:49",
+      "summary": "自民党社会保障制度調査会医療委員会（後藤茂之委員長）は11月16日、会合を開き、次期医療制度改革に向けた検討状況について議論した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "抗てんかん薬セノバメート発売、部分発作に新たな選択肢／小野",
+      "link": "https://www.carenet.com/news/general/carenet/63978?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-16T19:00:00Z",
+      "published_label": "2026/11/17 04:00",
+      "summary": "小野薬品工業は2026年11月13日、てんかん患者の部分発作（二次性全般化発作を含む）に対する治療薬として、セノバメート（商品名：エキスコプリ錠12.5mg、50mg、100mg、200mg）を発売した。本剤は、電位依存性ナ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ゾンゲルチニブ、HER2変異陽性NSCLCの1次治療に適応拡大／ベーリンガーインゲルハイム",
+      "link": "https://www.carenet.com/news/general/carenet/63980?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-16T18:59:50Z",
+      "published_label": "2026/11/17 03:59",
+      "summary": "日本ベーリンガーインゲルハイムは2026年11月16日に、ゾンゲルチニブ（商品名：ヘルネクシオス錠60mg）の適応追加に関する製造販売承認事項一部変更承認を取得したと発表した。適応は、HER2遺伝子変異陽性の切除…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "抗インフルエンザ薬の使い分け、耐性リスクは？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202611/595220.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-16T15:00:00Z",
+      "published_label": "2026/11/17 00:00",
+      "summary": "2026/27シーズンのインフルエンザへの対応について、前編では、直近の流行状況と診断時のポイントについて解説した。後編では、抗インフルエンザ薬による治療、およびワクチン接種による予防について解説する。抗インフルエンザ薬の有用性は変わっていないが、患者の状態やウイルスの型、耐性リスクに応じた適切な薬剤選択が求められる。 また、今シーズンも新型コロナウイルス感染症（COVID-19）との同時流行が予測される中、予防の面では、引き続きイン…",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "ニトロソアミン問題、長期化する背景を探る",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595229.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-16T15:00:00Z",
+      "published_label": "2026/11/17 00:00",
+      "summary": "医薬品からニトロソアミン類が検出される事例が、ここ数年続いている。なぜ様々な種類の医薬品で発生するのか。そして、最初の事例から8年経過したが、なぜ解決していないのか。問題の現状を探る。",
+      "tags": [
+        "回収"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「保険除外すべきOTC類似薬、湿布が最多に」",
       "link": "https://pharmacist.m3.com/column/movie/7981?promotionCode=op_pcolumn",
@@ -485,32 +648,6 @@
       "keywords": []
     },
     {
-      "title": "在宅で自己注射が可能なレカネマブ皮下注製剤を発売／エーザイ・バイオジェン",
-      "link": "https://www.carenet.com/news/general/carenet/63957?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-15T19:00:00Z",
-      "published_label": "2026/11/16 04:00",
-      "summary": "エーザイとバイオジェン・ジャパンは2026年11月13日に、レカネマブ皮下注製剤（商品名：レケンビ皮下注250mgペン）を発売した。適応は「アルツハイマー病による軽度認知障害及び軽度の認知症の進行抑制」である。…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "BRAF融合陽性の低悪性度神経膠腫、国内初の分子標的薬トボラフェニブ発売／IPSEN",
-      "link": "https://www.carenet.com/news/general/carenet/63962?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-15T18:59:59Z",
-      "published_label": "2026/11/16 03:59",
-      "summary": "IPSENは2026年11月13日に、トボラフェニブ（商品名：オジェンダ錠100mg、オジェンダドライシロップ300mg）を発売した。適応は「BRAF遺伝子変異又は融合遺伝子を有する低悪性度神経膠腫」である。本剤は同年9月16…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "厚労省、後発品企業の安定供給に関する評価結果を初公表",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595259.html",
       "source": "日経メディカル Online",
@@ -811,47 +948,6 @@
       "keywords": []
     },
     {
-      "title": "ナウゼリンの小児用量、このままでいいの？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/sasajima/202611/595222.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-12T15:00:00Z",
-      "published_label": "2026/11/13 00:00",
-      "summary": "日本で1982年に発売されたナウゼリン（一般名ドンペリドン）は、制吐薬として長く使用されてきましたが、近年様々な動きが見られます。2019年には、検討が進められていた同薬のスイッチOTC化について「不可」と結論づけられました。また、2025年5月には妊婦禁忌が解除されたことが記憶に新しいと思います。「有益性が危険性を上回ると判断される場合」という条件つきですが、この添付文書改訂は、妊娠判明時にナウゼリンを服用していた女性が妊娠を諦める…",
-      "tags": [
-        "安全性情報",
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "浸透圧性下剤の供給不安、モニラックやラグノスにも注目集まる",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202611/595233.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-12T15:00:00Z",
-      "published_label": "2026/11/13 00:00",
-      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年11月1〜7日のランキングです。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "既存治療で効果不十分な乾癬にIL-23受容体を標的とする経口ペプチド製剤",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202611/595225.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-12T15:00:00Z",
-      "published_label": "2026/11/13 00:00",
-      "summary": "2026年11月13日、乾癬治療薬イコトロキンラ塩酸塩（商品名イコタイド錠200mg）が薬価収載された（執筆時点では予定）。同薬は9月16日に製造販売が承認されていた。適応は「既存治療で効果不十分な尋常性乾癬、膿疱性乾癬、乾癬性紅皮症」、用法用量は「成人および12歳以上かつ体重40kg以上の小児に、1日1回200mgを起床時に空腹の状態で経口投与する」となっている。 乾癬は、青壮年期に好発する、厚い銀白色の鱗屑を伴った紅斑を特徴とする…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「円形脱毛症、効果的な薬物療法は？」",
       "link": "https://pharmacist.m3.com/column/movie/7979?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -930,113 +1026,6 @@
       "keywords": []
     },
     {
-      "title": "【中医協費用対効果評価専門部会 11月11日 議事要旨 費用対効果評価制度改革における価格調整】",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81205",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T19:52:00Z",
-      "published_label": "2026/11/12 04:52",
-      "summary": "中医協費用対効果評価専門部会が11月11日に開かれ、令和８年度費用対効果評価制度改革における価格調整の方法について議論した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【中医協薬価専門部会 11月11日 議事要旨 令和９年度薬価改定について 米MFN価格政策など】",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81204",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T19:52:00Z",
-      "published_label": "2026/11/12 04:52",
-      "summary": "中医協薬価専門部会が11月11日に開かれ、令和９年度薬価改定のうち、米国MFN価格政策などの動きを踏まえた対応について議論した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "報告品目・新キット製品10成分13品目を官報告示 13日収載 初のアクテムラ皮下注BSなど",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81201",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T19:51:00Z",
-      "published_label": "2026/11/12 04:51",
-      "summary": "厚生労働省は11月12日、報告品目・新キット製品10成分13品目の薬価収載を官報告示した。",
-      "tags": [
-        "法令・行政",
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "ゼリア新薬・伊部社長COO 製品導入や開発パイプラインの拡充など「投資活動を積極的に展開していく」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81203",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T19:50:00Z",
-      "published_label": "2026/11/12 04:50",
-      "summary": "ゼリア新薬の伊部充弘代表取締役社長兼COOは11月11日の2026年度第2四半期（中間期）決算説明会で、「さらなる成長ドライバーとなる製品導入や開発パイプラインの拡充など投資活動を積極的に展開していく」と強調した。",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "東和薬品・吉田社長 山形工場無菌製剤棟で生産した注射剤 米子会社向け輸出検討 2～3年以内に実現へ",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81202",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T19:50:00Z",
-      "published_label": "2026/11/12 04:50",
-      "summary": "東和薬品の吉田逸郎代表取締役は11月11日の27年3月期第2四半期決算説明会で、同社山形工場の第二無菌製剤棟で生産した注射剤の米国子会社向け輸出の検討に着手していることを明らかにした。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "INESが政策提言 脳卒中再発に係る社会的・経済的負担は年間1.6兆円",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81199",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T19:49:00Z",
-      "published_label": "2026/11/12 04:49",
-      "summary": "新時代戦略研究所（INES）は11月11日、脳卒中の再発に伴う社会的・経済的負担を算出した分析レポートを公表した。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "医療AIが誤ったとき、責任は誰が負うのか",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/okiyama/202611/594665.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-11T15:00:00Z",
-      "published_label": "2026/11/12 00:00",
-      "summary": "ここまで三回にわたって、診断、患者データ、処方とAI、というそれぞれ個別の論点を見てきました。今回は俯瞰した医療AIの全体像についてです。日米欧の医療AI規制は、どのような構造の上に立っているのか。そして、AIが誤ったとき誰が責任を負うのか。三回分の議論の背景にある仕組みを、整理してみたいと思います。 医療AIだけを名指しした法律は、実は日米欧のどこにもありません。欧州のAI Actも医療専用法ではなく、分野を横断する水平法です。三極…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "絶食したのに胃が空じゃない！？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/yakushiji/202611/595209.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-11T15:00:00Z",
-      "published_label": "2026/11/12 00:00",
-      "summary": "「オゼンピック」という薬の名は、今や医療者でなくても聞いたことがあるのではないでしょうか。GLP-1受容体作動薬である「セマグルチド」の商品名で、もともとは2型糖尿病の治療薬として登場しました。しかし、著明な体重減少効果が注目され、肥満症治療薬の「ウゴービ」としても承認されました。海外セレブが使用していると報じられるなど、もはやヤングポップカルチャーの一部と化しています。最近では、GLP-1に加えてGIPに対する作用も併せ持つ「マンジ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「二日酔いの頭痛に『ロキソニンＳ』は使える？NSAIDsを使うリスク」",
       "link": "https://pharmacist.m3.com/column/movie/7978?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1086,20 +1075,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "IQVIAジャパン 2031年度までの薬価収載品市場は＋2.3％成長 イノベーション推進が成長の後押...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81194",
-      "source": "ミクスOnline",
-      "published": "2026-11-10T19:53:00Z",
-      "published_label": "2026/11/11 04:53",
-      "summary": "IQVIAジャパンは11月10日、日本の薬価収載品市場の成長率が2031年度までの5年間で＋2.3％になるとの推計値を公表した。",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
