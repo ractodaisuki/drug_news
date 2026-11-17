@@ -1,8 +1,61 @@
 {
-  "updated_at": "2026-11-16T21:36:55.818096Z",
-  "updated_label": "2026/11/17 06:36",
-  "count": 153,
+  "updated_at": "2026-11-17T06:24:42.493645Z",
+  "updated_label": "2026/11/17 15:24",
+  "count": 146,
   "items": [
+    {
+      "title": "動画で見て聞く「抗認知症薬は骨折リスクを低減させる？」",
+      "link": "https://pharmacist.m3.com/column/movie/7982?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-17T06:24:41.103313Z",
+      "published_label": "2026/11/17 15:24",
+      "summary": "人気の薬剤師コラムを音声つき動画にして、m3のおすすめ動画とあわせて平日の毎朝7時にお届けします。通勤中や家事の合間に、画面を見なくても「聞くだけ」で楽しめます。",
+      "tags": [
+        "薬剤師コラム"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "令和8年度 登録販売者試験 試験結果 【西日本】",
+      "link": "https://www.yakuji.co.jp/entry140416.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T02:00:29Z",
+      "published_label": "2026/11/17 11:00",
+      "summary": "情報には万全を期していますが、最終的には各都道府県に確認をお願いいたします。 近畿 試験日 合格発表 合格者数 受験者数 合格率 福井県 – …",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【武田薬品】卵巣癌薬「エラヒア」発売‐新規経口抗てんかん薬も",
+      "link": "https://www.yakuji.co.jp/entry141772.html",
+      "source": "薬事日報",
+      "published": "2026-11-16T23:31:43Z",
+      "published_label": "2026/11/17 08:31",
+      "summary": "新薬が13日に薬価収載され、標準治療であるプラチナ製剤を含む化学療法が効きにくくなった再発卵巣癌患者の選択肢となる武田薬品の「エラヒア」が同日発売された。エー…",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【NPhA】中間年改定廃止 再び要望‐安定的な調達さらに困難",
+      "link": "https://www.yakuji.co.jp/entry141769.html",
+      "source": "薬事日報",
+      "published": "2026-11-16T23:30:45Z",
+      "published_label": "2026/11/17 08:30",
+      "summary": "日本保険薬局協会（NPhA）は12日の定例会見で、2027年度薬価改定に向け、中間年改定の廃止などを求める要望書を公表した。昨年の薬価調査結果では平均乖離率が…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "「やめたい」にどう返す？パキシル・ベンゾの減薬",
       "link": "https://pharmacist.m3.com/column/psychotropic_drug/8008?promotionCode=op_pcolumn",
@@ -17,6 +70,34 @@
         "服薬指導"
       ],
       "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【GE・BS学会】低リスクは厳密管理不要に‐ニトロソアミン対応で提言",
+      "link": "https://www.yakuji.co.jp/entry141768.html",
+      "source": "薬事日報",
+      "published": "2026-11-16T21:31:53Z",
+      "published_label": "2026/11/17 06:31",
+      "summary": "日本ジェネリック医薬品・バイオシミラー学会は12日、9月に公表した原薬のニトロソアミン類の管理と運用に関する提言について、オンラインで記者会見を開いた。5項目…",
+      "tags": [
+        "学術・エビデンス",
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【日薬 岩月会長】薬局集約化推進に反論‐予算確保は国の責務",
+      "link": "https://www.yakuji.co.jp/entry141779.html",
+      "source": "薬事日報",
+      "published": "2026-11-16T21:30:35Z",
+      "published_label": "2026/11/17 06:30",
+      "summary": "日本薬剤師会の岩月進会長は11日の定例会見で、財務省が財政制度等審議会財政制度分科会に、薬局の小規模分散体制を是正し集約化・大規模化を進める必要性を指摘したこ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -138,32 +219,6 @@
         "承認・新薬"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "抗インフルエンザ薬の使い分け、耐性リスクは？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202611/595220.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-16T15:00:00Z",
-      "published_label": "2026/11/17 00:00",
-      "summary": "2026/27シーズンのインフルエンザへの対応について、前編では、直近の流行状況と診断時のポイントについて解説した。後編では、抗インフルエンザ薬による治療、およびワクチン接種による予防について解説する。抗インフルエンザ薬の有用性は変わっていないが、患者の状態やウイルスの型、耐性リスクに応じた適切な薬剤選択が求められる。 また、今シーズンも新型コロナウイルス感染症（COVID-19）との同時流行が予測される中、予防の面では、引き続きイン…",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "ニトロソアミン問題、長期化する背景を探る",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595229.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-16T15:00:00Z",
-      "published_label": "2026/11/17 00:00",
-      "summary": "医薬品からニトロソアミン類が検出される事例が、ここ数年続いている。なぜ様々な種類の医薬品で発生するのか。そして、最初の事例から8年経過したが、なぜ解決していないのか。問題の現状を探る。",
-      "tags": [
-        "回収"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -433,71 +488,6 @@
       "keywords": []
     },
     {
-      "title": "【キャリアパス懇談会】薬剤師の専門性評価難しく‐専門医と異なる制度設計を",
-      "link": "https://www.yakuji.co.jp/entry141777.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T21:33:20Z",
-      "published_label": "2026/11/16 06:33",
-      "summary": "薬剤師のキャリアパス懇談会は12日、各医療系学会が独自に運用し、制度の乱立や質の担保が課題となっている専門薬剤師制度をめぐり議論した。専門薬剤師制度の質を担保…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【内閣府専門部会】放射性薬の提供体制充実へ‐アクションプラン大筋で了承",
-      "link": "https://www.yakuji.co.jp/entry141773.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T21:32:19Z",
-      "published_label": "2026/11/16 06:32",
-      "summary": "内閣府の「放射性医薬品の開発・製造・利用の促進およびそのサプライチェーン強化に関する専門部会」は12日、創薬力強化や安定供給、医療提供体制の充実を柱とする新ア…",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【武田薬品】乾癬治療薬を国内申請‐TYK2阻害剤ザソシチニブ",
-      "link": "https://www.yakuji.co.jp/entry141690.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T21:31:32Z",
-      "published_label": "2026/11/16 06:31",
-      "summary": "武田薬品は11日、1日1回経口投与の乾癬治療薬としてTYK2阻害剤ザソシチニブ（TAK-279）を日本で承認申請した。同剤はIL-23など主要な疾患の中核的な…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "クオールHD 中村社長「三つの柱育てていきたい」‐薬局、製薬、BPOが重点",
-      "link": "https://www.yakuji.co.jp/entry141687.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T21:30:00Z",
-      "published_label": "2026/11/16 06:30",
-      "summary": "クオールホールディングスの中村敬社長は、2027年3月期中間決算説明会で重点施策に言及。「医療に集中特化した総合力ということで、薬局事業、製薬事業、BPO事業…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "2027年1月に「治験コストの適正化と透明性の確保に向けたフェアマーケットバリュー（FMV）入門」開催 医薬品医療機器レギュラトリーサイエンス財団",
-      "link": "https://www.yakuji.co.jp/entry141766.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T21:02:51Z",
-      "published_label": "2026/11/16 06:02",
-      "summary": "医薬品医療機器レギュラトリーサイエンス財団＝レギュラトリーサイエンスエキスパート研修会専門コース「治験コストの適正化と透明性の確保に向けたフェアマーケットバリュ…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "官民協議会推進部会意見の整理へ 薬価は「コストでなく投資」 社会保障財源以外の活用求める声も",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81226",
       "source": "ミクスOnline",
@@ -648,33 +638,6 @@
       "keywords": []
     },
     {
-      "title": "厚労省、後発品企業の安定供給に関する評価結果を初公表",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595259.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-15T15:00:00Z",
-      "published_label": "2026/11/16 00:00",
-      "summary": "厚生労働省は2026年11月13日、後発品を製造販売する企業の安定供給への取り組みを評価した結果を初公表しました。評価指標は、各社の供給体制の整備状況などを点数化し、A、B、Cの3区分に分類したものです。",
-      "tags": [
-        "供給・出荷",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "第3世代EGFR-TKI治療で増悪したEGFR変異陽性NSCLCに対するivonescimabと化学療法の併用療法をFDAは承認せず",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202611/595263.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-15T15:00:00Z",
-      "published_label": "2026/11/16 00:00",
-      "summary": "米Summit Therapeutics社は11月15日、第3世代EGFR-TKI治療で増悪したEGFR変異陽性進行非小細胞肺癌（NSCLC）に対する、抗PD-1/VEGF二重特異性抗体ivonescimab（SMT112、AK112）と化学療法（白金系抗癌薬ベースの2剤併用）の併用療法の申請について、米食品医薬品局（FDA）がCRL（Complete Response Letter）を発出したと発表した。FDAは、主要評価項目の1つ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "キノロン・セフェムに整腸剤は一律必要？CDIで判断",
       "link": "https://pharmacist.m3.com/column/antibiotic/8005?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -706,19 +669,6 @@
         "脂質異常症"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "非定型抗精神病薬は適応症追加のレキサルティが支持を伸ばし4位に浮上",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202611/595191.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-13T15:00:00Z",
-      "published_label": "2026/11/14 00:00",
-      "summary": "日経メディカル Onlineの医師会員を対象に、非定型抗精神病薬のうち最も処方頻度の高いものを聞いたところ、30.0％の医師がリスペリドン経口薬（商品名リスパダール他）と回答した。 第2位のクエチアピンフマル酸塩（セロクエル他）は17.8％、第3位のアリピプラゾール（エビリファイ他）は15.2％、第4位のブレクスピプラゾール（レキサルティ）は14.6％の医師が最も処方頻度の高い薬剤として選んだ。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -921,33 +871,6 @@
       "keywords": []
     },
     {
-      "title": "HER2発現進行・再発子宮癌肉腫に対しトラスツズマブ デルクステカンが適応拡大申請",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202611/595253.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-12T15:00:00Z",
-      "published_label": "2026/11/13 00:00",
-      "summary": "第一三共は2026年11月12日、抗HER2抗体薬物複合体（ADC）のトラスツズマブ デルクステカン（T-DXd）について、HER2発現の進行・再発子宮癌肉腫に対する製造販売承認事項一部変更承認申請を厚生労働省に行ったと発表した。 子宮体癌のうち、子宮癌肉腫は頻度が低い一方、予後不良とされている。第一三共によれば、子宮癌肉腫患者の約7割にHER2発現が認められ、T-DXdはHER2発現進行・再発子宮癌肉腫に対して臨床的有効性を示した初…",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "倉敷地域フォーミュラリができるまで（その4）",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kurachu/202611/595113.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-12T15:00:00Z",
-      "published_label": "2026/11/13 00:00",
-      "summary": "2026年6月に倉敷地域フォーミュラリができるまでを、本コラムで3回にわたって紹介してきました。今回は最後の第4回目です。前回、倉敷地域フォーミュラリ委員会が正式に発足するまでを紹介しました。今回は、薬効群と推奨薬の選定を書いていきます。 倉敷医師会の会長を代表者とする倉敷地域フォーミュラリ委員会の下部組織として、「フォーミュラリ作業部会」を設置したところを前回紹介しました。フォーミュラリを策定する領域の選択、推奨薬リスト案の作成、臨…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「円形脱毛症、効果的な薬物療法は？」",
       "link": "https://pharmacist.m3.com/column/movie/7979?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1115,19 +1038,6 @@
         "薬剤師コラム"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師免許に関するオンライン申請手続きのご案内",
-      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-09T03:00:00Z",
-      "published_label": "2026/11/09 12:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
@@ -1762,7 +1672,7 @@
       "source": "くすりの勉強（薬剤師のブログ）",
       "published": "2026-09-28T22:00:00Z",
       "published_label": "2026/09/29 07:00",
-      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、 など、「目によさそう」な成分がたくさん並んでいます。 しかし、これらはすべて同じように「目が悪くなるのを防ぐ」も […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、・ブルーベリー・ルテイン・ゼアキサンチン・アスタキサンチン・DHA・EPAなど、「目によさそう」な成分がたくさん並 […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
       "tags": [
         "その他"
       ],
