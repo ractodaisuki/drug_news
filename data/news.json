@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-11-17T06:24:42.493645Z",
-  "updated_label": "2026/11/17 15:24",
-  "count": 146,
+  "updated_at": "2026-11-17T18:06:37.818108Z",
+  "updated_label": "2026/11/18 03:06",
+  "count": 151,
   "items": [
+    {
+      "title": "ニュージーランドヘルスケア紀行 OTC医薬品と食の健康編",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/technoasym/202611/595183.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-17T15:00:00Z",
+      "published_label": "2026/11/18 00:00",
+      "summary": "飛行機に十時間乗って降りたら、そこは南半球だった。 「そうだ、ニュージーランド行こう」と何となく決めて数か月。飛行機を予約したり、オプショナルツアーを予約したりと様々な準備をした。しかしコロナが広がってから七年間、日本から一歩も出ずに生活していたため、荷造りをしていても海外旅行に行くということが何となくピンと来ない。ガラガラとスーツケースを転がして日暮里からスカイライナーに乗った頃にようやく「今からニュージーランドに行くのか？ 私が？…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "第２８回新型インフルエンザ対策に関する小委員会 第１３回危機対応医薬品等に関する小委員会 資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77489.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-17T08:04:00Z",
+      "published_label": "2026/11/17 17:04",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【電子書籍】なぜ日本の医療機器イノベーションは生まれないのか ‐医局制度・政策・企業行動から読み解く構造問題‐",
+      "link": "https://www.yakuji.co.jp/entry141847.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T07:41:19Z",
+      "published_label": "2026/11/17 16:41",
+      "summary": "技術力があるのになぜ世界市場で勝てないのか。日本の医療機器産業が抱える「事業化の壁」とは。 日本には優秀な医師や研究者、高度な技術力があります。それにもかかわら…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "令和８年度第８回医薬品等安全対策部会安全対策調査会 議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77439.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-17T07:00:00Z",
+      "published_label": "2026/11/17 16:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「抗認知症薬は骨折リスクを低減させる？」",
       "link": "https://pharmacist.m3.com/column/movie/7982?promotionCode=op_pcolumn",
@@ -222,6 +274,46 @@
       "keywords": []
     },
     {
+      "title": "「都市部は分散、地方は集約すべき」は信じていいのか",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202611/595237.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-16T15:00:00Z",
+      "published_label": "2026/11/17 00:00",
+      "summary": "先日、財務省の財政制度分科会が開催されました。資料を見ると、薬局に対して「集約化・適正化が不可欠」「小規模分散体制は、対人業務の充実や安定的な医薬品供給の観点から問題」「集約化や大規模化も含め取り組む必要」などと、厳しい指摘が並んでいます。確かに一理あるようにも聞こえますが、現場の視点から見ると、どうにも釈然としない思いが残ります。というのも、今の薬局の形だって、それなりの「効率化」や「集約化」の結果だからです。効率化や集約化を考える…",
+      "tags": [
+        "薬価・制度",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "抗インフルエンザ薬の使い分け、耐性リスクは？",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202611/595220.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-16T15:00:00Z",
+      "published_label": "2026/11/17 00:00",
+      "summary": "2026/27シーズンのインフルエンザへの対応について、前編では、直近の流行状況と診断時のポイントについて解説した。後編では、抗インフルエンザ薬による治療、およびワクチン接種による予防について解説する。抗インフルエンザ薬の有用性は変わっていないが、患者の状態やウイルスの型、耐性リスクに応じた適切な薬剤選択が求められる。 また、今シーズンも新型コロナウイルス感染症（COVID-19）との同時流行が予測される中、予防の面では、引き続きイン…",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "ニトロソアミン問題、長期化する背景を探る",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595229.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-16T15:00:00Z",
+      "published_label": "2026/11/17 00:00",
+      "summary": "医薬品からニトロソアミン類が検出される事例が、ここ数年続いている。なぜ様々な種類の医薬品で発生するのか。そして、最初の事例から8年経過したが、なぜ解決していないのか。問題の現状を探る。",
+      "tags": [
+        "回収"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
       "title": "動画で見て聞く「保険除外すべきOTC類似薬、湿布が最多に」",
       "link": "https://pharmacist.m3.com/column/movie/7981?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -423,58 +515,6 @@
       "keywords": []
     },
     {
-      "title": "【日立ハイテク】陽子線治療システム向け新型加速器の原理実証に成功",
-      "link": "https://www.yakuji.co.jp/entry141733.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:33:43Z",
-      "published_label": "2026/11/16 07:33",
-      "summary": "日立ハイテクはこのほど、日立製作所研究開発グループと連携し、陽子線治療システムへの適用を目指して開発を進めている新型加速器の原理実証機を製作し、固定磁場のもと…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】シミの原因に着目した薬用美白美容液‐「ASTALIFT MELANO SHOOTING SERUM」発売へ 富士フイルム",
-      "link": "https://www.yakuji.co.jp/entry141730.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:32:26Z",
-      "published_label": "2026/11/16 07:32",
-      "summary": "富士フイルムは来年2月26日、シミの原因「メラニンホール」への着目から誕生した薬用美白美容液「ASTALIFT MELANO SHOOTING SERUM（ア…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "島津製作所監修カプセルトイ「手のひら分析ラボ」が再販",
-      "link": "https://www.yakuji.co.jp/entry141728.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:31:22Z",
-      "published_label": "2026/11/16 07:31",
-      "summary": "島津製作所が監修した分析計測機器のカプセルトイ「手のひら分析ラボ」全6種類が、初回販売時の好評を受け、ターリン・インターナショナル（東京都墨田区）から11月1…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】単球活性化試験試薬を発売 島津ダイアグノスティクス",
-      "link": "https://www.yakuji.co.jp/entry141725.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:30:14Z",
-      "published_label": "2026/11/16 07:30",
-      "summary": "島津ダイアグノスティクスはこのほど、単球活性化法試験（Monocute Activation Test：MAT）試薬「MylcMAT Cell 細胞キット」「…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "ヒスタミンH3受容体拮抗薬？逆作動薬？ウエキクス錠とは？",
       "link": "https://yakuzaic.com/archives/144588",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -635,6 +675,33 @@
         "薬価・制度"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "厚労省、後発品企業の安定供給に関する評価結果を初公表",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595259.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-15T15:00:00Z",
+      "published_label": "2026/11/16 00:00",
+      "summary": "厚生労働省は2026年11月13日、後発品を製造販売する企業の安定供給への取り組みを評価した結果を初公表しました。評価指標は、各社の供給体制の整備状況などを点数化し、A、B、Cの3区分に分類したものです。",
+      "tags": [
+        "供給・出荷",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "第3世代EGFR-TKI治療で増悪したEGFR変異陽性NSCLCに対するivonescimabと化学療法の併用療法をFDAは承認せず",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202611/595263.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-15T15:00:00Z",
+      "published_label": "2026/11/16 00:00",
+      "summary": "米Summit Therapeutics社は11月15日、第3世代EGFR-TKI治療で増悪したEGFR変異陽性進行非小細胞肺癌（NSCLC）に対する、抗PD-1/VEGF二重特異性抗体ivonescimab（SMT112、AK112）と化学療法（白金系抗癌薬ベースの2剤併用）の併用療法の申請について、米食品医薬品局（FDA）がCRL（Complete Response Letter）を発出したと発表した。FDAは、主要評価項目の1つ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
