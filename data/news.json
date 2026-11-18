@@ -1,8 +1,413 @@
 {
-  "updated_at": "2026-11-17T18:06:37.818108Z",
-  "updated_label": "2026/11/18 03:06",
-  "count": 151,
+  "updated_at": "2026-11-18T02:43:04.044550Z",
+  "updated_label": "2026/11/18 11:43",
+  "count": 157,
   "items": [
+    {
+      "title": "「パーキンソン病」の原因は胃薬？76歳女性の処方カスケードを見抜く",
+      "link": "https://www.carenet.com/series/geriatrics/cg005701_008.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-18T01:00:10Z",
+      "published_label": "2026/11/18 10:00",
+      "summary": "胃もたれに処方されたスルピリドを長年服用し、パーキンソン病と診断された76歳女性。治療薬の追加後にはふらつきや幻視も出現した。薬剤性の可能性を見直し、処方カスケードを断ち切るための３つのポイントを考える。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "採用情報（任期付職員（課長補佐又は主査（感染症対策担当）募集情報）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kacyohosamatawasyusa.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-18T01:00:00Z",
+      "published_label": "2026/11/18 10:00",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【八戸薬剤師会】遠隔診療と地域薬局連携へ‐平時の組織力を災害時も",
+      "link": "https://www.yakuji.co.jp/entry141866.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T23:31:23Z",
+      "published_label": "2026/11/18 08:31",
+      "summary": "青森県の八戸薬剤師会は、オンライン診療と地域薬局の連携を平時から構築し、災害時には災害対応医薬品供給車両「モバイルファーマシー」を組み合わせ、診察・処方から調…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省】「ステミラック」が本承認‐新医薬品など21品目承認",
+      "link": "https://www.yakuji.co.jp/entry141874.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T23:30:14Z",
+      "published_label": "2026/11/18 08:30",
+      "summary": "厚生労働省は16日、脊髄損傷に伴う神経症候・機能障害の改善などに用いるニプロの「ステミラック注」を条件・期限付き承認の再生医療等製品としては初めて本承認とした…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】「CLAYGE」から、“まるでマシュマロ”新感覚の濃密炭酸泡洗顔が新登場 多田",
+      "link": "https://www.yakuji.co.jp/entry141900.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:40:23Z",
+      "published_label": "2026/11/18 07:40",
+      "summary": "多田（本社：兵庫県神戸）は、ブランド累計販売数4000万個突破（2026年10月20日までにおけるCLAYGEブランドの累計出荷実績）のクレイケアブランドCL…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【アルケア】武蔵野大看護学部学生が千葉工場見学‐オストメイトの生活支えるものづくり体感",
+      "link": "https://www.yakuji.co.jp/entry141895.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:38:35Z",
+      "published_label": "2026/11/18 07:38",
+      "summary": "アルケアは10月9日、武蔵野大学看護学部の学生3人と教員2人を、国産唯一のストーマ装具メーカーである同社千葉工場に迎え、製造工程の見学や製造体験、社員との座談…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【日立製作所】AIエージェントへの「本人の委任」を証明する委任証明技術を開発",
+      "link": "https://www.yakuji.co.jp/entry141894.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:37:19Z",
+      "published_label": "2026/11/18 07:37",
+      "summary": "日立製作所は11月17日、AIエージェントが人に代わって取引や決済、各種の業務、システム運用などを行う際に、本人が承認した委任であることを証明できる委任証明技…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津製作所】GHGに出資、GX分野で資本業務提携‐農業の脱炭素化に取り組む",
+      "link": "https://www.yakuji.co.jp/entry141892.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:36:47Z",
+      "published_label": "2026/11/18 07:36",
+      "summary": "",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "【第一三共ヘルスケア】キメを支える“基底膜”のコラーゲン産生量低下を抑制する成分を確認",
+      "link": "https://www.yakuji.co.jp/entry141891.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:35:44Z",
+      "published_label": "2026/11/18 07:35",
+      "summary": "第一三共ヘルスケアは、肌の透明感に関する研究において、加齢に伴い蓄積するAGEs（終末糖化産物）が表皮細胞において基底膜構成因子であるIV型コラーゲン産生量を…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【パラマウントベッド】第37回全国介護老人保健施設大会 栃木 福祉・医療機器展示に出展",
+      "link": "https://www.yakuji.co.jp/entry141888.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:34:19Z",
+      "published_label": "2026/11/18 07:34",
+      "summary": "パラマウントベッドは10月22～23日（金）、宇都宮市で開催される第37回全国介護老人保健施設大会栃木での福祉・医療機器展示に出展する。 同社ブースでは、「…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】電子ビーム金属3Dプリンター「JAM-5200EBMPlus」を発表 日本電子",
+      "link": "https://www.yakuji.co.jp/entry141886.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:33:52Z",
+      "published_label": "2026/11/18 07:33",
+      "summary": "日本電子は11月16日、電子ビーム金属3Dプリンター「JAM-5200EBMPlus」を発表した。 金属積層造形（Additive Manufacturin…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【オムロンHC／カゴメ】「野菜摂取推進プロジェクト」賛同企業9社と企業対抗企画を実施",
+      "link": "https://www.yakuji.co.jp/entry141885.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:32:49Z",
+      "published_label": "2026/11/18 07:32",
+      "summary": "オムロンヘルスケアとカゴメは9月26日から10月25日の4週間、「野菜摂取推進プロジェクト」の賛同企業9社で、企業対抗企画「健康習慣4週間チャレンジ」を実施し…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【PHC】「令和8年度地方発明表彰」群馬県知事賞、愛媛県発明協会会長賞、発明奨励賞を受賞",
+      "link": "https://www.yakuji.co.jp/entry141882.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:31:05Z",
+      "published_label": "2026/11/18 07:31",
+      "summary": "PHCはこのほど、発明協会が主催する「令和8年度地方発明表彰」の「関東地方発明表彰」で、超低温フリーザー自動陰圧解除装置が「群馬県知事賞」を、Dダイマー測定試…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】「聴覚スクリーナー audioscreener 2」DPOAE専用モデルが登場 リオン",
+      "link": "https://www.yakuji.co.jp/entry141880.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T22:30:26Z",
+      "published_label": "2026/11/18 07:30",
+      "summary": "リオンは12月14日、「聴覚スクリーナー audioscreener 2」のラインアップを拡充し、DPOAE（歪成分耳音響放射）検査に特化したモデルを発売する…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "防災考慮し医療体制検討‐日薬 岩月会長、防災庁設置に言及",
+      "link": "https://www.yakuji.co.jp/entry141868.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T21:31:47Z",
+      "published_label": "2026/11/18 06:31",
+      "summary": "日本薬剤師会の岩月進会長は11日の定例会見で、新たに設置された防災庁に言及。「人口減に合わせて医薬品提供体制や医療構想の議論が進められているが、防災という観点…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【NPhA】薬剤師需給推計で意見書‐将来の業務量反映求める",
+      "link": "https://www.yakuji.co.jp/entry141871.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T21:30:51Z",
+      "published_label": "2026/11/18 06:30",
+      "summary": "日本保険薬局協会（NPhA）は12日、厚生労働省が今年度内に公表する薬剤師需給推計について、現在の業務量や就業実態を検証すると共に、将来求められる業務の拡充を…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】ステラーラBS発売 ニプロ",
+      "link": "https://www.yakuji.co.jp/entry141864.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T21:04:49Z",
+      "published_label": "2026/11/18 06:04",
+      "summary": "ニプロ＝13日、「ステラーラ」（ヤンセンファーマ）のバイオ後続品である「ウステキヌマブBS点滴静注130mg『ニプロ』」を新発売した。適応は、中等症から重症の…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "21日に島根でラグビーイベント‐競技環境充実に貢献 大正製薬",
+      "link": "https://www.yakuji.co.jp/entry141860.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T21:03:31Z",
+      "published_label": "2026/11/18 06:03",
+      "summary": "大正製薬は21日、島根県松江市の松江市北公園多目的広場で、ラグビーユーチューブチャンネル「らぐびーくえすと」と連携したラグビーイベントを開催する。地域のラグビ…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】吸収率確立されたクレアチン‐「DNS」から発売 第一三共ヘルスケア",
+      "link": "https://www.yakuji.co.jp/entry141855.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T21:02:10Z",
+      "published_label": "2026/11/18 06:02",
+      "summary": "第一三共ヘルスケアは、スポーツサプリメントブランド「DNS」から、スポーツやトレーニングに取り組み、瞬発力を求める人向けに「クレアチン・モノハイドレート」を新…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "専門薬剤師制度の議論再燃",
+      "link": "https://www.yakuji.co.jp/entry141841.html",
+      "source": "薬事日報",
+      "published": "2026-11-17T21:01:36Z",
+      "published_label": "2026/11/18 06:01",
+      "summary": "◆専門薬剤師制度の質の保証に向けた第三者評価の必要性が厚生労働省の懇談会で議論になった。厚生労働科学研究班からは、専門薬剤師の第三者評価・認証機関として「専門薬…",
+      "tags": [
+        "法令・行政",
+        "学術・エビデンス"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "デロイト調査 生成AI時代の代替チャネル MR／MSL選択医師は2割と低率 価値届ける情報提供者は高...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81241",
+      "source": "ミクスOnline",
+      "published": "2026-11-17T19:53:00Z",
+      "published_label": "2026/11/18 04:53",
+      "summary": "デロイトトーマツグループは、最新調査レポート「医師における生成ＡＩの活用実態と将来展望に係る調査結果」を公表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "厚労省 ドラッグ・ロスで緊急調査 23年4月から3年間 欧米の承認新薬が対象 今後は定期調査へ予算...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81240",
+      "source": "ミクスOnline",
+      "published": "2026-11-17T19:52:00Z",
+      "published_label": "2026/11/18 04:52",
+      "summary": "厚生労働省は、23年4月から26年3月末の間に欧米で承認された医薬品を対象にドラッグ・ロスに関する緊急調査を実施する。",
+      "tags": [
+        "承認・新薬",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "自民党厚労部会 創薬イノベーションやMFN対応を求める声 診療報酬の経済・物価調整も予算編成の焦点",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81238",
+      "source": "ミクスOnline",
+      "published": "2026-11-17T19:51:00Z",
+      "published_label": "2026/11/18 04:51",
+      "summary": "自民党厚生労働部会（仁木博文部会長）は11月17日、2027年度厚生労働関係予算の主要課題について議論した。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "第一三共 ADC・エンハーツ HER2発現の子宮がん肉腫に係る効能追加を一変申請",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81236",
+      "source": "ミクスOnline",
+      "published": "2026-11-17T19:50:00Z",
+      "published_label": "2026/11/18 04:50",
+      "summary": "第一三共は11月12日、抗HER2抗体薬物複合体（ADC）・エンハーツ点滴静注用について、HER2発現の進行・再発子宮がん肉腫に係る効能追加を一変申請したと発表した。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "Sobi Japan 国内初のマクロファージ活性化症候群治療薬・ガミファントを発売",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81228",
+      "source": "ミクスOnline",
+      "published": "2026-11-17T19:49:00Z",
+      "published_label": "2026/11/18 04:49",
+      "summary": "Swedish Orphan Biovitrum Japanは11月16日、国内初の全身型若年性特発性関節炎又は成人発症スチル病に伴うマクロファージ活性化症候群（MAS）治療薬・ガミファント点滴静注液50mg（一般名：エマパルマブ（遺伝子組換え））を発売した。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "ツカチニブ、HER2陽性の切除不能胆道がんに適応拡大／ファイザー",
+      "link": "https://www.carenet.com/news/general/carenet/63988?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-17T19:00:00Z",
+      "published_label": "2026/11/18 04:00",
+      "summary": "ファイザーは2026年11月16日、HER2チロシンキナーゼ阻害薬ツカチニブ（商品名：ツカイザ）について、製造販売承認事項一部変更承認を取得したと発表した。追加された適応は、がん化学療法後に増悪したHER2陽性の…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "経口CGRP受容体拮抗薬「アトゲパント」、片頭痛の急性期治療に適応追加／アッヴィ",
+      "link": "https://www.carenet.com/news/general/carenet/63986?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-17T19:00:00Z",
+      "published_label": "2026/11/18 04:00",
+      "summary": "アッヴィは2026年11月16日、アトゲパント水和物（商品名：アクイプタ錠10mg、同30mg、同60mg）について、成人の片頭痛発作の急性期治療を適応とする国内承認を取得したと発表した。本剤は同年2月に片頭痛発作の発…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "ナノリポソーム型イリノテカン、膵がん1次治療に適応拡大でNALIRIFOX療法が新たな選択肢に／日本セルヴィエ",
+      "link": "https://www.carenet.com/news/general/carenet/63985?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-17T19:00:00Z",
+      "published_label": "2026/11/18 04:00",
+      "summary": "日本セルヴィエは2026年11月16日、イリノテカン塩酸塩水和物（商品名：オニバイド点滴静注43mg）について、治癒切除不能な膵がんの1次治療に係る製造販売承認事項一部変更承認を取得したと発表した。今回の承認に…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "MRD陰性でもOS延長、ブリナツモマブがALLの寛解後療法に適応拡大／アムジェン",
+      "link": "https://www.carenet.com/news/general/carenet/63984?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-17T18:59:50Z",
+      "published_label": "2026/11/18 03:59",
+      "summary": "アムジェンは2026年11月16日に、ブリナツモマブ（商品名：ビーリンサイト点滴静注用35µg）について、「B細胞性急性リンパ性白血病の寛解後療法」の適応追加に関する製造販売承認事項一部変更承認を取得した。今回…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "カナダで「GLP-1離婚」が社会現象に？ 減量薬普及の陰で起きていること",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/emi/202611/594943.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-17T15:00:00Z",
+      "published_label": "2026/11/18 00:00",
+      "summary": "「GLP-１受容体作動薬を使っている患者の間で、離婚が増えてるらしいんだよね」「そういえば、最近うちの薬局でも『GLP−1』を使っている患者さんが離婚した話を聞いたよ」 カナダに帰省した際、かつての同僚薬剤師たちと久しぶりに食事をしていた時のことです。話題に上ったのは、グルカゴン様ペプチド（GLP）-1受容体作動薬を巡る、ある興味深い現象でした。 一見、単なる噂話のようにも聞こえますが、実は同様の話が世界各地で話題になっているようです…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "調剤だけの発想を捨て、今こそ「調剤薬局」から「薬局」へ",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/hazama/202611/595165.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-17T15:00:00Z",
+      "published_label": "2026/11/18 00:00",
+      "summary": "今日は、少し刺激的なお話をしたいと思います。 最初に断っておきますが、「調剤薬局」という名称を使っている薬局が良いとか悪いとか、そういう話ではありません。当社も「ハザマ薬局」という名称ではありますが、長く調剤薬局として事業を行ってきました。 ただ、その名称を考える時期に来ているのではないのかと思うのです。 私の母が、50年前に開局した当時、薬局というのは薬も売っていましたが、その他にも、医療雑貨や衛生材料、粉ミルク、化粧品など、様々な…",
+      "tags": [
+        "薬局経営"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "ニュージーランドヘルスケア紀行 OTC医薬品と食の健康編",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/technoasym/202611/595183.html",
@@ -69,46 +474,6 @@
       "keywords": []
     },
     {
-      "title": "令和8年度 登録販売者試験 試験結果 【西日本】",
-      "link": "https://www.yakuji.co.jp/entry140416.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T02:00:29Z",
-      "published_label": "2026/11/17 11:00",
-      "summary": "情報には万全を期していますが、最終的には各都道府県に確認をお願いいたします。 近畿 試験日 合格発表 合格者数 受験者数 合格率 福井県 – …",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【武田薬品】卵巣癌薬「エラヒア」発売‐新規経口抗てんかん薬も",
-      "link": "https://www.yakuji.co.jp/entry141772.html",
-      "source": "薬事日報",
-      "published": "2026-11-16T23:31:43Z",
-      "published_label": "2026/11/17 08:31",
-      "summary": "新薬が13日に薬価収載され、標準治療であるプラチナ製剤を含む化学療法が効きにくくなった再発卵巣癌患者の選択肢となる武田薬品の「エラヒア」が同日発売された。エー…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【NPhA】中間年改定廃止 再び要望‐安定的な調達さらに困難",
-      "link": "https://www.yakuji.co.jp/entry141769.html",
-      "source": "薬事日報",
-      "published": "2026-11-16T23:30:45Z",
-      "published_label": "2026/11/17 08:30",
-      "summary": "日本保険薬局協会（NPhA）は12日の定例会見で、2027年度薬価改定に向け、中間年改定の廃止などを求める要望書を公表した。昨年の薬価調査結果では平均乖離率が…",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "「やめたい」にどう返す？パキシル・ベンゾの減薬",
       "link": "https://pharmacist.m3.com/column/psychotropic_drug/8008?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -122,34 +487,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【GE・BS学会】低リスクは厳密管理不要に‐ニトロソアミン対応で提言",
-      "link": "https://www.yakuji.co.jp/entry141768.html",
-      "source": "薬事日報",
-      "published": "2026-11-16T21:31:53Z",
-      "published_label": "2026/11/17 06:31",
-      "summary": "日本ジェネリック医薬品・バイオシミラー学会は12日、9月に公表した原薬のニトロソアミン類の管理と運用に関する提言について、オンラインで記者会見を開いた。5項目…",
-      "tags": [
-        "学術・エビデンス",
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【日薬 岩月会長】薬局集約化推進に反論‐予算確保は国の責務",
-      "link": "https://www.yakuji.co.jp/entry141779.html",
-      "source": "薬事日報",
-      "published": "2026-11-16T21:30:35Z",
-      "published_label": "2026/11/17 06:30",
-      "summary": "日本薬剤師会の岩月進会長は11日の定例会見で、財務省が財政制度等審議会財政制度分科会に、薬局の小規模分散体制を是正し集約化・大規模化を進める必要性を指摘したこ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -248,32 +585,6 @@
       "keywords": []
     },
     {
-      "title": "抗てんかん薬セノバメート発売、部分発作に新たな選択肢／小野",
-      "link": "https://www.carenet.com/news/general/carenet/63978?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-16T19:00:00Z",
-      "published_label": "2026/11/17 04:00",
-      "summary": "小野薬品工業は2026年11月13日、てんかん患者の部分発作（二次性全般化発作を含む）に対する治療薬として、セノバメート（商品名：エキスコプリ錠12.5mg、50mg、100mg、200mg）を発売した。本剤は、電位依存性ナ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ゾンゲルチニブ、HER2変異陽性NSCLCの1次治療に適応拡大／ベーリンガーインゲルハイム",
-      "link": "https://www.carenet.com/news/general/carenet/63980?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-16T18:59:50Z",
-      "published_label": "2026/11/17 03:59",
-      "summary": "日本ベーリンガーインゲルハイムは2026年11月16日に、ゾンゲルチニブ（商品名：ヘルネクシオス錠60mg）の適応追加に関する製造販売承認事項一部変更承認を取得したと発表した。適応は、HER2遺伝子変異陽性の切除…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "「都市部は分散、地方は集約すべき」は信じていいのか",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202611/595237.html",
       "source": "日経メディカル Online",
@@ -327,19 +638,6 @@
       "keywords": []
     },
     {
-      "title": "【グラフィックレコーディング～言葉にならない想いを描き、心と未来を繋げる仕事～】第4回 ヘルスケアに「人間らしさ」を Bruce氏に聞く海外の実践 グラフィックレコーダー 吉川観奈",
-      "link": "https://www.yakuji.co.jp/entry141814.html",
-      "source": "薬事日報",
-      "published": "2026-11-16T05:00:50Z",
-      "published_label": "2026/11/16 14:00",
-      "summary": "こんにちは！ヘルスケアを中心にグラフィックレコーダーとして活動している吉川観奈です。 今回は前回のIFVP（https://www.ifvp.org/index…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "薬事審議会 医薬品第二部会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_77353.html",
       "source": "厚生労働省 新着情報",
@@ -350,168 +648,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】後発品企業38社をA区分‐一部企業への発注殺到懸念",
-      "link": "https://www.yakuji.co.jp/entry141775.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T23:31:34Z",
-      "published_label": "2026/11/16 08:31",
-      "summary": "厚生労働省は13日、後発品を製造販売する企業の安定供給の取り組みに関する評価結果を初公表した。2025年度時点で後発品を製造販売する企業185社のうち、品質の…",
-      "tags": [
-        "供給・出荷",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【ロート製薬】目薬6製品を自主回収‐ベトナム拠点で管理不備",
-      "link": "https://www.yakuji.co.jp/entry141771.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T23:30:09Z",
-      "published_label": "2026/11/16 08:30",
-      "summary": "ロート製薬は11日、ベトナムの製造拠点で製造した日本国内向け目薬6製品について、小売店と流通業者の在庫を対象に自主回収すると発表した。製造管理を調査した結果、…",
-      "tags": [
-        "回収",
-        "業界動向"
-      ],
-      "importance": 5,
-      "keywords": []
-    },
-    {
-      "title": "【テルモ 27年3月期第2四半期決算】好調キープ",
-      "link": "https://www.yakuji.co.jp/entry141751.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:45:19Z",
-      "published_label": "2026/11/16 07:45",
-      "summary": "テルモは12日、2027年3月期第2四半期の連結決算を発表した。海外のインターベンショナルシステムズ事業や血液・細胞テクノロジーカンパニーの主要事業が引き続き…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「マジアボタニカ スキンコンディショナー」と『コジコジ』が待望の再コラボ‐限定パッケージが登場 ウテナ",
-      "link": "https://www.yakuji.co.jp/entry141749.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:44:41Z",
-      "published_label": "2026/11/16 07:44",
-      "summary": "ウテナは、ハトムギエキス＆ハーブエキス（すべて保湿成分）配合の大容量化粧水「マジアボタニカ スキンコンディショナー」から、さくらももこ原作の人気作品『コジコジ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【三井化学】南アフリカ共和国に現地法人を設立‐アフリカ市場での事業開発を加速",
-      "link": "https://www.yakuji.co.jp/entry141748.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:43:56Z",
-      "published_label": "2026/11/16 07:43",
-      "summary": "三井化学は、アフリカ市場での事業拡大を目的として、南アフリカ共和国ヨハネスブルグ近郊に現地法人「Mitsui Chemicals Africa (Pty) L…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【メディフォード】「創薬クラスターキャンパス事業」九州地域での2事業が採択",
-      "link": "https://www.yakuji.co.jp/entry141746.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:42:14Z",
-      "published_label": "2026/11/16 07:42",
-      "summary": "メディフォードはこのほど、厚生労働省が推進する「革新的医薬品等実用化支援基金」による事業として、医薬基盤・健康・栄養研究所が公募した「創薬クラスターキャンパス…",
-      "tags": [
-        "法令・行政",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【富士レビオ】「pTau217」検査試薬の製造販売承認を取得",
-      "link": "https://www.yakuji.co.jp/entry141745.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:41:50Z",
-      "published_label": "2026/11/16 07:41",
-      "summary": "富士レビオはこのほど、同社の全自動化学発光酵素免疫測定システム「ルミパルスG1200」および「ルミパルスG600II」で使用する、血漿中の217位リン酸化タウ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "南関東支店を移転へ オージー技研",
-      "link": "https://www.yakuji.co.jp/entry141744.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:40:20Z",
-      "published_label": "2026/11/16 07:40",
-      "summary": "オージー技研は11月13日、同社南関東支店を4月中旬に移転すると発表した。なお、移転までの期間は、仮事務所で営業する。 仮事務所は12月14日から来年4月中…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】国内初のCBP専用液剤「シービーパック持続的血液浄化液」を発売 ニプロ",
-      "link": "https://www.yakuji.co.jp/entry141743.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:39:01Z",
-      "published_label": "2026/11/16 07:39",
-      "summary": "ニプロは11月16日、同月12日付で薬価基準への収載が官報告示された「シービーパック持続的血液浄化液」の販売開始しする。同剤は、「持続的血液浄化療法施行時の補…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【PHC 27年3月期第2四半期決算】大幅増益続く",
-      "link": "https://www.yakuji.co.jp/entry141742.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:38:42Z",
-      "published_label": "2026/11/16 07:38",
-      "summary": "PHCホールディングスは11日、2027年3月期（2026年4月1日～2027年3月31日）の第2四半期（4月1日～9月30日）決算を発表した。売上収益は17…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日本光電 27年3月期第2四半期決算】引き続き減収減益に",
-      "link": "https://www.yakuji.co.jp/entry141740.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:37:11Z",
-      "published_label": "2026/11/16 07:37",
-      "summary": "日本光電工業は10日、2027年3月期第2四半期（2026年4～9月）の連結決算を発表した。売上高は前年同期比4.4％減の1033億6900万円、営業利益は4…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】『トリニティーライン モイスト クリーム』を今年も数量限定発売‐BEAUTY BLACK FRIDAYも同時開催 大正製薬",
-      "link": "https://www.yakuji.co.jp/entry141737.html",
-      "source": "薬事日報",
-      "published": "2026-11-15T22:36:27Z",
-      "published_label": "2026/11/16 07:36",
-      "summary": "大正製薬では、スキンケアブランド「トリニティーライン」より、セラミド高濃度配合の「トリニティーライン モイスト クリーム」を、同社通販サイト「TAISHO B…",
-      "tags": [
-        "業界動向",
-        "承認・新薬"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -911,33 +1047,6 @@
       "keywords": []
     },
     {
-      "title": "武田薬品 TYK2阻害薬・ザソシチニブを承認申請 尋常性乾癬など対象に",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81200",
-      "source": "ミクスOnline",
-      "published": "2026-11-12T19:49:00Z",
-      "published_label": "2026/11/13 04:49",
-      "summary": "武田薬品は11月11日、１日１回経口投与の選択的TYK2阻害薬・ザソシチニブ（一般名、開発コード：TAK-279）について、既存治療で効果不十分な尋常性乾癬、膿疱性乾癬、乾癬性紅皮症を対象疾患に承認申請したと発表した。",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "塩野義製薬 抗菌薬・セフィデロコル、シンガポールとマレーシアの開発・販売でLink社とライセンス契約",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81198",
-      "source": "ミクスOnline",
-      "published": "2026-11-12T19:49:00Z",
-      "published_label": "2026/11/13 04:49",
-      "summary": "塩野義製薬は11月11日、シンガポールのLink Healthcare Singapore Pte Ltdとの間で、グラム陰性菌感染症治療薬・セフィデロコルについて、シンガポールとマレーシアにおける開発・販売に関するライセンス契約を締結したと発表した。",
-      "tags": [
-        "業界動向",
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「円形脱毛症、効果的な薬物療法は？」",
       "link": "https://pharmacist.m3.com/column/movie/7979?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -974,45 +1083,6 @@
         "感染症・ワクチン"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日医・松本会長 物価高騰で27年度改定「減算はあり得ない。プラスしかない」 医薬品は補助金や税制で",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81208",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T22:00:00Z",
-      "published_label": "2026/11/12 07:00",
-      "summary": "日本医師会の松本吉郎会長は11月11日の定例会見で、「物価高騰、賃金上昇が進んでおり、2027年度分としてさらなる予算の確保を求めている」と述べた。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "中医協 米MFN価格政策のラグ・ロスへの影響「全く不明」と診療側・江澤委員 客観的データ求める",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81207",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T21:01:00Z",
-      "published_label": "2026/11/12 06:01",
-      "summary": "中医協薬価専門部会は11月11日、2027年度薬価改定に向けて米国のMFN価格政策をめぐり議論した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "費用対効果 追加的有用性示せず費用増は新たな価格調整方法へ 下げ止めも本体割り込みの可能性も",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81206",
-      "source": "ミクスOnline",
-      "published": "2026-11-11T21:00:00Z",
-      "published_label": "2026/11/12 06:00",
-      "summary": "中医協費用対効果評価専門部会は11月11日、比較技術に対する健康アウトカム指標での改善が示されず、ICERの区分が費用増加となった分析対象集団について、新たな価格調整方法を了承した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
