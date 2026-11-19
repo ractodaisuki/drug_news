@@ -1,8 +1,168 @@
 {
-  "updated_at": "2026-11-19T11:05:37.409138Z",
-  "updated_label": "2026/11/19 20:05",
-  "count": 160,
+  "updated_at": "2026-11-19T19:55:04.633229Z",
+  "updated_label": "2026/11/20 04:55",
+  "count": 159,
   "items": [
+    {
+      "title": "ニプロ・山崎社長 ステミラック注本承認 投与可能施設は50～60施設 アジア・北米視野に海外展開も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81253",
+      "source": "ミクスOnline",
+      "published": "2026-11-19T19:52:00Z",
+      "published_label": "2026/11/20 04:52",
+      "summary": "ニプロの山崎剛司代表取締役社長執行役員は11月19日の会見で、条件及び期限付承認制度で初の本承認を取得した脊髄損傷治療用再生医療等製品「ステミラック注」について、「本承認はゴールではなく新たなスタートだ」と強調した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "田辺ファーマ イスラエルの完全子会社ニューロダームの事業活動を終了 経営資源の戦略的配分踏まえ判断",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81254",
+      "source": "ミクスOnline",
+      "published": "2026-11-19T19:51:00Z",
+      "published_label": "2026/11/20 04:51",
+      "summary": "田辺ファーマは11月19日、海外連結子会社のニューロダーム（本社：イスラエル）の事業活動を終了すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "自民党創薬力強化PT 日米欧製薬３団体から意見聴取 米MFNへの機動的対応と創薬・製造基盤で予算支援...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81251",
+      "source": "ミクスOnline",
+      "published": "2026-11-19T19:51:00Z",
+      "published_label": "2026/11/20 04:51",
+      "summary": "自民党社会保障制度調査会「創薬力の強化育成等に関するプロジェクトチーム」（橋本岳座長）は11月19日、日米欧製薬団体と有識者からヒアリングを行った。",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "AZ 福島県と乳がん受診支援 医療機関のアクセスや専門性など検索するツール提供",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81252",
+      "source": "ミクスOnline",
+      "published": "2026-11-19T19:50:00Z",
+      "published_label": "2026/11/20 04:50",
+      "summary": "アストラゼネカは11月18日、福島県および福島県がん診療連携協議会と連携し、乳がん検診の精密検査受診を支援する「福島県乳がん検診受診支援プロジェクト」を始動したと発表した。検査受診者が、医療機関へのアクセスや診療実績、専門性など、受診する際に必要な情報を確認できる病院検索ツールを提供するというもの。2027年３月頃までに県内での利用開始を目指す。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アッヴィ スキリージの55mgシリンジを発売 ４つの乾癬適応で６歳以上・40kg未満の小児に投与可能...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81242",
+      "source": "ミクスOnline",
+      "published": "2026-11-19T19:49:00Z",
+      "published_label": "2026/11/20 04:49",
+      "summary": "アッヴィは11月18日、ヒト化抗ヒトIL-23p19モノクローナル抗体製剤・スキリージ（一般名：リサンキズマブ（遺伝子組換え））の新剤形となるスキリージ皮下注55mgプレフィルドシリンジを発売した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ ９月の患者数は推計約64万人 過去10年で最多 10代の割合が例年と比べ低く",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81075",
+      "source": "ミクスOnline",
+      "published": "2026-11-19T19:49:00Z",
+      "published_label": "2026/11/20 04:49",
+      "summary": "2026年９月のインフルエンザ治療薬の推計処方患者数が約64万人だったことがわかった。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "経口GLP-1薬orforglipron、日本人肥満症患者で平均8.7％の体重減少／千葉大学",
+      "link": "https://www.carenet.com/news/general/carenet/63950?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-19T19:00:00Z",
+      "published_label": "2026/11/20 04:00",
+      "summary": "日本人の肥満症患者を対象に、1日1回の非ペプチド性低分子経口GLP-1受容体作動薬orforglipronの有効性と安全性を検討した第III相ATTAIN-J試験の結果、orforglipron 12mg群で平均8.7％の体重減少が認められたこと…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "残薬の関連要因に年齢差――単一施設の後ろ向き解析",
+      "link": "https://www.carenet.com/news/general/hdnj/63867?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-19T19:00:00Z",
+      "published_label": "2026/11/20 04:00",
+      "summary": "処方された薬が飲み切れずに残る「残薬」は、服薬アドヒアランスに関連する課題の一つだ。今回、残薬の発生に関連する要因は年齢によって異なり、若年層では長期処方、高齢者では処方薬数の多さや複数診療科の受…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "限定出荷続くユベラ軟膏に再び注目集まる",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202611/595283.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-19T15:00:00Z",
+      "published_label": "2026/11/20 00:00",
+      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年11月8〜14日のランキングです。",
+      "tags": [
+        "供給・出荷"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "片頭痛予防薬の抗CGRP抗体に初の点滴静注製剤",
+      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202611/595284.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-19T15:00:00Z",
+      "published_label": "2026/11/20 00:00",
+      "summary": "2026年11月13日、片頭痛予防薬エプチネズマブ（遺伝子組換え）（商品名ビエプチ点滴静注100mg）が薬価収載と同時に発売された。同薬は、9月16日に製造販売が承認されていた。適応は「片頭痛発作の発症抑制」、用法用量は「成人に100mgを12週間隔で点滴静注する」となっている。 片頭痛は、一次性頭痛の中でも比較的頻度が高い疾患で、前兆を伴うタイプと伴わないタイプがある。痛みは一般的に片側性および拍動性で、中等度から重度の頭痛発作が繰…",
+      "tags": [
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "自主回収だけでは終わらない、ニトロソアミン問題",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595270.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-19T15:00:00Z",
+      "published_label": "2026/11/20 00:00",
+      "summary": "医薬品からニトロソアミン類が検出される事例が、ここ数年続いています。自主回収後、対策を講じて通常出荷を継続・再開した企業がある一方、限定出荷が続く企業や、供給を停止した企業もあります。こうした対応の違いはなぜ起こるのでしょうか。",
+      "tags": [
+        "回収",
+        "供給・出荷"
+      ],
+      "importance": 5,
+      "keywords": []
+    },
+    {
+      "title": "レケンビ注に「重大な副作用」追加",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/sako/202611/595297.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-19T15:00:00Z",
+      "published_label": "2026/11/20 00:00",
+      "summary": "認知症進行抑制薬のレケンビ注（一般名レカネマブ［遺伝子組換え］）の重大な副作用に「アナフィラキシー」が追加されました。2026年11月13日に薬価収載されたレケンビ皮下注にも、同副作用が追加されています。 抗血小板薬のブリリンタ錠（チカグレロル）の併用禁忌に「ロナファルニブ」が追加されました。これは、早老症治療薬のゾキンヴィカプセルとの整合性を図るための追加です。また、薬剤名等に記載されていた薬剤の分類「強いCYP3A阻害剤」「強いC…",
+      "tags": [
+        "安全性情報",
+        "承認・新薬",
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「逆流性食道炎の患者の処方が、ネキシウムCapからガスター錠へ変更された理由は？」",
       "link": "https://pharmacist.m3.com/column/movie/7984?promotionCode=op_pcolumn",
@@ -53,19 +213,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "P-CABの保険適用範囲は？",
-      "link": "https://www.carenet.com/series/exam/cg005251_075.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-19T01:00:08Z",
-      "published_label": "2026/11/19 10:00",
-      "summary": "CareNeTVの人気番組「内科専門医試験 バーチャル模試」から、毎週1問クイズ形式で紹介。受験予定者も現役医師も楽しみながら知識の確認とスキルアップができる、実力試しコンテンツです。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -291,45 +438,6 @@
         "承認・新薬"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "ウパダシチニブ、重症円形脱毛症に適応拡大／アッヴィ",
-      "link": "https://www.carenet.com/news/general/carenet/63990?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-18T19:00:00Z",
-      "published_label": "2026/11/19 04:00",
-      "summary": "アッヴィは2026年11月16日、ヤヌスキナーゼ（JAK）阻害薬ウパダシチニブ水和物（商品名：リンヴォック錠）について、円形脱毛症（脱毛部位が広範囲に及ぶ難治の場合に限る）に対する製造販売承認事項一部変更承認…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "スチル病の初期治療に新たな選択肢、アナキンラ発売／Sobi Japan",
-      "link": "https://www.carenet.com/news/general/carenet/63954?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-18T19:00:00Z",
-      "published_label": "2026/11/19 04:00",
-      "summary": "Sobi Japanは、全身型若年性特発性関節炎（sJIA）と成人発症スチル病（AOSD）の治療薬アナキンラ（商品名：キネレット）の2026年8月の発売に寄せ、「全身型若年性特発性関節炎と成人発症スチル病に初期治療で利用…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "RAS阻害薬vs.Ca拮抗薬、認知症リスクの比較",
-      "link": "https://www.carenet.com/news/general/carenet/63948?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-18T19:00:00Z",
-      "published_label": "2026/11/19 04:00",
-      "summary": "中国・南方医科大学のYinfang Sun氏らは、これまで降圧薬治療を受けていなかった成人高血圧患者を対象に、レニン・アンジオテンシン系（RAS）阻害薬が、カルシウム（Ca）拮抗薬と比較し、血圧管理とは独立して認…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -823,46 +931,6 @@
       "keywords": []
     },
     {
-      "title": "「都市部は分散、地方は集約すべき」は信じていいのか",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/kumagai/202611/595237.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-16T15:00:00Z",
-      "published_label": "2026/11/17 00:00",
-      "summary": "先日、財務省の財政制度分科会が開催されました。資料を見ると、薬局に対して「集約化・適正化が不可欠」「小規模分散体制は、対人業務の充実や安定的な医薬品供給の観点から問題」「集約化や大規模化も含め取り組む必要」などと、厳しい指摘が並んでいます。確かに一理あるようにも聞こえますが、現場の視点から見ると、どうにも釈然としない思いが残ります。というのも、今の薬局の形だって、それなりの「効率化」や「集約化」の結果だからです。効率化や集約化を考える…",
-      "tags": [
-        "薬価・制度",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "抗インフルエンザ薬の使い分け、耐性リスクは？",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/t253/202611/595220.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-16T15:00:00Z",
-      "published_label": "2026/11/17 00:00",
-      "summary": "2026/27シーズンのインフルエンザへの対応について、前編では、直近の流行状況と診断時のポイントについて解説した。後編では、抗インフルエンザ薬による治療、およびワクチン接種による予防について解説する。抗インフルエンザ薬の有用性は変わっていないが、患者の状態やウイルスの型、耐性リスクに応じた適切な薬剤選択が求められる。 また、今シーズンも新型コロナウイルス感染症（COVID-19）との同時流行が予測される中、予防の面では、引き続きイン…",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "ニトロソアミン問題、長期化する背景を探る",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595229.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-16T15:00:00Z",
-      "published_label": "2026/11/17 00:00",
-      "summary": "医薬品からニトロソアミン類が検出される事例が、ここ数年続いている。なぜ様々な種類の医薬品で発生するのか。そして、最初の事例から8年経過したが、なぜ解決していないのか。問題の現状を探る。",
-      "tags": [
-        "回収"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「保険除外すべきOTC類似薬、湿布が最多に」",
       "link": "https://pharmacist.m3.com/column/movie/7981?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -940,88 +1008,6 @@
         "供給・出荷"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "サワイGHD・中手常務執行役員 企業指標「Ａ」区分 「しっかり安定共有に資する取り組みを継続したい」",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81218",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T19:52:00Z",
-      "published_label": "2026/11/16 04:52",
-      "summary": "サワイグループホールディングスの中手利臣取締役常務執行役員（沢井製薬社長）は11月13日の27年3月期第2四半期決算説明会で、厚労省の安定供給に関する企業指標で沢井製薬とメディサ新薬が「Ａ」区分に認定されたことについて、「しっかり安定供給に資する取り組みを継続したい」と強調した。",
-      "tags": [
-        "業界動向",
-        "供給・出荷",
-        "承認・新薬"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "スズケン・浅野社長 次世代卸へ実装加速「処方元に選ばれる」存在に デジタルの日常利用でフィー創出",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81221",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T19:51:00Z",
-      "published_label": "2026/11/16 04:51",
-      "summary": "スズケンの浅野茂代表取締役社長は11月13日の2026年度第２四半期決算説明会で、新中計の柱の「次世代卸への進化」に向け、デジタル新サービスの投入と市場浸透を加速させると表明した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "東邦ＨＤ・馬田COO DX活用の計画配送で配送回数を今期12.5％削減 中計最終の29年度に21％...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81219",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T19:51:00Z",
-      "published_label": "2026/11/16 04:51",
-      "summary": "東邦ホールディングスの馬田明取締役専務執行役員COO（東邦薬品社長）は11月13日、27年3月期中間期決算説明会で、計画配送の実現により配送回数を今期末までに12.5％削減する計画を明らかにした。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "富士製薬 26年9月期決算は2年連続の2ケタ成長 女性医療・バイオシミラーの全売上比率６割が視野に",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81224",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T19:50:00Z",
-      "published_label": "2026/11/16 04:50",
-      "summary": "富士製薬は11月13日、2026年9月期決算の売上高が前期比20.7%増の623億8600万円、営業利益が同27.4%増の63億5500万円の増収増益だったと発表した。",
-      "tags": [
-        "業界動向",
-        "承認・新薬"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "日本新薬・中井社長 細胞医療製品「CAP-1002」発売時期未定で業績下方修正 収益構造改革で利益確...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81217",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T19:50:00Z",
-      "published_label": "2026/11/16 04:50",
-      "summary": "日本新薬の中井亨代表取締役社長は11月13日の2026年度第2四半期（中間期）決算説明会で、米国販売権を持つデュシェンヌ型筋ジストロフィー（DMD）に対する細胞医療製品「CAP-1002（一般名：デラミオセル）」の発売時期が未定であることを理由に通期業績予想の下方修正を発表した。",
-      "tags": [
-        "承認・新薬",
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "ヘルスケア産業PF 新代表に武田薬品労組の青木氏を選任 組織基盤強化と雇用・生活の安定実現に注力",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81223",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T19:49:00Z",
-      "published_label": "2026/11/16 04:49",
-      "summary": "医薬関連労組で構成するヘルスケア産業プラットフォームは11月13日に開催した総会で、新たな代表に事務局長の青木寛晃氏（武田薬品労働組合）を選任した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
