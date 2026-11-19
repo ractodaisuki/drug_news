@@ -1,10 +1,10 @@
 {
   "state": "success",
   "message": "更新成功",
-  "last_success_at": "2026-11-18T19:56:04Z",
-  "article_count": 160,
-  "last_completed_at": "2026-11-18T19:56:04Z",
+  "last_success_at": "2026-11-19T02:14:12Z",
+  "article_count": 165,
+  "last_completed_at": "2026-11-19T02:14:12Z",
   "last_failure_at": "",
-  "run_url": "https://github.com/ractodaisuki/drug_news/actions/runs/44385575857",
-  "updated_at": "2026-11-18T19:56:04Z"
+  "run_url": "https://github.com/ractodaisuki/drug_news/actions/runs/44442759971",
+  "updated_at": "2026-11-19T02:14:12Z"
 }

@@ -1,8 +1,140 @@
 {
-  "updated_at": "2026-11-18T19:56:03.563438Z",
-  "updated_label": "2026/11/19 04:56",
-  "count": 160,
+  "updated_at": "2026-11-19T02:14:11.008369Z",
+  "updated_label": "2026/11/19 11:14",
+  "count": 165,
   "items": [
+    {
+      "title": "P-CABの保険適用範囲は？",
+      "link": "https://www.carenet.com/series/exam/cg005251_075.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-19T01:00:08Z",
+      "published_label": "2026/11/19 10:00",
+      "summary": "CareNeTVの人気番組「内科専門医試験 バーチャル模試」から、毎週1問クイズ形式で紹介。受験予定者も現役医師も楽しみながら知識の確認とスキルアップができる、実力試しコンテンツです。",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【安定供給部会】国産原薬優遇案を疑問視‐政府のMCM戦略踏まえ",
+      "link": "https://www.yakuji.co.jp/entry141869.html",
+      "source": "薬事日報",
+      "published": "2026-11-18T23:31:57Z",
+      "published_label": "2026/11/19 08:31",
+      "summary": "厚生科学審議会医療用医薬品迅速・安定供給部会は13日、3月に閣議決定された政府の感染症危機対応医薬品等（MCM）戦略を踏まえ、MCMの持続可能な生産体制の構築…",
+      "tags": [
+        "供給・出荷",
+        "感染症・ワクチン"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【ゼリア新薬27年3月期中間決算】海外事業好調で増収増益‐ヘパリーゼ群は微減",
+      "link": "https://www.yakuji.co.jp/entry141877.html",
+      "source": "薬事日報",
+      "published": "2026-11-18T23:30:58Z",
+      "published_label": "2026/11/19 08:30",
+      "summary": "ゼリア新薬の2027年3月期中間決算は、売上高が前年同期比13.8％増の455億円、営業利益が55.1％増の56億円、経常利益が95.4％増の52億円、中間純…",
+      "tags": [
+        "承認・新薬",
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【第一三共ヘルスケア】乾燥するのに、べたつき・毛穴も気になる「敏感肌かつ混合肌」の特徴を多面的に解析",
+      "link": "https://www.yakuji.co.jp/entry141939.html",
+      "source": "薬事日報",
+      "published": "2026-11-18T22:33:01Z",
+      "published_label": "2026/11/19 07:33",
+      "summary": "第一三共ヘルスケアは、敏感肌に悩む方の中でも、肌の乾燥だけではなく、皮脂のべたつきや毛穴が目立つ「敏感肌かつ混合肌」に着目し、その特徴を多面的に解析した。その…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士レビオ】血漿中β－アミロイド1‐42検査薬、製造販売承認を取得",
+      "link": "https://www.yakuji.co.jp/entry141937.html",
+      "source": "薬事日報",
+      "published": "2026-11-18T22:32:42Z",
+      "published_label": "2026/11/19 07:32",
+      "summary": "富士レビオは11月18日、同社の全自動化学発光酵素免疫測定システム「ルミパルスG1200」および「ルミパルスG600II」で使用する、血漿中のβ-アミロイド1…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】Bluetooth内蔵の上腕式血圧計「UA-652BLE Plus」を発売へ A＆D",
+      "link": "https://www.yakuji.co.jp/entry141935.html",
+      "source": "薬事日報",
+      "published": "2026-11-18T22:31:56Z",
+      "published_label": "2026/11/19 07:31",
+      "summary": "エー・アンド・デイは11月25日、健康管理用でBluetooth通信機能を搭載した上腕式血圧計「UA-652BLE Plus」を発売する。 同製品では、測定…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【オムロンHC】秋冬の血圧測定と寒暖差対策を調査‐冬に血圧測定頻度を増やすのはわずか4.3％",
+      "link": "https://www.yakuji.co.jp/entry141934.html",
+      "source": "薬事日報",
+      "published": "2026-11-18T22:30:06Z",
+      "published_label": "2026/11/19 07:30",
+      "summary": "オムロンヘルスケアは11月17日、血圧が高くなりやすい寒い季節の到来にあわせ、直近1年以内に健康診断または人間ドックで血圧を測定した40～70代の男女1000…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "ビレーズトリ7.2と14.4の違いは？｜COPDと喘息で異なる配合量と新薬の処方日数制限",
+      "link": "https://yakuzaic.com/archives/144612",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-11-18T22:00:00Z",
+      "published_label": "2026/11/19 07:00",
+      "summary": "ビレーズトリ7.2エアロスフィアとビレーズトリ14.4エアロスフィア ビレーズトリ14.4エアロスフィアが2026年10月15日に発売された。 ビレーズトリといえば、慢性閉塞性肺疾患（COPD）に使用するICS・LAMA […] The post ビレーズトリ7.2と14.4の違いは？｜COPDと喘息で異なる配合量と新薬の処方日数制限 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【ENSEMBLExJ】海外開発品導入を促進‐癌以外の全疾患領域に拡大",
+      "link": "https://www.yakuji.co.jp/entry141872.html",
+      "source": "薬事日報",
+      "published": "2026-11-18T21:31:28Z",
+      "published_label": "2026/11/19 06:31",
+      "summary": "ドラッグラグ・ロスの解消を目指す産官学連携プロジェクト「ENSEMBLExJ（アンサンブルクロスジェイ）」は13日、都内でキックオフシンポジウムを開いた。国立…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【楽天メディカル】新たな光免疫療法で治験‐PD-L1を標的",
+      "link": "https://www.yakuji.co.jp/entry141875.html",
+      "source": "薬事日報",
+      "published": "2026-11-18T21:30:24Z",
+      "published_label": "2026/11/19 06:30",
+      "summary": "楽天メディカルは、癌免疫を抑えるPD-L1を標的にした新たな光免疫療法として開発中の「RM-0256」を日本で臨床開発入りさせ、最初の被験者に投与した。同社は…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "塩野義製薬・手代木社長CEO 米国IntraBio社の買収完了を報告 グローバルで希少疾患領域を強化...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81247",
@@ -142,6 +274,19 @@
       "published": "2026-11-18T19:00:00Z",
       "published_label": "2026/11/19 04:00",
       "summary": "中国・南方医科大学のYinfang Sun氏らは、これまで降圧薬治療を受けていなかった成人高血圧患者を対象に、レニン・アンジオテンシン系（RAS）阻害薬が、カルシウム（Ca）拮抗薬と比較し、血圧管理とは独立して認…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "胆石症の考え方と漢方処方",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/koui/202611/595141.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-18T15:00:00Z",
+      "published_label": "2026/11/19 00:00",
+      "summary": "胆石症は、胆道に結石が形成される疾患です。胆道は肝臓と十二指腸をつなぐ管で、肝臓で作られた胆汁が、この管を通って十二指腸に運ばれます。胆汁は1日に500～1000mLほど肝臓で作られ、飲食物中の脂肪の消化・吸収を助け、不要なコレステロールや老廃物の排泄にも関与します。 胆石は、胆汁の成分であるビリルビンやコレステロールが結晶化することにより生じます。胆嚢は胆道の途中にあり、胆汁をためて濃縮し、食事に合わせて消化に必要なときに収縮し、ポ…",
       "tags": [
         "その他"
       ],
@@ -433,72 +578,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【NPhA】薬剤師需給推計で意見書‐将来の業務量反映求める",
-      "link": "https://www.yakuji.co.jp/entry141871.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T21:30:51Z",
-      "published_label": "2026/11/18 06:30",
-      "summary": "日本保険薬局協会（NPhA）は12日、厚生労働省が今年度内に公表する薬剤師需給推計について、現在の業務量や就業実態を検証すると共に、将来求められる業務の拡充を…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】ステラーラBS発売 ニプロ",
-      "link": "https://www.yakuji.co.jp/entry141864.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T21:04:49Z",
-      "published_label": "2026/11/18 06:04",
-      "summary": "ニプロ＝13日、「ステラーラ」（ヤンセンファーマ）のバイオ後続品である「ウステキヌマブBS点滴静注130mg『ニプロ』」を新発売した。適応は、中等症から重症の…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "21日に島根でラグビーイベント‐競技環境充実に貢献 大正製薬",
-      "link": "https://www.yakuji.co.jp/entry141860.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T21:03:31Z",
-      "published_label": "2026/11/18 06:03",
-      "summary": "大正製薬は21日、島根県松江市の松江市北公園多目的広場で、ラグビーユーチューブチャンネル「らぐびーくえすと」と連携したラグビーイベントを開催する。地域のラグビ…",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】吸収率確立されたクレアチン‐「DNS」から発売 第一三共ヘルスケア",
-      "link": "https://www.yakuji.co.jp/entry141855.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T21:02:10Z",
-      "published_label": "2026/11/18 06:02",
-      "summary": "第一三共ヘルスケアは、スポーツサプリメントブランド「DNS」から、スポーツやトレーニングに取り組み、瞬発力を求める人向けに「クレアチン・モノハイドレート」を新…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "専門薬剤師制度の議論再燃",
-      "link": "https://www.yakuji.co.jp/entry141841.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T21:01:36Z",
-      "published_label": "2026/11/18 06:01",
-      "summary": "◆専門薬剤師制度の質の保証に向けた第三者評価の必要性が厚生労働省の懇談会で議論になった。厚生労働科学研究班からは、専門薬剤師の第三者評価・認証機関として「専門薬…",
-      "tags": [
-        "法令・行政",
-        "学術・エビデンス"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -1840,19 +1919,6 @@
         "服薬指導"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い",
-      "link": "https://yakuzaic.com/archives/144508",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-28T22:00:00Z",
-      "published_label": "2026/09/29 07:00",
-      "summary": "目のサプリメント 「最近、目が悪くなってきた」 そんなときに、ドラッグストアのサプリメント売り場を見ると、・ブルーベリー・ルテイン・ゼアキサンチン・アスタキサンチン・DHA・EPAなど、「目によさそう」な成分がたくさん並 […] The post 目のサプリは何を選ぶ？ブルーベリー・ルテイン・アスタキサンチンの違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
