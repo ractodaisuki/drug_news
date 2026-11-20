@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-20T10:52:51.265430Z",
-  "updated_label": "2026/11/20 19:52",
-  "count": 157,
+  "updated_at": "2026-11-20T19:35:22.979324Z",
+  "updated_label": "2026/11/21 04:35",
+  "count": 158,
   "items": [
+    {
+      "title": "SU薬は3剤に集約、３位グリベンクラミドの支持が最も拡大",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202611/595265.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-20T15:00:00Z",
+      "published_label": "2026/11/21 00:00",
+      "summary": "日経メディカル Onlineの医師会員を対象に、SU薬のうち最も処方頻度の高いものを聞いたところ、63.2％の医師がグリメピリド（商品名アマリール他）と回答した。 第2位のグリクラジド（グリミクロン他）は21.6％、第3位のグリベンクラミド（オイグルコン他）は15.3％の医師が最も処方頻度の高い薬剤として選んだ。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "令和８年度 感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77581.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-20T12:21:00Z",
+      "published_label": "2026/11/20 21:21",
+      "summary": "",
+      "tags": [
+        "法令・行政",
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
     {
       "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
@@ -1010,19 +1037,6 @@
         "薬剤師コラム"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会 医薬品第二部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77353.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-16T05:00:00Z",
-      "published_label": "2026/11/16 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
