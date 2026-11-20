@@ -1,8 +1,142 @@
 {
-  "updated_at": "2026-11-19T19:55:04.633229Z",
-  "updated_label": "2026/11/20 04:55",
-  "count": 159,
+  "updated_at": "2026-11-20T01:59:55.924209Z",
+  "updated_label": "2026/11/20 10:59",
+  "count": 160,
   "items": [
+    {
+      "title": "BMI18でGLP-1薬を処方、自由が過ぎる診療実態とは",
+      "link": "https://www.carenet.com/hihyofri/337.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-20T01:00:06Z",
+      "published_label": "2026/11/20 10:00",
+      "summary": "美容・痩身目的でGLP-1受容体作動薬などを使い、ケトーシスやケトアシドーシスで入院した症例をPMDAが公表しました。村上氏がオンライン診療の定期購入トラブルや日豪の広告規制の違いを取り上げます。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師免許の申請手続き等について",
+      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-20T01:00:00Z",
+      "published_label": "2026/11/20 10:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "【27年度介護報酬改定】老健の薬剤師評価拡充か‐医療・介護連携を強化へ",
+      "link": "https://www.yakuji.co.jp/entry141994.html",
+      "source": "薬事日報",
+      "published": "2026-11-19T23:31:56Z",
+      "published_label": "2026/11/20 08:31",
+      "summary": "来年6月に施行予定の2027年度介護報酬改定では、介護老人保健施設（老健）と介護医療院で、薬剤師による入所時から入所中までの継続的な薬学的管理を通じた薬物療法…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【医療保険部会】次期適正化計画の論点議論‐地域フォーミュラリに意見",
+      "link": "https://www.yakuji.co.jp/entry141991.html",
+      "source": "薬事日報",
+      "published": "2026-11-19T23:30:31Z",
+      "published_label": "2026/11/20 08:30",
+      "summary": "社会保障審議会医療保険部会は17日、2030年度からの第5期医療費適正化計画に向けた論点を議論した。厚生労働省は、後発品の使用促進、地域フォーミュラリ、多剤・…",
+      "tags": [
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "特定要指導医薬品と要指導医薬品の違いとは？―緊急避妊薬と新しい販売制度",
+      "link": "https://yakuzaic.com/archives/144870",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-11-19T22:00:00Z",
+      "published_label": "2026/11/20 07:00",
+      "summary": "特定要指導医薬品と要指導医薬品の違い 2026年5月1日から、医薬品の販売制度が変わり、新たに「特定要指導医薬品」という区分が設けられた。 これまで「要指導医薬品」といえば、薬剤師が対面で情報提供・指導を行い、販売する医 […] The post 特定要指導医薬品と要指導医薬品の違いとは？―緊急避妊薬と新しい販売制度 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【医療安全情報】注射剤で投与間隔間違い‐スケジュール管理喚起",
+      "link": "https://www.yakuji.co.jp/entry141988.html",
+      "source": "薬事日報",
+      "published": "2026-11-19T21:31:34Z",
+      "published_label": "2026/11/20 06:31",
+      "summary": "日本医療機能評価機構は医療安全情報を公表し、1週間以上の投与間隔を空ける注射薬について、投与スケジュールの確認と医療従事者間での情報共有を呼びかけた。2018…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【PhRMA】拡大案「到底容認できず」‐費用対評価に不満表明",
+      "link": "https://www.yakuji.co.jp/entry141987.html",
+      "source": "薬事日報",
+      "published": "2026-11-19T21:30:48Z",
+      "published_label": "2026/11/20 06:30",
+      "summary": "米国研究製薬工業協会（PhRMA）は16日、中央社会保険医療協議会費用対効果評価専門部会で厚生労働省が示した費用対効果評価による薬価引き下げの拡大案について「…",
+      "tags": [
+        "薬価・制度",
+        "法令・行政",
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】冬の街彩る輝きを表現‐「消臭力」から数量限定品 エステー",
+      "link": "https://www.yakuji.co.jp/entry141980.html",
+      "source": "薬事日報",
+      "published": "2026-11-19T21:03:56Z",
+      "published_label": "2026/11/20 06:03",
+      "summary": "エステーは、消臭芳香剤「消臭力」のワンランク上の上質な香りを届ける「消臭力PremiumAroma（プレミアムアロマ）」シリーズから、冬の街を彩るイルミネーシ…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "後発品企業指標はもっと透明化を",
+      "link": "https://www.yakuji.co.jp/entry141976.html",
+      "source": "薬事日報",
+      "published": "2026-11-19T21:02:10Z",
+      "published_label": "2026/11/20 06:02",
+      "summary": "厚生労働省は、後発品を製造販売する企業の安定供給の取り組みに関する評価結果を初めて公表した。後発品企業の安定供給力を指標化し、医療機関や薬局に見える化すること…",
+      "tags": [
+        "供給・出荷",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "専門職ならではのメリットを",
+      "link": "https://www.yakuji.co.jp/entry141975.html",
+      "source": "薬事日報",
+      "published": "2026-11-19T21:01:25Z",
+      "published_label": "2026/11/20 06:01",
+      "summary": "◆先日、獣医療への薬剤師の関与を議論するシンポジウムを聴講した。現在、伴侶動物の高齢化が進み、慢性疾患や多剤併用の症例は増加している。それに伴い、薬剤師の専門性…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "ニプロ・山崎社長 ステミラック注本承認 投与可能施設は50～60施設 アジア・北米視野に海外展開も",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81253",
@@ -572,97 +706,6 @@
       "keywords": []
     },
     {
-      "title": "【八戸薬剤師会】遠隔診療と地域薬局連携へ‐平時の組織力を災害時も",
-      "link": "https://www.yakuji.co.jp/entry141866.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T23:31:23Z",
-      "published_label": "2026/11/18 08:31",
-      "summary": "青森県の八戸薬剤師会は、オンライン診療と地域薬局の連携を平時から構築し、災害時には災害対応医薬品供給車両「モバイルファーマシー」を組み合わせ、診察・処方から調…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【厚労省】「ステミラック」が本承認‐新医薬品など21品目承認",
-      "link": "https://www.yakuji.co.jp/entry141874.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T23:30:14Z",
-      "published_label": "2026/11/18 08:30",
-      "summary": "厚生労働省は16日、脊髄損傷に伴う神経症候・機能障害の改善などに用いるニプロの「ステミラック注」を条件・期限付き承認の再生医療等製品としては初めて本承認とした…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「CLAYGE」から、“まるでマシュマロ”新感覚の濃密炭酸泡洗顔が新登場 多田",
-      "link": "https://www.yakuji.co.jp/entry141900.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T22:40:23Z",
-      "published_label": "2026/11/18 07:40",
-      "summary": "多田（本社：兵庫県神戸）は、ブランド累計販売数4000万個突破（2026年10月20日までにおけるCLAYGEブランドの累計出荷実績）のクレイケアブランドCL…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【アルケア】武蔵野大看護学部学生が千葉工場見学‐オストメイトの生活支えるものづくり体感",
-      "link": "https://www.yakuji.co.jp/entry141895.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T22:38:35Z",
-      "published_label": "2026/11/18 07:38",
-      "summary": "アルケアは10月9日、武蔵野大学看護学部の学生3人と教員2人を、国産唯一のストーマ装具メーカーである同社千葉工場に迎え、製造工程の見学や製造体験、社員との座談…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【日立製作所】AIエージェントへの「本人の委任」を証明する委任証明技術を開発",
-      "link": "https://www.yakuji.co.jp/entry141894.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T22:37:19Z",
-      "published_label": "2026/11/18 07:37",
-      "summary": "日立製作所は11月17日、AIエージェントが人に代わって取引や決済、各種の業務、システム運用などを行う際に、本人が承認した委任であることを証明できる委任証明技…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【島津製作所】GHGに出資、GX分野で資本業務提携‐農業の脱炭素化に取り組む",
-      "link": "https://www.yakuji.co.jp/entry141892.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T22:36:47Z",
-      "published_label": "2026/11/18 07:36",
-      "summary": "",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "【第一三共ヘルスケア】キメを支える“基底膜”のコラーゲン産生量低下を抑制する成分を確認",
-      "link": "https://www.yakuji.co.jp/entry141891.html",
-      "source": "薬事日報",
-      "published": "2026-11-17T22:35:44Z",
-      "published_label": "2026/11/18 07:35",
-      "summary": "第一三共ヘルスケアは、肌の透明感に関する研究において、加齢に伴い蓄積するAGEs（終末糖化産物）が表皮細胞において基底膜構成因子であるIV型コラーゲン産生量を…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "デロイト調査 生成AI時代の代替チャネル MR／MSL選択医師は2割と低率 価値届ける情報提供者は高...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81241",
       "source": "ミクスOnline",
@@ -1135,19 +1178,6 @@
         "薬剤師コラム"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "厚生科学審議会感染症部会第２８回新型インフルエンザ対策に関する小委員会 ・第１３回危機対応医薬品等に関する小委員会についてを開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77300.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-12T05:00:00Z",
-      "published_label": "2026/11/12 14:00",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1810,19 +1840,6 @@
         "医療過誤・ヒヤリハット"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "尿路結石に使う薬は？適応のある薬・ない薬の違い",
-      "link": "https://yakuzaic.com/archives/144520",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-09-29T22:00:00Z",
-      "published_label": "2026/09/30 07:00",
-      "summary": "尿路結石に使う薬 尿路結石の患者に処方される薬には、ウロカルンやウラリットなどがあります。 一方、タムスロシンなどのα1遮断薬が尿管結石の排石目的で使われることもあります。 しかし、「尿路結石に使われている薬＝尿路結石の […] The post 尿路結石に使う薬は？適応のある薬・ない薬の違い first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
