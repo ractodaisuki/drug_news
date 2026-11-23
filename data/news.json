@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-11-22T18:59:48.021374Z",
-  "updated_label": "2026/11/23 03:59",
-  "count": 159,
+  "updated_at": "2026-11-23T01:22:56.313511Z",
+  "updated_label": "2026/11/23 10:22",
+  "count": 160,
   "items": [
+    {
+      "title": "PCAポンプ使用患者への訪問で算定する加算は？",
+      "link": "https://pharmacist.m3.com/column/kurumi/8020?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-23T01:22:55.093714Z",
+      "published_label": "2026/11/23 10:22",
+      "summary": "「PCAポンプ」を医療機関に貸し出すとき、薬局に必要な許可とはなんでしょうか？PCAポンプ使用患者への訪問で薬局が算定する「在宅患者医療用麻薬持続注射療法加算」の要件や併算定の可否、医療機関側の注入ポンプ加算まで令和8年度改定に沿って整理します。在宅の疼痛管理で迷わないためのポイントを押さえましょう。",
+      "tags": [
+        "薬剤師コラム",
+        "医薬品情報・DI",
+        "薬物療法・作用機序",
+        "服薬指導",
+        "疾患・病態"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "国産「針なし注射器」でインフルワクチン、従来法より抗体価は高い？",
+      "link": "https://www.carenet.com/series/trend/cg001195_036.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-23T01:00:10Z",
+      "published_label": "2026/11/23 10:00",
+      "summary": "自動車のエアバッグ技術を応用した国産の「無針注射器」が、インフルエンザワクチン接種の新たな選択肢になるかもしれません。今回、中神啓徳氏に装置の特徴と研究成果、将来展望について取材しました。",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザに麻黄湯、どんな患者が適している？",
+      "link": "https://www.carenet.com/series/aka/cg005985_003.html?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-23T01:00:08Z",
+      "published_label": "2026/11/23 10:00",
+      "summary": "インフルエンザに麻黄湯を処方する際、何が決め手となるのでしょうか。高熱・悪寒・関節痛を訴えた24歳男性を例に、処方のポイントを解説。さらに、微熱から菌血症が判明した高齢者症例も紹介します。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "オーゼイフルはベルソムラの逆？｜オレキシン受容体作動薬の作用機序と併用禁忌",
+      "link": "https://yakuzaic.com/archives/144609",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-11-22T22:00:00Z",
+      "published_label": "2026/11/23 07:00",
+      "summary": "オレキシン受容体作動薬オーゼイフル 2026年10月、ナルコレプシー治療薬「オーゼイフル錠」（一般名：オベポレクストン）が発売された。 オーゼイフルは、オレキシン2受容体選択的作動薬という新しい作用機序を持つ薬である。 […] The post オーゼイフルはベルソムラの逆？｜オレキシン受容体作動薬の作用機序と併用禁忌 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "安全性情報"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "運動は脊髄損傷患者の慢性疼痛を軽減する？",
+      "link": "https://www.carenet.com/news/general/hdn/63876?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-22T19:00:00Z",
+      "published_label": "2026/11/23 04:00",
+      "summary": "慢性的な神経障害性疼痛または筋骨格系疼痛を有する脊髄損傷患者では、個別に処方された運動プログラムに6カ月間取り組むことで、疼痛の強度が軽減する可能性が示唆された。ブリティッシュコロンビア大学（カナダ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "薬剤師が転職エージェントを使って書類選考通過",
       "link": "https://pharmacist.m3.com/column/tenshoku_column/8007?promotionCode=op_pcolumn",
@@ -109,19 +179,6 @@
       "summary": "",
       "tags": [
         "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "BMI18でGLP-1薬を処方、自由が過ぎる診療実態とは",
-      "link": "https://www.carenet.com/hihyofri/337.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-20T01:00:06Z",
-      "published_label": "2026/11/20 10:00",
-      "summary": "美容・痩身目的でGLP-1受容体作動薬などを使い、ケトーシスやケトアシドーシスで入院した症例をPMDAが公表しました。村上氏がオンライン診療の定期購入トラブルや日豪の広告規制の違いを取り上げます。",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -323,32 +380,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "経口GLP-1薬orforglipron、日本人肥満症患者で平均8.7％の体重減少／千葉大学",
-      "link": "https://www.carenet.com/news/general/carenet/63950?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-19T19:00:00Z",
-      "published_label": "2026/11/20 04:00",
-      "summary": "日本人の肥満症患者を対象に、1日1回の非ペプチド性低分子経口GLP-1受容体作動薬orforglipronの有効性と安全性を検討した第III相ATTAIN-J試験の結果、orforglipron 12mg群で平均8.7％の体重減少が認められたこと…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "残薬の関連要因に年齢差――単一施設の後ろ向き解析",
-      "link": "https://www.carenet.com/news/general/hdnj/63867?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-19T19:00:00Z",
-      "published_label": "2026/11/20 04:00",
-      "summary": "処方された薬が飲み切れずに残る「残薬」は、服薬アドヒアランスに関連する課題の一つだ。今回、残薬の発生に関連する要因は年齢によって異なり、若年層では長期処方、高齢者では処方薬数の多さや複数診療科の受…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -1785,19 +1816,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "高齢者向けの吸入デバイスは？使いやすい吸入器の選び方",
-      "link": "https://yakuzaic.com/archives/144540",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-10-02T22:00:00Z",
-      "published_label": "2026/10/03 07:00",
-      "summary": "高齢者向けの吸入デバイスは？ 吸入薬には、エリプタ、ディスカス、タービュヘイラー、ブリーズヘラー、レスピマット、エアゾール製剤など、さまざまな吸入デバイスがあります。 薬剤師「高齢者には、どの吸入デバイスが一番使いやすい […] The post 高齢者向けの吸入デバイスは？使いやすい吸入器の選び方 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
