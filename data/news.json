@@ -1,8 +1,166 @@
 {
-  "updated_at": "2026-11-23T01:22:56.313511Z",
-  "updated_label": "2026/11/23 10:22",
-  "count": 160,
+  "updated_at": "2026-11-23T23:20:56.815417Z",
+  "updated_label": "2026/11/24 08:20",
+  "count": 157,
   "items": [
+    {
+      "title": "フルミストとは？点鼻インフルエンザワクチンの注意点",
+      "link": "https://yakuzaic.com/archives/145466",
+      "source": "くすりの勉強（薬剤師のブログ）",
+      "published": "2026-11-23T22:00:00Z",
+      "published_label": "2026/11/24 07:00",
+      "summary": "フルミストは注射しないインフルエンザワクチン フルミスト点鼻液（一般名：経鼻弱毒生インフルエンザワクチン）は、鼻の中に噴霧して接種するインフルエンザワクチンです。日本では2023年3月に承認され、2024年秋から接種が始 […] The post フルミストとは？点鼻インフルエンザワクチンの注意点 first appeared on くすりの勉強 -薬剤師のブログ-.",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【科研製薬】「エクテリー」が順調に拡大‐初の経口HAE治療薬",
+      "link": "https://www.yakuji.co.jp/entry141996.html",
+      "source": "薬事日報",
+      "published": "2026-11-23T21:31:04Z",
+      "published_label": "2026/11/24 06:31",
+      "summary": "科研製薬が3月に国内で発売した遺伝性血管性浮腫（HAE）の急性発作を対象とする初の経口治療薬「エクテリー錠300mg」（一般名：セベトラルスタット）が順調に処…",
+      "tags": [
+        "業界動向"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬剤師関与の販売制度を‐NPhA 藤井会長、OTC使用で適切に助言",
+      "link": "https://www.yakuji.co.jp/entry141989.html",
+      "source": "薬事日報",
+      "published": "2026-11-23T21:30:00Z",
+      "published_label": "2026/11/24 06:30",
+      "summary": "日本保険薬局協会（NPhA）の藤井江美会長は12日の定例会見で、OTC医薬品の安全性確保と販売制度のあり方について見解を示した。第一三共ヘルスケアの解熱鎮痛薬…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "財政審建議 革新性低い新薬や長期収載品に依存する企業に再編促す 成長戦略の青天井予算確保にクギ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81258",
+      "source": "ミクスOnline",
+      "published": "2026-11-23T19:54:00Z",
+      "published_label": "2026/11/24 04:54",
+      "summary": "財務省の財政制度等審議会財政制度分科会は11月20日、「2027年度予算の編成等に関する建議」を片山さつき財務相に手渡した。",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "財政審建議 社会保障負担率「25年度と比べ上昇しないよう取り組む」 医療版マクロ経済スライド検討も",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81259",
+      "source": "ミクスOnline",
+      "published": "2026-11-23T19:53:00Z",
+      "published_label": "2026/11/24 04:53",
+      "summary": "財務省の財政制度等審議会財政制度分科会が11月20日、片山さつき財務相に手渡した「令和９年度予算の編成等に関する建議」では、社会保障負担率について「2025年度と比べて上昇しないよう取り組むべき」と主張した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "日薬連・安川会長 医薬品政策の意思決定機関設置を要望「中医協への報告では解決できない」 官民対話",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81257",
+      "source": "ミクスOnline",
+      "published": "2026-11-23T19:51:00Z",
+      "published_label": "2026/11/24 04:51",
+      "summary": "日本製薬団体連合会（日薬連）の安川健司会長は11月20日に開催した「革新的医薬品・医療機器・再生医療等製品創出のための官民対話」で、医薬品政策の意思決定機関を設置するよう政府に要請した。",
+      "tags": [
+        "薬価・制度",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "帝人ファーマ DX Vision策定 全社CRMで営業の質的向上と業務効率化 AI活用で業務時間20...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81260",
+      "source": "ミクスOnline",
+      "published": "2026-11-23T19:50:00Z",
+      "published_label": "2026/11/24 04:50",
+      "summary": "帝人ファーマは11月20日、「帝人ファーマ DX Vision」を策定したと発表した。在宅医療の顧客基盤とデジタル技術を掛け合わせて新たな価値の創出と事業基盤の高度化を図る。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "エーザイ レカネマブ「LEADER研究」 治療36か月時点 推定95%が早期ADのステージ内にとどま...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81256",
+      "source": "ミクスOnline",
+      "published": "2026-11-23T19:49:00Z",
+      "published_label": "2026/11/24 04:49",
+      "summary": "エーザイは11月20日、米ボストンで開催した「第19回アルツハイマー病臨床試験会議」（CTAD 2026）のフォローアップ説明会を開催した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "GLP-1受容体作動薬による筋肉量減少、抗GDF8抗体上乗せで抑制／Lancet",
+      "link": "https://www.carenet.com/news/journal/carenet/64014?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-23T19:00:00Z",
+      "published_label": "2026/11/24 04:00",
+      "summary": "セマグルチド治療を受ける肥満者において、体重減少時の抗GDF8抗体trevogrumabの追加投与は、除脂肪体重を維持するための、概して忍容性の高い戦略となりうることが示された。さらに、抗アクチビンA抗体garetosma…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "悪性黒色腫、mRNAがんワクチン＋ペムブロリズマブで術後再発を抑制／NEJM",
+      "link": "https://www.carenet.com/news/journal/carenet/64005?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-23T19:00:00Z",
+      "published_label": "2026/11/24 04:00",
+      "summary": "完全切除が得られたStageIIB～IVの高リスク皮膚悪性黒色腫患者において、個別化ネオアンチゲン（新抗原）療法であるintismeran autogene（intismeran）とペムブロリズマブを併用した術後補助療法が、ペムブロリズ…",
+      "tags": [
+        "感染症・ワクチン",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【漫画】どうやって出すの？初めて見る薬の包装",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/ganbare/202611/595194.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-23T15:00:00Z",
+      "published_label": "2026/11/24 00:00",
+      "summary": "服薬指導の際に意識していることの一つが、「薬剤師にとっての当たり前は、患者さんにとっての初めてかもしれない」ということです。経験上、特に外用薬は使い慣れていない患者さんも多いため、自己流で使用しないよう、使い方を丁寧に説明しています。 一方、内服薬については、用法・用量を間違えないことが何より大切なので、そこを重点的に説明しています。薬剤をシートから取り出す方法までは、さすがに知っているだろうと、特に説明することはありません。むしろ、…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "どう変わる？OTC類似薬の保険給付見直し",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595296.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-23T15:00:00Z",
+      "published_label": "2026/11/24 00:00",
+      "summary": "2027年3月に始まるOTC類似薬の保険給付見直し。同じ医薬品でも、使用する目的や期間などによって窓口での患者負担が変わる。複雑な制度を整理し、薬局が押さえておきたいポイントを解説する。2027年3月1日から、既存のOTC医薬品との代替性が特に高い医療用医薬品（OTC類似薬）について、患者に薬剤費の4分の1に相当する「別途の負担」を求める新制度がスタートする。「一部保険外療養」の仕組みとして導入される予定で、処方箋の様式も変更される。…",
+      "tags": [
+        "一般用医薬品"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "PCAポンプ使用患者への訪問で算定する加算は？",
       "link": "https://pharmacist.m3.com/column/kurumi/8020?promotionCode=op_pcolumn",
@@ -21,33 +179,6 @@
       "keywords": []
     },
     {
-      "title": "国産「針なし注射器」でインフルワクチン、従来法より抗体価は高い？",
-      "link": "https://www.carenet.com/series/trend/cg001195_036.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-23T01:00:10Z",
-      "published_label": "2026/11/23 10:00",
-      "summary": "自動車のエアバッグ技術を応用した国産の「無針注射器」が、インフルエンザワクチン接種の新たな選択肢になるかもしれません。今回、中神啓徳氏に装置の特徴と研究成果、将来展望について取材しました。",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザに麻黄湯、どんな患者が適している？",
-      "link": "https://www.carenet.com/series/aka/cg005985_003.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-23T01:00:08Z",
-      "published_label": "2026/11/23 10:00",
-      "summary": "インフルエンザに麻黄湯を処方する際、何が決め手となるのでしょうか。高熱・悪寒・関節痛を訴えた24歳男性を例に、処方のポイントを解説。さらに、微熱から菌血症が判明した高齢者症例も紹介します。",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "オーゼイフルはベルソムラの逆？｜オレキシン受容体作動薬の作用機序と併用禁忌",
       "link": "https://yakuzaic.com/archives/144609",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -58,19 +189,6 @@
         "安全性情報"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "運動は脊髄損傷患者の慢性疼痛を軽減する？",
-      "link": "https://www.carenet.com/news/general/hdn/63876?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-22T19:00:00Z",
-      "published_label": "2026/11/23 04:00",
-      "summary": "慢性的な神経障害性疼痛または筋骨格系疼痛を有する脊髄損傷患者では、個別に処方された運動プログラムに6カ月間取り組むことで、疼痛の強度が軽減する可能性が示唆された。ブリティッシュコロンビア大学（カナダ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -597,19 +715,6 @@
       "keywords": []
     },
     {
-      "title": "【楽天メディカル】新たな光免疫療法で治験‐PD-L1を標的",
-      "link": "https://www.yakuji.co.jp/entry141875.html",
-      "source": "薬事日報",
-      "published": "2026-11-18T21:30:24Z",
-      "published_label": "2026/11/19 06:30",
-      "summary": "楽天メディカルは、癌免疫を抑えるPD-L1を標的にした新たな光免疫療法として開発中の「RM-0256」を日本で臨床開発入りさせ、最初の被験者に投与した。同社は…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "塩野義製薬・手代木社長CEO 米国IntraBio社の買収完了を報告 グローバルで希少疾患領域を強化...",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81247",
       "source": "ミクスOnline",
@@ -739,33 +844,6 @@
         "法令・行政"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "4価のHPVワクチンは妊娠の転帰不良を予防する可能性",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/bmj/202611/595244.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-18T15:00:00Z",
-      "published_label": "2026/11/19 00:00",
-      "summary": "スウェーデンKarolinska InstitutetのZhongsong Zhang氏らは、4価のヒトパピローマウイルス（HPV）ワクチン接種とその後の妊娠関連アウトカムを検討する全国規模の症例対照研究を行ったところ、妊娠前に接種を受けていた初産の女性は、受けていない女性に比べ、早産や新生児死亡などの様々なリスクが有意に低かったと報告した。結果は2026年10月7日のBMJ誌電子版に掲載された。近年の研究は、HPVの感染が早産を含む…",
-      "tags": [
-        "感染症・ワクチン",
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【ウェビナー開催報告】臨床開発組織は「選ぶ」から「組み合わせる」へ【AD】",
-      "link": "https://www.yakuji.co.jp/entry141938.html",
-      "source": "薬事日報",
-      "published": "2026-11-18T14:30:52Z",
-      "published_label": "2026/11/18 23:30",
-      "summary": "サイネオス・ヘルス・ジャパン株式会社",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
       "keywords": []
     },
     {
@@ -913,45 +991,6 @@
       "keywords": []
     },
     {
-      "title": "既治療の進行ALK陽性非小細胞肺癌を対象にneladalkibが米国で迅速承認",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202611/595286.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-17T15:00:00Z",
-      "published_label": "2026/11/18 00:00",
-      "summary": "米国食品医薬品局（FDA）は11月17日、キナーゼ阻害薬であるneladalkibについて、既治療の成人の局所進行または転移を有するALK陽性非小細胞肺癌（NSCLC）を対象に迅速承認を行ったと発表した。対象となるのは、アレクチニブによるALKチロシンキナーゼ阻害薬（TKI）を1レジメン受けた患者、または2種類以上のALK TKIと白金系抗癌薬ベースの化学療法の治療歴を有する患者。今回のFDAの迅速承認は、多施設共同単群非盲検多コホー…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "カナダで「GLP-1離婚」が社会現象に？ 減量薬普及の陰で起きていること",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/emi/202611/594943.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-17T15:00:00Z",
-      "published_label": "2026/11/18 00:00",
-      "summary": "「GLP-１受容体作動薬を使っている患者の間で、離婚が増えてるらしいんだよね」「そういえば、最近うちの薬局でも『GLP−1』を使っている患者さんが離婚した話を聞いたよ」 カナダに帰省した際、かつての同僚薬剤師たちと久しぶりに食事をしていた時のことです。話題に上ったのは、グルカゴン様ペプチド（GLP）-1受容体作動薬を巡る、ある興味深い現象でした。 一見、単なる噂話のようにも聞こえますが、実は同様の話が世界各地で話題になっているようです…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "調剤だけの発想を捨て、今こそ「調剤薬局」から「薬局」へ",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/hazama/202611/595165.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-17T15:00:00Z",
-      "published_label": "2026/11/18 00:00",
-      "summary": "今日は、少し刺激的なお話をしたいと思います。 最初に断っておきますが、「調剤薬局」という名称を使っている薬局が良いとか悪いとか、そういう話ではありません。当社も「ハザマ薬局」という名称ではありますが、長く調剤薬局として事業を行ってきました。 ただ、その名称を考える時期に来ているのではないのかと思うのです。 私の母が、50年前に開局した当時、薬局というのは薬も売っていましたが、その他にも、医療雑貨や衛生材料、粉ミルク、化粧品など、様々な…",
-      "tags": [
-        "薬局経営"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
       "title": "第２８回新型インフルエンザ対策に関する小委員会 第１３回危機対応医薬品等に関する小委員会 資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_77489.html",
       "source": "厚生労働省 新着情報",
@@ -1075,33 +1114,6 @@
       "keywords": []
     },
     {
-      "title": "国内初のシェーグレン症候群治療薬・コニデイア皮下注など新薬７製品を審議へ 11月30日の第二部会で",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81232",
-      "source": "ミクスOnline",
-      "published": "2026-11-16T19:49:00Z",
-      "published_label": "2026/11/17 04:49",
-      "summary": "厚生労働省は11月30日に薬事審議会・医薬品第二部会を開き、ノバルティス ファーマの国内初のシェーグレン症候群治療薬・コニデイア皮下注（一般名：イアナルマブ）など新薬７製品の承認の可否を審議する。",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "自民党・医療委員会 次期医療制度改革の検討状況を確認 高齢者の窓口負担見直しなど議論",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81229",
-      "source": "ミクスOnline",
-      "published": "2026-11-16T19:49:00Z",
-      "published_label": "2026/11/17 04:49",
-      "summary": "自民党社会保障制度調査会医療委員会（後藤茂之委員長）は11月16日、会合を開き、次期医療制度改革に向けた検討状況について議論した。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「保険除外すべきOTC類似薬、湿布が最多に」",
       "link": "https://pharmacist.m3.com/column/movie/7981?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -1125,47 +1137,6 @@
         "承認・新薬"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "官民協議会推進部会意見の整理へ 薬価は「コストでなく投資」 社会保障財源以外の活用求める声も",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81226",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T21:01:00Z",
-      "published_label": "2026/11/16 06:01",
-      "summary": "政府の「創薬力向上のための官民協議会 施策検討・推進部会」は11月13日、主な意見の取りまとめに向けて議論した。",
-      "tags": [
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "厚労省 後発品安定供給の評価「A」は38社、「B」は64社 企業名を初公表",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81225",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T21:00:00Z",
-      "published_label": "2026/11/16 06:00",
-      "summary": "厚労省は11月13日、後発品の企業指標に基づく安定供給の取組みを評価した結果を公表した。後発品を製造販売する企業185社を対象に、評価指標に基づいて安定供給の取組みを評価した。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "厚科審部会 MCMで国産原薬使用時の薬価が焦点に 公費負担や製販業者への義務化、原価計算方式など",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81227",
-      "source": "ミクスOnline",
-      "published": "2026-11-15T20:00:00Z",
-      "published_label": "2026/11/16 05:00",
-      "summary": "厚生科学審議会医療用医薬品迅速・安定供給部会は11月13日、ワクチンや感染症治療薬、診断薬など感染症危機対応医薬品（MCM）の持続可能な生産体制の構築に向けて議論を行った。",
-      "tags": [
-        "薬価・制度",
-        "感染症・ワクチン",
-        "供給・出荷"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -1788,19 +1759,6 @@
         "転職"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "においのする薬は？臭い薬とその原因",
-      "link": "https://yakuzaic.com/archives/144549",
-      "source": "くすりの勉強（薬剤師のブログ）",
-      "published": "2026-10-03T22:00:00Z",
-      "published_label": "2026/10/04 07:00",
-      "summary": "においのする薬 薬局で一包化した薬を確認していると、「この薬が入ると独特のにおいがする」「分包紙を開けた瞬間に、いつものにおいがする」という薬があります。 患者さんから、「この薬、臭いんだけど大丈夫？」と聞かれることもあ […] The post においのする薬は？臭い薬とその原因 first appeared on くすりの勉強 -薬剤師のブログ-.",
-      "tags": [
-        "医療安全"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
