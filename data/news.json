@@ -1,8 +1,102 @@
 {
-  "updated_at": "2026-11-24T08:16:29.855988Z",
-  "updated_label": "2026/11/24 17:16",
-  "count": 157,
+  "updated_at": "2026-11-24T19:54:57.208695Z",
+  "updated_label": "2026/11/25 04:54",
+  "count": 151,
   "items": [
+    {
+      "title": "経済財政諮問会議 27年度予算編成の基本方針（原案）提示 創薬・先端医療含む「成長型経済」実現へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81263",
+      "source": "ミクスOnline",
+      "published": "2026-11-24T19:52:00Z",
+      "published_label": "2026/11/25 04:52",
+      "summary": "政府の経済財政諮問会議（議長：高市早苗首相）は11月24日、2027年度予算編成の基本方針（原案）について議論した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "アステラス製薬 AML維持療法で承認取得したオヌレグ BMS子会社から国内の製造販売権を取得",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81262",
+      "source": "ミクスOnline",
+      "published": "2026-11-24T19:51:00Z",
+      "published_label": "2026/11/25 04:51",
+      "summary": "アステラス製薬は11月24日、ブリストル マイヤーズ スクイブ（BMS）の子会社との間で、急性骨髄性白血病（AML）の維持療法を効能・効果として製造販売承認されたオヌレグ（一般名：アザシチジン）について、日本における製造販売権を取得する契約を締結したと発表した。",
+      "tags": [
+        "業界動向",
+        "承認・新薬"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "藤田医科大・小林教授 26年度改訂版・認知症疾患診療GLにおけるBPSDの位置づけを解説",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81264",
+      "source": "ミクスOnline",
+      "published": "2026-11-24T19:50:00Z",
+      "published_label": "2026/11/25 04:50",
+      "summary": "藤田医科大医学部認知症・加齢脳科学科の小林良太教授は11月24日、大塚製薬主催の認知症に関するメディア座談会で、26年度改訂版・認知症疾患診療ガイドライン（GL）について、「BPSD（認知症に伴って現れる行動・心理症状）の介入が具体化されたことが大きなポイント」と解説。",
+      "tags": [
+        "学術・エビデンス",
+        "業界動向"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "バイオジェン 多発性硬化症治療薬・ブメリティカプセル 11月25日発売へ",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81261",
+      "source": "ミクスOnline",
+      "published": "2026-11-24T19:50:00Z",
+      "published_label": "2026/11/25 04:50",
+      "summary": "バイオジェン・ジャパンは11月24日、多発性硬化症治療薬・ブメリティカプセル231mg（一般名：ジロキシメルフマラート）を25日に発売すると発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "富士通Japan ＡＩで臨床試験候補患者の探索支援業務を効率化 国がん東病院と米Paradigmと共...",
+      "link": "https://www.mixonline.jp/tabid55.html?artid=81255",
+      "source": "ミクスOnline",
+      "published": "2026-11-24T19:50:00Z",
+      "published_label": "2026/11/25 04:50",
+      "summary": "富士通Japanは11月19日、国立がん研究センター東病院、米国Paradigm Health, Inc.と治験マッチングプラットフォームを活用した共同研究で、臨床試験候補患者の探索支援業務の大幅な効率化と有用性を確認したと発表した。",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "経口GLP-1薬orforglipron、中等症～重症の睡眠時無呼吸を改善／JAMA",
+      "link": "https://www.carenet.com/news/journal/carenet/64016?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-24T19:00:00Z",
+      "published_label": "2026/11/25 04:00",
+      "summary": "orforglipronは、低分子の非ペプチド型GLP-1受容体作動薬で、体重管理および2型糖尿病の治療薬として複数の国で承認されている。本薬は、経口投与が可能で、食事や水分摂取の制限がなく、冷蔵保存の必要もない。…",
+      "tags": [
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "全身型重症筋無力症の治療に新たな選択肢／田辺ファーマ",
+      "link": "https://www.carenet.com/news/general/carenet/63996?utm_source=rss&utm_medium=rss",
+      "source": "CareNet.com 医療ニュース",
+      "published": "2026-11-24T19:00:00Z",
+      "published_label": "2026/11/25 04:00",
+      "summary": "田辺ファーマは、全身型重症筋無力症（gMG）に対しイネビリズマブ（商品名：ユプリズナ）が適応追加承認を厚生労働省より取得したことに寄せて、都内でメディアセミナーを開催した。 gMGは、B細胞が関与するま…",
+      "tags": [
+        "承認・新薬",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「貧血・冷えに効く漢方は？血虚について解説」",
       "link": "https://pharmacist.m3.com/column/movie/7986?promotionCode=op_pcolumn",
@@ -23,19 +117,6 @@
       "published": "2026-11-24T01:30:11Z",
       "published_label": "2026/11/24 10:30",
       "summary": "「第11回DIA再生医療製品・遺伝子治療用製品シンポジウム 日本発イノベーションが拓く未来」（一般社団法人ディー・アイ・エー・ジャパン主催）が2026年12月2…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "術後の創部に発赤と痛み、抗菌薬は必要？",
-      "link": "https://www.carenet.com/series/upgrade/cg004493_069.html?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-24T01:00:10Z",
-      "published_label": "2026/11/24 10:00",
-      "summary": "虫垂切除術の7日後、創部の赤みと痛みを心配して23歳女性が受診。軽い圧痛はありますが、発熱や排液、熱感は認めません。この患者にセファレキシンを処方するのは適切でしょうか？",
       "tags": [
         "その他"
       ],
@@ -246,33 +327,6 @@
       "published_label": "2026/11/24 04:49",
       "summary": "エーザイは11月20日、米ボストンで開催した「第19回アルツハイマー病臨床試験会議」（CTAD 2026）のフォローアップ説明会を開催した。",
       "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "GLP-1受容体作動薬による筋肉量減少、抗GDF8抗体上乗せで抑制／Lancet",
-      "link": "https://www.carenet.com/news/journal/carenet/64014?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-23T19:00:00Z",
-      "published_label": "2026/11/24 04:00",
-      "summary": "セマグルチド治療を受ける肥満者において、体重減少時の抗GDF8抗体trevogrumabの追加投与は、除脂肪体重を維持するための、概して忍容性の高い戦略となりうることが示された。さらに、抗アクチビンA抗体garetosma…",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "悪性黒色腫、mRNAがんワクチン＋ペムブロリズマブで術後再発を抑制／NEJM",
-      "link": "https://www.carenet.com/news/journal/carenet/64005?utm_source=rss&utm_medium=rss",
-      "source": "CareNet.com 医療ニュース",
-      "published": "2026-11-23T19:00:00Z",
-      "published_label": "2026/11/24 04:00",
-      "summary": "完全切除が得られたStageIIB～IVの高リスク皮膚悪性黒色腫患者において、個別化ネオアンチゲン（新抗原）療法であるintismeran autogene（intismeran）とペムブロリズマブを併用した術後補助療法が、ペムブロリズ…",
-      "tags": [
-        "感染症・ワクチン",
         "学術・エビデンス"
       ],
       "importance": 2,
@@ -657,49 +711,6 @@
       "keywords": []
     },
     {
-      "title": "片頭痛予防薬の抗CGRP抗体に初の点滴静注製剤",
-      "link": "https://medical.nikkeibp.co.jp/leaf/all/series/drug/update/202611/595284.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-19T15:00:00Z",
-      "published_label": "2026/11/20 00:00",
-      "summary": "2026年11月13日、片頭痛予防薬エプチネズマブ（遺伝子組換え）（商品名ビエプチ点滴静注100mg）が薬価収載と同時に発売された。同薬は、9月16日に製造販売が承認されていた。適応は「片頭痛発作の発症抑制」、用法用量は「成人に100mgを12週間隔で点滴静注する」となっている。 片頭痛は、一次性頭痛の中でも比較的頻度が高い疾患で、前兆を伴うタイプと伴わないタイプがある。痛みは一般的に片側性および拍動性で、中等度から重度の頭痛発作が繰…",
-      "tags": [
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "自主回収だけでは終わらない、ニトロソアミン問題",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595270.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-19T15:00:00Z",
-      "published_label": "2026/11/20 00:00",
-      "summary": "医薬品からニトロソアミン類が検出される事例が、ここ数年続いています。自主回収後、対策を講じて通常出荷を継続・再開した企業がある一方、限定出荷が続く企業や、供給を停止した企業もあります。こうした対応の違いはなぜ起こるのでしょうか。",
-      "tags": [
-        "回収",
-        "供給・出荷"
-      ],
-      "importance": 5,
-      "keywords": []
-    },
-    {
-      "title": "レケンビ注に「重大な副作用」追加",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/sako/202611/595297.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-19T15:00:00Z",
-      "published_label": "2026/11/20 00:00",
-      "summary": "認知症進行抑制薬のレケンビ注（一般名レカネマブ［遺伝子組換え］）の重大な副作用に「アナフィラキシー」が追加されました。2026年11月13日に薬価収載されたレケンビ皮下注にも、同副作用が追加されています。 抗血小板薬のブリリンタ錠（チカグレロル）の併用禁忌に「ロナファルニブ」が追加されました。これは、早老症治療薬のゾキンヴィカプセルとの整合性を図るための追加です。また、薬剤名等に記載されていた薬剤の分類「強いCYP3A阻害剤」「強いC…",
-      "tags": [
-        "安全性情報",
-        "承認・新薬",
-        "薬価・制度"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "動画で見て聞く「逆流性食道炎の患者の処方が、ネキシウムCapからガスター錠へ変更された理由は？」",
       "link": "https://pharmacist.m3.com/column/movie/7984?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -842,32 +853,6 @@
         "承認・新薬"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "胆石症の考え方と漢方処方",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/koui/202611/595141.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-18T15:00:00Z",
-      "published_label": "2026/11/19 00:00",
-      "summary": "胆石症は、胆道に結石が形成される疾患です。胆道は肝臓と十二指腸をつなぐ管で、肝臓で作られた胆汁が、この管を通って十二指腸に運ばれます。胆汁は1日に500～1000mLほど肝臓で作られ、飲食物中の脂肪の消化・吸収を助け、不要なコレステロールや老廃物の排泄にも関与します。 胆石は、胆汁の成分であるビリルビンやコレステロールが結晶化することにより生じます。胆嚢は胆道の途中にあり、胆汁をためて濃縮し、食事に合わせて消化に必要なときに収縮し、ポ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "AIに「医師免許」を与える日は来るか",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/okiyama/202611/594667.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-18T15:00:00Z",
-      "published_label": "2026/11/19 00:00",
-      "summary": "ここまで四回にわたって、診断、患者データ、処方、そして規制の全体像と責任の所在を見てきました。今回扱うのは、これら全ての前提にある「AIが医師の代わりになる」、あるいはそれに近づくという未来はあるのか、という問いです。私たちはAIを「医療機器」として規律してきました。しかしその前提を揺るがすケースが、2026年に入って世界で出始めています。 米・欧・日本の三極とも、医療AIをこれまで医療機器として扱ってきました。日本の薬機法承認、米国…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -1041,74 +1026,6 @@
         "服薬指導"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "BMS・アンジェラ研究開発本部長 26年中に全社的なＡＩ活用加速 R＆D期間の大幅短縮で想定目標を提...",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81234",
-      "source": "ミクスOnline",
-      "published": "2026-11-16T19:53:00Z",
-      "published_label": "2026/11/17 04:53",
-      "summary": "ブリストル・マイヤーズ スクイブは、2026年中に全社的なＡＩ活用を加速し、研究の各段階に自律型のＡＩエージェントなどを深く組み込むことで、より確実な科学的根拠の獲得と研究開発期間の大幅な短縮を同時に実現する方針だ。",
-      "tags": [
-        "学術・エビデンス"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "関文科相 24年6月に議員会館自室で政治資金パーティー バイオ医薬品関係者1人9万円の会費で9人参加",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81233",
-      "source": "ミクスOnline",
-      "published": "2026-11-16T19:52:00Z",
-      "published_label": "2026/11/17 04:52",
-      "summary": "関芳弘文部科学相は11月16日開催の参院消費税・支援金法案に関する特別委員会で、2024年6月13日に衆院議員会館内の自室で開いた政治資金パーティーにバイオ医薬品関係者9人が9万円（計81万円）の会費を支払って出席していたと認めた。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "中外製薬・神内医薬安全性本部長 安全対策は「対処型から予測・予防型に転換」 生成ＡＩでリスク探索も",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81235",
-      "source": "ミクスOnline",
-      "published": "2026-11-16T19:51:00Z",
-      "published_label": "2026/11/17 04:51",
-      "summary": "中外製薬は11月16日、医薬品安全対策に関するメディア向けセミナーを開き、同社の安全性に対する取り組みや、安全対策として目指すべき考え方を紹介した。",
-      "tags": [
-        "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "PhRMA 「費用対効果評価による薬価引下げ拡大は到底容認できない」 高市政権の掲げた目標に逆行する",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81231",
-      "source": "ミクスOnline",
-      "published": "2026-11-16T19:51:00Z",
-      "published_label": "2026/11/17 04:51",
-      "summary": "米国研究製薬工業協会（PhRMA）は11月16日、「費用対効果評価による薬価引き下げ拡大は到底容認できない」とする声明を発表した。",
-      "tags": [
-        "薬価・制度",
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "厚労省 新薬等12製品を承認 ヘルネクシオス錠のHER2陽性NSCLC１次治療の追加など",
-      "link": "https://www.mixonline.jp/tabid55.html?artid=81230",
-      "source": "ミクスOnline",
-      "published": "2026-11-16T19:50:00Z",
-      "published_label": "2026/11/17 04:50",
-      "summary": "厚生労働省は11月16日、新医薬品等12製品を承認した。",
-      "tags": [
-        "承認・新薬",
-        "法令・行政"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
