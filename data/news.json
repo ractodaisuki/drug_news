@@ -1,8 +1,167 @@
 {
-  "updated_at": "2026-11-24T19:54:57.208695Z",
-  "updated_label": "2026/11/25 04:54",
-  "count": 151,
+  "updated_at": "2026-11-25T03:55:56.553835Z",
+  "updated_label": "2026/11/25 12:55",
+  "count": 155,
   "items": [
+    {
+      "title": "【厚労省検討会議】タミフルOTC化に慎重論‐賛成意見5000件超も高い壁",
+      "link": "https://www.yakuji.co.jp/entry142060.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T23:31:59Z",
+      "published_label": "2026/11/25 08:31",
+      "summary": "厚生労働省の医療用から要指導・一般用への転用に関する評価検討会議は20日、中外製薬の「タミフルカプセル、同ドライシロップ」（一般名：オセルタミビルリン酸塩）と…",
+      "tags": [
+        "法令・行政",
+        "一般用医薬品",
+        "業界動向"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【財政審が建議】27年度改定 完全実施を‐薬局減算は対象拡大も",
+      "link": "https://www.yakuji.co.jp/entry142066.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T23:30:35Z",
+      "published_label": "2026/11/25 08:30",
+      "summary": "財務省の財政制度等審議会は20日、2027年度予算編成に関する建議を取りまとめ、片山さつき財務相に提出した。 27年度薬価改定については、着実に実施する必要…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】YOLUから春限定品‐夕桜・夜桜をイメージした「移ろい感じる桜シリーズ」 I-ne",
+      "link": "https://www.yakuji.co.jp/entry142085.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T22:35:30Z",
+      "published_label": "2026/11/25 07:35",
+      "summary": "I-ne (本社：大阪市中央区) が展開するナイトケアビューティーブランド「YOLU（ヨル）」は、春限定「移ろい感じる桜シリーズ」のヘア＆ボディケアアイテムを…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【新製品】体重体組成計「KDR-718T」を発売へ‐日体大と共同開発の「アスリートモード」搭載 オムロンHC",
+      "link": "https://www.yakuji.co.jp/entry142083.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T22:34:48Z",
+      "published_label": "2026/11/25 07:34",
+      "summary": "オムロンヘルスケアは11月27日、新たに日本体育大学と共同開発した「アスリートモード」を搭載し、アスリート特有の身体特性を反映した骨格筋率と体脂肪率を推定する…",
+      "tags": [
+        "承認・新薬"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "【日立製作所】粒子線治療装置の照射制御システムの発明‐関東地方発明表彰文部科学大臣賞を受賞",
+      "link": "https://www.yakuji.co.jp/entry142081.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T22:33:10Z",
+      "published_label": "2026/11/25 07:33",
+      "summary": "日立製作所は11月20日、日立ハイテクと共同で開発した「粒子線治療装置向けビーム照射制御システム」の発明（特許第7406470号）が、発明協会が主催する令和8…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【島津テクノリサーチ】クビアカツヤカミキリの寄生検査サービスを開始‐農研機構開発技術を活用し民間で初の事業化",
+      "link": "https://www.yakuji.co.jp/entry142078.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T22:32:22Z",
+      "published_label": "2026/11/25 07:32",
+      "summary": "島津テクノリサーチ（STR）は11月24日、特定外来生物「クビアカツヤカミキリ」の早期発見・防除を目的とした検査サービスを開始すると発表した。同サービスでは、…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【浜松ホトニクス】HAMAMATSU PHOTONICS A／Sが工場を新設‐レーザー事業の基盤強化、生産能力拡大へ",
+      "link": "https://www.yakuji.co.jp/entry142076.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T22:31:37Z",
+      "published_label": "2026/11/25 07:31",
+      "summary": "浜松ホトニクスは11月20日、同社の海外現地法人HAMAMATSU PHOTONICS A／Sが、スイス連邦チューリッヒ州レーゲンスドルフに工場を新設したと発…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【富士通】AIで離院時刻予測や通院時交通予約を自動化‐川崎市で実証実験を開始へ",
+      "link": "https://www.yakuji.co.jp/entry142074.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T22:30:23Z",
+      "published_label": "2026/11/25 07:30",
+      "summary": "富士通は12月1日から来年1月30日まで、国土交通省が事業実施主体である地域交通DX推進プロジェクト「COMmmmONS（コモンズ）」の一環として、医療機関の…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "【GE薬協議会】先発品撤退で情報消失経験‐国による一元管理を提言",
+      "link": "https://www.yakuji.co.jp/entry142062.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T21:31:53Z",
+      "published_label": "2026/11/25 06:31",
+      "summary": "先発品の市場撤退後に医薬品情報が入手できなくなった経験の有無を薬剤師などを対象に聞いたところ、「ある」との回答が約3割に上ることが、ジェネリック医薬品協議会（…",
+      "tags": [
+        "薬価・制度"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "【厚労省】供給システムに不正侵入‐企業担当者の情報漏洩も",
+      "link": "https://www.yakuji.co.jp/entry142064.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T21:30:53Z",
+      "published_label": "2026/11/25 06:30",
+      "summary": "厚生労働省は18日、医療用医薬品の供給状況を収集・公表する「医薬品安定供給・流通確認システム」に第三者による不正アクセスがあり、一部企業の担当者の個人情報が漏…",
+      "tags": [
+        "供給・出荷",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "12月6日に健康フェアを来月開催‐調剤体験や簡易心電測定 そえる",
+      "link": "https://www.yakuji.co.jp/entry142052.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T21:02:20Z",
+      "published_label": "2026/11/25 06:02",
+      "summary": "札幌市内で薬局などを運営するそえるは12月6日、札幌駅前通地下歩行空間で「そえる薬局健康フェア2026」を開催する。地域住民に健康や医療について楽しく学び、体…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "「平時にできていないことは災害時にもできない」",
+      "link": "https://www.yakuji.co.jp/entry142051.html",
+      "source": "薬事日報",
+      "published": "2026-11-24T21:01:32Z",
+      "published_label": "2026/11/25 06:01",
+      "summary": "◆大規模災害が起きるたびに、医薬品を必要とする患者にどう届けるかが課題となる。普段は当たり前に機能している医療提供体制が突然失われる。災害への備えが重要と分かっ…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "経済財政諮問会議 27年度予算編成の基本方針（原案）提示 創薬・先端医療含む「成長型経済」実現へ",
       "link": "https://www.mixonline.jp/tabid55.html?artid=81263",
@@ -95,6 +254,48 @@
         "法令・行政"
       ],
       "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "フルミストにエフルエルダ、インフルエンザワクチンの特徴や供給状況は",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/yorinukidi/202611/595261.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-24T15:00:00Z",
+      "published_label": "2026/11/25 00:00",
+      "summary": "季節性インフルエンザは、高齢者や乳幼児、基礎疾患を有する患者で重症化しやすく、肺炎、心血管イベント、脳症などの合併症を引き起こすことがあります。近年、投与経路や抗原量を工夫したインフルエンザワクチンが登場し、年齢や患者背景に応じた選択肢が広がっています（表1）。",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 3,
+      "keywords": []
+    },
+    {
+      "title": "抗インフル薬のOTC化、学会などから反対相次ぐ",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595321.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-24T15:00:00Z",
+      "published_label": "2026/11/25 00:00",
+      "summary": "厚生労働省は2026年11月20日、医療用医薬品の要指導・一般用医薬品への転用に関する評価検討会議を開催し、抗インフルエンザウイルス薬のオセルタミビルリン酸塩（商品名タミフル）とラニナミビルオクタン酸エステル水和物（イナビル）のスイッチOTC化の妥当性について議論しました。両剤とも反対意見が相次ぎ、現時点では解決すべき課題が多いとの方向で、検討結果を取りまとめることとなりました。",
+      "tags": [
+        "学術・エビデンス",
+        "一般用医薬品",
+        "感染症・ワクチン",
+        "法令・行政"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "胆嚢の全摘を勧められている胆石症患者",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/koui/202611/595142.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-24T15:00:00Z",
+      "published_label": "2026/11/25 00:00",
+      "summary": "前回の症例１に引き続き、胆石症によく見られる証と漢方処方について、症例とともに解説します。 胃腸は丈夫な方だと思っていましたが、最近は、食後におなか全体に膨満感が生じることもあります。健康診断では毎年、胆石が指摘されますが、小さいので治療の必要はないと言われています。便が硬く、便秘気味です。いらいらしやすく、怒りっぽい方です。舌は紅く、黄色い舌苔が付着しています。 この患者さんの証は、「痰飲（たんいん）」です。痰飲とは、津液（しんえき…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
       "keywords": []
     },
     {
@@ -249,19 +450,6 @@
       "summary": "科研製薬が3月に国内で発売した遺伝性血管性浮腫（HAE）の急性発作を対象とする初の経口治療薬「エクテリー錠300mg」（一般名：セベトラルスタット）が順調に処…",
       "tags": [
         "業界動向"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "薬剤師関与の販売制度を‐NPhA 藤井会長、OTC使用で適切に助言",
-      "link": "https://www.yakuji.co.jp/entry141989.html",
-      "source": "薬事日報",
-      "published": "2026-11-23T21:30:00Z",
-      "published_label": "2026/11/24 06:30",
-      "summary": "日本保険薬局協会（NPhA）の藤井江美会長は12日の定例会見で、OTC医薬品の安全性確保と販売制度のあり方について見解を示した。第一三共ヘルスケアの解熱鎮痛薬…",
-      "tags": [
-        "その他"
       ],
       "importance": 2,
       "keywords": []
@@ -512,32 +700,6 @@
       "keywords": []
     },
     {
-      "title": "【27年度介護報酬改定】老健の薬剤師評価拡充か‐医療・介護連携を強化へ",
-      "link": "https://www.yakuji.co.jp/entry141994.html",
-      "source": "薬事日報",
-      "published": "2026-11-19T23:31:56Z",
-      "published_label": "2026/11/20 08:31",
-      "summary": "来年6月に施行予定の2027年度介護報酬改定では、介護老人保健施設（老健）と介護医療院で、薬剤師による入所時から入所中までの継続的な薬学的管理を通じた薬物療法…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "【医療保険部会】次期適正化計画の論点議論‐地域フォーミュラリに意見",
-      "link": "https://www.yakuji.co.jp/entry141991.html",
-      "source": "薬事日報",
-      "published": "2026-11-19T23:30:31Z",
-      "published_label": "2026/11/20 08:30",
-      "summary": "社会保障審議会医療保険部会は17日、2030年度からの第5期医療費適正化計画に向けた論点を議論した。厚生労働省は、後発品の使用促進、地域フォーミュラリ、多剤・…",
-      "tags": [
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "特定要指導医薬品と要指導医薬品の違いとは？―緊急避妊薬と新しい販売制度",
       "link": "https://yakuzaic.com/archives/144870",
       "source": "くすりの勉強（薬剤師のブログ）",
@@ -548,75 +710,6 @@
         "一般用医薬品"
       ],
       "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【医療安全情報】注射剤で投与間隔間違い‐スケジュール管理喚起",
-      "link": "https://www.yakuji.co.jp/entry141988.html",
-      "source": "薬事日報",
-      "published": "2026-11-19T21:31:34Z",
-      "published_label": "2026/11/20 06:31",
-      "summary": "日本医療機能評価機構は医療安全情報を公表し、1週間以上の投与間隔を空ける注射薬について、投与スケジュールの確認と医療従事者間での情報共有を呼びかけた。2018…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【PhRMA】拡大案「到底容認できず」‐費用対評価に不満表明",
-      "link": "https://www.yakuji.co.jp/entry141987.html",
-      "source": "薬事日報",
-      "published": "2026-11-19T21:30:48Z",
-      "published_label": "2026/11/20 06:30",
-      "summary": "米国研究製薬工業協会（PhRMA）は16日、中央社会保険医療協議会費用対効果評価専門部会で厚生労働省が示した費用対効果評価による薬価引き下げの拡大案について「…",
-      "tags": [
-        "薬価・制度",
-        "法令・行政",
-        "学術・エビデンス",
-        "業界動向"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】冬の街彩る輝きを表現‐「消臭力」から数量限定品 エステー",
-      "link": "https://www.yakuji.co.jp/entry141980.html",
-      "source": "薬事日報",
-      "published": "2026-11-19T21:03:56Z",
-      "published_label": "2026/11/20 06:03",
-      "summary": "エステーは、消臭芳香剤「消臭力」のワンランク上の上質な香りを届ける「消臭力PremiumAroma（プレミアムアロマ）」シリーズから、冬の街を彩るイルミネーシ…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "後発品企業指標はもっと透明化を",
-      "link": "https://www.yakuji.co.jp/entry141976.html",
-      "source": "薬事日報",
-      "published": "2026-11-19T21:02:10Z",
-      "published_label": "2026/11/20 06:02",
-      "summary": "厚生労働省は、後発品を製造販売する企業の安定供給の取り組みに関する評価結果を初めて公表した。後発品企業の安定供給力を指標化し、医療機関や薬局に見える化すること…",
-      "tags": [
-        "供給・出荷",
-        "法令・行政"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
-      "title": "専門職ならではのメリットを",
-      "link": "https://www.yakuji.co.jp/entry141975.html",
-      "source": "薬事日報",
-      "published": "2026-11-19T21:01:25Z",
-      "published_label": "2026/11/20 06:01",
-      "summary": "◆先日、獣医療への薬剤師の関与を議論するシンポジウムを聴講した。現在、伴侶動物の高齢化が進み、慢性疾患や多剤併用の症例は増加している。それに伴い、薬剤師の専門性…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
@@ -695,19 +788,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "限定出荷続くユベラ軟膏に再び注目集まる",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/dsjpranking/202611/595283.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-19T15:00:00Z",
-      "published_label": "2026/11/20 00:00",
-      "summary": "このランキングは、出荷調整や出荷停止などの医薬品供給状況を登録しているDSJP（医薬品供給状況データベース）において閲覧された回数の多い医薬品名を示したものです。今回は2026年11月8〜14日のランキングです。",
-      "tags": [
-        "供給・出荷"
-      ],
-      "importance": 4,
       "keywords": []
     },
     {
@@ -905,32 +985,6 @@
         "その他"
       ],
       "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "薬事審議会 医薬品第一部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77354.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-18T05:00:00Z",
-      "published_label": "2026/11/18 14:00",
-      "summary": "",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1,
-      "keywords": []
-    },
-    {
-      "title": "採用情報（任期付職員（課長補佐又は主査（感染症対策担当）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kacyohosamatawasyusa.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-18T01:00:00Z",
-      "published_label": "2026/11/18 10:00",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
