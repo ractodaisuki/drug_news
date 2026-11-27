@@ -1,8 +1,89 @@
 {
-  "updated_at": "2026-11-27T03:27:34.781010Z",
-  "updated_label": "2026/11/27 12:27",
-  "count": 160,
+  "updated_at": "2026-11-27T16:05:15.129365Z",
+  "updated_label": "2026/11/28 01:05",
+  "count": 161,
   "items": [
+    {
+      "title": "半錠が2つのとき、自家製剤加算は複数算定できる？",
+      "link": "https://pharmacist.m3.com/column/dispensing_fee_quiz/8038?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-11-27T16:05:14.177675Z",
+      "published_label": "2026/11/28 01:05",
+      "summary": "錠剤を半錠にした場合に算定できるのが「自家製剤加算」です。アゾセミド錠30mg「DSEP」とビソプロロールフマル酸塩錠2.5mg「DSEP」をどちらも半錠にするなど、同じ処方箋に半錠の処方が2種類以上ある場合、自家製剤加算はそれぞれ算定できるのでしょうか？",
+      "tags": [
+        "薬剤師コラム",
+        "調剤報酬改定",
+        "医療クイズ",
+        "診療報酬改定"
+      ],
+      "importance": 4,
+      "keywords": []
+    },
+    {
+      "title": "テルミサルタン・ヒドロクロロチアジドが今回も首位を維持、さらにシェアを拡大",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/survey/202611/595309.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-27T15:00:00Z",
+      "published_label": "2026/11/28 00:00",
+      "summary": "日経メディカル Onlineの医師会員を対象に、ARB・利尿薬配合剤のうち最も処方頻度の高いものを聞いたところ、35.1％の医師がテルミサルタン・ヒドロクロロチアジド配合剤（商品名ミコンビ他）と回答した。 第2位のロサルタンカリウム・ヒドロクロロチアジド配合剤（プレミネント他）は23.1％、第3位のカンデサルタン シレキセチル・ヒドロクロロチアジド配合剤（エカード他）は16.9％の医師が最も処方頻度の高い薬剤として選んだ。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "薬事審議会 医療機器・体外診断薬部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77674.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-27T05:00:00Z",
+      "published_label": "2026/11/27 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "最近の調剤医療費（電算処理分）の動向 令和8年度7月号",
+      "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/07/",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-27T05:00:00Z",
+      "published_label": "2026/11/27 14:00",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1,
+      "keywords": []
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-27T04:55:00Z",
+      "published_label": "2026/11/27 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "厚生労働省 新着情報",
+      "published": "2026-11-27T04:55:00Z",
+      "published_label": "2026/11/27 13:55",
+      "summary": "",
+      "tags": [
+        "感染症・ワクチン"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
     {
       "title": "動画で見て聞く「『抗うつ薬を慢性疼痛に使用する際の患者への説明』について専門医が回答」",
       "link": "https://pharmacist.m3.com/column/movie/7989?promotionCode=op_pcolumn",
@@ -214,7 +295,7 @@
       "keywords": []
     },
     {
-      "title": "厚生労働省 中井審議官、「一定のルールが必要」‐先発品撤退後の情報公開",
+      "title": "厚労省 中井審議官、「一定のルールが必要」‐先発品撤退後の情報公開",
       "link": "https://www.yakuji.co.jp/entry142201.html",
       "source": "薬事日報",
       "published": "2026-11-26T21:31:24Z",
@@ -260,7 +341,7 @@
       "source": "薬事日報",
       "published": "2026-11-26T21:01:05Z",
       "published_label": "2026/11/27 06:01",
-      "summary": "無季言 ◆安全安心か、安心安全か。ずっと前者を使ってきた。行政取材担当の20年以上前、科学的かつ仕組みとして安全があって、安心が生まれると担当官から説明され、そ…",
+      "summary": "◆安全安心か、安心安全か。ずっと前者を使ってきた。行政取材担当の20年以上前、科学的かつ仕組みとして安全があって、安心が生まれると担当官から説明され、そう信じて…",
       "tags": [
         "その他"
       ],
@@ -388,6 +469,20 @@
       "keywords": []
     },
     {
+      "title": "進行・再発子宮体癌の1次治療でペムブロリズマブが単剤療法として適応拡大申請",
+      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/search/cancer/news/202611/595355.html",
+      "source": "日経メディカル Online",
+      "published": "2026-11-26T15:00:00Z",
+      "published_label": "2026/11/27 00:00",
+      "summary": "MSDは2026年11月26日、ペムブロリズマブ（点滴静注製剤と皮下注製剤の両方）について、進行・再発子宮体癌に対する1次治療における単剤療法として製造販売承認事項一部変更承認申請を行ったと発表した。 今回の承認申請は、国際共同フェーズ3試験であるKEYNOTE-C93/GOG-3064/ENGOT-en15試験（NCT05173987）の結果に基づくもの。ミスマッチ修復機能欠損（dMMR）を有する未治療の進行・再発子宮体癌に対して、…",
+      "tags": [
+        "承認・新薬",
+        "学術・エビデンス"
+      ],
+      "importance": 2,
+      "keywords": []
+    },
+    {
       "title": "スイッチOTC時代に問われる薬剤師の情報収集力",
       "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/inout/202611/595314.html",
       "source": "日経メディカル Online",
@@ -491,32 +586,6 @@
         "その他"
       ],
       "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【アボットメディカルジャパン】「Volt」新発売に伴うプレスセミナー開催",
-      "link": "https://www.yakuji.co.jp/entry142125.html",
-      "source": "薬事日報",
-      "published": "2026-11-25T22:38:56Z",
-      "published_label": "2026/11/26 07:38",
-      "summary": "アボットメディカルジャパン合同会社は24日、東京・丸の内のステーションコンファレンス東京で、心房細動に対するパルスフィールドアブレーション（PFA）治療システ…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "【新製品】「DHCスパコラ スプリーム シリーズ」5品が初リニューアル DHC",
-      "link": "https://www.yakuji.co.jp/entry142123.html",
-      "source": "薬事日報",
-      "published": "2026-11-25T22:37:54Z",
-      "published_label": "2026/11/26 07:37",
-      "summary": "ディーエイチシー（DHC）は、ハリに特化したスキンケア「スーパーコラーゲンシリーズ」5品をリニューアルし、「DHCスパコラ スプリーム シリーズ」として11月…",
-      "tags": [
-        "承認・新薬"
-      ],
-      "importance": 3,
       "keywords": []
     },
     {
@@ -853,32 +922,6 @@
       "keywords": []
     },
     {
-      "title": "【漫画】どうやって出すの？初めて見る薬の包装",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/column/ganbare/202611/595194.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-23T15:00:00Z",
-      "published_label": "2026/11/24 00:00",
-      "summary": "服薬指導の際に意識していることの一つが、「薬剤師にとっての当たり前は、患者さんにとっての初めてかもしれない」ということです。経験上、特に外用薬は使い慣れていない患者さんも多いため、自己流で使用しないよう、使い方を丁寧に説明しています。 一方、内服薬については、用法・用量を間違えないことが何より大切なので、そこを重点的に説明しています。薬剤をシートから取り出す方法までは、さすがに知っているだろうと、特に説明することはありません。むしろ、…",
-      "tags": [
-        "その他"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "どう変わる？OTC類似薬の保険給付見直し",
-      "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202611/595296.html",
-      "source": "日経メディカル Online",
-      "published": "2026-11-23T15:00:00Z",
-      "published_label": "2026/11/24 00:00",
-      "summary": "2027年3月に始まるOTC類似薬の保険給付見直し。同じ医薬品でも、使用する目的や期間などによって窓口での患者負担が変わる。複雑な制度を整理し、薬局が押さえておきたいポイントを解説する。2027年3月1日から、既存のOTC医薬品との代替性が特に高い医療用医薬品（OTC類似薬）について、患者に薬剤費の4分の1に相当する「別途の負担」を求める新制度がスタートする。「一部保険外療養」の仕組みとして導入される予定で、処方箋の様式も変更される。…",
-      "tags": [
-        "一般用医薬品"
-      ],
-      "importance": 4,
-      "keywords": []
-    },
-    {
       "title": "PCAポンプ使用患者への訪問で算定する加算は？",
       "link": "https://pharmacist.m3.com/column/kurumi/8020?promotionCode=op_pcolumn",
       "source": "Web監視",
@@ -977,32 +1020,6 @@
         "感染症・ワクチン"
       ],
       "importance": 3,
-      "keywords": []
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-20T04:55:00Z",
-      "published_label": "2026/11/20 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
-      "keywords": []
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "厚生労働省 新着情報",
-      "published": "2026-11-20T04:55:00Z",
-      "published_label": "2026/11/20 13:55",
-      "summary": "",
-      "tags": [
-        "感染症・ワクチン"
-      ],
-      "importance": 2,
       "keywords": []
     },
     {
